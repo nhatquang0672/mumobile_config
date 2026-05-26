@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Thưởng Đoàn Thiên Sứ" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Sau khi diệt BOSS sẽ có thể đấu giá kim đoàn" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, Sau khi đấu giá thành công, {17e43e}KC đấu giá{-} sẽ chia cho những người tham gia sự kiện" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, Nếu không ai đấu giá thì hệ thống sẽ gửi cho {17e43e}người chơi có DMG cao nhất{-}" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, Giá đấu giá nếu thấp hơn số người tham gia thì sẽ không có thưởng" Bold="0" />
+</Config>

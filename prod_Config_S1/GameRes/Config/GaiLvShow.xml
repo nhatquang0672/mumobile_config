@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <ShenQiRules ID="1" Intro="Miêu tả tỷ lệ Bảo Tàng Băng Tay" Bold="0" Type="5" />
+  <ShenQiRules ID="2" Intro="1,Miễn phí rút Băng Tay là trạng thái cố định" Bold="0" Type="5" />
+  <ShenQiRules ID="3" Intro="2,Rút x10 sẽ nhấn định nhận Băng Tay phẩm Tím trở lên" Bold="0" Type="5" />
+  <ShenQiRules ID="4" Intro="3,Thời gian làm mới đổi tích điểm Bảo Tàng Băng Tay 00:00:00 T2 và 00:00:00 T6" Bold="-1" Type="-1" />
+  <ShenQiRules ID="5" Intro="4, Tỷ lệ nhận Băng Tay Phẩm Xanh 90%" Bold="0" Type="5" />
+  <ShenQiRules ID="6" Intro="5, Tỷ lệ nhận Băng Tay Phẩm Tím 9%" Bold="0" Type="5" />
+  <ShenQiRules ID="7" Intro="6, Tỷ lệ nhận Băng Tay Phẩm Cam 1%" Bold="0" Type="5" />
+  <ShenQiRules ID="8" Intro="" Bold="0" Type="5" />
+</Config>

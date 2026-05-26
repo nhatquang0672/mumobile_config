@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Info Active="true" Title="GMCommandModule" Desciption="Custom GM Commands" />
+  <Commands>
+    <Command Type="ServerMessage" Enable="true" Command="notice" Description="Syntax: -command yourmessage //send server message" />
+    <Command Type="AddItems" Enable="true" Command="additems" Description="Syntex: -command charName itemListCode //add items to player or self" />
+    <Command Type="MailTo" Enable="true" Command="mailto" Description="Syntex: -command charName itemListCode goldAmount diasAmount //send mail to character" />
+    <Command Type="MailToAllOnline" Enable="true" Command="mailtoall" Description="Syntex: -command itemListCode goldAmount diasAmount //send mail to all online" />
+    <Command Type="Summoning" Enable="true" Command="summon2" Description="Syntex: -command monsterId count additionaHP additionaAtk additionaDef //summon modified mobs" />
+    <Command Type="StartEvent" Enable="true" Command="start" Description="Syntex: -command eventName optional //force start zythe custom event module" />
+    <Command Type="ResetBenefits" Enable="true" Command="resetbenefit" Description="Syntex: -command benefitName //reset reward claim for (levelreward,combatreward,continueslogin,accumulatedlogin)" />
+  </Commands>
+</Module>

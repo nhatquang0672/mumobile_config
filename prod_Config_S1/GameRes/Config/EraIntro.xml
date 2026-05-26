@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Sự kiện kỷ nguyên" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1. Mỗi kỷ nguyên chia làm {17e43e}4{dac7ae} giai đoạn, mỗi giai đoạn gồm {17e43e}cơ số{dac7ae} nhiệm vụ kỷ nguyên" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2. Nhiệm vụ kỷ nguyên là các nhiệm vụ {17e43e}cống hiến đạo cụ{dac7ae}, {17e43e}thành viên quân đoàn{dac7ae} có thể hiến đạo cụ nhiệm vụ" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3. {17e43e}Cả quân đoàn{dac7ae} tích đạo cụ nhiệm vụ đạt yêu cầu sẽ hoàn thành nhiệm vụ kỷ nguyên" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4. Hoàn thành nhiệm vụ kỷ nguyên sẽ được nhận thưởng tương ứng với {17e43e}tiến độ kỷ nguyên{dac7ae}, khi đạt 100%, sẽ mở {17e43e}giai đoạn sau" Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5. Mỗi giai đoạn đều có {17e43e}thưởng giai đoạn{dac7ae}, hoàn thành giai đoạn thì thành viên quân đoàn sẽ được nhận thưởng, nhưng có giới hạn {ff0000}độ cống hiến{dac7ae}" Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae}6. Cống hiến đạo cụ kỷ nguyên, mỗi người sẽ được nhận {17e43e}độ cống hiến{dac7ae}, độ cống hiến đạt yêu cầu sẽ được nhận {17e43e}thưởng cống hiến{dac7ae}" Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae}7. Căn cứ tiến độ, sẽ có xếp hạng tiến độ giữa các quân đoàn, sau khi sự kiện {17e43e}kết thúc{dac7ae}, sẽ căn cứ theo xếp hạng mà nhận {17e43e}thưởng hạng{dac7ae}" Bold="0" />
+</Config>

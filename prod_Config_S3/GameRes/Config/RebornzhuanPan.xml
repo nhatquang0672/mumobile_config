@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <RebornzhuanPan ID="1" Name="闪光重生装备箱" GoodsID="63232,1,0,0,0,0,0" LimitNum="2" Weight="0,0,500" Min="0,0,50" Max="0,0,100" Display="1" />
+  <RebornzhuanPan ID="2" Name="暗黑祭祀碎片" GoodsID="999008,4,1,0,0,0,0" LimitNum="3" Weight="20,0,5000" Min="40,0,20" Max="80,0,40" Display="1" />
+  <RebornzhuanPan ID="3" Name="10重生晶石" GoodsID="5410,5,1,0,0,0,0" LimitNum="5" Weight="0,0,3000" Min="0,0,15" Max="0,0,25" Display="1" />
+  <RebornzhuanPan ID="4" Name="圣灵印记*100" GoodsID="64026,100,1,0,0,0,0" LimitNum="10" Weight="0,0,3000" Min="0,0,10" Max="0,0,21" Display="1" />
+  <RebornzhuanPan ID="5" Name="10锻造点" GoodsID="5531,5,0,0,0,0,0" LimitNum="20" Weight="500,0,3000" Min="20,0,10" Max="30,0,18" Display="1" />
+  <RebornzhuanPan ID="6" Name="魔神心脏" GoodsID="5570,25,1,0,0,0,0" LimitNum="20" Weight="0,0,8000" Min="0,0,5" Max="0,0,15" Display="0" />
+  <RebornzhuanPan ID="7" Name="熔火精华" GoodsID="8601,10,0,0,0,0,0" LimitNum="20" Weight="1000,0,8000" Min="10,0,5" Max="25,0,12" Display="0" />
+  <RebornzhuanPan ID="8" Name="魔神之角" GoodsID="5571,100,1,0,0,0,0" LimitNum="10" Weight="1000,0,8000" Min="10,0,3" Max="20,0,9" Display="0" />
+  <RebornzhuanPan ID="9" Name="佣兵符石宝箱" GoodsID="8302,5,1,0,0,0,0" LimitNum="20" Weight="0,0,8000" Min="0,0,3" Max="0,0,6" Display="1" />
+  <RebornzhuanPan ID="10" Name="10封印晶石" GoodsID="5400,10,0,0,0,0,0" LimitNum="10" Weight="0,1000,8000" Min="0,0,0" Max="0,9999,9999" Display="0" />
+  <RebornzhuanPan ID="11" Name="坐骑铭文宝箱" GoodsID="8301,40,1,0,0,0,0" LimitNum="20" Weight="0,1500,8000" Min="0,0,0" Max="0,9999,9999" Display="0" />
+  <RebornzhuanPan ID="12" Name="初级爵位之徽Ⅰ" GoodsID="8401,15,0,0,0,0,0" LimitNum="-1" Weight="1500,1500,8000" Min="0,0,0" Max="9999,9999,9999" Display="0" />
+  <RebornzhuanPan ID="13" Name="魔灵秘卷" GoodsID="8603,15,1,0,0,0,0" LimitNum="-1" Weight="1500,1500,8000" Min="0,0,0" Max="9999,9999,9999" Display="0" />
+  <RebornzhuanPan ID="14" Name="10淬炼点" GoodsID="5501,3,0,0,0,0,0" LimitNum="-1" Weight="1500,1500,8000" Min="0,0,0" Max="9999,9999,9999" Display="0" />
+  <RebornzhuanPan ID="15" Name="锁定石" GoodsID="8602,10,0,0,0,0,0" LimitNum="-1" Weight="1500,1500,5000" Min="0,0,0" Max="9999,9999,9999" Display="0" />
+  <RebornzhuanPan ID="16" Name="囚神纹章" GoodsID="8061,10,0,0,0,0,0" LimitNum="-1" Weight="1500,1500,5000" Min="0,0,0" Max="9999,9999,9999" Display="0" />
+</Config>

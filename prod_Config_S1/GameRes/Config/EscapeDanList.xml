@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <EscapeDanList ID="5" RankLevelName="Vương Giả" RankValue="400" WinRankValue="5,30|4,25|3,22|2,20|1,20" LoseRankValue="1,20|2,10" WinRankReward="2016,4,1,0,0,0,0|2017,1,1,0,0,0,0" LoseRankReward="2016,2,1,0,0,0,0" FirstWinRankReward="2016,12,1,0,0,0,0|2017,4,1,0,0,0,0|63257,1,1,0,0,0,0" />
+  <EscapeDanList ID="4" RankLevelName="Kim Cương" RankValue="300" WinRankValue="5,30|4,25|3,22|2,20|1,20" LoseRankValue="1,20|2,10" WinRankReward="2016,4,1,0,0,0,0|2017,1,1,0,0,0,0" LoseRankReward="2016,2,1,0,0,0,0" FirstWinRankReward="2016,12,1,0,0,0,0|2017,4,1,0,0,0,0|63257,1,1,0,0,0,0" />
+  <EscapeDanList ID="3" RankLevelName="Hoàng Kim" RankValue="200" WinRankValue="5,30|4,25|3,22|2,20|1,20" LoseRankValue="1,20|2,10" WinRankReward="2016,4,1,0,0,0,0|2017,1,1,0,0,0,0" LoseRankReward="2016,2,1,0,0,0,0" FirstWinRankReward="2016,12,1,0,0,0,0|2017,4,1,0,0,0,0|63257,1,1,0,0,0,0" />
+  <EscapeDanList ID="2" RankLevelName="Bạc" RankValue="100" WinRankValue="5,30|4,25|3,22|2,20|1,20" LoseRankValue="1,20|2,10" WinRankReward="2016,4,1,0,0,0,0|2017,1,1,0,0,0,0" LoseRankReward="2016,2,1,0,0,0,0" FirstWinRankReward="2016,12,1,0,0,0,0|2017,4,1,0,0,0,0|63257,1,1,0,0,0,0" />
+  <EscapeDanList ID="1" RankLevelName="Đồng" RankValue="-1" WinRankValue="5,30|4,25|3,22|2,20|1,20" LoseRankValue="1,20|2,10" WinRankReward="2016,4,1,0,0,0,0|2017,1,1,0,0,0,0" LoseRankReward="2016,2,1,0,0,0,0" FirstWinRankReward="2016,12,1,0,0,0,0|2017,4,1,0,0,0,0|63257,1,1,0,0,0,0" />
+</Config>

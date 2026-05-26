@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <NewRedPoint RedPointID="1000" OrderID="-1" Name="Hoạt Động" root="0" />
+  <NewRedPoint RedPointID="1001" OrderID="-1" Name="Event Ngày" root="0" />
+  <NewRedPoint RedPointID="1002" OrderID="-1" Name="Boss Thế Giới" root="0" />
+  <NewRedPoint RedPointID="1003" OrderID="-1" Name="VIP Chuyên Thuộc" root="0" />
+  <NewRedPoint RedPointID="1004" OrderID="-1" Name="BOSS House" root="0" />
+  <NewRedPoint RedPointID="1005" OrderID="-1" Name="Tổ Đội Hoàng Kim" root="0" />
+  <NewRedPoint RedPointID="1006" OrderID="-1" Name="Event Ngày Khác" root="0" />
+  <NewRedPoint RedPointID="1007" OrderID="17" Name="Điện Thiên Sứ" root="0" />
+  <NewRedPoint RedPointID="1008" OrderID="-1" Name="BXH Thưởng Tháng Trước" root="0" />
+  <NewRedPoint RedPointID="1100" OrderID="17" Name="Hoạt Động LSV" root="0" />
+  <NewRedPoint RedPointID="1515" OrderID="-1" Name="Tra Xem Sự Kiện Ưu Đãi VIP Lễ" root="0" />
+  <NewRedPoint RedPointID="2000" OrderID="-1" Name="Phó Bản" root="0" />
+  <NewRedPoint RedPointID="2001" OrderID="16" Name="Cốt Truyện" root="0" />
+  <NewRedPoint RedPointID="2002" OrderID="16" Name="PB Tổ Đội" root="0" />
+  <NewRedPoint RedPointID="2003" OrderID="16" Name="PB Hàng Ngày" root="0" />
+  <NewRedPoint RedPointID="2004" OrderID="16" Name="PB LSV" root="0" />
+  <NewRedPoint RedPointID="2031" OrderID="1001" Name="Kho Băng Tay" root="0" />
+  <NewRedPoint RedPointID="2100" OrderID="-1" Name="Danh Sách PB" root="0" />
+  <NewRedPoint RedPointID="2200" OrderID="-1" Name="Danh Sách PB" root="0" />
+  <NewRedPoint RedPointID="3000" OrderID="13" Name="Phúc Lợi" root="0" />
+  <NewRedPoint RedPointID="3001" OrderID="13" Name="Hoàn Trả Nạp" root="0" />
+  <NewRedPoint RedPointID="3002" OrderID="13" Name="Nạp Đầu" root="0" />
+  <NewRedPoint RedPointID="3003" OrderID="13" Name="Nạp Mỗi Ngày" root="0" />
+  <NewRedPoint RedPointID="3004" OrderID="13" Name="Tích Lũy Nạp" root="0" />
+  <NewRedPoint RedPointID="3005" OrderID="13" Name="Tích Lũy Tiêu Phí" root="0" />
+  <NewRedPoint RedPointID="3006" OrderID="13" Name="Sôi Nổi" root="0" />
+  <NewRedPoint RedPointID="3007" OrderID="13" Name="Đăng Nhập Liên Tục" root="0" />
+  <NewRedPoint RedPointID="3008" OrderID="13" Name="Tích Lũy Đăng Nhập" root="0" />
+  <NewRedPoint RedPointID="3009" OrderID="13" Name="Online Ngày" root="0" />
+  <NewRedPoint RedPointID="3010" OrderID="13" Name="Quà Level" root="0" />
+  <NewRedPoint RedPointID="3011" OrderID="13" Name="Nạp Đầu-Đã Nhận" root="0" />
+  <NewRedPoint RedPointID="3012" OrderID="13" Name="Nạp Ngày-Đã Nhận" root="0" />
+  <NewRedPoint RedPointID="3013" OrderID="13" Name="Hoàn Trả Thẻ Tháng" root="0" />
+  <NewRedPoint RedPointID="3014" OrderID="13" Name="Thưởng Lực Chiến" root="0" />
+  <NewRedPoint RedPointID="3015" OrderID="13" Name="Có thể nhận thưởng thẻ tháng" root="0" />
+  <NewRedPoint RedPointID="3034" OrderID="-1" Name="Mời gia nhập chiến đội" root="0" />
+  <NewRedPoint RedPointID="3035" OrderID="-1" Name="Chỉ dẫn mời chiến đội thi đấu" root="0" />
+  <NewRedPoint RedPointID="3036" OrderID="12" Name="Thiền có đạo cụ để nhận" root="0" />
+  <NewRedPoint RedPointID="3037" OrderID="3" Name="Phụ Ma" root="0" />
+  <NewRedPoint RedPointID="4000" OrderID="18" Name="Đấu Trường" root="0" />
+  <NewRedPoint RedPointID="4001" OrderID="18" Name="Quà Thưởng" root="0" />
+  <NewRedPoint RedPointID="4002" OrderID="18" Name="Tăng Quân Hàm" root="0" />
+  <NewRedPoint RedPointID="4003" OrderID="18" Name="Số lần khiêu chiến còn trong đấu trường" root="0" />
+  <NewRedPoint RedPointID="5000" OrderID="12" Name="Chức Năng" root="0" />
+  <NewRedPoint RedPointID="5001" OrderID="12" Name="Thiền" root="0" />
+  <NewRedPoint RedPointID="5002" OrderID="12" Name="Thư" root="0" />
+  <NewRedPoint RedPointID="6000" OrderID="-1" Name="Server Mới" root="0" />
+  <NewRedPoint RedPointID="6001" OrderID="-1" Name="Siêu Luyện Cấp" root="0" />
+  <NewRedPoint RedPointID="6002" OrderID="-1" Name="Dũng Sĩ Ma" root="0" />
+  <NewRedPoint RedPointID="6003" OrderID="-1" Name="Vua Nạp" root="0" />
+  <NewRedPoint RedPointID="6004" OrderID="-1" Name="Vua Tiêu Phí" root="0" />
+  <NewRedPoint RedPointID="6005" OrderID="-1" Name="Siêu Hoàn Trả" root="0" />
+  <NewRedPoint RedPointID="7000" OrderID="23" Name="Mỗi Ngày Cần Làm" root="0" />
+  <NewRedPoint RedPointID="7001" OrderID="23" Name="Tìm Lại Tài Nguyên" root="0" />
+  <NewRedPoint RedPointID="7500" OrderID="-1" Name="Icon BXH Chính" root="0" />
+  <NewRedPoint RedPointID="8000" OrderID="22" Name="Cầu Phúc" root="0" />
+  <NewRedPoint RedPointID="9000" OrderID="2" Name="Thành Tựu" root="0" />
+  <NewRedPoint RedPointID="9001" OrderID="7" Name="Icon BXH" root="0" />
+  <NewRedPoint RedPointID="10000" OrderID="-1" Name="Chức Năng VIP" root="0" />
+  <NewRedPoint RedPointID="10001" OrderID="-1" Name="Gói Quà VIP" root="0" />
+  <NewRedPoint RedPointID="11000" OrderID="-1" Name="Bồi Thường" root="0" />
+  <NewRedPoint RedPointID="11501" OrderID="-1" Name="Chủ Đề Tranh Mua" root="0" />
+  <NewRedPoint RedPointID="11502" OrderID="-1" Name="Gói Quà Chủ Đề" root="0" />
+  <NewRedPoint RedPointID="12000" OrderID="-1" Name="Sự Kiện Tổng Chấm Than Gộp SV" root="0" />
+  <NewRedPoint RedPointID="12001" OrderID="-1" Name="Đăng Nhập Gộp SV" root="0" />
+  <NewRedPoint RedPointID="12002" OrderID="-1" Name="Tích Đăng Nhâp Gộp SV" root="0" />
+  <NewRedPoint RedPointID="12003" OrderID="-1" Name="Nạp Hoàn Trả Gộp SV" root="0" />
+  <NewRedPoint RedPointID="12004" OrderID="-1" Name="Thần ChiếnTrường Gộp SV" root="0" />
+  <NewRedPoint RedPointID="12005" OrderID="-1" Name="Tranh Bá Loren" root="0" />
+  <NewRedPoint RedPointID="13000" OrderID="17" Name="Pha Lê Ảo Cảnh" root="0" />
+  <NewRedPoint RedPointID="14000" OrderID="-1" Name="Tổng Chấm Than Sự Kiện Lễ" root="0" />
+  <NewRedPoint RedPointID="14001" OrderID="-1" Name="Đăng Nhập Lễ" root="0" />
+  <NewRedPoint RedPointID="14002" OrderID="-1" Name="Tích Lũy Đăng Nhập Lễ" root="0" />
+  <NewRedPoint RedPointID="14003" OrderID="-1" Name="Nạp Mỗi Ngày Lễ" root="0" />
+  <NewRedPoint RedPointID="14004" OrderID="-1" Name="Tích Lũy Tiêu Phí Lễ" root="0" />
+  <NewRedPoint RedPointID="14005" OrderID="-1" Name="Tích Nạp Lễ" root="0" />
+  <NewRedPoint RedPointID="14006" OrderID="-1" Name="Vua Nạp Lễ" root="0" />
+  <NewRedPoint RedPointID="14007" OrderID="-1" Name="Vua Tiêu Phí Lễ" root="0" />
+  <NewRedPoint RedPointID="14008" OrderID="-1" Name="Tặng Quà Lễ" root="0" />
+  <NewRedPoint RedPointID="14009" OrderID="-1" Name="Vua Tặng Quà Lễ" root="0" />
+  <NewRedPoint RedPointID="14010" OrderID="-1" Name="Vua Thu Nhận Lễ" root="0" />
+  <NewRedPoint RedPointID="14011" OrderID="-1" Name="Hoàn Trả Cánh Lễ" root="0" />
+  <NewRedPoint RedPointID="14012" OrderID="-1" Name="Hoàn Trả Gia Cố Lễ" root="0" />
+  <NewRedPoint RedPointID="14013" OrderID="-1" Name="Hoàn Trả Cường Hóa Lễ" root="0" />
+  <NewRedPoint RedPointID="14014" OrderID="-1" Name="Hoàn Trả Thành Tựu Lễ" root="0" />
+  <NewRedPoint RedPointID="14015" OrderID="-1" Name="Hoàn Trả Quân Hàm Lễ" root="0" />
+  <NewRedPoint RedPointID="14016" OrderID="-1" Name="Hoàn Trả VIP Lễ" root="0" />
+  <NewRedPoint RedPointID="14017" OrderID="-1" Name="Hoàn Trả Hộ Phù Lễ" root="0" />
+  <NewRedPoint RedPointID="14018" OrderID="-1" Name="Hoàn Trả Đại Thiên Sứ Lễ" root="0" />
+  <NewRedPoint RedPointID="14019" OrderID="-1" Name="Hoàn Trả Hôn Nhân" root="0" />
+  <NewRedPoint RedPointID="14020" OrderID="-1" Name="Hoàn Trả Nạp Liên Tục" root="0" />
+  <NewRedPoint RedPointID="14021" OrderID="-1" Name="Nhận Quà Lễ" root="0" />
+  <NewRedPoint RedPointID="14023" OrderID="-1" Name="Đổi Điểm Lễ" root="0" />
+  <NewRedPoint RedPointID="14024" OrderID="-1" Name="Tranh Mua Siêu Cấp Lễ" root="0" />
+  <NewRedPoint RedPointID="14027" OrderID="-1" Name="Nạp Một Gói Lễ" root="0" />
+  <NewRedPoint RedPointID="14028" OrderID="-1" Name="Tích Nạp Mỗi Ngày Lễ" root="0" />
+  <NewRedPoint RedPointID="14032" OrderID="-1" Name="Bảng Lì Xì Lễ" root="0" />
+  <NewRedPoint RedPointID="14033" OrderID="-1" Name="Hoàn Trả Huy Hiệu" root="0" />
+  <NewRedPoint RedPointID="14034" OrderID="-1" Name="Hoàn Trả Phù Văn" root="0" />
+  <NewRedPoint RedPointID="14035" OrderID="-1" Name="Vua Nạp Mỗi Ngày" root="0" />
+  <NewRedPoint RedPointID="14100" OrderID="-1" Name="Kêu gọi người chơi cũ" root="0" />
+  <NewRedPoint RedPointID="14101" OrderID="-1" Name="Thưởng kêu gọi" root="0" />
+  <NewRedPoint RedPointID="14102" OrderID="-1" Name="Quà quay lại" root="0" />
+  <NewRedPoint RedPointID="14103" OrderID="-1" Name="Điểm danh quay lại" root="0" />
+  <NewRedPoint RedPointID="14104" OrderID="-1" Name="Người đề cử của tôi, kết quả kêu gọi" root="0" />
+  <NewRedPoint RedPointID="14105" OrderID="-1" Name="Hệ thống đề cử" root="0" />
+  <NewRedPoint RedPointID="14106" OrderID="63" Name="Quỹ-Chuyển Sinh" root="0" />
+  <NewRedPoint RedPointID="14107" OrderID="63" Name="Quỹ-Đăng Nhập" root="0" />
+  <NewRedPoint RedPointID="14108" OrderID="63" Name="Quỹ-Hào Khí" root="0" />
+  <NewRedPoint RedPointID="14109" OrderID="63" Name="Quỹ" root="0" />
+  <NewRedPoint RedPointID="14110" OrderID="-1" Name="Sự Kiện độc quyền" root="0" />
+  <NewRedPoint RedPointID="14111" OrderID="6" Name="Nút Bấm Ngoại Giao Guild" root="0" />
+  <NewRedPoint RedPointID="14112" OrderID="6" Name="Ngoại Giao Guild-Yêu Cầu Guild" root="0" />
+  <NewRedPoint RedPointID="14113" OrderID="6" Name="Ngoại Giao Guild-Thông Tin Giải Mộng" root="0" />
+  <NewRedPoint RedPointID="14114" OrderID="-1" Name="HĐ mỗi ngày" root="0" />
+  <NewRedPoint RedPointID="14115" OrderID="-1" Name="Tích nạp phiên bản mới người chơi cũ" root="0" />
+  <NewRedPoint RedPointID="14116" OrderID="-1" Name="Sự Kiện đặc quyền SK thưởng" root="0" />
+  <NewRedPoint RedPointID="14117" OrderID="-1" Name="Ràng Buộc TK" root="0" />
+  <NewRedPoint RedPointID="15000" OrderID="6" Name="Giao diện Guild" root="0" />
+  <NewRedPoint RedPointID="15001" OrderID="6" Name="Có nhận thưởng PB Guild chưa" root="0" />
+  <NewRedPoint RedPointID="15002" OrderID="6" Name="Chỉ dẫn thưởng Lãnh Địa Hồn Sói" root="0" />
+  <NewRedPoint RedPointID="15003" OrderID="-1" Name="Có đủ tư cách để tham gia Tranh Bá Thành Trì không?" root="0" />
+  <NewRedPoint RedPointID="15004" OrderID="10000" Name="Không có tư cách tham chiến Vùng Đất Tranh Đoạt" root="0" />
+  <NewRedPoint RedPointID="15005" OrderID="69" Name="Nhắc gia nhập quân đoàn" root="0" />
+  <NewRedPoint RedPointID="15010" OrderID="-1" Name="Nhấn nút chỉ dẫn chúng thần tranh bá" root="0" />
+  <NewRedPoint RedPointID="15011" OrderID="17" Name="Chỉ dẫn cặp đôi nhận thưởng thi đấu" root="0" />
+  <NewRedPoint RedPointID="15012" OrderID="66" Name="Chỉ dẫn cặp đôi nhận thưởng BXH" root="0" />
+  <NewRedPoint RedPointID="15050" OrderID="-1" Name="Icon hệ thống lãnh địa" root="0" />
+  <NewRedPoint RedPointID="15051" OrderID="-1" Name="Nạp May Mắn" root="0" />
+  <NewRedPoint RedPointID="15052" OrderID="-1" Name="Mua 1 Đô" root="0" />
+  <NewRedPoint RedPointID="15053" OrderID="-1" Name="Kỷ nguyên quân đoàn" root="0" />
+  <NewRedPoint RedPointID="15054" OrderID="-1" Name="Nạp hoàn trả mới (kỷ niệm 3 năm)" root="0" />
+  <NewRedPoint RedPointID="15055" OrderID="-1" Name="Kỷ niệm 3 năm khai mở Sự Kiện quay về" root="0" />
+  <NewRedPoint RedPointID="15056" OrderID="-1" Name="Kỷ niệm 3 năm điểm danh nhận thưởng quay về" root="0" />
+  <NewRedPoint RedPointID="15057" OrderID="-1" Name="Kỷ niệm 3 năm thưởng tích nạp" root="0" />
+  <NewRedPoint RedPointID="15058" OrderID="-1" Name="Kỷ niệm 3 năm tranh mua mỗi ngày quay về" root="0" />
+  <NewRedPoint RedPointID="15059" OrderID="-1" Name="Kỷ niệm 3 năm thương thành độc quyền quay về" root="0" />
+  <NewRedPoint RedPointID="16000" OrderID="41" Name="Kho Tinh Linh" root="0" />
+  <NewRedPoint RedPointID="16001" OrderID="41" Name="Săn Tinh Linh" root="0" />
+  <NewRedPoint RedPointID="16002" OrderID="41" Name="Đền Tinh Linh" root="0" />
+  <NewRedPoint RedPointID="17000" OrderID="-1" Name="7 Ngày Cuồng Hoan" root="0" />
+  <NewRedPoint RedPointID="17001" OrderID="-1" Name="Đăng Nhập 7 Ngày Cuồng Hoan" root="0" />
+  <NewRedPoint RedPointID="17002" OrderID="-1" Name="Nạp 7 Ngày" root="0" />
+  <NewRedPoint RedPointID="17003" OrderID="-1" Name="Mục tiêu 7 Ngày" root="0" />
+  <NewRedPoint RedPointID="17004" OrderID="-1" Name="Tranh Mua 7 Ngày" root="0" />
+  <NewRedPoint RedPointID="17005" OrderID="-1" Name="Mục tiêu 7 ngày ngày 1" root="0" />
+  <NewRedPoint RedPointID="17006" OrderID="-1" Name="Mục tiêu 7 ngày ngày 2" root="0" />
+  <NewRedPoint RedPointID="17007" OrderID="-1" Name="Mục tiêu 7 ngày ngày 3" root="0" />
+  <NewRedPoint RedPointID="17008" OrderID="-1" Name="Mục tiêu 7 ngày ngày 4" root="0" />
+  <NewRedPoint RedPointID="17009" OrderID="-1" Name="Mục tiêu 7 ngày ngày 5" root="0" />
+  <NewRedPoint RedPointID="17010" OrderID="-1" Name="Mục tiêu 7 ngày ngày 6" root="0" />
+  <NewRedPoint RedPointID="17011" OrderID="-1" Name="Mục tiêu 7 ngày ngày 7" root="0" />
+  <NewRedPoint RedPointID="18000" OrderID="-1" Name="Thi Olympic" root="0" />
+  <NewRedPoint RedPointID="18002" OrderID="-1" Name="Yêu cầu chức năng nước ngoài" root="0" />
+  <NewRedPoint RedPointID="18003" OrderID="91" Name="Hệ Thống Vòng Xoay Tái Sinh" root="0" />
+  <NewRedPoint RedPointID="18004" OrderID="73" Name="Hệ Thống Thức Tỉnh" root="0" />
+  <NewRedPoint RedPointID="19000" OrderID="8" Name="Đồ Giám" root="0" />
+  <NewRedPoint RedPointID="19001" OrderID="59" Name="Chấm đỏ chổi ma thuật" root="0" />
+  <NewRedPoint RedPointID="20000" OrderID="-1" Name="Sự Kiện Olympic" root="0" />
+  <NewRedPoint RedPointID="20001" OrderID="-1" Name="Sự Kiện Thi Olympic" root="0" />
+  <NewRedPoint RedPointID="20002" OrderID="-1" Name="Sự Kiện Cạnh Tranh Olympic" root="0" />
+  <NewRedPoint RedPointID="21000" OrderID="78" Name="Hệ Thống Tái Sinh" root="0" />
+  <NewRedPoint RedPointID="21001" OrderID="78" Name="Tiến Bậc Tái Sinh" root="0" />
+  <NewRedPoint RedPointID="21002" OrderID="78" Name="Boss Tái Sinh Cá Nhân" root="0" />
+  <NewRedPoint RedPointID="21003" OrderID="-1" Name="La Bàn Tầm Bảo" root="0" />
+  <NewRedPoint RedPointID="21004" OrderID="-1" Name="Niên Thú" root="0" />
+  <NewRedPoint RedPointID="21005" OrderID="-1" Name="Nhiệm vụ hồi lưu" root="0" />
+  <NewRedPoint RedPointID="21006" OrderID="-1" Name="Vòng Ma Pháp Karutan" root="0" />
+  <NewRedPoint RedPointID="30000" OrderID="-1" Name="Túi" root="0" />
+  <NewRedPoint RedPointID="30001" OrderID="-1" Name="Vật phẩm có thể sử dụng" root="0" />
+  <NewRedPoint RedPointID="31000" OrderID="3" Name="Lò Luyện" root="0" />
+  <NewRedPoint RedPointID="31001" OrderID="3" Name="Cường Hóa Trang Bị" root="0" />
+  <NewRedPoint RedPointID="31002" OrderID="3" Name="Gia Cố Trang Bị" root="0" />
+  <NewRedPoint RedPointID="31003" OrderID="3" Name="Bồi Dưỡng Trang Bị" root="0" />
+  <NewRedPoint RedPointID="32000" OrderID="1" Name="Nhân Vật" root="0" />
+  <NewRedPoint RedPointID="32001" OrderID="1" Name="Kỹ Năng" root="0" />
+  <NewRedPoint RedPointID="32002" OrderID="1" Name="Cánh" root="0" />
+  <NewRedPoint RedPointID="32003" OrderID="1" Name="Tinh Hồn" root="0" />
+  <NewRedPoint RedPointID="32004" OrderID="-1" Name="Ràng Buộc ĐT" root="0" />
+  <NewRedPoint RedPointID="32005" OrderID="-1" Name="Vòng Xoay Tập Kết Dũng Sĩ" root="0" />
+  <NewRedPoint RedPointID="90001" OrderID="-1" Name="Tip Chat Riêng" root="0" />
+  <NewRedPoint RedPointID="90002" OrderID="77" Name="Phụ Thể Thần Hồn" root="0" />
+  <NewRedPoint RedPointID="90003" OrderID="59" Name="Sách Của Merlin" root="0" />
+  <NewRedPoint RedPointID="90004" OrderID="61" Name="Đá Hồn" root="0" />
+  <NewRedPoint RedPointID="90005" OrderID="61" Name="Đá Hồn-1" root="0" />
+  <NewRedPoint RedPointID="90006" OrderID="61" Name="Đá Hồn-2" root="0" />
+  <NewRedPoint RedPointID="90007" OrderID="61" Name="Đá Hồn-3" root="0" />
+  <NewRedPoint RedPointID="100000" OrderID="998" Name="Giao diện chính Thần Binh" root="0" />
+  <NewRedPoint RedPointID="100001" OrderID="998" Name="Trang Thần Binh" root="100000" />
+  <NewRedPoint RedPointID="100002" OrderID="998" Name="Thần Binh Sinh Mệnh" root="100001" />
+  <NewRedPoint RedPointID="100003" OrderID="998" Name="Thần Binh Phòng Ngự" root="100001" />
+  <NewRedPoint RedPointID="100004" OrderID="998" Name="Thần Binh Tấn Kích" root="100001" />
+  <NewRedPoint RedPointID="100005" OrderID="998" Name="Thần Binh Bạo Kích" root="100001" />
+  <NewRedPoint RedPointID="100010" OrderID="1018" Name="Trang Thẻ Ma Thuật" root="100000" />
+  <NewRedPoint RedPointID="100011" OrderID="1018" Name="Trang Xích Tinh" root="100010" />
+  <NewRedPoint RedPointID="100012" OrderID="1018" Name="Trang Hư Không" root="100010" />
+  <NewRedPoint RedPointID="100013" OrderID="1018" Name="Trang Manh Nha" root="100010" />
+  <NewRedPoint RedPointID="100014" OrderID="1018" Name="Trang Ảm Diệt" root="100010" />
+  <NewRedPoint RedPointID="110000" OrderID="999" Name="Thánh Khí Linh Hồn" root="0" />
+  <NewRedPoint RedPointID="110001" OrderID="999" Name="Trang Thánh Khí Linh Hồn" root="110000" />
+  <NewRedPoint RedPointID="110002" OrderID="999" Name="Trang Hồn Hỏa" root="110000" />
+  <NewRedPoint RedPointID="110010" OrderID="999" Name="Trang Phù Vân Hồn Khí" root="110000" />
+  <NewRedPoint RedPointID="110011" OrderID="999" Name="Phù Vân Hồn Khí 1" root="110010" />
+  <NewRedPoint RedPointID="110012" OrderID="999" Name="Phù Vân Hồn Khí 2" root="110010" />
+  <NewRedPoint RedPointID="110013" OrderID="999" Name="Phù Vân Hồn Khí 3" root="110010" />
+  <NewRedPoint RedPointID="110014" OrderID="999" Name="Phù Vân Hồn Khí 4" root="110010" />
+  <NewRedPoint RedPointID="110015" OrderID="999" Name="Phù Vân Hồn Khí 5" root="110010" />
+  <NewRedPoint RedPointID="110016" OrderID="999" Name="Phù Vân Hồn Khí 6" root="110010" />
+  <NewRedPoint RedPointID="120000" OrderID="74" Name="Thú Cưỡi" root="0" />
+  <NewRedPoint RedPointID="120001" OrderID="74" Name="Thức Tỉnh Thú Cưỡi" root="120000" />
+  <NewRedPoint RedPointID="120002" OrderID="74" Name="Thú Cưỡi Phi Thăng" root="120000" />
+  <NewRedPoint RedPointID="130000" OrderID="1005" Name="Tế Đàn Vạn Linh" root="0" />
+  <NewRedPoint RedPointID="140000" OrderID="1006" Name="Kỳ Tích Huyễn Giáp" root="0" />
+  <NewRedPoint RedPointID="140001" OrderID="1006" Name="Kỳ Tích Huyễn Giáp - Trang" root="140000" />
+  <NewRedPoint RedPointID="210051" OrderID="21005" Name="Nhiệm vụ trở về" root="0" />
+  <NewRedPoint RedPointID="210052" OrderID="21005" Name="Tiệm trở về" root="0" />
+  <NewRedPoint RedPointID="1200010" OrderID="74" Name="Thức Tỉnh Thú Cưỡi Hồn Thú 1" root="120001" />
+  <NewRedPoint RedPointID="1200011" OrderID="74" Name="Thức Tỉnh Thú Cưỡi Hồn Thú 2" root="120001" />
+  <NewRedPoint RedPointID="1200012" OrderID="74" Name="Thức Tỉnh Thú Cưỡi Hồn Thú 3" root="120001" />
+  <NewRedPoint RedPointID="1200013" OrderID="74" Name="Thức Tỉnh Thú Cưỡi Hồn Thú 4" root="120001" />
+  <NewRedPoint RedPointID="1200014" OrderID="74" Name="Thức Tỉnh Thú Cưỡi Hồn Thú 5" root="120001" />
+  <NewRedPoint RedPointID="1200020" OrderID="41" Name="Tinh Linh Thần Thoại" root="0" />
+  <NewRedPoint RedPointID="1200100" OrderID="1010" Name="Pháp Trận Nguyên Tố" root="0" />
+  <NewRedPoint RedPointID="1200101" OrderID="1010" Name="Trang Pháp Trận Nguyên Tố" root="1200100" />
+  <NewRedPoint RedPointID="1200102" OrderID="1010" Name="Trang Trận Linh Nguyên Tố" root="1200100" />
+  <NewRedPoint RedPointID="1200201" OrderID="1010" Name="Trận Linh Nguyên Tố 1" root="1200102" />
+  <NewRedPoint RedPointID="1200202" OrderID="1010" Name="Trận Linh Nguyên Tố 2" root="1200102" />
+  <NewRedPoint RedPointID="1200203" OrderID="1010" Name="Trận Linh Nguyên Tố 3" root="1200102" />
+  <NewRedPoint RedPointID="1200204" OrderID="1010" Name="Trận Linh Nguyên Tố 4" root="1200102" />
+  <NewRedPoint RedPointID="1200205" OrderID="1010" Name="Trận Linh Nguyên Tố 5" root="1200102" />
+  <NewRedPoint RedPointID="1200206" OrderID="1010" Name="Trận Linh Nguyên Tố 6" root="1200102" />
+  <NewRedPoint RedPointID="1200300" OrderID="1011" Name="Thần Ban Thánh Khiên" root="0" />
+  <NewRedPoint RedPointID="1200301" OrderID="1011" Name="Thần Ban Thánh Khiên - Trang" root="1200300" />
+  <NewRedPoint RedPointID="1200302" OrderID="1011" Name="Trang Ngọc Thánh Thuẫn" root="1200300" />
+  <NewRedPoint RedPointID="1200303" OrderID="1011" Name="Ngọc Thánh Thuẫn-Chú Linh" root="1200302" />
+  <NewRedPoint RedPointID="1200304" OrderID="1011" Name="Ngọc Thánh Thuẫn-Thức Tỉnh Đơn" root="1200302" />
+  <NewRedPoint RedPointID="1200305" OrderID="1011" Name="Ngọc Thánh Thuẫn-Thức Tỉnh Nhanh" root="1200302" />
+  <NewRedPoint RedPointID="1200401" OrderID="1011" Name="Ngọc Thánh Thuẫn-Chú Linh item1" root="1200303" />
+  <NewRedPoint RedPointID="1200402" OrderID="1011" Name="Ngọc Thánh Thuẫn-Chú Linh item2" root="1200303" />
+  <NewRedPoint RedPointID="1200403" OrderID="1011" Name="Ngọc Thánh Thuẫn-Chú Linh item3" root="1200303" />
+  <NewRedPoint RedPointID="1200404" OrderID="1011" Name="Ngọc Thánh Thuẫn-Chú Linh item4" root="1200303" />
+  <NewRedPoint RedPointID="1200405" OrderID="1011" Name="Ngọc Thánh Thuẫn-Chú Linh item5" root="1200303" />
+  <NewRedPoint RedPointID="1200406" OrderID="1011" Name="Ngọc Thánh Thuẫn-Chú Linh item6" root="1200303" />
+  <NewRedPoint RedPointID="1200407" OrderID="1011" Name="Ngọc Thánh Thuẫn-Chú Linh item7" root="1200303" />
+  <NewRedPoint RedPointID="1200408" OrderID="1011" Name="Ngọc Thánh Thuẫn-Chú Linh item8" root="1200303" />
+  <NewRedPoint RedPointID="1200409" OrderID="1011" Name="Ngọc Thánh Thuẫn-Chú Linh item9" root="1200303" />
+  <NewRedPoint RedPointID="1200410" OrderID="1011" Name="Ngọc Thánh Thuẫn-Chú Linh item10" root="1200303" />
+</Config>

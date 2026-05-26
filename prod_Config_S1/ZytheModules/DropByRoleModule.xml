@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Info Active="false" Title="DropByRoleModule" Desciption="Special Chest that drops by occupation" />
+  <Goods>
+    <Chest ID="0" Name="Item Title" Description="Optional Description" />
+  </Goods>
+</Module>

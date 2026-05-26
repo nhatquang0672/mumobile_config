@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="27" />
+  <GiftList Title="每日充值" Description="" Image="">
+<!--	<Award ID="1" MinYuanBao="100000" GoodsIDs="50305,1,1,0,0,0,0|63179,1,1,0,0,0,0|50164,1,1,0,0,0,0"  /> -->
+  </GiftList>
+</Config>

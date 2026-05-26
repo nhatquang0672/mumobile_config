@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Quy tắc hệ thống Ảo Mộng Thạch Bản" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Ảo Mộng Thạch Bản là hoạt động hạn giờ" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, Ảo Mộng Thạch Bản có đồng, bạc, vàng 3 loại, đồng thạch bản luôn trong trạng thái kích hoạt, bạc và bạc lúc đầu trong trạng thái khóa" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, Người chơi tiêu phí sao may mắn trong thạch bản tiến hành xoay, hoàn thành sẽ nhận thưởng tương ứng" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, Người chơi trong quá trình xoay sẽ có tỷ lệ nhất định kích hoạt thạch bản cấp trên" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}5, Người chơi xoay sẽ không nhận thưởng giống nhau, sau khi dùng hết số lần xoay, nội dung quà sẽ làm mới, sẽ nhận được danh sách quà mới" Bold="0" />
+</Config>

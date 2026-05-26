@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <JingXiBlackBox ID="1" StoreType="1" RefreshTime="8" GoodsNum="1" />
+  <JingXiBlackBox ID="2" StoreType="1" RefreshTime="13" GoodsNum="1" />
+  <JingXiBlackBox ID="3" StoreType="1" RefreshTime="18" GoodsNum="1" />
+  <JingXiBlackBox ID="4" StoreType="2" RefreshTime="6" GoodsNum="1" />
+  <JingXiBlackBox ID="5" StoreType="2" RefreshTime="11" GoodsNum="1" />
+  <JingXiBlackBox ID="6" StoreType="2" RefreshTime="15" GoodsNum="1" />
+  <JingXiBlackBox ID="7" StoreType="3" RefreshTime="5" GoodsNum="1" />
+  <JingXiBlackBox ID="8" StoreType="3" RefreshTime="8" GoodsNum="1" />
+  <JingXiBlackBox ID="9" StoreType="3" RefreshTime="10" GoodsNum="1" />
+</Config>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <Roulette1 ID="1" Type="1" Weight="20" Show="MoFaPan1" Name="Bóng Phép Mặt Trời" />
+  <Roulette1 ID="2" Type="2" Weight="20" Show="MoFaPan2" Name="Bóng Phép Bóng Trăng" />
+  <Roulette1 ID="3" Type="3" Weight="20" Show="MoFaPan3" Name="Bóng Phép Ánh Sao" />
+  <Roulette1 ID="4" Type="1" Weight="20" Show="MoFaPan1" Name="Bóng Phép Mặt Trời" />
+  <Roulette1 ID="5" Type="2" Weight="20" Show="MoFaPan2" Name="Bóng Phép Bóng Trăng" />
+  <Roulette1 ID="6" Type="3" Weight="20" Show="MoFaPan3" Name="Bóng Phép Ánh Sao" />
+</Config>

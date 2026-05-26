@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <NianShouCaiJi ID="1" MonsterID="9970101" TressureID="9970104" TreasureDropID="9952001,1" TressureNum="5" OpenLimit="2" BornRange="10000" CaiJiTime="5" />
+  <NianShouCaiJi ID="2" MonsterID="9970102" TressureID="9970105" TreasureDropID="9952002,1" TressureNum="10" OpenLimit="2" BornRange="10000" CaiJiTime="5" />
+  <NianShouCaiJi ID="3" MonsterID="9970103" TressureID="9970106" TreasureDropID="9952003,1" TressureNum="15" OpenLimit="2" BornRange="10000" CaiJiTime="5" />
+</Config>

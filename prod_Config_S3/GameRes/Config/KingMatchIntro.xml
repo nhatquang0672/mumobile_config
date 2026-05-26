@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Quy tắc" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1. Vương Giả Tranh Bá cần {00ff33}báo danh{dac7ae} để tham gia, khi báo danh cần {00ff33}Thư Mời Vương Giả{dac7ae}, Thư Mời có thể đổi từ Tiệm Kim Cương hoặc khi không đủ tự đổi tại giao diện. " Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2. Mỗi tháng {00ff33}ngày 10-17{dac7ae} tiến hành báo danh. Trong tháng đó {00ff33}ngày 18-19 {dac7ae} chiều {00ff33}15:30-16:30{dac7ae} sẽ tiến hành đấu thử. " Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3. Mỗi tháng {00ff33}ngày 20{dac7ae} tiến hành đối chiến, trong ngày sẽ chọn ra hạng nhất. " Bold="0" />
+  <HelpIntro ID="5" Intro="{fac60d}Thưởng" Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}1. Sau khi tất cả cuộc thi kết thúc, căn cứ thành tích {00ff33}nhận thưởng{dac7ae}." Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae}2. Nếu số người tham gia không đủ không thể mở thi đấu, tất cả người chơi sẽ nhận bồi thường, thông qua thư. " Bold="0" />
+</Config>

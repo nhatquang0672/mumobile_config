@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <WenZhangShengWuAwakeExtAttribute ID="1" Name="Giác tỉnh Thánh Vật bậc 1" Picture="" ShengPoNum="7" ShengPoLevel="20" AwakeningLevel="1" Attributes="Thánh Vật giác tỉnh bậc 1" Describe="7 loại Thánh Hồn tổng 20 cấp" />
+  <WenZhangShengWuAwakeExtAttribute ID="2" Name="Giác tỉnh Thánh Vật bậc 2" Picture="" ShengPoNum="7" ShengPoLevel="20" AwakeningLevel="2" Attributes="Thánh Vật giác tỉnh bậc 2" Describe="7 loại Thánh Hồn tổng 20 cấp" />
+  <WenZhangShengWuAwakeExtAttribute ID="3" Name="Giác tỉnh Thánh Vật bậc 3" Picture="" ShengPoNum="7" ShengPoLevel="20" AwakeningLevel="3" Attributes="Thánh Vật giác tỉnh bậc 3" Describe="7 loại Thánh Hồn tổng 20 cấp" />
+  <WenZhangShengWuAwakeExtAttribute ID="4" Name="Giác tỉnh Thánh Vật bậc 4" Picture="" ShengPoNum="7" ShengPoLevel="20" AwakeningLevel="4" Attributes="Thánh Vật giác tỉnh bậc 4" Describe="7 loại Thánh Hồn tổng 20 cấp" />
+  <WenZhangShengWuAwakeExtAttribute ID="5" Name="Giác tỉnh Thánh Vật bậc 5" Picture="" ShengPoNum="7" ShengPoLevel="20" AwakeningLevel="5" Attributes="Thánh Vật giác tỉnh bậc 5" Describe="7 loại Thánh Hồn tổng 20 cấp" />
+  <WenZhangShengWuAwakeExtAttribute ID="6" Name="Giác tỉnh Thánh Vật bậc 6" Picture="" ShengPoNum="7" ShengPoLevel="20" AwakeningLevel="6" Attributes="Thánh Vật giác tỉnh bậc 6" Describe="7 loại Thánh Hồn tổng 20 cấp" />
+  <WenZhangShengWuAwakeExtAttribute ID="7" Name="Giác tỉnh Thánh Vật bậc 7" Picture="" ShengPoNum="7" ShengPoLevel="20" AwakeningLevel="7" Attributes="Thánh Vật giác tỉnh bậc 7" Describe="7 loại Thánh Hồn tổng 20 cấp" />
+  <WenZhangShengWuAwakeExtAttribute ID="8" Name="Giác tỉnh Thánh Vật bậc 8" Picture="" ShengPoNum="7" ShengPoLevel="20" AwakeningLevel="8" Attributes="Thánh Vật giác tỉnh bậc 8" Describe="7 loại Thánh Hồn tổng 20 cấp" />
+  <WenZhangShengWuAwakeExtAttribute ID="9" Name="Giác tỉnh Thánh Vật bậc 9" Picture="" ShengPoNum="7" ShengPoLevel="20" AwakeningLevel="9" Attributes="Thánh Vật giác tỉnh bậc 9" Describe="7 loại Thánh Hồn tổng 20 cấp" />
+  <WenZhangShengWuAwakeExtAttribute ID="10" Name="Giác tỉnh Thánh Vật bậc 10" Picture="" ShengPoNum="7" ShengPoLevel="20" AwakeningLevel="10" Attributes="Thánh Vật giác tỉnh bậc 10" Describe="7 loại Thánh Hồn tổng 20 cấp" />
+</Config>

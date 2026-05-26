@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Info Active="false" Title="LimitRoleExtProperty" Desciption="Limit the maximum percent or value of the ExtPropery by its index refer to ExtPropIndexes.xml" />
+  <Config>
+    <ExtPropIndexes ID="29" Enable="true" Limit="0.1" Description="" />
+    <ExtPropIndexes ID="37" Enable="true" Limit="0.1" Description="" />
+    <ExtPropIndexes ID="39" Enable="true" Limit="0.1" Description="" />
+    <ExtPropIndexes ID="24" Enable="true" Limit="0.1" Description="" />
+  </Config>
+</Module>

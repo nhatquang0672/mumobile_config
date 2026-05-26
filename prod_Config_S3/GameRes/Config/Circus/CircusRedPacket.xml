@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <CircusRedPacket ID="1" RedID="1" RewardID="1" Reward="5603,500,1,0,0,0,0" />
+  <CircusRedPacket ID="2" RedID="1" RewardID="2" Reward="5603,300,1,0,0,0,0" />
+  <CircusRedPacket ID="3" RedID="1" RewardID="3" Reward="5603,200,1,0,0,0,0" />
+  <CircusRedPacket ID="4" RedID="1" RewardID="4" Reward="5603,100,1,0,0,0,0" />
+  <CircusRedPacket ID="5" RedID="1" RewardID="5" Reward="5603,100,1,0,0,0,0" />
+  <CircusRedPacket ID="6" RedID="1" RewardID="6" Reward="5603,100,1,0,0,0,0" />
+  <CircusRedPacket ID="7" RedID="1" RewardID="7" Reward="5603,50,1,0,0,0,0" />
+  <CircusRedPacket ID="8" RedID="1" RewardID="8" Reward="5603,50,1,0,0,0,0" />
+  <CircusRedPacket ID="9" RedID="1" RewardID="9" Reward="5603,50,1,0,0,0,0" />
+  <CircusRedPacket ID="10" RedID="1" RewardID="10" Reward="5603,50,1,0,0,0,0" />
+  <CircusRedPacket ID="11" RedID="2" RewardID="1" Reward="5605,2,1,0,0,0,0" />
+  <CircusRedPacket ID="12" RedID="2" RewardID="2" Reward="5605,1,1,0,0,0,0" />
+  <CircusRedPacket ID="13" RedID="2" RewardID="3" Reward="5605,1,1,0,0,0,0" />
+  <CircusRedPacket ID="14" RedID="2" RewardID="4" Reward="5603,100,1,0,0,0,0" />
+  <CircusRedPacket ID="15" RedID="2" RewardID="5" Reward="5603,100,1,0,0,0,0" />
+  <CircusRedPacket ID="16" RedID="2" RewardID="6" Reward="5603,100,1,0,0,0,0" />
+  <CircusRedPacket ID="17" RedID="2" RewardID="7" Reward="5603,50,1,0,0,0,0" />
+  <CircusRedPacket ID="18" RedID="2" RewardID="8" Reward="5603,50,1,0,0,0,0" />
+  <CircusRedPacket ID="19" RedID="2" RewardID="9" Reward="5603,50,1,0,0,0,0" />
+  <CircusRedPacket ID="20" RedID="2" RewardID="10" Reward="5603,50,1,0,0,0,0" />
+  <CircusRedPacket ID="21" RedID="3" RewardID="1" Reward="5604,50,1,0,0,0,0" />
+  <CircusRedPacket ID="22" RedID="3" RewardID="2" Reward="5604,25,1,0,0,0,0" />
+  <CircusRedPacket ID="23" RedID="3" RewardID="3" Reward="5605,1,1,0,0,0,0" />
+  <CircusRedPacket ID="24" RedID="3" RewardID="4" Reward="5603,100,1,0,0,0,0" />
+  <CircusRedPacket ID="25" RedID="3" RewardID="5" Reward="5603,100,1,0,0,0,0" />
+  <CircusRedPacket ID="26" RedID="3" RewardID="6" Reward="5603,100,1,0,0,0,0" />
+  <CircusRedPacket ID="27" RedID="3" RewardID="7" Reward="5603,50,1,0,0,0,0" />
+  <CircusRedPacket ID="28" RedID="3" RewardID="8" Reward="5603,50,1,0,0,0,0" />
+  <CircusRedPacket ID="29" RedID="3" RewardID="9" Reward="5603,50,1,0,0,0,0" />
+  <CircusRedPacket ID="30" RedID="3" RewardID="10" Reward="5603,50,1,0,0,0,0" />
+</config>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Kill ID="1" Num="2" Score="10" Text="Cày nát đội hình！" />
+  <Kill ID="2" Num="4" Score="20" Text="Không thể cản phá!" />
+  <Kill ID="3" Num="6" Score="30" Text="Thật là thần thánh！" />
+  <Kill ID="4" Num="8" Score="40" Text="Trở thành huyền thoại！" />
+</Config>

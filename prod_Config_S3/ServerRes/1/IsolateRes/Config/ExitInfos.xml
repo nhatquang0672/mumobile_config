@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Exit ID="1" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" TestID="1980" Txt="Tip：ท้าดวลExp Dungeonจะได้รับEXPมากมาย！" />
+  <Exit ID="2" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" TestID="2031" Txt="Tip :  ท้าดวลGold Dungeonจะได้รับExpมากมาย!" />
+  <Exit ID="3" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" TestID="1280" Txt="Tip：อุปกรณ์จะได้รับจากดันเจี้ยนประจำวัน！" />
+  <Exit ID="4" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" TestID="2110" Txt="Tip：เข้าEXP8เท่าได้ทุกวัน Ancient battlefieldดรอป8เท่า！" />
+  <Exit ID="5" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" TestID="2210" Txt="Tip：Demons Towerจะได้รับปีก！" />
+  <Exit ID="6" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" TestID="1521" Txt="Tip：สำเร็จภารกิจประจำวันทุกวันจะได้รับประสบการณ์！" />
+  <Exit ID="7" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" TestID="1521" Txt="Tip：ตัวละครออฟไลน์จะทำสมาธิอัตโนมัติ จะได้รับEXP！" />
+  <Exit ID="8" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" TestID="1801" Txt="Tip：ท้าดวลArenaจะได้รับชื่อเสียง และเปิดยศ！" />
+  <Exit ID="9" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="0" MaxLevel="19" TestID="" Txt="Tip：ออนไลน์ทุกวัน40นาทีจะได้จับอุปกรณ์ล้ำค่า！" />
+  <Exit ID="10" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="0" MaxLevel="19" TestID="" Txt="Tip：แชร์เกมทุกวัน ก็จะได้รับคริสตัลล้ำค่า！" />
+</Config>

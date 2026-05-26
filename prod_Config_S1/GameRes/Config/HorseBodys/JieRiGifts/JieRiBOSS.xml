@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="17" FromDate="2018-02-26 00:00:00" ToDate="2018-03-04 23:59:59" AwardStartDate="2018-02-26 00:00:00" AwardEndDate="2018-03-04 23:59:59" />
+  <GiftList Description="Trong thời gian ngày lễ sẽ xuất hiện thêm Boss hiếm, các dũng sĩ nhất định không nên bỏ lỡ！">
+    <Award MonsterID="6100000" ZhanLi="20000" GoodsIDs="7050,10,0,0,0,0,0|2032,2,0,0,0,0,0|5041,1,0,0,0,0,0|5031,1,0,0,0,0,0|7041,2,0,0,0,0,0|5171,5,0,0,0,0,0|30151121,1,0,0,0,0,0" BossTime="1|7|13:00" />
+  </GiftList>
+</Config>

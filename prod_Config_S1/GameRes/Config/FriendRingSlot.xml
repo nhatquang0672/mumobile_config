@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <FriendRingSlot ID="0" FriendRingSlotID="4" FriendMission="1" FriendMissionNum="3600" FriendMissionDec="Khi hảo hữu đạt{0}， có thể mở ô vòng bạn miễn phí" FriendRingDiamond="500" />
+  <FriendRingSlot ID="1" FriendRingSlotID="5" FriendMission="2" FriendMissionNum="1,2" FriendMissionDec="Với{1}đạt quan hệ{0}có thể mở ô vòng bạn miễn phí" FriendRingDiamond="100" />
+  <FriendRingSlot ID="2" FriendRingSlotID="6" FriendMission="2" FriendMissionNum="2,3" FriendMissionDec="Với{1}đạt quan hệ{0}có thể mở ô vòng bạn miễn phí" FriendRingDiamond="200" />
+  <FriendRingSlot ID="3" FriendRingSlotID="7" FriendMission="3" FriendMissionNum="10" FriendMissionDec="Khi số lượng hảo hữu tích lũy đạt{0}，có thể mở ô vòng bạn miễn phí" FriendRingDiamond="200" />
+</Config>

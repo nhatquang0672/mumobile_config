@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Info Active="true" Title="CommonFeatures" Desciption="Common Zythe Features" />
+  <Config>
+    <Feature Type="GiftCodeSystem"                      Enable="true"   Description="Use Zythe giftcode sytem" />
+    <Feature Type="GodItemSystem"                       Enable="true"   Description="Support God item system (Gold items)" />
+    <Feature Type="LuckyStarRecharge"                   Enable="false"  Description="Give LuckyStar on recharge base on real money input" />
+    <Feature Type="ReplaceLuckStarWithDiamond"          Enable="true"  Description="Replace LuckyStar Currency in draw of mount and other" />
+    <Feature Type="DisableLuckyStarExchange"            Enable="false"  Description="Disable using Diamonds to recharge LuckyStar" />
+    <Feature Type="DisableDiamondOnTrade"               Enable="false"  Description="Disable trading of Diamonds in game" />
+    <Feature Type="DisableDiamondOnUpgradeBadge"        Enable="false"  Description="Disable using Diamonds on Badge Upgrage" />
+    <Feature Type="DisableDiamondOnUpgradeHolySheild"   Enable="false"  Description="Disable using Diamonds on HolySheild Upgrage" />
+    <Feature Type="DisableDiamondOnUpgradeMerlinBook"   Enable="false"  Description="Disable using Diamonds on MerlinBook Upgrage" />
+    <Feature Type="DisableDiamondOnUpgradeWings"        Enable="false"  Description="Disable using Diamonds on Wings Upgrage" />
+    <Feature Type="AutoRunGC"                           Enable="true"   Description="Automatically run GC every 10 minutes" />
+  </Config>
+</Module>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ShenYinZhuoYue ID="1" ShengYinLeiXing="1" PinZhi="4" ShuXing="Hút DMG&#xA;(%)" ShuXingLeiXing="SubAttackInjurePercent,0.009" />
+  <ShenYinZhuoYue ID="2" ShengYinLeiXing="1" PinZhi="4" ShuXing="Kháng DMG (Cố định)" ShuXingLeiXing="DecreaseInjureValue,1800" />
+  <ShenYinZhuoYue ID="3" ShengYinLeiXing="1" PinZhi="4" ShuXing="Kháng đánh may mắn" ShuXingLeiXing="DeLucky,0.006" />
+  <ShenYinZhuoYue ID="4" ShengYinLeiXing="1" PinZhi="4" ShuXing="Kháng đánh hoàn mỹ" ShuXingLeiXing="DeFatalAttack,0.006" />
+  <ShenYinZhuoYue ID="5" ShengYinLeiXing="1" PinZhi="4" ShuXing="Kháng đánh x2" ShuXingLeiXing="DeDoubleAttack,0.006" />
+  <ShenYinZhuoYue ID="6" ShengYinLeiXing="1" PinZhi="4" ShuXing="Giảm hiệu ứng hỏa" ShuXingLeiXing="FireReduce,0.012" />
+  <ShenYinZhuoYue ID="7" ShengYinLeiXing="1" PinZhi="4" ShuXing="Giảm hiệu ứng thủy" ShuXingLeiXing="WaterReduce,0.012" />
+  <ShenYinZhuoYue ID="8" ShengYinLeiXing="1" PinZhi="4" ShuXing="Giảm hiệu ứng lôi" ShuXingLeiXing="LightningReduce,0.012" />
+  <ShenYinZhuoYue ID="9" ShengYinLeiXing="1" PinZhi="4" ShuXing="Giảm hiệu ứng thổ" ShuXingLeiXing="SoilReduce,0.012" />
+  <ShenYinZhuoYue ID="10" ShengYinLeiXing="1" PinZhi="4" ShuXing="Giảm hiệu ứng băng" ShuXingLeiXing="IceReduce,0.012" />
+  <ShenYinZhuoYue ID="11" ShengYinLeiXing="1" PinZhi="4" ShuXing="Giảm hiệu ứng phong" ShuXingLeiXing="WindReduce,0.012" />
+  <ShenYinZhuoYue ID="12" ShengYinLeiXing="1" PinZhi="4" ShuXing="Giảm DMG nguyên tố" ShuXingLeiXing="ElementAttackInjurePercent,0.009" />
+  <ShenYinZhuoYue ID="13" ShengYinLeiXing="2" PinZhi="4" ShuXing="DMG Xuyên Thấu (%)" ShuXingLeiXing="InjurePenetrationPercent,0.009" />
+  <ShenYinZhuoYue ID="14" ShengYinLeiXing="2" PinZhi="4" ShuXing="Kèm DMG&#xA;(Cố định)" ShuXingLeiXing="AddAttackInjure,900" />
+  <ShenYinZhuoYue ID="15" ShengYinLeiXing="2" PinZhi="4" ShuXing="Tỉ lệ đánh may mắn" ShuXingLeiXing="Lucky,0.006" />
+  <ShenYinZhuoYue ID="16" ShengYinLeiXing="2" PinZhi="4" ShuXing="Tỉ lệ đánh hoàn mỹ" ShuXingLeiXing="FatalAttack,0.006" />
+  <ShenYinZhuoYue ID="17" ShengYinLeiXing="2" PinZhi="4" ShuXing="Tỉ lệ đánh x2" ShuXingLeiXing="DoubleAttack,0.006" />
+  <ShenYinZhuoYue ID="18" ShengYinLeiXing="2" PinZhi="4" ShuXing="Tăng hiệu ứng hỏa" ShuXingLeiXing="FireEnhance,0.012" />
+  <ShenYinZhuoYue ID="19" ShengYinLeiXing="2" PinZhi="4" ShuXing="Tăng hiệu ứng thủy" ShuXingLeiXing="WaterEnhance,0.012" />
+  <ShenYinZhuoYue ID="20" ShengYinLeiXing="2" PinZhi="4" ShuXing="Tăng hiệu ứng lôi" ShuXingLeiXing="LightningEnhance,0.012" />
+  <ShenYinZhuoYue ID="21" ShengYinLeiXing="2" PinZhi="4" ShuXing="Tăng hiệu ứng thổ" ShuXingLeiXing="SoilEnhance,0.012" />
+  <ShenYinZhuoYue ID="22" ShengYinLeiXing="2" PinZhi="4" ShuXing="Tăng hiệu ứng băng" ShuXingLeiXing="IceEnhance,0.012" />
+  <ShenYinZhuoYue ID="23" ShengYinLeiXing="2" PinZhi="4" ShuXing="Tăng hiệu ứng phong" ShuXingLeiXing="WindEnhance,0.012" />
+  <ShenYinZhuoYue ID="24" ShengYinLeiXing="2" PinZhi="4" ShuXing="Xuyên nguyên tố" ShuXingLeiXing="ElementPenetration,0.009" />
+  <ShenYinZhuoYue ID="25" ShengYinLeiXing="3" PinZhi="4" ShuXing="DMG Xuyên Thấu (%)" ShuXingLeiXing="InjurePenetrationPercent,0.009" />
+  <ShenYinZhuoYue ID="26" ShengYinLeiXing="3" PinZhi="4" ShuXing="Kèm DMG&#xA;(Cố định)" ShuXingLeiXing="AddAttackInjure,900" />
+  <ShenYinZhuoYue ID="27" ShengYinLeiXing="3" PinZhi="4" ShuXing="Tỉ lệ đánh may mắn" ShuXingLeiXing="Lucky,0.006" />
+  <ShenYinZhuoYue ID="28" ShengYinLeiXing="3" PinZhi="4" ShuXing="Tỉ lệ đánh hoàn mỹ" ShuXingLeiXing="FatalAttack,0.006" />
+  <ShenYinZhuoYue ID="29" ShengYinLeiXing="3" PinZhi="4" ShuXing="Tỉ lệ đánh x2" ShuXingLeiXing="DoubleAttack,0.006" />
+  <ShenYinZhuoYue ID="30" ShengYinLeiXing="3" PinZhi="4" ShuXing="Tăng hiệu ứng hỏa" ShuXingLeiXing="FireEnhance,0.012" />
+  <ShenYinZhuoYue ID="31" ShengYinLeiXing="3" PinZhi="4" ShuXing="Tăng hiệu ứng thủy" ShuXingLeiXing="WaterEnhance,0.012" />
+  <ShenYinZhuoYue ID="32" ShengYinLeiXing="3" PinZhi="4" ShuXing="Tăng hiệu ứng lôi" ShuXingLeiXing="LightningEnhance,0.012" />
+  <ShenYinZhuoYue ID="33" ShengYinLeiXing="3" PinZhi="4" ShuXing="Tăng hiệu ứng thổ" ShuXingLeiXing="SoilEnhance,0.012" />
+  <ShenYinZhuoYue ID="34" ShengYinLeiXing="3" PinZhi="4" ShuXing="Tăng hiệu ứng băng" ShuXingLeiXing="IceEnhance,0.012" />
+  <ShenYinZhuoYue ID="35" ShengYinLeiXing="3" PinZhi="4" ShuXing="Tăng hiệu ứng phong" ShuXingLeiXing="WindEnhance,0.012" />
+  <ShenYinZhuoYue ID="36" ShengYinLeiXing="3" PinZhi="4" ShuXing="Xuyên nguyên tố" ShuXingLeiXing="ElementPenetration,0.009" />
+  <ShenYinZhuoYue ID="1" ShengYinLeiXing="1" PinZhi="6" ShuXing="Hút DMG&#xA;(%)" ShuXingLeiXing="SubAttackInjurePercent,0.015" />
+  <ShenYinZhuoYue ID="2" ShengYinLeiXing="1" PinZhi="6" ShuXing="Kháng DMG (Cố định)" ShuXingLeiXing="DecreaseInjureValue,3000" />
+  <ShenYinZhuoYue ID="3" ShengYinLeiXing="1" PinZhi="6" ShuXing="Kháng đánh may mắn" ShuXingLeiXing="DeLucky,0.01" />
+  <ShenYinZhuoYue ID="4" ShengYinLeiXing="1" PinZhi="6" ShuXing="Kháng đánh hoàn mỹ" ShuXingLeiXing="DeFatalAttack,0.01" />
+  <ShenYinZhuoYue ID="5" ShengYinLeiXing="1" PinZhi="6" ShuXing="Kháng đánh x2" ShuXingLeiXing="DeDoubleAttack,0.01" />
+  <ShenYinZhuoYue ID="6" ShengYinLeiXing="1" PinZhi="6" ShuXing="Giảm hiệu ứng hỏa" ShuXingLeiXing="FireReduce,0.02" />
+  <ShenYinZhuoYue ID="7" ShengYinLeiXing="1" PinZhi="6" ShuXing="Giảm hiệu ứng thủy" ShuXingLeiXing="WaterReduce,0.02" />
+  <ShenYinZhuoYue ID="8" ShengYinLeiXing="1" PinZhi="6" ShuXing="Giảm hiệu ứng lôi" ShuXingLeiXing="LightningReduce,0.02" />
+  <ShenYinZhuoYue ID="9" ShengYinLeiXing="1" PinZhi="6" ShuXing="Giảm hiệu ứng thổ" ShuXingLeiXing="SoilReduce,0.02" />
+  <ShenYinZhuoYue ID="10" ShengYinLeiXing="1" PinZhi="6" ShuXing="Giảm hiệu ứng băng" ShuXingLeiXing="IceReduce,0.02" />
+  <ShenYinZhuoYue ID="11" ShengYinLeiXing="1" PinZhi="6" ShuXing="Giảm hiệu ứng phong" ShuXingLeiXing="WindReduce,0.02" />
+  <ShenYinZhuoYue ID="12" ShengYinLeiXing="1" PinZhi="6" ShuXing="Giảm DMG nguyên tố" ShuXingLeiXing="ElementAttackInjurePercent,0.015" />
+  <ShenYinZhuoYue ID="13" ShengYinLeiXing="2" PinZhi="6" ShuXing="DMG Xuyên Thấu (%)" ShuXingLeiXing="InjurePenetrationPercent,0.015" />
+  <ShenYinZhuoYue ID="14" ShengYinLeiXing="2" PinZhi="6" ShuXing="Kèm DMG&#xA;(Cố định)" ShuXingLeiXing="AddAttackInjure,1500" />
+  <ShenYinZhuoYue ID="15" ShengYinLeiXing="2" PinZhi="6" ShuXing="Tỉ lệ đánh may mắn" ShuXingLeiXing="Lucky,0.01" />
+  <ShenYinZhuoYue ID="16" ShengYinLeiXing="2" PinZhi="6" ShuXing="Tỉ lệ đánh hoàn mỹ" ShuXingLeiXing="FatalAttack,0.01" />
+  <ShenYinZhuoYue ID="17" ShengYinLeiXing="2" PinZhi="6" ShuXing="Tỉ lệ đánh x2" ShuXingLeiXing="DoubleAttack,0.01" />
+  <ShenYinZhuoYue ID="18" ShengYinLeiXing="2" PinZhi="6" ShuXing="Tăng hiệu ứng hỏa" ShuXingLeiXing="FireEnhance,0.02" />
+  <ShenYinZhuoYue ID="19" ShengYinLeiXing="2" PinZhi="6" ShuXing="Tăng hiệu ứng thủy" ShuXingLeiXing="WaterEnhance,0.02" />
+  <ShenYinZhuoYue ID="20" ShengYinLeiXing="2" PinZhi="6" ShuXing="Tăng hiệu ứng lôi" ShuXingLeiXing="LightningEnhance,0.02" />
+  <ShenYinZhuoYue ID="21" ShengYinLeiXing="2" PinZhi="6" ShuXing="Tăng hiệu ứng thổ" ShuXingLeiXing="SoilEnhance,0.02" />
+  <ShenYinZhuoYue ID="22" ShengYinLeiXing="2" PinZhi="6" ShuXing="Tăng hiệu ứng băng" ShuXingLeiXing="IceEnhance,0.02" />
+  <ShenYinZhuoYue ID="23" ShengYinLeiXing="2" PinZhi="6" ShuXing="Tăng hiệu ứng phong" ShuXingLeiXing="WindEnhance,0.02" />
+  <ShenYinZhuoYue ID="24" ShengYinLeiXing="2" PinZhi="6" ShuXing="Xuyên nguyên tố" ShuXingLeiXing="ElementPenetration,0.015" />
+  <ShenYinZhuoYue ID="25" ShengYinLeiXing="3" PinZhi="6" ShuXing="DMG Xuyên Thấu (%)" ShuXingLeiXing="InjurePenetrationPercent,0.015" />
+  <ShenYinZhuoYue ID="26" ShengYinLeiXing="3" PinZhi="6" ShuXing="Kèm DMG&#xA;(Cố định)" ShuXingLeiXing="AddAttackInjure,1500" />
+  <ShenYinZhuoYue ID="27" ShengYinLeiXing="3" PinZhi="6" ShuXing="Tỉ lệ đánh may mắn" ShuXingLeiXing="Lucky,0.01" />
+  <ShenYinZhuoYue ID="28" ShengYinLeiXing="3" PinZhi="6" ShuXing="Tỉ lệ đánh hoàn mỹ" ShuXingLeiXing="FatalAttack,0.01" />
+  <ShenYinZhuoYue ID="29" ShengYinLeiXing="3" PinZhi="6" ShuXing="Tỉ lệ đánh x2" ShuXingLeiXing="DoubleAttack,0.01" />
+  <ShenYinZhuoYue ID="30" ShengYinLeiXing="3" PinZhi="6" ShuXing="Tăng hiệu ứng hỏa" ShuXingLeiXing="FireEnhance,0.02" />
+  <ShenYinZhuoYue ID="31" ShengYinLeiXing="3" PinZhi="6" ShuXing="Tăng hiệu ứng thủy" ShuXingLeiXing="WaterEnhance,0.02" />
+  <ShenYinZhuoYue ID="32" ShengYinLeiXing="3" PinZhi="6" ShuXing="Tăng hiệu ứng lôi" ShuXingLeiXing="LightningEnhance,0.02" />
+  <ShenYinZhuoYue ID="33" ShengYinLeiXing="3" PinZhi="6" ShuXing="Tăng hiệu ứng thổ" ShuXingLeiXing="SoilEnhance,0.02" />
+  <ShenYinZhuoYue ID="34" ShengYinLeiXing="3" PinZhi="6" ShuXing="Tăng hiệu ứng băng" ShuXingLeiXing="IceEnhance,0.02" />
+  <ShenYinZhuoYue ID="35" ShengYinLeiXing="3" PinZhi="6" ShuXing="Tăng hiệu ứng phong" ShuXingLeiXing="WindEnhance,0.02" />
+  <ShenYinZhuoYue ID="36" ShengYinLeiXing="3" PinZhi="6" ShuXing="Xuyên nguyên tố" ShuXingLeiXing="ElementPenetration,0.015" />
+</Config>

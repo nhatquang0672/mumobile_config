@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+	<Activities ActivityType="13" FromDate="2026-05-24 00:00:00" ToDate="2026-05-31 23:59:59" AwardStartDate="2026-05-24 00:00:00" AwardEndDate="2026-05-31 23:59:59"/>
+	<GiftList Description="Trong thời gian event, nạp tích lũy đạt số lượng nhất định có thể nhận được thưởng nạp tương ứng!">
+    <Award ID="1" MinYuanBao="1000000" GoodsOne="30151188,5,1,0,0,0,0|30151187,10,1,0,0,0,0|1035099,3,1,0,0,0,0|50306,50,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="2" MinYuanBao="3000000" GoodsOne="30151188,5,1,0,0,0,0|30151187,20,1,0,0,0,0|1035099,3,1,0,0,0,0|50306,50,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="3" MinYuanBao="6000000" GoodsOne="30151188,5,1,0,0,0,0|30151187,40,1,0,0,0,0|1035099,3,1,0,0,0,0|50306,50,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="4" MinYuanBao="9000000" GoodsOne="30151188,10,1,0,0,0,0|30151187,50,1,0,0,0,0|1035099,3,1,0,0,0,0|50306,50,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="5" MinYuanBao="15000000" GoodsOne="30151188,15,1,0,0,0,0|30151187,90,1,0,0,0,0|1035099,3,1,0,0,0,0|50306,100,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="6" MinYuanBao="20000000" GoodsOne="30151188,20,1,0,0,0,0|30151187,450,1,0,0,0,0|1035099,3,1,0,0,0,0|50306,100,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="7" MinYuanBao="25000000" GoodsOne="30151188,25,1,0,0,0,0|30151187,450,1,0,0,0,0|1035099,3,1,0,0,0,0|50306,200,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="8" MinYuanBao="30000000" GoodsOne="30151188,30,1,0,0,0,0|30151187,450,1,0,0,0,0|1035099,3,1,0,0,0,0|50306,200,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="9" MinYuanBao="50000000" GoodsOne="30151188,35,1,0,0,0,0|30151187,450,1,0,0,0,0|1035099,3,1,0,0,0,0|50306,200,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="10" MinYuanBao="70000000" GoodsOne="30151188,40,1,0,0,0,0|30151187,450,1,0,0,0,0|1035099,4,1,0,0,0,0|50306,300,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="11" MinYuanBao="100000000" GoodsOne="30151188,45,1,0,0,0,0|30151187,500,1,0,0,0,0|302722806,5,1,0,0,0,0|50306,400,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="12" MinYuanBao="150000000" GoodsOne="30151188,50,1,0,0,0,0|30151187,550,1,0,0,0,0|302722806,10,1,0,0,0,0|50306,400,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="13" MinYuanBao="190000000" GoodsOne="30151188,55,1,0,0,0,0|30151187,600,1,0,0,0,0|302722806,15,1,0,0,0,0|50306,400,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="14" MinYuanBao="260000000" GoodsOne="30151188,60,1,0,0,0,0|30151187,750,1,0,0,0,0|302722806,20,1,0,0,0,0|50306,450,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="15" MinYuanBao="340000000" GoodsOne="30151188,65,1,0,0,0,0|30151187,800,1,0,0,0,0|302722806,25,1,0,0,0,0|50306,500,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="16" MinYuanBao="420000000" GoodsOne="30151188,70,1,0,0,0,0|30151187,850,1,0,0,0,0|302722806,30,1,0,0,0,0|50306,500,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="17" MinYuanBao="570000000" GoodsOne="30151188,75,1,0,0,0,0|30151187,850,1,0,0,0,0|302722806,35,1,0,0,0,0|50306,600,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="18" MinYuanBao="670000000" GoodsOne="30151188,80,1,0,0,0,0|30151187,850,1,0,0,0,0|302722806,40,1,0,0,0,0|50306,700,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="19" MinYuanBao="770000000" GoodsOne="30151188,90,1,0,0,0,0|30151187,850,1,0,0,0,0|302722806,45,1,0,0,0,0|50306,800,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="20" MinYuanBao="970000000" GoodsOne="30151188,100,1,0,0,0,0|30151187,850,1,0,0,0,0|302722806,50,1,0,0,0,0|50306,800,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+
+  </GiftList>
+</Config>

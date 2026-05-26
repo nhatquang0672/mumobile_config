@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <ShenQiSkillUnlock ID="1" Type="1" SkillNum="1" UnlockLev="1" SkillName="Thể Chất" SkillIcon="20001" />
+  <ShenQiSkillUnlock ID="2" Type="1" SkillNum="2" UnlockLev="50" SkillName="Hồi Phục" SkillIcon="21001" />
+  <ShenQiSkillUnlock ID="3" Type="1" SkillNum="3" UnlockLev="120" SkillName="Chúc Phúc" SkillIcon="22001" />
+  <ShenQiSkillUnlock ID="4" Type="1" SkillNum="4" UnlockLev="200" SkillName="Đảo Ngược" SkillIcon="23001" />
+  <ShenQiSkillUnlock ID="5" Type="2" SkillNum="1" UnlockLev="1" SkillName="Phòng Ngự" SkillIcon="24001" />
+  <ShenQiSkillUnlock ID="6" Type="2" SkillNum="2" UnlockLev="50" SkillName="Kiên Cố" SkillIcon="25001" />
+  <ShenQiSkillUnlock ID="7" Type="2" SkillNum="3" UnlockLev="120" SkillName="Phản Kích" SkillIcon="26001" />
+  <ShenQiSkillUnlock ID="8" Type="2" SkillNum="4" UnlockLev="200" SkillName="Bất Diệt" SkillIcon="27001" />
+  <ShenQiSkillUnlock ID="9" Type="3" SkillNum="1" UnlockLev="1" SkillName="Cuồng Bạo" SkillIcon="28001" />
+  <ShenQiSkillUnlock ID="10" Type="3" SkillNum="2" UnlockLev="50" SkillName="Tinh Thông" SkillIcon="29001" />
+  <ShenQiSkillUnlock ID="11" Type="3" SkillNum="3" UnlockLev="120" SkillName="Sắc Bén" SkillIcon="30001" />
+  <ShenQiSkillUnlock ID="12" Type="3" SkillNum="4" UnlockLev="200" SkillName="Chấn Nhiếp" SkillIcon="31001" />
+  <ShenQiSkillUnlock ID="13" Type="4" SkillNum="1" UnlockLev="1" SkillName="Bạo Thương" SkillIcon="32001" />
+  <ShenQiSkillUnlock ID="14" Type="4" SkillNum="2" UnlockLev="50" SkillName="Hảo Vũ" SkillIcon="35001" />
+  <ShenQiSkillUnlock ID="15" Type="4" SkillNum="3" UnlockLev="120" SkillName="Phẫn Nộ" SkillIcon="33001" />
+  <ShenQiSkillUnlock ID="16" Type="4" SkillNum="4" UnlockLev="200" SkillName="Phá Diệt" SkillIcon="34001" />
+</Config>

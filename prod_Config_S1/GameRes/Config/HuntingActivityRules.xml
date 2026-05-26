@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HuntingActivityRules ID="0" Name="Săn Bắt Đào Vong" MapCode="97005" TimePoints="2,21:30:00-22:00:00|5,21:30:00-22:00:00" SignCondition="1|2" MaxEnterNum="3" PrepareSecs="60" FightingSecs="360" ClearRolesSecs="60" BattleSignSecs="120" SeasonFightDay="4" RewardView="63195|2302|50159" HuntingModID="9852000|9852001" />
+</Config>

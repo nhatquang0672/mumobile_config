@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HuiGuiDayZhiGou ID="66" HuoDongLevel="1" TotalYuanBao="0,-1" Day="1" Price="1|1|66" GoodsID1="2005,1,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="67" HuoDongLevel="1" TotalYuanBao="0,-1" Day="1" Price="1|2|67" GoodsID1="2005,2,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="68" HuoDongLevel="1" TotalYuanBao="0,-1" Day="2" Price="1|3|68" GoodsID1="2005,3,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="69" HuoDongLevel="1" TotalYuanBao="0,-1" Day="2" Price="1|4|69" GoodsID1="2005,4,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="70" HuoDongLevel="1" TotalYuanBao="0,-1" Day="3" Price="1|5|70" GoodsID1="2005,5,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="71" HuoDongLevel="1" TotalYuanBao="0,-1" Day="3" Price="1|1|71" GoodsID1="2005,1,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="72" HuoDongLevel="1" TotalYuanBao="0,-1" Day="4" Price="1|2|72" GoodsID1="2005,2,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="73" HuoDongLevel="1" TotalYuanBao="0,-1" Day="4" Price="1|3|73" GoodsID1="2005,3,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="74" HuoDongLevel="1" TotalYuanBao="0,-1" Day="5" Price="1|4|74" GoodsID1="2005,4,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="75" HuoDongLevel="1" TotalYuanBao="0,-1" Day="6" Price="1|5|75" GoodsID1="2005,5,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="76" HuoDongLevel="2" TotalYuanBao="0,-1" Day="1" Price="1|1|76" GoodsID1="2005,1,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="77" HuoDongLevel="2" TotalYuanBao="0,-1" Day="1" Price="1|2|77" GoodsID1="2005,2,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="78" HuoDongLevel="2" TotalYuanBao="0,-1" Day="2" Price="1|3|78" GoodsID1="2005,3,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="79" HuoDongLevel="2" TotalYuanBao="0,-1" Day="2" Price="1|4|79" GoodsID1="2005,4,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="80" HuoDongLevel="2" TotalYuanBao="0,-1" Day="3" Price="1|5|80" GoodsID1="2005,5,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="81" HuoDongLevel="2" TotalYuanBao="0,-1" Day="3" Price="1|1|81" GoodsID1="2005,1,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="82" HuoDongLevel="2" TotalYuanBao="0,-1" Day="4" Price="1|2|82" GoodsID1="2005,2,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="83" HuoDongLevel="2" TotalYuanBao="0,-1" Day="4" Price="1|3|83" GoodsID1="2005,3,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="84" HuoDongLevel="2" TotalYuanBao="0,-1" Day="5" Price="1|4|84" GoodsID1="2005,4,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="85" HuoDongLevel="2" TotalYuanBao="0,-1" Day="6" Price="1|5|85" GoodsID1="2005,5,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="86" HuoDongLevel="3" TotalYuanBao="0,-1" Day="1" Price="1|1|86" GoodsID1="2005,1,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="87" HuoDongLevel="3" TotalYuanBao="0,-1" Day="1" Price="1|2|87" GoodsID1="2005,2,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="88" HuoDongLevel="3" TotalYuanBao="0,-1" Day="2" Price="1|3|88" GoodsID1="2005,3,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="89" HuoDongLevel="3" TotalYuanBao="0,-1" Day="2" Price="1|4|89" GoodsID1="2005,4,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="90" HuoDongLevel="3" TotalYuanBao="0,-1" Day="3" Price="1|5|90" GoodsID1="2005,5,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="91" HuoDongLevel="3" TotalYuanBao="0,-1" Day="3" Price="1|1|91" GoodsID1="2005,1,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="92" HuoDongLevel="3" TotalYuanBao="0,-1" Day="4" Price="1|2|92" GoodsID1="2005,2,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="93" HuoDongLevel="3" TotalYuanBao="0,-1" Day="4" Price="1|3|93" GoodsID1="2005,3,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="94" HuoDongLevel="3" TotalYuanBao="0,-1" Day="5" Price="1|4|94" GoodsID1="2005,4,1,0,0,0,0" GoodsID2="" Max="5" />
+  <HuiGuiDayZhiGou ID="95" HuoDongLevel="3" TotalYuanBao="0,-1" Day="6" Price="1|5|95" GoodsID1="2005,5,1,0,0,0,0" GoodsID2="" Max="5" />
+
+</Config>

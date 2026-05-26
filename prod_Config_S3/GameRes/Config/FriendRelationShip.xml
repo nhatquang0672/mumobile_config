@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <FriendRelationShip ID="1" FriendName="Bạn Thân" FriendAddNum="3" FriendBuffID="2000864" />
+  <FriendRelationShip ID="2" FriendName="Bạn Gái" FriendAddNum="3" FriendBuffID="2000864" />
+  <FriendRelationShip ID="3" FriendName="Bè Lũ" FriendAddNum="3" FriendBuffID="2000864" />
+  <FriendRelationShip ID="4" FriendName="Anh Em" FriendAddNum="3" FriendBuffID="2000864" />
+</Config>

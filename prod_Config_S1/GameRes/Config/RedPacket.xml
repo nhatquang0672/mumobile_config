@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <RedPacket ID="1" RedPacketType="1" RedPacketCon="10000" RedPacketNum="9" RedPacketReward="1300100" GetRewardMin="3" GetRewardMax="50" RedPacketTime="3600" />
+  <RedPacket ID="2" RedPacketType="2" RedPacketCon="10001" RedPacketNum="9" RedPacketReward="1300100" GetRewardMin="4" GetRewardMax="50" RedPacketTime="3600" />
+  <RedPacket ID="3" RedPacketType="1" RedPacketCon="10002" RedPacketNum="9" RedPacketReward="1300100" GetRewardMin="6" GetRewardMax="50" RedPacketTime="3600" />
+  <RedPacket ID="4" RedPacketType="2" RedPacketCon="10003" RedPacketNum="9" RedPacketReward="1300100" GetRewardMin="3" GetRewardMax="50" RedPacketTime="3600" />
+  <RedPacket ID="5" RedPacketType="1" RedPacketCon="10004" RedPacketNum="9" RedPacketReward="1300100" GetRewardMin="3" GetRewardMax="50" RedPacketTime="3600" />
+  <RedPacket ID="6" RedPacketType="2" RedPacketCon="10005" RedPacketNum="9" RedPacketReward="1300100" GetRewardMin="3" GetRewardMax="50" RedPacketTime="3600" />
+  <RedPacket ID="7" RedPacketType="1" RedPacketCon="10006" RedPacketNum="9" RedPacketReward="1300100" GetRewardMin="3" GetRewardMax="50" RedPacketTime="3600" />
+  <RedPacket ID="8" RedPacketType="2" RedPacketCon="10007" RedPacketNum="9" RedPacketReward="1300100" GetRewardMin="3" GetRewardMax="50" RedPacketTime="3600" />
+  <RedPacket ID="9" RedPacketType="1" RedPacketCon="10008" RedPacketNum="9" RedPacketReward="1300100" GetRewardMin="3" GetRewardMax="50" RedPacketTime="3600" />
+</Config>

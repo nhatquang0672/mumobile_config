@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="33" />
+  <GiftList Title="Vua Tăng Cấp" Description="Trong thời gian event đạt cấp chuyển theo yêu cầu sẽ nhận quà phong phú!">
+  <Award ID="1" MinZhuanSheng="4" MinLevel="1" GoodsOne="5181,10,1,0,0,0,0|4041,2,1,0,0,0,0|30151053,5,1,0,0,0,0|63021,5,1,0,0,0,0|30151250,1,1,0,0,0,0" GoodsTwo="" Roles="100"/>
+  <Award ID="2" MinZhuanSheng="3" MinLevel="80" GoodsOne="5180,5,1,0,0,0,0|4041,1,1,0,0,0,0|30151053,3,1,0,0,0,0|63021,3,1,0,0,0,0|7005,5,1,0,0,0,0" GoodsTwo="" Roles="200"/>
+  <Award ID="3" MinZhuanSheng="3" MinLevel="1" GoodsOne="5180,5,1,0,0,0,0|4037,2,1,0,0,0,0|30151053,2,1,0,0,0,0|63021,2,1,0,0,0,0|7004,10,1,0,0,0,0" GoodsTwo="" Roles="300"/>
+  <Award ID="4" MinZhuanSheng="2" MinLevel="80" GoodsOne="5180,5,1,0,0,0,0|4037,1,1,0,0,0,0|30151053,2,1,0,0,0,0|63021,2,1,0,0,0,0|7004,5,1,0,0,0,0" GoodsTwo="" Roles="500"/>
+  <Award ID="5" MinZhuanSheng="1" MinLevel="80" GoodsOne="5180,5,1,0,0,0,0|4032,1,1,0,0,0,0|30151053,2,1,0,0,0,0|63021,2,1,0,0,0,0|7004,5,1,0,0,0,0" GoodsTwo="" Roles="800"/>
+  </GiftList>
+</Config>

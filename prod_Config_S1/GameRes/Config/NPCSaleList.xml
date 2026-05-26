@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <SaleList>
+    <Sale ID="1" SaleType="8" Description="Tiệm Vũ Khí-Vàng" Items="" />
+    <Sale ID="2" SaleType="8" Description="Tiệm Phòng Cụ-Vàng" Items="" />
+    <Sale ID="3" SaleType="8" Description="Tiệm Thuốc-Vàng" Items="1000,0,0,0,0|1001,0,0,0,0|1002,0,0,0,0|1100,0,0,0,0" />
+    <Sale ID="4" SaleType="13" Description="Tiệm Điểm" Items="" />
+    <Sale ID="11" SaleType="1" Description="Tiệm Vũ Khí-Vàng Khóa" Items="" />
+    <Sale ID="21" SaleType="1" Description="Tiệm Phòng Cụ-Vàng Khóa" Items="" />
+    <Sale ID="31" SaleType="1" Description="Tiệm Thuốc-Vàng Khóa" Items="1000,0,0,0,0|1001,0,0,0,0|1002,0,0,0,0|1100,0,0,0,0" />
+  </SaleList>
+</Config>

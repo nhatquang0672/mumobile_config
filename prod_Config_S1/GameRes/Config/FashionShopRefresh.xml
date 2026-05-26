@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <FashionShopRefresh ID="1" Round="53" SpecialPick="2_2|4_2" CommonPick="1" />
+  <FashionShopRefresh ID="2" Round="37" SpecialPick="2_1|4_1" CommonPick="1" />
+  <FashionShopRefresh ID="3" Round="7" SpecialPick="3_1" CommonPick="1" />
+  <FashionShopRefresh ID="4" Round="1" SpecialPick="" CommonPick="1" />
+</Config>

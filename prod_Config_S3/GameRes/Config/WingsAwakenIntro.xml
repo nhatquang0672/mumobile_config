@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Thức Tỉnh Cánh" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Thức Tỉnh Cánh gồm 100 cấp, cần tốn {17e43e}Ánh Sao{dac7ae} để tăng cấp" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, Thức Tỉnh Cánh tăng đến cấp nhất định sẽ mở ô Thần Vân, sau khi mở ô Thần Vân có thể khảm Thần Vân" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, Thần Vân có 5 loại, 3 loại phẩm chất, sau khi thu thập Thần Vân cùng loại đủ số lượng nhất định sẽ nhận hiệu quả bộ tương ứng" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, Loại Thần Vân gồm: {17e43e}Thần Thánh {dac7ae}, {17e43e}Ám Ảnh {dac7ae}, {17e43e}Tự Nhiên {dac7ae}, {17e43e}Hỗn Độn{dac7ae}, {17e43e}Ác Mộng{dac7ae}, Thần Vân khác loại sẽ tăng t.tính khác nhau" Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5, {17e43e}Ánh Sao{dac7ae} nhận trong PB BOSS Cá Nhân, {17e43e}Thần Vân{dac7ae} có thể tách, sau khi tách nhận {17e43e}Ánh Sao{dac7ae}" Bold="0" />
+</Config>

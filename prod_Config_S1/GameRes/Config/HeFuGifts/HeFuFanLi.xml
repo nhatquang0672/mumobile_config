@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="23" />
+  <GiftList Title="Ưu đãi nạp" Description="Trong vòng 5 ngày sau khi gộp server, nạp mỗi ngày có thể nhận được Kim Cương hoàn trả, nằm trong top 4 có thể nhận được Kim Cương hoàn trả giá trị cao.">
+  <Award Level="1" FanLi="0.2" MinYuanBao="100000"/>
+  <Award Level="2" FanLi="0.1" MinYuanBao="50000"/>
+  <Award Level="3" FanLi="0.08" MinYuanBao="30000"/>
+  <Award Level="4" FanLi="0.05" MinYuanBao="10000"/>
+  <Award Level="" FanLi="0.03" MinYuanBao=""/>
+  </GiftList>
+</Config>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <BiZhangRandomProperty ID="1" ProID="1" Pro="AddAttackInjurePercent,0.02" />
+  <BiZhangRandomProperty ID="2" ProID="2" Pro="HitPercent,0.02" />
+  <BiZhangRandomProperty ID="3" ProID="3" Pro="IgnoreDefenseRate,0.02" />
+  <BiZhangRandomProperty ID="4" ProID="4" Pro="DoubleAttack,0.02" />
+  <BiZhangRandomProperty ID="5" ProID="5" Pro="InjurePenetrationPercent,0.02" />
+  <BiZhangRandomProperty ID="6" ProID="6" Pro="AddAttack,1000" />
+  <BiZhangRandomProperty ID="7" ProID="7" Pro="AddAttackInjure,1000" />
+  <BiZhangRandomProperty ID="8" ProID="8" Pro="MaxLifePercent,0.02" />
+  <BiZhangRandomProperty ID="9" ProID="9" Pro="DodgePercent,0.02" />
+  <BiZhangRandomProperty ID="10" ProID="10" Pro="DamageThornPercent,0.02" />
+  <BiZhangRandomProperty ID="11" ProID="11" Pro="DeDoubleAttack,0.02" />
+  <BiZhangRandomProperty ID="12" ProID="12" Pro="SubAttackInjurePercent,0.02" />
+  <BiZhangRandomProperty ID="13" ProID="13" Pro="AddDefense,1000" />
+  <BiZhangRandomProperty ID="14" ProID="14" Pro="DecreaseInjureValue,1000" />
+  <BiZhangRandomProperty ID="15" ProID="15" Pro="AddAttackInjurePercent,0.03" />
+  <BiZhangRandomProperty ID="16" ProID="16" Pro="HitPercent,0.03" />
+  <BiZhangRandomProperty ID="17" ProID="17" Pro="IgnoreDefenseRate,0.03" />
+  <BiZhangRandomProperty ID="18" ProID="18" Pro="DoubleAttack,0.03" />
+  <BiZhangRandomProperty ID="19" ProID="19" Pro="InjurePenetrationPercent,0.03" />
+  <BiZhangRandomProperty ID="20" ProID="20" Pro="AddAttack,3000" />
+  <BiZhangRandomProperty ID="21" ProID="21" Pro="AddAttackInjure,3000" />
+  <BiZhangRandomProperty ID="22" ProID="22" Pro="MaxLifePercent,0.03" />
+  <BiZhangRandomProperty ID="23" ProID="23" Pro="DodgePercent,0.03" />
+  <BiZhangRandomProperty ID="24" ProID="24" Pro="DamageThornPercent,0.03" />
+  <BiZhangRandomProperty ID="25" ProID="25" Pro="DeDoubleAttack,0.03" />
+  <BiZhangRandomProperty ID="26" ProID="26" Pro="SubAttackInjurePercent,0.03" />
+  <BiZhangRandomProperty ID="27" ProID="27" Pro="AddDefense,3000" />
+  <BiZhangRandomProperty ID="28" ProID="28" Pro="DecreaseInjureValue,3000" />
+  <BiZhangRandomProperty ID="29" ProID="29" Pro="AddAttackInjurePercent,0.05" />
+  <BiZhangRandomProperty ID="30" ProID="30" Pro="HitPercent,0.05" />
+  <BiZhangRandomProperty ID="31" ProID="31" Pro="IgnoreDefenseRate,0.05" />
+  <BiZhangRandomProperty ID="32" ProID="32" Pro="DoubleAttack,0.05" />
+  <BiZhangRandomProperty ID="33" ProID="33" Pro="InjurePenetrationPercent,0.05" />
+  <BiZhangRandomProperty ID="34" ProID="34" Pro="AddAttack,5000" />
+  <BiZhangRandomProperty ID="35" ProID="35" Pro="AddAttackInjure,5000" />
+  <BiZhangRandomProperty ID="36" ProID="36" Pro="MaxLifePercent,0.05" />
+  <BiZhangRandomProperty ID="37" ProID="37" Pro="DodgePercent,0.05" />
+  <BiZhangRandomProperty ID="38" ProID="38" Pro="DamageThornPercent,0.05" />
+  <BiZhangRandomProperty ID="39" ProID="39" Pro="DeDoubleAttack,0.05" />
+  <BiZhangRandomProperty ID="40" ProID="40" Pro="SubAttackInjurePercent,0.05" />
+  <BiZhangRandomProperty ID="41" ProID="41" Pro="AddDefense,5000" />
+  <BiZhangRandomProperty ID="42" ProID="42" Pro="DecreaseInjureValue,5000" />
+</Config>

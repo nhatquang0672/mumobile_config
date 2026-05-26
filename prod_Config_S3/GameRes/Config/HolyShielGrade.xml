@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <HolyShielGrade Level="1" Name="Khiên Hòa Bình" Prop="AegisAbsorbPercent,0.004|AegisReduce,0.003" />
+  <HolyShielGrade Level="2" Name="Khiên Hòa Bình" Prop="AegisAbsorbPercent,0.008|AegisReduce,0.006" />
+  <HolyShielGrade Level="3" Name="Khiên Hòa Bình" Prop="AegisAbsorbPercent,0.012|AegisReduce,0.009" />
+  <HolyShielGrade Level="4" Name="Khiên Hòa Bình" Prop="AegisAbsorbPercent,0.016|AegisReduce,0.012" />
+  <HolyShielGrade Level="5" Name="Khiên Hòa Bình" Prop="AegisAbsorbPercent,0.02|AegisReduce,0.015" />
+  <HolyShielGrade Level="6" Name="Khiên Hòa Bình" Prop="AegisAbsorbPercent,0.024|AegisReduce,0.018" />
+  <HolyShielGrade Level="7" Name="Khiên Hòa Bình" Prop="AegisAbsorbPercent,0.028|AegisReduce,0.021" />
+  <HolyShielGrade Level="8" Name="Khiên Hòa Bình" Prop="AegisAbsorbPercent,0.032|AegisReduce,0.024" />
+  <HolyShielGrade Level="9" Name="Khiên Hòa Bình" Prop="AegisAbsorbPercent,0.036|AegisReduce,0.027" />
+  <HolyShielGrade Level="10" Name="Khiên Hòa Bình" Prop="AegisAbsorbPercent,0.04|AegisReduce,0.03" />
+  <HolyShielGrade Level="11" Name="Khiên Vệ Quốc" Prop="AegisAbsorbPercent,0.044|AegisReduce,0.033" />
+  <HolyShielGrade Level="12" Name="Khiên Vệ Quốc" Prop="AegisAbsorbPercent,0.048|AegisReduce,0.036" />
+  <HolyShielGrade Level="13" Name="Khiên Vệ Quốc" Prop="AegisAbsorbPercent,0.052|AegisReduce,0.039" />
+  <HolyShielGrade Level="14" Name="Khiên Vệ Quốc" Prop="AegisAbsorbPercent,0.056|AegisReduce,0.042" />
+  <HolyShielGrade Level="15" Name="Khiên Vệ Quốc" Prop="AegisAbsorbPercent,0.06|AegisReduce,0.045" />
+  <HolyShielGrade Level="16" Name="Khiên Vệ Quốc" Prop="AegisAbsorbPercent,0.064|AegisReduce,0.048" />
+  <HolyShielGrade Level="17" Name="Khiên Vệ Quốc" Prop="AegisAbsorbPercent,0.068|AegisReduce,0.051" />
+  <HolyShielGrade Level="18" Name="Khiên Vệ Quốc" Prop="AegisAbsorbPercent,0.072|AegisReduce,0.054" />
+  <HolyShielGrade Level="19" Name="Khiên Vệ Quốc" Prop="AegisAbsorbPercent,0.076|AegisReduce,0.057" />
+  <HolyShielGrade Level="20" Name="Khiên Vệ Quốc" Prop="AegisAbsorbPercent,0.08|AegisReduce,0.06" />
+  <HolyShielGrade Level="21" Name="Khiên Thiên Khải" Prop="AegisAbsorbPercent,0.084|AegisReduce,0.063" />
+  <HolyShielGrade Level="22" Name="Khiên Thiên Khải" Prop="AegisAbsorbPercent,0.088|AegisReduce,0.066" />
+  <HolyShielGrade Level="23" Name="Khiên Thiên Khải" Prop="AegisAbsorbPercent,0.092|AegisReduce,0.069" />
+  <HolyShielGrade Level="24" Name="Khiên Thiên Khải" Prop="AegisAbsorbPercent,0.096|AegisReduce,0.072" />
+  <HolyShielGrade Level="25" Name="Khiên Thiên Khải" Prop="AegisAbsorbPercent,0.1|AegisReduce,0.075" />
+  <HolyShielGrade Level="26" Name="Khiên Thiên Khải" Prop="AegisAbsorbPercent,0.104|AegisReduce,0.078" />
+  <HolyShielGrade Level="27" Name="Khiên Thiên Khải" Prop="AegisAbsorbPercent,0.108|AegisReduce,0.081" />
+  <HolyShielGrade Level="28" Name="Khiên Thiên Khải" Prop="AegisAbsorbPercent,0.112|AegisReduce,0.084" />
+  <HolyShielGrade Level="29" Name="Khiên Thiên Khải" Prop="AegisAbsorbPercent,0.116|AegisReduce,0.087" />
+  <HolyShielGrade Level="30" Name="Khiên Thiên Khải" Prop="AegisAbsorbPercent,0.12|AegisReduce,0.09" />
+  <HolyShielGrade Level="31" Name="Khiên Gabriel" Prop="AegisAbsorbPercent,0.124|AegisReduce,0.093" />
+  <HolyShielGrade Level="32" Name="Khiên Gabriel" Prop="AegisAbsorbPercent,0.128|AegisReduce,0.096" />
+  <HolyShielGrade Level="33" Name="Khiên Gabriel" Prop="AegisAbsorbPercent,0.132|AegisReduce,0.099" />
+  <HolyShielGrade Level="34" Name="Khiên Gabriel" Prop="AegisAbsorbPercent,0.136|AegisReduce,0.102" />
+  <HolyShielGrade Level="35" Name="Khiên Gabriel" Prop="AegisAbsorbPercent,0.14|AegisReduce,0.105" />
+  <HolyShielGrade Level="36" Name="Khiên Gabriel" Prop="AegisAbsorbPercent,0.144|AegisReduce,0.108" />
+  <HolyShielGrade Level="37" Name="Khiên Gabriel" Prop="AegisAbsorbPercent,0.148|AegisReduce,0.111" />
+  <HolyShielGrade Level="38" Name="Khiên Gabriel" Prop="AegisAbsorbPercent,0.152|AegisReduce,0.114" />
+  <HolyShielGrade Level="39" Name="Khiên Gabriel" Prop="AegisAbsorbPercent,0.156|AegisReduce,0.117" />
+  <HolyShielGrade Level="40" Name="Khiên Gabriel" Prop="AegisAbsorbPercent,0.16|AegisReduce,0.12" />
+  <HolyShielGrade Level="41" Name="Khiên Remuel " Prop="AegisAbsorbPercent,0.164|AegisReduce,0.123" />
+  <HolyShielGrade Level="42" Name="Khiên Remuel " Prop="AegisAbsorbPercent,0.168|AegisReduce,0.126" />
+  <HolyShielGrade Level="43" Name="Khiên Remuel " Prop="AegisAbsorbPercent,0.172|AegisReduce,0.129" />
+  <HolyShielGrade Level="44" Name="Khiên Remuel " Prop="AegisAbsorbPercent,0.176|AegisReduce,0.132" />
+  <HolyShielGrade Level="45" Name="Khiên Remuel " Prop="AegisAbsorbPercent,0.18|AegisReduce,0.135" />
+  <HolyShielGrade Level="46" Name="Khiên Remuel " Prop="AegisAbsorbPercent,0.184|AegisReduce,0.138" />
+  <HolyShielGrade Level="47" Name="Khiên Remuel " Prop="AegisAbsorbPercent,0.188|AegisReduce,0.141" />
+  <HolyShielGrade Level="48" Name="Khiên Remuel " Prop="AegisAbsorbPercent,0.192|AegisReduce,0.144" />
+  <HolyShielGrade Level="49" Name="Khiên Remuel " Prop="AegisAbsorbPercent,0.196|AegisReduce,0.147" />
+  <HolyShielGrade Level="50" Name="Khiên Remuel " Prop="AegisAbsorbPercent,0.2|AegisReduce,0.15" />
+  <HolyShielGrade Level="51" Name="Khiên Michael " Prop="AegisAbsorbPercent,0.204|AegisReduce,0.153" />
+  <HolyShielGrade Level="52" Name="Khiên Michael " Prop="AegisAbsorbPercent,0.208|AegisReduce,0.156" />
+  <HolyShielGrade Level="53" Name="Khiên Michael " Prop="AegisAbsorbPercent,0.212|AegisReduce,0.159" />
+  <HolyShielGrade Level="54" Name="Khiên Michael " Prop="AegisAbsorbPercent,0.216|AegisReduce,0.162" />
+  <HolyShielGrade Level="55" Name="Khiên Michael " Prop="AegisAbsorbPercent,0.22|AegisReduce,0.165" />
+  <HolyShielGrade Level="56" Name="Khiên Michael " Prop="AegisAbsorbPercent,0.224|AegisReduce,0.168" />
+  <HolyShielGrade Level="57" Name="Khiên Michael " Prop="AegisAbsorbPercent,0.228|AegisReduce,0.171" />
+  <HolyShielGrade Level="58" Name="Khiên Michael " Prop="AegisAbsorbPercent,0.232|AegisReduce,0.174" />
+  <HolyShielGrade Level="59" Name="Khiên Michael " Prop="AegisAbsorbPercent,0.236|AegisReduce,0.177" />
+  <HolyShielGrade Level="60" Name="Khiên Michael " Prop="AegisAbsorbPercent,0.24|AegisReduce,0.18" />
+  <HolyShielGrade Level="61" Name="Khiên Michael " Prop="AegisAbsorbPercent,0.244|AegisReduce,0.183" />
+  <HolyShielGrade Level="62" Name="Khiên Michael " Prop="AegisAbsorbPercent,0.248|AegisReduce,0.186" />
+  <HolyShielGrade Level="63" Name="Khiên Michael " Prop="AegisAbsorbPercent,0.252|AegisReduce,0.189" />
+  <HolyShielGrade Level="64" Name="Khiên Michael " Prop="AegisAbsorbPercent,0.256|AegisReduce,0.192" />
+  <HolyShielGrade Level="65" Name="Khiên Michael " Prop="AegisAbsorbPercent,0.26|AegisReduce,0.195" />
+  <HolyShielGrade Level="66" Name="Khiên Michael " Prop="AegisAbsorbPercent,0.264|AegisReduce,0.198" />
+  <HolyShielGrade Level="67" Name="Khiên Michael " Prop="AegisAbsorbPercent,0.268|AegisReduce,0.201" />
+  <HolyShielGrade Level="68" Name="Khiên Michael " Prop="AegisAbsorbPercent,0.272|AegisReduce,0.204" />
+  <HolyShielGrade Level="69" Name="Khiên Michael " Prop="AegisAbsorbPercent,0.276|AegisReduce,0.207" />
+  <HolyShielGrade Level="70" Name="Khiên Michael " Prop="AegisAbsorbPercent,0.28|AegisReduce,0.21" />
+  <HolyShielGrade Level="71" Name="Khiên Athena " Prop="AegisAbsorbPercent,0.284|AegisReduce,0.213" />
+  <HolyShielGrade Level="72" Name="Khiên Athena " Prop="AegisAbsorbPercent,0.288|AegisReduce,0.216" />
+  <HolyShielGrade Level="73" Name="Khiên Athena " Prop="AegisAbsorbPercent,0.292|AegisReduce,0.219" />
+  <HolyShielGrade Level="74" Name="Khiên Athena " Prop="AegisAbsorbPercent,0.296|AegisReduce,0.222" />
+  <HolyShielGrade Level="75" Name="Khiên Athena " Prop="AegisAbsorbPercent,0.3|AegisReduce,0.225" />
+  <HolyShielGrade Level="76" Name="Khiên Athena " Prop="AegisAbsorbPercent,0.304|AegisReduce,0.228" />
+  <HolyShielGrade Level="77" Name="Khiên Athena " Prop="AegisAbsorbPercent,0.308|AegisReduce,0.231" />
+  <HolyShielGrade Level="78" Name="Khiên Athena " Prop="AegisAbsorbPercent,0.312|AegisReduce,0.234" />
+  <HolyShielGrade Level="79" Name="Khiên Athena " Prop="AegisAbsorbPercent,0.316|AegisReduce,0.237" />
+  <HolyShielGrade Level="80" Name="Khiên Athena " Prop="AegisAbsorbPercent,0.32|AegisReduce,0.24" />
+  <HolyShielGrade Level="81" Name="Khiên Ares" Prop="AegisAbsorbPercent,0.324|AegisReduce,0.243" />
+  <HolyShielGrade Level="82" Name="Khiên Ares" Prop="AegisAbsorbPercent,0.328|AegisReduce,0.246" />
+  <HolyShielGrade Level="83" Name="Khiên Ares" Prop="AegisAbsorbPercent,0.332|AegisReduce,0.249" />
+  <HolyShielGrade Level="84" Name="Khiên Ares" Prop="AegisAbsorbPercent,0.336|AegisReduce,0.252" />
+  <HolyShielGrade Level="85" Name="Khiên Ares" Prop="AegisAbsorbPercent,0.34|AegisReduce,0.255" />
+  <HolyShielGrade Level="86" Name="Khiên Ares" Prop="AegisAbsorbPercent,0.344|AegisReduce,0.258" />
+  <HolyShielGrade Level="87" Name="Khiên Ares" Prop="AegisAbsorbPercent,0.348|AegisReduce,0.261" />
+  <HolyShielGrade Level="88" Name="Khiên Ares" Prop="AegisAbsorbPercent,0.352|AegisReduce,0.264" />
+  <HolyShielGrade Level="89" Name="Khiên Ares" Prop="AegisAbsorbPercent,0.356|AegisReduce,0.267" />
+  <HolyShielGrade Level="90" Name="Khiên Ares" Prop="AegisAbsorbPercent,0.36|AegisReduce,0.27" />
+  <HolyShielGrade Level="91" Name="Khiên Zeus" Prop="AegisAbsorbPercent,0.364|AegisReduce,0.273" />
+  <HolyShielGrade Level="92" Name="Khiên Zeus" Prop="AegisAbsorbPercent,0.368|AegisReduce,0.276" />
+  <HolyShielGrade Level="93" Name="Khiên Zeus" Prop="AegisAbsorbPercent,0.372|AegisReduce,0.279" />
+  <HolyShielGrade Level="94" Name="Khiên Zeus" Prop="AegisAbsorbPercent,0.376|AegisReduce,0.282" />
+  <HolyShielGrade Level="95" Name="Khiên Zeus" Prop="AegisAbsorbPercent,0.38|AegisReduce,0.285" />
+  <HolyShielGrade Level="96" Name="Khiên Zeus" Prop="AegisAbsorbPercent,0.384|AegisReduce,0.288" />
+  <HolyShielGrade Level="97" Name="Khiên Zeus" Prop="AegisAbsorbPercent,0.388|AegisReduce,0.291" />
+  <HolyShielGrade Level="98" Name="Khiên Zeus" Prop="AegisAbsorbPercent,0.392|AegisReduce,0.294" />
+  <HolyShielGrade Level="99" Name="Khiên Zeus" Prop="AegisAbsorbPercent,0.396|AegisReduce,0.297" />
+  <HolyShielGrade Level="100" Name="Khiên Zeus" Prop="AegisAbsorbPercent,0.4|AegisReduce,0.3" />
+</Config>

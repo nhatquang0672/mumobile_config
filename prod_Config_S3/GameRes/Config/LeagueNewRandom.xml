@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <LeagueNewRandom ID="1" Name="Đội 1" BeginNum="1" EndNum="10" />
+  <LeagueNewRandom ID="2" Name="Đội 2" BeginNum="11" EndNum="20" />
+  <LeagueNewRandom ID="3" Name="Đội 3" BeginNum="21" EndNum="30" />
+  <LeagueNewRandom ID="4" Name="Đội 4" BeginNum="31" EndNum="40" />
+  <LeagueNewRandom ID="5" Name="Đội 5" BeginNum="41" EndNum="50" />
+  <LeagueNewRandom ID="6" Name="Đội 6" BeginNum="51" EndNum="100" />
+  <LeagueNewRandom ID="7" Name="Đội 7" BeginNum="101" EndNum="150" />
+  <LeagueNewRandom ID="8" Name="Đội 8" BeginNum="151" EndNum="200" />
+  <LeagueNewRandom ID="9" Name="Đội 9" BeginNum="201" EndNum="-1" />
+</Config>

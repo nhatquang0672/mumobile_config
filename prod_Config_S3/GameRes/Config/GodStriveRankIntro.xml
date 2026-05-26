@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}BXH Thiên Thần Chiến" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Thiên Thần Chiến xếp hạng theo điểm tích lũy Chiến Đội" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, Hạng Chiến Đội quyết định mức thưởng sau khi mùa giải kết thúc" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, Mùa giải mới sẽ xóa điểm và hạng trước đó" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, BXH sẽ hiển thị  thông tin chiến đội mạnh nhất của mùa trước." Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5, Thiên Thần Chiến kết thúc, dựa vào hạng chiến đội để nhận điểm, điểm quyết định thứ hạng, hạng càng cao thưởng càng cao, sau khi mùa giải kết thúc, vào giao diện Thiên Thần Chiến để nhận, hãy chú ý" Bold="0" />
+</Config>

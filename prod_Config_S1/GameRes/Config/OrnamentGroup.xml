@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <OrnamentGroup ID="1" Name="Hoa Tai MU|Thanh Niên Ưu Tú" OrnamentGoods="1034000|1034001" GroupProperty="DeDoubleAttack,0.03|DeFatalAttack,0.02" />
+  <OrnamentGroup ID="2" Name="D.Chuyền Ma Thần|Nhẫn Vinh Diệu" OrnamentGoods="1034002|1034003" GroupProperty="DeLucky,0.05|DeFatalAttack,0.03" />
+  <OrnamentGroup ID="3" Name="D.Chuyền Tinh Linh|Ấn Ký Chúng Thần" OrnamentGoods="1034004|1034005" GroupProperty="DeDoubleAttack,0.05|IgnoreMagyAttackPercent,0.01" />
+  <OrnamentGroup ID="4" Name="Dũng Sĩ Chí Tôn|Sát Thủ Ảo Ảnh" OrnamentGoods="1034008|1034009" GroupProperty="IgnorePhyAttackPercent,0.01|DeFatalAttack,0.04" />
+  <OrnamentGroup ID="5" Name="Đấu Trường Dũng Sĩ|Huy Chương Vàng Olympic" OrnamentGoods="1034010|1034011" GroupProperty="DeLucky,0.03|DeDoubleAttack,0.02" />
+  <OrnamentGroup ID="6" Name="Vòng Sáng Sinh Mệnh|Nhẫn Thần Ưng" OrnamentGoods="1034014|1034015" GroupProperty="Holywater,0.5|MaxLifePercent,0.03" />
+  <OrnamentGroup ID="7" Name="Ấn Ký Tái Tạo|Huy Chương Tiến Hóa" OrnamentGoods="1034016|1034017" GroupProperty="Potion,0.5|MaxLifePercent,0.03" />
+  <OrnamentGroup ID="8" Name="Kỳ Tích|Dũng Sĩ Chí Tôn" OrnamentGoods="1034000|1034008" GroupProperty="DeDoubleAttack,0.03|DeFatalAttack,0.03" />
+  <OrnamentGroup ID="9" Name="Thanh Niên Ưu Tú|Sát Thủ Ảo Ảnh" OrnamentGoods="1034001|1034009" GroupProperty="DeFatalAttack,0.06" />
+  <OrnamentGroup ID="10" Name="D.Chuyền Ma Thần|Đấu Trường Dũng Sĩ" OrnamentGoods="1034002|1034010" GroupProperty="IgnorePhyAttackPercent,0.01|DeLucky,0.05" />
+  <OrnamentGroup ID="11" Name="Nhẫn Vinh Diệu|Huy Chương Vàng Olympic" OrnamentGoods="1034003|1034011" GroupProperty="DeFatalAttack,0.04|DeDoubleAttack,0.03" />
+  <OrnamentGroup ID="12" Name="D.Chuyền Tinh Linh|Vòng Sáng Sinh Mệnh" OrnamentGoods="1034004|1034014" GroupProperty="DeDoubleAttack,0.05|DodgePercent,0.01" />
+  <OrnamentGroup ID="13" Name="Ấn Ký Chúng Thần|Nhẫn Thần Ưng" OrnamentGoods="1034005|1034015" GroupProperty="HitPercent,0.02|Holywater,0.5" />
+  <OrnamentGroup ID="14" Name="Đại Sư Kỳ Tích|Chiến Trường Chí Tôn" OrnamentGoods="1034006|1034007" GroupProperty="IgnoreMagyAttackPercent,0.01|LifeStealPercent,0.1" />
+  <OrnamentGroup ID="15" Name="Chiến Trường Chí Tôn|Huy Chương Tiến Hóa" OrnamentGoods="1034007|1034017" GroupProperty="LifeStealPercent,0.1|Potion,0.3" />
+  <OrnamentGroup ID="16" Name="Vòng Sáng Sinh Mệnh|Kỳ Tích" OrnamentGoods="1034014|1034000" GroupProperty="MaxLifePercent,0.05|DeDoubleAttack,0.03" />
+  <OrnamentGroup ID="17" Name="Nhẫn Thần Ưng|Ấn Ký Tái Tạo" OrnamentGoods="1034015|1034016" GroupProperty="Holywater,0.3|RecoverLifeV,0.3" />
+  <OrnamentGroup ID="18" Name="Ấn Ký Tái Tạo|Thanh Niên Ưu Tú" OrnamentGoods="1034016|1034001" GroupProperty="RecoverLifeV,0.3|DeFatalAttack,0.03" />
+  <OrnamentGroup ID="19" Name="Huy Chương Tiến Hóa|D.Chuyền Ma Thần" OrnamentGoods="1034017|1034002" GroupProperty="Potion,0.5" />
+  <OrnamentGroup ID="20" Name="Ký Tích Trở Về|Bá Chủ Kỳ Tích" OrnamentGoods="1034018|1034019" GroupProperty="MaxLifePercent,0.06|IgnoreMagyAttackPercent,0.01" />
+  <OrnamentGroup ID="21" Name="Dũng Sĩ Chí Tôn|Ký Tích Trở Về" OrnamentGoods="1034008|1034018" GroupProperty="DeFatalAttack,0.05|MaxLifePercent,0.05" />
+  <OrnamentGroup ID="22" Name="Sát Thủ Ảo Ảnh|Bá Chủ Kỳ Tích" OrnamentGoods="1034009|1034019" GroupProperty="FatalAttack,0.03|ElementInjurePercent,0.08" />
+  <OrnamentGroup ID="23" Name="Ký Tích Trở Về|Nhẫn Vinh Diệu" OrnamentGoods="1034018|1034003" GroupProperty="MaxLifePercent,0.05|FatalAttack,0.03" />
+  <OrnamentGroup ID="24" Name="Bá Chủ Kỳ Tích|D.Chuyền Tinh Linh" OrnamentGoods="1034019|1034004" GroupProperty="ElementInjurePercent,0.08|DeDoubleAttack,0.05" />
+  <OrnamentGroup ID="25" Name="Ấn Ký Thắng Lợi|Trang Sức Tân Tú" OrnamentGoods="1034023|1034021" GroupProperty="MaxLifePercent,0.08|AttackInjurePercent,0.05" />
+  <OrnamentGroup ID="26" Name="Cúp Quán Quân|Huy Hiệu MVP" OrnamentGoods="1034020|1034022" GroupProperty="SPAttackInjurePercent,0.1|ElementAttackInjurePercent,0.06" />
+  <OrnamentGroup ID="27" Name="Cúp Quán Quân|Huy Hiệu MVP|Ấn Chiến Thắng" OrnamentGoods="1034020|1034022|1034023" GroupProperty="AddAttackInjurePercent,0.05|ElementAttackInjurePercent,0.12|ElementInjurePercent,0.12" />
+  <OrnamentGroup ID="28" Name="Chương 9|Thiên Vấn" OrnamentGoods="1034048|1034049" GroupProperty="DoubleAttack,0.03|DeDoubleAttack,0.03" />
+  <OrnamentGroup ID="29" Name="Bút Trạng Nguyên|Bảng Vàng" OrnamentGoods="1034065|1034066" GroupProperty="ElementInjurePercent,0.05|ElementAttackInjurePercent,0.05" />
+  <OrnamentGroup ID="30" Name="Ngọc Nguyên Lực|Sen Tim Đỏ" OrnamentGoods="1034071|1034072" GroupProperty="MaxLifePercent,0.08|DoubleAttack,0.03" />
+  <OrnamentGroup ID="31" Name="A Tu La|Galouro" OrnamentGoods="30151861|30151872" GroupProperty="ElementInjurePercent,0.08|ElementAttackInjurePercent,0.08" />
+  <OrnamentGroup ID="32" Name="Huy Hiệu 4 Năm|Dây Chuyền 4 Năm" OrnamentGoods="30152023|30152024" GroupProperty="MaxLifePercent,0.06|IgnoreMagyAttackPercent,0.01" />
+  <OrnamentGroup ID="33" Name="Noel Ly Ly|Noel Nhiều Nhiều" OrnamentGoods="30152063|30152064" GroupProperty="MaxLifePercent,0.06|IgnoreMagyAttackPercent,0.01" />
+  <OrnamentGroup ID="34" Name="Trùng Trùng Giáng Sinh|Năm Mới Đại Bạch|Quà Cầu Tuyết" OrnamentGoods="30152352|30152364|30152368" GroupProperty="AddAttackInjurePercent,0.05|ElementAttackInjurePercent,0.12|ElementInjurePercent,0.12" />
+</Config>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <QiQuBaoXiang ID="1" BaoXiangName="Rương Sơ Cấp" BaoXiangImage="QiQuSL4_1-2" AwardText="Mở nhất định nhận được:" ShowAward="8610,10,1,0,0,0,0" OpenType="1" OpenParams="10" OpenMaxLimit="5" GoodsOneFixed="220,1" GoodsOneRandom="" RandomProbabilityOne="-1" RandomBaoDi="-1" GoodsTwoFixed="8610,10,1,0,0,0,0" GoodsTwoRandom="" RandomProbabilityTwo="" />
+  <QiQuBaoXiang ID="2" BaoXiangName="Rương Trung Cấp" BaoXiangImage="QiQuSL4_2-2" AwardText="Mở có tỉ lệ nhận được:" ShowAward="63174,1,1,0,0,0,0|50305,3,1,0,0,0,0" OpenType="2" OpenParams="1" OpenMaxLimit="10" GoodsOneFixed="220,2" GoodsOneRandom="" RandomProbabilityOne="-1" RandomBaoDi="-1" GoodsTwoFixed="" GoodsTwoRandom="63174,1,1,0,0,0,0_50305,3,1,0,0,0,0" RandomProbabilityTwo="400_600" />
+  <QiQuBaoXiang ID="3" BaoXiangName="Rương Cao Cấp" BaoXiangImage="QiQuSL4_3-2" AwardText="Mở sẽ nhận 1 trong các đạo cụ sau:" ShowAward="2001,188,1,0,0,0,0|2002,188,1,0,0,0,0|2003,188,1,0,0,0,0" OpenType="3" OpenParams="220,10" OpenMaxLimit="-1" GoodsOneFixed="220,5" GoodsOneRandom="220,20" RandomProbabilityOne="100" RandomBaoDi="10" GoodsTwoFixed="2001,188,1,0,0,0,0|2002,188,1,0,0,0,0|2003,188,1,0,0,0,0" GoodsTwoRandom="" RandomProbabilityTwo="" />
+</config>

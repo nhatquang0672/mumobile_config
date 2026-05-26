@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ManorIntro ID="1" Name="1" Intro="{17e43e}Bạn{dac7ae} bị {ff0000}{0}{dac7ae} chinh phục rồi." />
+  <ManorIntro ID="2" Name="2" Intro="{ff0000}{0}{dac7ae} muốn chinh phục {17e43e}bạn{dac7ae}, nhưng đã bị kích lui!" />
+  <ManorIntro ID="3" Name="3" Intro="{17e43e}Bạn{dac7ae} bị Chủ Nhân phái đi dọn nhà vệ sinh, nhặt được {17e43e}{0}{dac7ae}!" />
+  <ManorIntro ID="4" Name="4" Intro="{17e43e}Bạn{dac7ae} bị Chủ Nhân bắt đi làm ấm chăn, phát hiện {17e43e}{0}{dac7ae}!" />
+  <ManorIntro ID="5" Name="5" Intro="{17e43e}Bạn{dac7ae} bị Chủ Nhân phái đi nhặt xà phòng, nhặt được {17e43e}{0}{dac7ae}!" />
+  <ManorIntro ID="6" Name="6" Intro="{17e43e}Bạn{dac7ae} bị Chủ Phân phái đi dọn nhà vệ sinh, thúi quá!" />
+  <ManorIntro ID="7" Name="7" Intro="{17e43e}Bạn{dac7ae} bị Chủ Phân phái đi làm ấm chăn, bên trong có đôi vớ thúi!" />
+  <ManorIntro ID="8" Name="8" Intro="{17e43e}Bạn{dac7ae} bị Chủ Nhân phái đi nhặt xà phòng, trượt chân và té 1 cú đau điếng!" />
+  <ManorIntro ID="9" Name="9" Intro="{17e43e}{0}{dac7ae} muốn giải cứu {17e43e}bạn{dac7ae}, nhưng thất bại rồi." />
+  <ManorIntro ID="10" Name="10" Intro="{17e43e}{0}{dac7ae} hành hiệp chính nghĩa, đã giải cứu {17e43e}bạn{dac7ae}. " />
+  <ManorIntro ID="11" Name="11" Intro="{17e43e}Bạn {dac7ae}phản kháng thành công chủ nhân của {17e43e}bạn{dac7ae}!" />
+  <ManorIntro ID="12" Name="12" Intro="{17e43e}Bạn {dac7ae}đã trấn áp được sự phản kháng của {17e43e}bạn{dac7ae}." />
+  <ManorIntro ID="13" Name="13" Intro="{17e43e}Bạn {dac7ae}chưa thể chinh phục {ff0000}{0}{dac7ae}." />
+  <ManorIntro ID="14" Name="14" Intro="{17e43e}Bạn {dac7ae}đã thành công chinh phục được {ff0000}{0}{dac7ae}!" />
+  <ManorIntro ID="15" Name="15" Intro="{17e43e}Bạn {dac7ae}phái {17e43e}{0}{dac7ae}dọn nhà vệ sinh, bạn ấy đã giao nộp {17e43e}{1}{dac7ae} đã nhặt được!" />
+  <ManorIntro ID="16" Name="16" Intro="{17e43e}Bạn {dac7ae}phái {17e43e}{0}{dac7ae}làm ấm chăn, bạn ấy đã giao nộp {17e43e}{1}{dac7ae} được phát hiện!" />
+  <ManorIntro ID="17" Name="17" Intro="{17e43e}Bạn {dac7ae}phái {17e43e}{0}{dac7ae}nhặt xà phòng, bạn ấy đã giao nộp {17e43e}{1}{dac7ae} đã nhặt được!" />
+  <ManorIntro ID="18" Name="18" Intro="{17e43e}Bạn {dac7ae}đã thành công trấn áp sự phản kháng của {ff0000}{0}{dac7ae}!" />
+  <ManorIntro ID="19" Name="19" Intro="{ff0000}{0}{dac7ae} phản kháng sự thống trị của {17e43e}bạn{dac7ae}!" />
+  <ManorIntro ID="20" Name="20" Intro="{ff0000}{0}{dac7ae} muốn cướp đi tù bình {ff0000}{1}{dac7ae} của {17e43e}bạn{dac7ae}, bị {17e43e}bạn{dac7ae} kích lui!" />
+  <ManorIntro ID="21" Name="21" Intro="{ff0000}{0}{dac7ae}cướp đi tù binh {ff0000}{1}{dac7ae} của {17e43e}bạn{dac7ae}!" />
+  <ManorIntro ID="22" Name="22" Intro="{17e43e}Bạn {dac7ae}muốn giải cứu {17e43e}{0}{dac7ae}, nhưng đã thất bại." />
+  <ManorIntro ID="23" Name="23" Intro="{17e43e}Bạn {dac7ae} hành hiệp chính nghĩa, đã cứu {17e43e}{0}{dac7ae}!" />
+  <ManorIntro ID="24" Name="24" Intro="{ff0000}{0}{dac7ae} thành công giải thoát được tù bình {ff0000}{1}{dac7ae} của {17e43e}bạn{dac7ae}!" />
+  <ManorIntro ID="25" Name="25" Intro="{ff0000}{0}{dac7ae}muốn giải cứu tù binh {ff0000}{1}{dac7ae} của {17e43e}bạn{dac7ae}, nhưng đã bị {17e43e}bạn{dac7ae} kích lui!" />
+</Config>

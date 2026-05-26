@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <TreasureActivityGet ID="1" ZhiGouID="50005" ZhiGouName="Vé Tranh Mua" />
+  <TreasureActivityGet ID="2" ZhiGouID="50006" ZhiGouName="Vé Tranh Mua" />
+  <TreasureActivityGet ID="3" ZhiGouID="50007" ZhiGouName="Vé Tranh Mua" />
+  <TreasureActivityGet ID="4" ZhiGouID="50008" ZhiGouName="Vé Tranh Mua" />
+</Config>

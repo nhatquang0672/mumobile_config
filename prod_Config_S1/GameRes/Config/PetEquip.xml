@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <PetEquip ID="1" Conditon="1,4" Description="Mang 3 trang bị tím" Num="3" Property="14,0.05" />
+  <PetEquip ID="2" Conditon="1,4" Description="Mang 6 trang bị tím" Num="6" Property="14,0.1" />
+  <PetEquip ID="3" Conditon="1,4|3,5|2,3" Description="Mang 6 trang bị tím bậc 3 cường hóa cấp 5" Num="6" Property="14,0.15" />
+  <PetEquip ID="4" Conditon="1,4|3,8|2,3" Description="Mang 6 trang bị tím bậc 3 cường hóa cấp 8" Num="6" Property="14,0.2" />
+  <PetEquip ID="5" Conditon="1,4|3,9|2,4" Description="Mang 6 trang bị tím bậc 4 cường hóa cấp 9" Num="6" Property="14,0.25" />
+  <PetEquip ID="6" Conditon="1,4|3,10|2,4" Description="Mang 6 trang bị tím bậc 4 cường hóa cấp 10" Num="6" Property="14,0.3" />
+  <PetEquip ID="7" Conditon="1,4|3,11|2,5" Description="Mang 6 trang bị tím bậc 5 cường hóa cấp 11" Num="6" Property="14,0.3|24,0.05" />
+  <PetEquip ID="8" Conditon="1,4|3,12|2,5" Description="Mang 6 trang bị tím bậc 5 cường hóa cấp 12" Num="6" Property="14,0.3|25,0.1" />
+  <PetEquip ID="9" Conditon="1,4|3,13|2,6" Description="Mang 6 trang bị tím bậc 6 cường hóa cấp 13" Num="6" Property="14,0.3|24,0.15" />
+  <PetEquip ID="10" Conditon="1,4|3,14|2,6" Description="Mang 6 trang bị tím bậc 6 cường hóa cấp 14" Num="6" Property="14,0.3|24,0.2" />
+  <PetEquip ID="11" Conditon="1,4|3,15|2,7" Description="Mang 6 trang bị tím bậc 7 cường hóa cấp 15" Num="6" Property="14,0.3|24,0.2|93,0.05" />
+  <PetEquip ID="12" Conditon="1,4|3,16|2,7" Description="Mang 6 trang bị tím bậc 7 cường hóa cấp 16" Num="6" Property="14,0.3|24,0.2|93,0.1" />
+  <PetEquip ID="13" Conditon="1,4|3,18|2,8" Description="Mang 6 trang bị tím bậc 8 cường hóa cấp 18" Num="6" Property="14,0.3|24,0.2|93,0.15" />
+  <PetEquip ID="14" Conditon="1,4|3,20|2,8" Description="Mang 6 trang bị tím bậc 8 cường hóa cấp 20" Num="6" Property="14,0.3|24,0.2|93,0.2" />
+</Config>

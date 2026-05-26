@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Giới thiệu Hệ Thống Lính Thuê" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1. Vượt qua {17e43e}phụ bản Đại Lục Thần Ma có thể nhận được {17e43e}Lính Thuê" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2. Nhận được đạo cụ Lính Thuê đạt số lượng chỉ định có thể kích hoạt Lính Thuê" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3. Phẩm chất Lính Thuê chia thành 3 loại, lần lượt là Lính Thuê phẩm Lục, Lính Thuê phẩm Lam, Lính Thuê phẩm Tím" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4. Lính Thuê 9 sao là 1 bậc, bậc cao nhất là bậc 10" Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5. Sau khi kích hoạt Lính Thuê, tất cả thuộc tính cơ bản của Lính Thuê cộng vào nhân vật (dù có xuất chiến hay không đều có hiệu lực), thuộc tính đặc biệt của Lính Thuê không cộng lên nhân vật" Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae}6. Có thể chọn 1 Lính Thuê để {17e43e}xuất chiến{dac7ae}" Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae}7. Lính Thuê có thể chọn {17e43e}thu hồi{dac7ae}, {17e43e}Thánh Linh Ấn{dac7ae} thu hồi nhận được có thể dùng để tăng cấp sao Lính Thuê, cấp sao có thể tăng thuộc tính cơ bản của Lính Thuê" Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae}8. Tiêu hao {17e43e}Sách Thánh Linh{dac7ae} có thể tiến bậc Lính Thuê, tiến bậc sẽ tăng {17e43e}cấp kỹ năng Lính Thuê{dac7ae} và thuộc tính cơ bản" Bold="0" />
+  <HelpIntro ID="10" Intro="{dac7ae}9. Mỗi Lính Thuê đều có 1 {17e43e}kỹ năng{dac7ae}, khi Lính Thuê chiến đấu tự động thi triển kỹ năng, Lính Thuê không thể tử vong không thể bị tấn công" Bold="0" />
+  <HelpIntro ID="11" Intro="{dac7ae}10. Lính Thuê trong Đấu Trường, Tranh Bá Thần, Tranh Bá Chiến sẽ không thể xuất chiến" Bold="0" />
+</Config>

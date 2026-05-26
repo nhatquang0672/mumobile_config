@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <TeamActivityReward ID="0" ActivityName="Rương Vận Mệnh" ActivityValue="20" ActivityItemId="50350,1,1,0,0,0,0|2302,10,1,0,0,0,0" ActivityItemDes="Có thể nhận lượng ít tích điểm cá nhân đội và exp pet" />
+  <TeamActivityReward ID="1" ActivityName="Rương Hồi Hưởng" ActivityValue="40" ActivityItemId="50350,1,1,0,0,0,0|2302,10,1,0,0,0,0" ActivityItemDes="Có thể nhận lượng ít tích điểm cá nhân đội và exp pet" />
+  <TeamActivityReward ID="2" ActivityName="Rương Anh Hùng" ActivityValue="60" ActivityItemId="50350,2,1,0,0,0,0|2302,20,1,0,0,0,0" ActivityItemDes="Có thể nhận lượng ít tích điểm cá nhân đội và exp pet" />
+  <TeamActivityReward ID="3" ActivityName="Rương Dũng Giả" ActivityValue="80" ActivityItemId="50350,2,1,0,0,0,0|2302,20,1,0,0,0,0" ActivityItemDes="Có thể nhận lượng ít tích điểm cá nhân đội và exp pet" />
+  <TeamActivityReward ID="4" ActivityName="Rương Kỳ Tích" ActivityValue="100" ActivityItemId="50350,4,1,0,0,0,0|2302,40,1,0,0,0,0" ActivityItemDes="Có thể nhận lượng ít tích điểm cá nhân đội và exp pet" />
+</Config>

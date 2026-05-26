@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <DuiHuan>
+    <Type ID="200" SaleType="0" Name="Hộ Phù" Description="Trang bị Hộ Phù thuộc tính cực mạnh" Image="200" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+    <Type ID="201" SaleType="0" Name="Đổi đạo cụ" Description="Ma Băng đổi nhiều đạo cụ quý" Image="201" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+    <Type ID="301" SaleType="0" Name="Bộ Phỉ Thúy" Description="6 dòng thuộc tính bộ Phỉ Thúy hoàn hảo" Image="301" OccupCondition="0" PubStartTime="" PubEndTime="" />
+    <Type ID="401" SaleType="0" Name="Bộ Bạch Cốt" Description="6 dòng thuộc tính bộ Bạch Cốt hoàn hảo" Image="401" OccupCondition="1" PubStartTime="" PubEndTime="" />
+    <Type ID="501" SaleType="0" Name="Bộ Thiên Tằm" Description="6 dòng thuộc tính bộ Thiên Tằm hoàn hảo" Image="501" OccupCondition="2" PubStartTime="" PubEndTime="" />
+	
+    <Type ID="3000" SaleType="1" Name="Đổi Đại thiên Sư" Description="Thần binh Đại Thiên Sứ" Image="3000" OccupCondition="0" PubStartTime="" PubEndTime="" />
+    <Type ID="3001" SaleType="1" Name="Đổi Đại thiên Sư" Description="Thần binh Đại Thiên Sứ" Image="3001" OccupCondition="1" PubStartTime="" PubEndTime="" />
+    <Type ID="3002" SaleType="1" Name="Đổi Đại thiên Sư" Description="Thần binh Đại Thiên Sứ" Image="3002" OccupCondition="2" PubStartTime="" PubEndTime="" />
+    <Type ID="3003" SaleType="1" Name="Đổi Đại Thiên Sứ" Description="Thần binh toàn thuộc tính Đại Thiên Sứ" Image="3000" OccupCondition="3" PubStartTime="" PubEndTime="" />
+    <Type ID="3005" SaleType="1" Name="Đổi Đại Thiên Sứ" Description="Thần binh Đại Thiên Sứ" Image="3001" OccupCondition="5" PubStartTime="" PubEndTime="" />
+    <Type ID="3006" SaleType="1" Name="Đổi Đại Thiên Sứ" Description="Thần Binh Đại Thiên Sứ Toàn" Image="3001" OccupCondition="6" PubStartTime="" PubEndTime="" />
+    <Type ID="3007" SaleType="1" Name="Đổi Đại Thiên Sứ" Description="Thần binh Đại Thiên Sứ" Image="3007" OccupCondition="7" PubStartTime="" PubEndTime="" />
+	
+    <Type ID="3010" SaleType="1" Name="Đổi phòng cụ cấp 5" Description="Phòng cụ bộ vua rồng" Image="3010" OccupCondition="0" PubStartTime="" PubEndTime="" />
+    <Type ID="3011" SaleType="1" Name="Đổi phòng cụ cấp 5" Description="Phòng cụ bộ truyền thuyết" Image="3011" OccupCondition="1" PubStartTime="" PubEndTime="" />
+    <Type ID="3012" SaleType="1" Name="Đổi phòng cụ cấp 5" Description="Phòng cụ bộ nữ thần" Image="3012" OccupCondition="2" PubStartTime="" PubEndTime="" />
+    <Type ID="3013" SaleType="1" Name="Đổi phòng cụ cấp 5" Description="Đạo cụ Full Atlantis" Image="3013" OccupCondition="3" PubStartTime="" PubEndTime="" />
+    <Type ID="3015" SaleType="1" Name="Đổi phòng cụ cấp 5" Description="Đạo cụ Full Cuồng Phong" Image="3015" OccupCondition="5" PubStartTime="" PubEndTime="" />
+    <Type ID="3016" SaleType="1" Name="Đổi phòng cụ 5 bậc" Description="Phòng Cụ Zeus Toàn " Image="3016" OccupCondition="6" PubStartTime="" PubEndTime="" />
+    <Type ID="3017" SaleType="1" Name="Đổi phòng cụ cấp 5" Description="Phòng cụ bộ Mộng Ảo" Image="3017" OccupCondition="7" PubStartTime="" PubEndTime="" />
+    <Type ID="3020" SaleType="1" Name="Đổi đạo cụ" Description="Điểm đổi nhiều đạo cụ quý" Image="201" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+    <Type ID="4000" SaleType="2" Name="Đổi yêu tinh" Description="Điểm triệu hoán đổi tinh linh hiếm" Image="601" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+    <Type ID="4001" SaleType="2" Name="Đổi đạo cụ" Description="Điểm triệu hồi đổi đạo cụ hiếm" Image="201" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+    <Type ID="5000" SaleType="3" Name="Đổi đạo cụ" Description="Chiến công đổi nhiều đạo cụ quý" Image="201" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+    <Type ID="6000" SaleType="4" Name="Đổi đạo cụ" Description="Vinh dự đổi nhiều đạo cụ hiếm" Image="201" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+    <Type ID="7001" SaleType="5" Name="Shop KC Máu" Description="KC Máu đổi nhiều đạo cụ quý" Image="8028" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+    <Type ID="7002" SaleType="5" Name="Tiệm Bí Cảnh" Description="Số điểm Bí Cảnh đổi nhiều đạo cụ" Image="8029" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+    <Type ID="8001" SaleType="6" Name="Tiệm Tranh Bá" Description="Số điểm Tranh Bá đổi nhiều đạo cụ" Image="8033" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+    <Type ID="9001" SaleType="7" Name="Tiệm Dự Đoán" Description="Điểm dự đoán đổi đạo cụ" Image="8034" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+    <Type ID="10001" SaleType="8" Name="Tiệm Điểm Săn Thú Cưỡi" Description="Điểm săn đổi thú cưỡi cực phẩm" Image="8035" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+    <Type ID="11001" SaleType="9" Name="Tiệm Thế Lực" Description="Cống hiến thế lực đổi đạo cụ" Image="8036" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+    <Type ID="12001" SaleType="9" Name="Shop Đá Trắng" Description="Cống hiến Thế Lực đổi nhiều đạo cụ " Image="8036" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+    <Type ID="13001" SaleType="9" Name="Shop Lửa Đen" Description="Cống hiến Thế Lực đổi nhiều đạo cụ " Image="8036" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+    <Type ID="14001" SaleType="9" Name="Shop Băng Sương" Description="Cống hiến Thế Lực đổi nhiều đạo cụ " Image="8036" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+    <Type ID="15001" SaleType="9" Name="Shop Đất Cao" Description="Cống hiến Thế Lực đổi nhiều đạo cụ " Image="8036" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+    <Type ID="16001" SaleType="9" Name="Shop Lục Nhân" Description="Cống hiến Thế Lực đổi nhiều đạo cụ " Image="8036" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+    <Type ID="17001" SaleType="9" Name="Shop Thế Lực Mạnh Nhất" Description="Cống hiến Thế Lực đổi nhiều đạo cụ " Image="8036" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+    <Type ID="18000" SaleType="10" Name="Đạo cụ đổi" Description="Vinh Dự Đội đổi đạo cụ quý" Image="8037" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+    <Type ID="19000" SaleType="11" Name="Đổi Tranh Bá Đội" Description="Tranh Bá Đội đổi đạo cụ quý" Image="8038" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+    <Type ID="20000" SaleType="12" Name="Đổi điểm Chiến Đội" Description="Điểm Chiến Đội đổi nhiều đạo cụ" Image="64023" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+    <Type ID="21000" SaleType="13" Name="Tiệm Vương Giả Tranh Bá" Description="Huy Chương Vương Giả đổi lượng lớn đạo cụ" Image="5590" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+    <Type ID="22000" SaleType="14" Name="Đổi Bảo Tàng Công Tước" Description="Bảo Tàng Viễn Cổ đổi lượng lớn đạo cụ" Image="201" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+    <Type ID="23000" SaleType="15" Name="Đổi Bảo Tàng Quốc Vương" Description="Bảo Tàng Viễn Cổ đổi lượng lớn đạo cụ" Image="201" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+    <Type ID="24000" SaleType="16" Name="Đổi Bảo Tàng Tinh Linh " Description="Bảo Tàng Viễn Cổ đổi lượng lớn đạo cụ" Image="201" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+    <Type ID="25000" SaleType="17" Name="Đổi Bảo Tàng Thợ Sơn" Description="Bảo Tàng Viễn Cổ đổi lượng lớn đạo cụ" Image="201" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+    <Type ID="26000" SaleType="18" Name="Đổi Bảo Tàng Cự Long" Description="Bảo Tàng Viễn Cổ đổi lượng lớn đạo cụ" Image="201" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+    <Type ID="27000" SaleType="19" Name="Đổi Bảo Tàng Thần Lực" Description="Bảo Tàng Viễn Cổ đổi lượng lớn đạo cụ" Image="201" OccupCondition="-1" PubStartTime="" PubEndTime="" />
+  </DuiHuan>
+</config>

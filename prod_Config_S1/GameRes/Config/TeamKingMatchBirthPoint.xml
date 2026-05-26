@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <TeamKingMatchBirthPoint ID="1" PosX="1450" PosY="450" BirthRadius="1" />
+  <TeamKingMatchBirthPoint ID="2" PosX="450" PosY="1450" BirthRadius="1" />
+</config>

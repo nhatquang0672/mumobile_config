@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ThemeActivityDuiHuan ID="1" NewGoodsID="63129,1,1,0,0,0,0" DuiHuanGoodsIDs="51304,6" DayMaxTimes="3" />
+  <ThemeActivityDuiHuan ID="2" NewGoodsID="63130,1,1,0,0,0,0" DuiHuanGoodsIDs="51305,4" DayMaxTimes="2" />
+  <ThemeActivityDuiHuan ID="3" NewGoodsID="63147,1,1,0,0,0,0" DuiHuanGoodsIDs="51306,2" DayMaxTimes="1" />
+</Config>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--魔剑士-->
+  <Version ID="1" SystemName="MagicSword" IsOpen="1" />
+  <!--结婚-->
+  <Version ID="2" SystemName="Marriage" IsOpen="1" />
+  <!--幻影寺院-->
+  <Version ID="3" SystemName="HuanYingSiYuan" IsOpen="1" />
+  <!--天梯-->
+  <Version ID="4" SystemName="TianTi" IsOpen="1" />
+  <!--梅林魔法书-->
+  <Version ID="5" SystemName="MerlinMagicBook" IsOpen="1" />
+  <!--免费改名-->
+  <Version ID="6" SystemName="FreeModName" IsOpen="1" />
+  <!--钻石改名-->
+  <Version ID="7" SystemName="ZuanShiModName" IsOpen="1" />
+  <!--勇者战场-->
+  <Version ID="8" SystemName="YongZheZhanChang" IsOpen="1" />
+  <!--末日审判-->
+  <Version ID="9" SystemName="MoRiShenPan" IsOpen="1" />
+  <!--圣物系统-->
+  <Version ID="10" SystemName="HolyItem" IsOpen="1" />
+  <!--荧光宝石-->
+  <Version ID="11" SystemName="FluorescentGem" IsOpen="1" />
+  <!--元素试练-->
+  <Version ID="12" SystemName="ElementWar" IsOpen="1" />
+  <!--未知功能-->
+  <Version ID="13" SystemName="RandomCmdBaseId" IsOpen="1" />
+  <!--未知功能-->
+  <Version ID="14" SystemName="GetInterestingData" IsOpen="1" />
+  <!--每日必做-->
+  <Version ID="15" SystemName="Today" IsOpen="1" />
+  <!--应用宝礼包-->
+  <Version ID="16" SystemName="Ten" IsOpen="1" />
+  <!--跨服Boss(魔炼之地)-->
+  <Version ID="17" SystemName="KuaFuBoss" IsOpen="1" />
+  <!--跨服主线-->
+  <Version ID="18" SystemName="KuaFuMap" IsOpen="1" />
+  <!--推广系统-->
+  <Version ID="19" SystemName="Spread" IsOpen="1" />
+  <!--基金-->
+  <Version ID="20" SystemName="Fund" IsOpen="1" />
+  <!--圣域争霸-->
+  <Version ID="21" SystemName="LangHunLingYu" IsOpen="1" />
+  <!--未知功能-->
+  <Version ID="22" SystemName="EncryptStreamKey" IsOpen="1" />
+  <!--未知功能-->
+  <Version ID="23" SystemName="CrashUnityForce" IsOpen="1" />
+  <!--战盟神殿-->
+  <Version ID="24" SystemName="UnionPalace" IsOpen="1" />
+  <!--精灵技能-->
+  <Version ID="25" SystemName="PetSkill" IsOpen="1" />
+  <!--王者战场-->
+  <Version ID="26" SystemName="KingOfBattle" IsOpen="1" />
+  <!--召唤师职业-->
+  <Version ID="27" SystemName="Summoner" IsOpen="1" />
+  <!--5.0.0起各版本主要系统均设定开关，以下5.0.0版本功能在SystemName中有明确标注-->
+  <!--系统ID说明-->
+  <!--若功能在功能开启SystemOpen.xml中有配置，则ID = 100000 + 系统ID-->
+  <Version ID="100097" SystemName="坐骑系统" IsOpen="1" />
+  <Version ID="100098" SystemName="势力争霸" IsOpen="1" />
+  <Version ID="100093" SystemName="觉醒系统" IsOpen="1" />
+  <Version ID="100094" SystemName="跨服掠夺竞价" IsOpen="1" />
+  <Version ID="100095" SystemName="跨服掠夺参加活动" IsOpen="1" />
+  <Version ID="100100" SystemName="5.0.0-神圣护甲" IsOpen="1" />
+  <Version ID="100101" SystemName="5.0.0-精灵觉醒" IsOpen="1" />
+  <Version ID="100104" SystemName="6.0.0-装备附魔" IsOpen="1" />  
+  <Version ID="100103" SystemName="6.0.0-神魂附体" IsOpen="1" /> 
+  <Version ID="100105" SystemName="7.0.0-重生系统" IsOpen="1" />
+  <Version ID="100108" SystemName="7.0.0-战队竞技" IsOpen="1" />
+  <Version ID="100112" SystemName="8.0.0-战队管理" IsOpen="1" />  
+  <Version ID="100113" SystemName="8.0.0-战队争霸" IsOpen="1" />   
+  <Version ID="100114" SystemName="8.0.0-魔域夺宝" IsOpen="1" /> 
+  <Version ID="100115" SystemName="8.0.0-魔界大逃杀" IsOpen="1" />
+  <Version ID="100116" SystemName="8.0.0-装备淬炼" IsOpen="1" />  
+  <Version ID="100117" SystemName="8.0.0-坐骑圣印" IsOpen="1" />  
+  <Version ID="100118" SystemName="8.0.0-魔神秘宝" IsOpen="1" />
+  <Version ID="100119" SystemName="9.0.0-狩猎逃亡" IsOpen="1" />
+  <Version ID="100121" SystemName="9.0.0-魔法扫帚" IsOpen="1" />
+  <Version ID="100122" SystemName="10.0.0-神罚领域" IsOpen="1" />    
+  <Version ID="100123" SystemName="10.0.0-天神争锋" IsOpen="1" />
+  <Version ID="100125" SystemName="10.0.0-羽翼觉醒" IsOpen="1" />
+  <Version ID="100124" SystemName="11.0.0-神魔大陆" IsOpen="1" />
+  <Version ID="100126" SystemName="11.0.0-圣光神羽" IsOpen="1" />
+  <Version ID="100127" SystemName="11.0.0-佣兵系统" IsOpen="1" />
+  <Version ID="100128" SystemName="11.0.0-暗黑洞穴" IsOpen="1" />
+  <Version ID="100129" SystemName="12.0.0-魔龙试炼" IsOpen="1" />
+  <Version ID="100130" SystemName="12.0.0-囚神之岛" IsOpen="1" /> 
+  <Version ID="100131" SystemName="13.0.0-坐骑铭文" IsOpen="1" /> 
+  <Version ID="100132" SystemName="13.0.0-创世纷争" IsOpen="1" /> 
+  <Version ID="100133" SystemName="遗迹争夺战" IsOpen="1" />
+  <Version ID="100134" SystemName="佣兵符文" IsOpen="1" />  
+  <Version ID="100135" SystemName="爵位系统" IsOpen="1" /> 
+  <Version ID="100136" SystemName="爵位装备" IsOpen="1" />
+  <Version ID="100137" SystemName="爵位地图" IsOpen="1" />
+  <Version ID="100138" SystemName="爵位魔灵" IsOpen="1" />   
+  <Version ID="100139" SystemName="天灾降临" IsOpen="1" />
+  <Version ID="100140" SystemName="重生转盘" IsOpen="1" />
+  <Version ID="100142" SystemName="16.0.0-佣兵战场" IsOpen="1" />
+  <Version ID="100143" SystemName="16.0.0-神兵" IsOpen="1" />
+  <Version ID="100144" SystemName="16.0.0-魂器" IsOpen="1" />
+  <Version ID="100145" SystemName="16.0.0-限时商城" IsOpen="1" />
+  <Version ID="100147" SystemName="16.1.0-臂章" IsOpen="1" />
+  <Version ID="100148" SystemName="16.1.0-臂章宝藏" IsOpen="1" />
+  <Version ID="100150" SystemName="16.1.0-臂章觉醒" IsOpen="1" />
+  <Version ID="100151" SystemName="17.0.0-圣导师" IsOpen="1" />
+  <Version ID="100152" SystemName="17.0.0-魂器觉醒" IsOpen="1" />
+  <Version ID="100153" SystemName="17.0.0-万灵祭坛" IsOpen="1" />
+  <Version ID="100154" SystemName="17.0.0-炼炉-神铸" IsOpen="1" />
+  <Version ID="100155" SystemName="17.0.0-奇迹幻甲" IsOpen="1" /> 
+  <Version ID="100156" SystemName="17.0.0-精灵神话" IsOpen="1" /> 
+  <Version ID="100157" SystemName="17.0.0-王者争霸" IsOpen="1" /> 
+  <Version ID="100158" SystemName="17.0.0-坐骑飞升" IsOpen="1" /> 
+  <Version ID="100159" SystemName="17.0.0-大师突破" IsOpen="1" /> 
+  <Version ID="100160" SystemName="17.1.0-元素祭坛" IsOpen="1" /> 
+  <Version ID="100162" SystemName="17.1.0-神赐圣盾" IsOpen="1" /> 
+  <Version ID="100163" SystemName="17.1.0-神圣纹章 - 圣物" IsOpen="1" /> 
+  <Version ID="100164" SystemName="17.1.0-神圣纹章 - 圣章" IsOpen="1" /> 
+  <Version ID="100165" SystemName="17.1.0-神圣纹章 - 圣物觉醒" IsOpen="1" />
+  <Version ID="100161" SystemName="17.1.0-天使祝福" IsOpen="1" />
+  <Version ID="100166" SystemName="17.1.0-远古宝藏" IsOpen="1" /> 
+  <Version ID="100168" SystemName="17.2.0-回归商城" IsOpen="1" /> 
+  <Version ID="100169" SystemName="17.2.0-回归任务" IsOpen="1" /> 
+  <Version ID="100170" SystemName="17.2.0-回归活动" IsOpen="1" /> 
+  <Version ID="100171" SystemName="18.0.0-梦幻骑士" IsOpen="1" /> 
+  <Version ID="100172" SystemName="18.0.0-魔卡" IsOpen="1" /> 
+  <Version ID="100174" SystemName="18.0.0-圣者战场" IsOpen="1" /> 
+  <Version ID="100175" SystemName="18.0.0-圣盾之晶" IsOpen="1" />
+  <Version ID="100173" SystemName="18.0.0-时装回收" IsOpen="1" />
+  <Version ID="100178" SystemName="18.0.0-臂章时装" IsOpen="1" />
+  <Version ID="100179" SystemName="18.0.0-圣痕刻印" IsOpen="1" />
+  <Version ID="100177" SystemName="18.0.0-拼团活动" IsOpen="1" />  
+  <Version ID="100181" SystemName="19.0.0战盟圣令" IsOpen="1" />    
+  <Version ID="100182" SystemName="19.0.0幻甲扩展" IsOpen="1" />
+  <Version ID="100185" SystemName="19.0.0历程回忆" IsOpen="1" />  
+  <Version ID="100186" SystemName="19.0.0npc气泡" IsOpen="1" />
+  <Version ID="100187" SystemName="19.0.0星碑" IsOpen="1" />
+  <Version ID="100188" SystemName="19.0.0诸神对决" IsOpen="1" />
+  <Version ID="100190" SystemName="19.0.0星碑商店" IsOpen="1" />
+  <Version ID="100191" SystemName="19.0.0星碑副本" IsOpen="1" />
+  <Version ID="100189" SystemName="19.0.0王者套装" IsOpen="1" />
+  <Version ID="100195" SystemName="20.0.0阿拉希战场" IsOpen="1" />
+  <Version ID="100194" SystemName="20.0.0诸神宝库" IsOpen="1" />
+  <!--若功能在功能开启SystemOpen.xml中没有配置，则ID从120000起顺序向后延-->
+  <Version ID="120000" SystemName="军团纪元" IsOpen="1" />
+  <Version ID="120120" SystemName="9.0.0-战队宠物" IsOpen="1" />
+  <Version ID="120401" SystemName="战盟联赛竞猜" IsOpen="1" />
+  <Version ID="120402" SystemName="5.0.0-势力争霸战" IsOpen="1" />  
+  <Version ID="120403" SystemName="6.0.0-势力矿洞" IsOpen="1" />  
+  <Version ID="120404" SystemName="15.0.0-勇士集结" IsOpen="1" />
+  <Version ID="120100" SystemName="8.0.0-金团拍卖行" IsOpen="1" /> 
+  <Version ID="120200" SystemName="10.0.0-好友关系和友谊之环" IsOpen="1" /> 
+  <Version ID="120300" SystemName="10.0.0-塔罗牌-国王特权" IsOpen="1" /> 
+  <Version ID="120400" SystemName="10.0.0-重生个人BOSS" IsOpen="1" />
+  <Version ID="120500" SystemName="12.0.0-重生装备套装" IsOpen="1" />
+  <Version ID="120600" SystemName="16.0.0-活动预告" IsOpen="1" />
+  <Version ID="120405" SystemName="16.1.0-坐骑觉醒" IsOpen="1" />
+</Config>

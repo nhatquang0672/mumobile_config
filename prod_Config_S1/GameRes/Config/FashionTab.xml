@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <Fashion ID="1" Name="Wings" Categoriy="700" />
+  <Fashion ID="2" Name="Title" Categoriy="800" />
+</Config>

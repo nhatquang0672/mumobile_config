@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HorseRandom ID="1" GoodsID="990003" Num="1" SuperiorAttributeID="103" BeginNum="0" EndNum="81" />
+  <HorseRandom ID="2" GoodsID="990004" Num="1" SuperiorAttributeID="103" BeginNum="82" EndNum="163" />
+  <HorseRandom ID="3" GoodsID="990005" Num="1" SuperiorAttributeID="103" BeginNum="164" EndNum="245" />
+  <HorseRandom ID="4" GoodsID="990001" Num="1" SuperiorAttributeID="101" BeginNum="246" EndNum="4247" />
+  <HorseRandom ID="5" GoodsID="990002" Num="1" SuperiorAttributeID="102" BeginNum="4248" EndNum="8249" />
+  <HorseRandom ID="6" GoodsID="990000" Num="1" SuperiorAttributeID="100" BeginNum="8250" EndNum="14251" />
+  <HorseRandom ID="7" GoodsID="5350" Num="1" SuperiorAttributeID="-1" BeginNum="14252" EndNum="34153" />
+  <HorseRandom ID="8" GoodsID="5351" Num="1" SuperiorAttributeID="-1" BeginNum="34154" EndNum="50155" />
+  <HorseRandom ID="9" GoodsID="5352" Num="1" SuperiorAttributeID="-1" BeginNum="50156" EndNum="65157" />
+  <HorseRandom ID="10" GoodsID="5353" Num="1" SuperiorAttributeID="-1" BeginNum="65158" EndNum="80159" />
+  <HorseRandom ID="11" GoodsID="5354" Num="1" SuperiorAttributeID="-1" BeginNum="80160" EndNum="84561" />
+  <HorseRandom ID="12" GoodsID="5355" Num="1" SuperiorAttributeID="-1" BeginNum="84562" EndNum="84863" />
+  <HorseRandom ID="13" GoodsID="5356" Num="1" SuperiorAttributeID="-1" BeginNum="84864" EndNum="84965" />
+  <HorseRandom ID="14" GoodsID="2131" Num="1" SuperiorAttributeID="-1" BeginNum="84966" EndNum="93967" />
+  <HorseRandom ID="15" GoodsID="2132" Num="1" SuperiorAttributeID="-1" BeginNum="93968" EndNum="98469" />
+  <HorseRandom ID="16" GoodsID="2133" Num="1" SuperiorAttributeID="-1" BeginNum="98470" EndNum="100000" />
+</Config>

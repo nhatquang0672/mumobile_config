@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <LangHunYaoSaiMonsters ID="1" MonstersID="8610000,16|8610001,4" NextTime="180" Site="6200,2900,10|2350,4830,10|10250,4830,10" Intro="Kẻ địch đợt 1 đã tấn công đến rồi！" />
+  <LangHunYaoSaiMonsters ID="2" MonstersID="8610000,8|8610001,12" NextTime="180" Site="6200,2900,10|2350,4830,10|10250,4830,10" Intro="Kẻ địch đợt 2 đã tấn công đến rồi！" />
+  <LangHunYaoSaiMonsters ID="3" MonstersID="8610000,8|8610001,8|8610002,2" NextTime="180" Site="6200,2900,10|2350,4830,10|10250,4830,10" Intro="Kẻ địch đợt 3 đã tấn công đến rồi！" />
+  <LangHunYaoSaiMonsters ID="4" MonstersID="8610000,12|8610001,4|8610003,2" NextTime="180" Site="6200,2900,10|2350,4830,10|10250,4830,10" Intro="Kẻ địch đợt 4 đã tấn công đến rồi！" />
+  <LangHunYaoSaiMonsters ID="5" MonstersID="8620000,8|8620001,4|8620002,2|8620003,2|8620004,1" NextTime="180" Site="6200,2900,10" Intro="Kẻ địch đợt 5 đã tấn công đến rồi！" />
+  <LangHunYaoSaiMonsters ID="6" MonstersID="8630000,16|8630001,4" NextTime="180" Site="6200,2900,10|2350,4830,10|10250,4830,10" Intro="Kẻ địch đợt 6 đã tấn công đến rồi！" />
+  <LangHunYaoSaiMonsters ID="7" MonstersID="8630000,8|8630001,12" NextTime="180" Site="6200,2900,10|2350,4830,10|10250,4830,10" Intro="Kẻ địch đợt 7 đã tấn công đến rồi！" />
+  <LangHunYaoSaiMonsters ID="8" MonstersID="8630000,8|8630001,8|8630002,2" NextTime="180" Site="6200,2900,10|2350,4830,10|10250,4830,10" Intro="Kẻ địch đợt 8 đã tấn công đến rồi！" />
+  <LangHunYaoSaiMonsters ID="9" MonstersID="8630000,12|8630001,4|8630003,2" NextTime="180" Site="6200,2900,10|2350,4830,10|10250,4830,10" Intro="Kẻ địch đợt 9 đã tấn công đến rồi！" />
+  <LangHunYaoSaiMonsters ID="10" MonstersID="8640000,8|8640001,4|8640002,2|8640003,2|8640004,1" NextTime="180" Site="6200,2900,10" Intro="Kẻ địch đợt 10 đã tấn công đến rồi！" />
+  <LangHunYaoSaiMonsters ID="11" MonstersID="8650000,16|8650001,4" NextTime="180" Site="6200,2900,10|2350,4830,10|10250,4830,10" Intro="Kẻ địch đợt 11 đã tấn công đến rồi！" />
+  <LangHunYaoSaiMonsters ID="12" MonstersID="8650000,8|8650001,12" NextTime="180" Site="6200,2900,10|2350,4830,10|10250,4830,10" Intro="Kẻ địch đợt 12 đã tấn công đến rồi！" />
+  <LangHunYaoSaiMonsters ID="13" MonstersID="8650000,8|8650001,8|8650002,2" NextTime="180" Site="6200,2900,10|2350,4830,10|10250,4830,10" Intro="Kẻ địch đợt 13 đã tấn công đến rồi！" />
+  <LangHunYaoSaiMonsters ID="14" MonstersID="8650000,12|8650001,4|8650003,2" NextTime="180" Site="6200,2900,10|2350,4830,10|10250,4830,10" Intro="Kẻ địch đợt 14 đã tấn công đến rồi！" />
+  <LangHunYaoSaiMonsters ID="15" MonstersID="8660000,8|8660001,4|8660002,2|8660003,2|8660004,1" NextTime="-1" Site="6200,2900,10" Intro="Kẻ địch đợt 15 đã tấn công đến rồi！" />
+</Config>

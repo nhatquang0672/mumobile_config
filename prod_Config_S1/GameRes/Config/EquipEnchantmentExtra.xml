@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <EquipEnchantmentExtra ID="1" Name="Tỷ lệ nhất kích hoàn mỹ" Condition="1,2" Type="FatalAttack" Parameter="0.01,0.6|0.02,0.38|0.03,0.02" />
+  <EquipEnchantmentExtra ID="2" Name="Tỷ lệ nhất kích hoàn mỹ" Condition="3,4" Type="FatalAttack" Parameter="0.01,0.6|0.02,0.38|0.03,0.02" />
+  <EquipEnchantmentExtra ID="3" Name="Tỷ lệ buff giới hạn HP" Condition="15,6" Type="MaxLifePercent" Parameter="0.02,0.6|0.04,0.38|0.06,0.02" />
+  <EquipEnchantmentExtra ID="4" Name="DMG" Condition="7,8" Type="AddAttackInjurePercent" Parameter="0.01,0.6|0.02,0.38|0.03,0.02" />
+  <EquipEnchantmentExtra ID="5" Name="DMG" Condition="9,10" Type="AddAttackInjurePercent" Parameter="0.01,0.6|0.02,0.38|0.03,0.02" />
+  <EquipEnchantmentExtra ID="6" Name="Kháng nhất kích x2" Condition="11,12" Type="DeDoubleAttack" Parameter="0.01,0.6|0.02,0.38|0.03,0.02" />
+  <EquipEnchantmentExtra ID="7" Name="Tỷ lệ trúng phục hồi" Condition="13,14" Type="LifeStealPercent" Parameter="0.02,0.6|0.04,0.38|0.06,0.02" />
+  <EquipEnchantmentExtra ID="8" Name="Tỷ lệ nhất kích chí mạng" Condition="15,16" Type="DoubleAttack" Parameter="0.01,0.6|0.02,0.38|0.03,0.02" />
+</Config>

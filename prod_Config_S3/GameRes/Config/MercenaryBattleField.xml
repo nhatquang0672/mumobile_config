@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <MercenaryBattleField ID="1" Name="Chiến Trường Dụng Binh" FuBenID="99601" TimePoints="1,09:20-22:10|2,09:20-22:10|3,09:20-22:10|4,09:20-22:10|5,09:20-22:10|6,09:20-22:10|0,09:20-22:10" ClearTime="30" RewardTimePoints="1,22:10|2,22:10|3,22:10|4,22:10|5,22:10|6,22:10|0,22:10" RankListRefresh="0,23:59:59" MercenaryDamageUp="10" MercenaryMax="999999999" MercenaryMin="8000000" PlayerDamageDown="0.1" PlayerMax="999999999" PlayerMin="999999" EnterTimes="3" RecordRank="10" DecText="{fac60d}Công lược: {dac7ae}Chiến trường ngập tràn hơi thở của Rồng, dụng binh có thể tạo sát thương lớn đến Boss, sát thương tăng 1000%.{dac7ae}" ShowGoods="64026,63478" FightTime="300" AnimationTime="10" MonsterID="9960101" Position="2400,2200" />
+</Config>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <NianShouAttack ID="1" BianPaoType="1" BianPaoGoodID="3500" DamageNum="66,88" Reward="38011,1,1,0,0,0,0" PaoModel="16721" />
+  <NianShouAttack ID="2" BianPaoType="2" BianPaoGoodID="3501" DamageNum="166,188" Reward="38011,3,1,0,0,0,0" PaoModel="16722" />
+  <NianShouAttack ID="3" BianPaoType="3" BianPaoGoodID="3502" DamageNum="666,888" Reward="38011,20,1,0,0,0,0" PaoModel="16723" />
+</Config>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <MagicBook Level="1" Name="Sách Ma Pháp1" Mod="301" Icon="-1" Effect="9000" LuckyOne="-1" LuckyTwo="-1" LuckyTwoRate="-1" NeedGoods="-1" NeedZuanShi="-1" />
+  <MagicBook Level="2" Name="Sách Ma Pháp2" Mod="301" Icon="-1" Effect="9000" LuckyOne="109984" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2101,1" NeedZuanShi="20" />
+  <MagicBook Level="3" Name="Sách Ma Pháp3" Mod="302" Icon="-1" Effect="9001" LuckyOne="109973" LuckyTwo="109989" LuckyTwoRate="0.8" NeedGoods="2101,2" NeedZuanShi="40" />
+  <MagicBook Level="4" Name="Sách Ma Pháp4" Mod="302" Icon="-1" Effect="9001" LuckyOne="109955" LuckyTwo="109979" LuckyTwoRate="0.5" NeedGoods="2101,3" NeedZuanShi="60" />
+  <MagicBook Level="5" Name="Sách Ma Pháp5" Mod="303" Icon="-1" Effect="9002" LuckyOne="109922" LuckyTwo="109960" LuckyTwoRate="0.3" NeedGoods="2101,4" NeedZuanShi="80" />
+  <MagicBook Level="6" Name="Sách Ma Pháp6" Mod="303" Icon="-1" Effect="9002" LuckyOne="109895" LuckyTwo="109946" LuckyTwoRate="0.2" NeedGoods="2101,5" NeedZuanShi="100" />
+  <MagicBook Level="7" Name="Sách Ma Pháp7" Mod="304" Icon="-1" Effect="9003" LuckyOne="109873" LuckyTwo="109936" LuckyTwoRate="0.1" NeedGoods="2101,6" NeedZuanShi="120" />
+  <MagicBook Level="8" Name="Sách Ma Pháp8" Mod="304" Icon="-1" Effect="9003" LuckyOne="109852" LuckyTwo="109927" LuckyTwoRate="0.1" NeedGoods="2101,7" NeedZuanShi="140" />
+  <MagicBook Level="9" Name="Sách Ma Pháp9" Mod="305" Icon="-1" Effect="9004" LuckyOne="109826" LuckyTwo="109915" LuckyTwoRate="0.1" NeedGoods="2101,8" NeedZuanShi="160" />
+  <MagicBook Level="10" Name="Sách Ma Pháp10" Mod="305" Icon="-1" Effect="9004" LuckyOne="109812" LuckyTwo="109915" LuckyTwoRate="0.1" NeedGoods="2101,9" NeedZuanShi="180" />
+  <MagicBook Level="11" Name="Sách Ma Pháp11" Mod="306" Icon="-1" Effect="9005" LuckyOne="109798" LuckyTwo="109915" LuckyTwoRate="0.1" NeedGoods="2101,10" NeedZuanShi="200" />
+  <MagicBook Level="12" Name="Sách Ma Pháp12" Mod="306" Icon="-1" Effect="9005" LuckyOne="109798" LuckyTwo="109915" LuckyTwoRate="0.1" NeedGoods="2101,10" NeedZuanShi="200" />
+  <MagicBook Level="13" Name="Sách Ma Pháp13" Mod="307" Icon="-1" Effect="9006" LuckyOne="109798" LuckyTwo="109915" LuckyTwoRate="0.1" NeedGoods="2101,10" NeedZuanShi="200" />
+  <MagicBook Level="14" Name="Sách Ma Pháp14" Mod="307" Icon="-1" Effect="9006" LuckyOne="109798" LuckyTwo="109915" LuckyTwoRate="0.1" NeedGoods="2101,10" NeedZuanShi="200" />
+  <MagicBook Level="15" Name="Sách Ma Pháp15" Mod="308" Icon="-1" Effect="9007" LuckyOne="109798" LuckyTwo="109915" LuckyTwoRate="0.1" NeedGoods="2101,10" NeedZuanShi="200" />
+  <MagicBook Level="16" Name="Sách Ma Pháp16" Mod="308" Icon="-1" Effect="9007" LuckyOne="109798" LuckyTwo="109915" LuckyTwoRate="0.1" NeedGoods="2101,10" NeedZuanShi="200" />
+  <MagicBook Level="17" Name="Sách Ma Pháp17" Mod="309" Icon="-1" Effect="9008" LuckyOne="109798" LuckyTwo="109915" LuckyTwoRate="0.1" NeedGoods="2101,10" NeedZuanShi="200" />
+  <MagicBook Level="18" Name="Sách Ma Pháp18" Mod="309" Icon="-1" Effect="9008" LuckyOne="109798" LuckyTwo="109915" LuckyTwoRate="0.1" NeedGoods="2101,10" NeedZuanShi="200" />
+  <MagicBook Level="19" Name="Sách Ma Pháp19" Mod="310" Icon="-1" Effect="9009" LuckyOne="109798" LuckyTwo="109915" LuckyTwoRate="0.1" NeedGoods="2101,10" NeedZuanShi="200" />
+  <MagicBook Level="20" Name="Sách Ma Pháp20" Mod="310" Icon="-1" Effect="9009" LuckyOne="109798" LuckyTwo="109915" LuckyTwoRate="0.1" NeedGoods="2101,10" NeedZuanShi="200" />
+</Config>

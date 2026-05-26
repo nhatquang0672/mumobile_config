@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <SystemOrder ID="102" Order="1" Name="Nhân Vật" ImageOne="mainMenuIconRenwu" RegionID="1" SubfunctionID="32000" JieMianShunXu="1" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="40" Order="2" Name="Thành Tựu" ImageOne="mainChengjiu" RegionID="1" SubfunctionID="9000" JieMianShunXu="2" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="109" Order="9" Name="Tiệm" ImageOne="mainMall" RegionID="1" SubfunctionID="-1" JieMianShunXu="9" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="81" Order="65" Name="Tủ Áo" ImageOne="FashionWardrobe" RegionID="1" SubfunctionID="-1" JieMianShunXu="21" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="82" Order="66" Name="Chúc Phúc Couple" ImageOne="couples" RegionID="1" SubfunctionID="-1" JieMianShunXu="22" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="83" Order="67" Name="Trang Sức" ImageOne="ShiPinIcon" RegionID="1" SubfunctionID="-1" JieMianShunXu="23" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="4" Order="5" Name="Hảo Hữu" ImageOne="mainMenuIconFriend" RegionID="1" SubfunctionID="-1" JieMianShunXu="5" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="8" Order="4" Name="Hợp Thành" ImageOne="mainMenuIconHecheng" RegionID="1" SubfunctionID="-1" JieMianShunXu="4" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="12" Order="6" Name="Guild" ImageOne="mainMenuIconFamily" RegionID="1" SubfunctionID="15000" JieMianShunXu="6" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="44" Order="11" Name="Kết Hôn" ImageOne="mainHunyan" RegionID="1" SubfunctionID="-1" JieMianShunXu="12" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="10" Order="7" Name="Xếp Hạng" ImageOne="mainMenuIconTop" RegionID="1" SubfunctionID="7500" JieMianShunXu="7" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="112" Order="79" Name="Chiến Đội" ImageOne="zhandui" RegionID="1" SubfunctionID="-1" JieMianShunXu="35" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="72" Order="62" Name="Mật Cảnh" ImageOne="MainUICangBaoMiJing" RegionID="1" SubfunctionID="-1" JieMianShunXu="19" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="33" Order="8" Name="Đồ Giám" ImageOne="mainMenuIconTujian" RegionID="1" SubfunctionID="19000" JieMianShunXu="8" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="6" Order="3" Name="Lò Rèn" ImageOne="mainMenuIconLianlu" RegionID="1" SubfunctionID="31000" JieMianShunXu="3" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="70" Order="58" Name="Pháo Đài" ImageOne="MainLingDi" RegionID="1" SubfunctionID="-1" JieMianShunXu="14" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="89" Order="70" Name="Huy Hiệu" ImageOne="HuiJiIcon" RegionID="1" SubfunctionID="-1" JieMianShunXu="26" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="97" Order="74" Name="Thú Cưỡi" ImageOne="ZuoQi" RegionID="1" SubfunctionID="-1" JieMianShunXu="30" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="61" Order="59" Name="Sách Merlin" ImageOne="meilinzhiShuICON-64" RegionID="1" SubfunctionID="-1" JieMianShunXu="16" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="58" Order="41" Name="Tinh Linh" ImageOne="mainMenuIconJingling" RegionID="1" SubfunctionID="-1" JieMianShunXu="11" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="93" Order="73" Name="Giác Tỉnh" ImageOne="JueXing" RegionID="1" SubfunctionID="18003" JieMianShunXu="29" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="67" Order="60" Name="Thánh Vật" ImageOne="shengwuicon" RegionID="1" SubfunctionID="-1" JieMianShunXu="17" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="68" Order="61" Name="Huỳnh Thạch" ImageOne="YingShi" RegionID="1" SubfunctionID="-1" JieMianShunXu="18" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="79" Order="64" Name="Tarot" ImageOne="IconTaLuoPai" RegionID="1" SubfunctionID="-1" JieMianShunXu="20" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="103" Order="77" Name="Thần Hồn" ImageOne="ShenHun" RegionID="1" SubfunctionID="-1" JieMianShunXu="33" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="88" Order="69" Name="Quân Đoàn" ImageOne="ArmyGroup" RegionID="1" SubfunctionID="-1" JieMianShunXu="25" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="87" Order="68" Name="Thần Khí" ImageOne="mainMenuIconShenQiSystem" RegionID="1" SubfunctionID="-1" JieMianShunXu="24" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="92" Order="72" Name="Thần Thức" ImageOne="shenshi" RegionID="1" SubfunctionID="-1" JieMianShunXu="28" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="90" Order="71" Name="Luyện Kim" ImageOne="lianjin" RegionID="1" SubfunctionID="-1" JieMianShunXu="27" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="59" Order="57" Name="Thiên Phú" ImageOne="mainTianfu" RegionID="1" SubfunctionID="-1" JieMianShunXu="13" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="105" Order="78" Name="Tái Sinh" ImageOne="IconRebrith" RegionID="1" SubfunctionID="21000" JieMianShunXu="34" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="100" Order="76" Name="Hộ Thuẫn" ImageOne="IconShenShengHuJia" RegionID="1" SubfunctionID="-1" JieMianShunXu="32" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="134" Order="10" Name="Nhiệm Vụ" ImageOne="mainMenuIconTask" RegionID="1" SubfunctionID="-1" JieMianShunXu="10" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="133" Order="75" Name="Thế Lực" ImageOne="mainMenuIconShiLi" RegionID="1" SubfunctionID="-1" JieMianShunXu="31" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="135" Order="86" Name="Tước Vị" ImageOne="JueWeimainMenu" RegionID="1" SubfunctionID="-1" JieMianShunXu="36" LinkID="-1" IsHot="-1" />
+  <SystemOrder ID="143" Order="998" Name="Thần Binh" ImageOne="ShenBing" RegionID="1" SubfunctionID="-1" JieMianShunXu="38" LinkID="16" IsHot="-1" />
+  <SystemOrder ID="144" Order="999" Name="Hồn Khí" ImageOne="HunQi" RegionID="1" SubfunctionID="-1" JieMianShunXu="37" LinkID="23" IsHot="-1" />
+  <SystemOrder ID="147" Order="1001" Name="Băng Tay" ImageOne="BiZhang" RegionID="1" SubfunctionID="-1" JieMianShunXu="39" LinkID="25" IsHot="-1" />
+  <SystemOrder ID="148" Order="1005" Name="Tế Đàn Vạn Linh" ImageOne="JiTan" RegionID="1" SubfunctionID="-1" JieMianShunXu="40" LinkID="41" IsHot="-1" />
+  <SystemOrder ID="155" Order="1006" Name="Kỳ Tích Huyễn Giáp" ImageOne="QiJiHuanJia" RegionID="1" SubfunctionID="-1" JieMianShunXu="41" LinkID="44" IsHot="-1" />
+  <SystemOrder ID="159" Order="1009" Name="Đại Sư Đột Phá" ImageOne="Master" RegionID="1" SubfunctionID="-1" JieMianShunXu="42" LinkID="51" IsHot="-1" />
+  <SystemOrder ID="160" Order="1010" Name="Pháp Trận Nguyên Tố" ImageOne="YuanSuFaZhen" RegionID="1" SubfunctionID="-1" JieMianShunXu="43" LinkID="53" IsHot="-1" />
+  <SystemOrder ID="161" Order="1011" Name="Thần Ban Thánh Khiên" ImageOne="ShenCiShengDun" RegionID="1" SubfunctionID="-1" JieMianShunXu="44" LinkID="55" IsHot="-1" />
+  <SystemOrder ID="163" Order="1012" Name="Văn Chương Thần Thánh " ImageOne="BiZhang" RegionID="1" SubfunctionID="-1" JieMianShunXu="45" LinkID="60" IsHot="-1" />
+  <SystemOrder ID="179" Order="1023" Name="Khắc Ấn Thánh Ngân" ImageOne="BiZhang" RegionID="1" SubfunctionID="-1" JieMianShunXu="46" LinkID="98" IsHot="-1" />
+  <SystemOrder ID="177" Order="1024" Name="SK Mua nhóm" ImageOne="TuanGou" RegionID="1" SubfunctionID="-1" JieMianShunXu="47" LinkID="90" IsHot="-1" />
+  <SystemOrder ID="181" Order="181" Name="Thánh Lệnh Guild" ImageOne="ZhanMengShengLing" RegionID="1" SubfunctionID="-1" JieMianShunXu="49" LinkID="108" IsHot="-1" />
+  <SystemOrder ID="189" Order="1032" Name="Bộ Trang Bị Vương Giả" ImageOne="WangZheTaoZhuang" RegionID="1" SubfunctionID="-1" JieMianShunXu="50" LinkID="153" IsHot="-1" />
+</Config>

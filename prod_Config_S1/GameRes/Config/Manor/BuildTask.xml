@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <BuildTask ID="10000" Name="Hạt Năng Lượng-Nhỏ" BuildID="1" Quality="1" Sum="3" ExpNum="2" Time="30" />
+  <BuildTask ID="10001" Name="Hạt Năng Lượng-Vừa" BuildID="1" Quality="2" Sum="6" ExpNum="4" Time="60" />
+  <BuildTask ID="10002" Name="Hạt Năng Lượng-Lớn" BuildID="1" Quality="3" Sum="9" ExpNum="5" Time="120" />
+  <BuildTask ID="10003" Name="Hạt Năng Lượng-Siêu" BuildID="1" Quality="4" Sum="16" ExpNum="9" Time="240" />
+  <BuildTask ID="20000" Name="Hạt Năng Lượng-Nhỏ" BuildID="2" Quality="1" Sum="3" ExpNum="2" Time="30" />
+  <BuildTask ID="20001" Name="Hạt Năng Lượng-Vừa" BuildID="2" Quality="2" Sum="6" ExpNum="4" Time="60" />
+  <BuildTask ID="20002" Name="Hạt Năng Lượng-Lớn" BuildID="2" Quality="3" Sum="9" ExpNum="5" Time="120" />
+  <BuildTask ID="20003" Name="Hạt Năng Lượng-Siêu" BuildID="2" Quality="4" Sum="16" ExpNum="9" Time="240" />
+  <BuildTask ID="30000" Name="Hạt Năng Lượng-Nhỏ" BuildID="3" Quality="1" Sum="3" ExpNum="2" Time="30" />
+  <BuildTask ID="30001" Name="Hạt Năng Lượng-Vừa" BuildID="3" Quality="2" Sum="6" ExpNum="4" Time="60" />
+  <BuildTask ID="30002" Name="Hạt Năng Lượng-Lớn" BuildID="3" Quality="3" Sum="9" ExpNum="5" Time="120" />
+  <BuildTask ID="30003" Name="Hạt Năng Lượng-Siêu" BuildID="3" Quality="4" Sum="16" ExpNum="9" Time="240" />
+  <BuildTask ID="40000" Name="Hạt Năng Lượng-Nhỏ" BuildID="4" Quality="1" Sum="3" ExpNum="2" Time="30" />
+  <BuildTask ID="40001" Name="Hạt Năng Lượng-Vừa" BuildID="4" Quality="2" Sum="6" ExpNum="4" Time="60" />
+  <BuildTask ID="40002" Name="Hạt Năng Lượng-Lớn" BuildID="4" Quality="3" Sum="9" ExpNum="5" Time="120" />
+  <BuildTask ID="40003" Name="Hạt Năng Lượng-Siêu" BuildID="4" Quality="4" Sum="16" ExpNum="9" Time="240" />
+  <BuildTask ID="100" Name="Càn Quét Tháp" BuildID="1" Quality="1" Sum="2" ExpNum="1" Time="30" />
+  <BuildTask ID="101" Name="Truy Tìm" BuildID="1" Quality="1" Sum="3" ExpNum="1" Time="30" />
+  <BuildTask ID="102" Name="Chiến Tế" BuildID="1" Quality="1" Sum="3" ExpNum="2" Time="30" />
+  <BuildTask ID="110" Name="Trừ Ma" BuildID="1" Quality="2" Sum="5" ExpNum="3" Time="60" />
+  <BuildTask ID="111" Name="Phục Hồi " BuildID="1" Quality="2" Sum="5" ExpNum="2" Time="60" />
+  <BuildTask ID="112" Name="Tế Bái" BuildID="1" Quality="2" Sum="6" ExpNum="2" Time="60" />
+  <BuildTask ID="113" Name="Khám Phá " BuildID="1" Quality="2" Sum="6" ExpNum="3" Time="60" />
+  <BuildTask ID="114" Name="Dọn Kho" BuildID="1" Quality="2" Sum="6" ExpNum="4" Time="60" />
+  <BuildTask ID="120" Name="Xua Tan" BuildID="1" Quality="3" Sum="8" ExpNum="3" Time="120" />
+  <BuildTask ID="121" Name="Truy Quét" BuildID="1" Quality="3" Sum="8" ExpNum="4" Time="120" />
+  <BuildTask ID="122" Name="Võ Thần" BuildID="1" Quality="3" Sum="8" ExpNum="5" Time="120" />
+  <BuildTask ID="123" Name="Tỉ Thí" BuildID="1" Quality="3" Sum="9" ExpNum="4" Time="120" />
+  <BuildTask ID="124" Name="Đấu Trường" BuildID="1" Quality="3" Sum="9" ExpNum="5" Time="120" />
+  <BuildTask ID="130" Name="Leo Tháp" BuildID="1" Quality="4" Sum="12" ExpNum="5" Time="240" />
+  <BuildTask ID="131" Name="Đối Chiến" BuildID="1" Quality="4" Sum="12" ExpNum="6" Time="240" />
+  <BuildTask ID="132" Name="Sa Mạc" BuildID="1" Quality="4" Sum="12" ExpNum="7" Time="240" />
+  <BuildTask ID="133" Name="Đấu Ác Long" BuildID="1" Quality="4" Sum="14" ExpNum="5" Time="240" />
+  <BuildTask ID="134" Name="Ấn Chiến Thần" BuildID="1" Quality="4" Sum="14" ExpNum="7" Time="240" />
+  <BuildTask ID="135" Name="Trục Trừ" BuildID="1" Quality="4" Sum="14" ExpNum="9" Time="240" />
+  <BuildTask ID="136" Name="Tham Đấu" BuildID="1" Quality="4" Sum="16" ExpNum="7" Time="240" />
+  <BuildTask ID="137" Name="Quyết Chiến" BuildID="1" Quality="4" Sum="16" ExpNum="8" Time="240" />
+  <BuildTask ID="138" Name="Phong Ma Tháp" BuildID="1" Quality="4" Sum="16" ExpNum="9" Time="240" />
+  <BuildTask ID="200" Name="Ma Thuật Xuất Hiện" BuildID="2" Quality="1" Sum="2" ExpNum="1" Time="30" />
+  <BuildTask ID="201" Name="Giáo Hối" BuildID="2" Quality="1" Sum="3" ExpNum="1" Time="30" />
+  <BuildTask ID="202" Name="Lĩnh Ngộ Chú Thuật" BuildID="2" Quality="1" Sum="3" ExpNum="2" Time="30" />
+  <BuildTask ID="210" Name="Pháp Khí" BuildID="2" Quality="2" Sum="5" ExpNum="3" Time="60" />
+  <BuildTask ID="211" Name="Chú Tinh" BuildID="2" Quality="2" Sum="5" ExpNum="2" Time="60" />
+  <BuildTask ID="212" Name="Trận Đồ" BuildID="2" Quality="2" Sum="6" ExpNum="2" Time="60" />
+  <BuildTask ID="213" Name="Phù Văn" BuildID="2" Quality="2" Sum="6" ExpNum="3" Time="60" />
+  <BuildTask ID="214" Name="Thánh Tuyền" BuildID="2" Quality="2" Sum="6" ExpNum="4" Time="60" />
+  <BuildTask ID="220" Name="Cân Ma Thuật" BuildID="2" Quality="3" Sum="8" ExpNum="3" Time="120" />
+  <BuildTask ID="221" Name="Cảnh Giới" BuildID="2" Quality="3" Sum="8" ExpNum="4" Time="120" />
+  <BuildTask ID="222" Name="Tu Niệm" BuildID="2" Quality="3" Sum="8" ExpNum="5" Time="120" />
+  <BuildTask ID="223" Name="Triệu Hồi" BuildID="2" Quality="3" Sum="9" ExpNum="4" Time="120" />
+  <BuildTask ID="224" Name="Thần Quang" BuildID="2" Quality="3" Sum="9" ExpNum="5" Time="120" />
+  <BuildTask ID="230" Name="Vòng Ma Thuật" BuildID="2" Quality="4" Sum="12" ExpNum="5" Time="240" />
+  <BuildTask ID="231" Name="Học Pháp Thuật" BuildID="2" Quality="4" Sum="12" ExpNum="6" Time="240" />
+  <BuildTask ID="232" Name="Tạo Ma Điển" BuildID="2" Quality="4" Sum="12" ExpNum="7" Time="240" />
+  <BuildTask ID="233" Name="Tinh Thông" BuildID="2" Quality="4" Sum="14" ExpNum="5" Time="240" />
+  <BuildTask ID="234" Name="Phục Quỷ" BuildID="2" Quality="4" Sum="14" ExpNum="7" Time="240" />
+  <BuildTask ID="235" Name="Ảo Hoá" BuildID="2" Quality="4" Sum="14" ExpNum="9" Time="240" />
+  <BuildTask ID="236" Name="Thiên Sứ" BuildID="2" Quality="4" Sum="16" ExpNum="7" Time="240" />
+  <BuildTask ID="237" Name="Thánh Điển" BuildID="2" Quality="4" Sum="16" ExpNum="8" Time="240" />
+  <BuildTask ID="238" Name="Mật Tông" BuildID="2" Quality="4" Sum="16" ExpNum="9" Time="240" />
+  <BuildTask ID="300" Name="Quét Chiêm Tinh" BuildID="3" Quality="1" Sum="2" ExpNum="1" Time="30" />
+  <BuildTask ID="301" Name="Chiêm Tinh Cầu" BuildID="3" Quality="1" Sum="3" ExpNum="1" Time="30" />
+  <BuildTask ID="302" Name="Tinh Túc Đồ" BuildID="3" Quality="1" Sum="3" ExpNum="2" Time="30" />
+  <BuildTask ID="310" Name="Quan Trắc" BuildID="3" Quality="2" Sum="5" ExpNum="3" Time="60" />
+  <BuildTask ID="311" Name="Tinh Túc" BuildID="3" Quality="2" Sum="5" ExpNum="2" Time="60" />
+  <BuildTask ID="312" Name="Trích Thiên" BuildID="3" Quality="2" Sum="6" ExpNum="2" Time="60" />
+  <BuildTask ID="313" Name="Ma Pháp Chiêm Tinh" BuildID="3" Quality="2" Sum="6" ExpNum="3" Time="60" />
+  <BuildTask ID="314" Name="Tinh Không" BuildID="3" Quality="2" Sum="6" ExpNum="4" Time="60" />
+  <BuildTask ID="320" Name="Tinh Tế" BuildID="3" Quality="3" Sum="8" ExpNum="3" Time="120" />
+  <BuildTask ID="321" Name="Chiêm Tinh" BuildID="3" Quality="3" Sum="8" ExpNum="4" Time="120" />
+  <BuildTask ID="322" Name="Ngắm Sao" BuildID="3" Quality="3" Sum="8" ExpNum="5" Time="120" />
+  <BuildTask ID="323" Name="Quan Sát" BuildID="3" Quality="3" Sum="9" ExpNum="4" Time="120" />
+  <BuildTask ID="324" Name="Cường Hoá" BuildID="3" Quality="3" Sum="9" ExpNum="5" Time="120" />
+  <BuildTask ID="330" Name="Xuyên Không" BuildID="3" Quality="4" Sum="12" ExpNum="5" Time="240" />
+  <BuildTask ID="331" Name="Vẽ Mây" BuildID="3" Quality="4" Sum="12" ExpNum="6" Time="240" />
+  <BuildTask ID="332" Name="Tu Sửa" BuildID="3" Quality="4" Sum="12" ExpNum="7" Time="240" />
+  <BuildTask ID="333" Name="Tinh Quang" BuildID="3" Quality="4" Sum="14" ExpNum="5" Time="240" />
+  <BuildTask ID="334" Name="Cầu Nguyện" BuildID="3" Quality="4" Sum="14" ExpNum="7" Time="240" />
+  <BuildTask ID="335" Name="Tế Sao" BuildID="3" Quality="4" Sum="14" ExpNum="9" Time="240" />
+  <BuildTask ID="336" Name="Ma Trận" BuildID="3" Quality="4" Sum="16" ExpNum="7" Time="240" />
+  <BuildTask ID="337" Name="Đường Sao Rơi" BuildID="3" Quality="4" Sum="16" ExpNum="8" Time="240" />
+  <BuildTask ID="338" Name="Chiêm Tinh Đại Sư" BuildID="3" Quality="4" Sum="16" ExpNum="9" Time="240" />
+  <BuildTask ID="400" Name="Nhập Luyện" BuildID="4" Quality="1" Sum="2" ExpNum="1" Time="30" />
+  <BuildTask ID="401" Name="Thí Luyện" BuildID="4" Quality="1" Sum="3" ExpNum="1" Time="30" />
+  <BuildTask ID="402" Name="Nguồn Tối" BuildID="4" Quality="1" Sum="3" ExpNum="2" Time="30" />
+  <BuildTask ID="410" Name="Rồng Ba Đầu" BuildID="4" Quality="2" Sum="5" ExpNum="3" Time="60" />
+  <BuildTask ID="411" Name="Medusa" BuildID="4" Quality="2" Sum="5" ExpNum="2" Time="60" />
+  <BuildTask ID="412" Name="Chó Địa Ngục" BuildID="4" Quality="2" Sum="6" ExpNum="2" Time="60" />
+  <BuildTask ID="413" Name="Thú Viễn Cổ" BuildID="4" Quality="2" Sum="6" ExpNum="3" Time="60" />
+  <BuildTask ID="414" Name="Cổng Nhện Độc" BuildID="4" Quality="2" Sum="6" ExpNum="4" Time="60" />
+  <BuildTask ID="420" Name="Loạn Vũ" BuildID="4" Quality="3" Sum="8" ExpNum="3" Time="120" />
+  <BuildTask ID="421" Name="Thí Luyện Máu" BuildID="4" Quality="3" Sum="8" ExpNum="4" Time="120" />
+  <BuildTask ID="422" Name="Tế Quỷ" BuildID="4" Quality="3" Sum="8" ExpNum="5" Time="120" />
+  <BuildTask ID="423" Name="Tập Kết" BuildID="4" Quality="3" Sum="9" ExpNum="4" Time="120" />
+  <BuildTask ID="424" Name="Biển Máu" BuildID="4" Quality="3" Sum="9" ExpNum="5" Time="120" />
+  <BuildTask ID="430" Name="Luyện Ngục Ác Quỷ" BuildID="4" Quality="4" Sum="12" ExpNum="5" Time="240" />
+  <BuildTask ID="431" Name="Siêu Thoát" BuildID="4" Quality="4" Sum="12" ExpNum="6" Time="240" />
+  <BuildTask ID="432" Name="Địa Ngục Sư Đồ" BuildID="4" Quality="4" Sum="12" ExpNum="7" Time="240" />
+  <BuildTask ID="433" Name="Mắt Quỷ" BuildID="4" Quality="4" Sum="14" ExpNum="5" Time="240" />
+  <BuildTask ID="434" Name="Cổng Tuyệt Vọng" BuildID="4" Quality="4" Sum="14" ExpNum="7" Time="240" />
+  <BuildTask ID="435" Name="Huyệt Tử Vong" BuildID="4" Quality="4" Sum="14" ExpNum="9" Time="240" />
+  <BuildTask ID="436" Name="Miệng Núi Lửa" BuildID="4" Quality="4" Sum="16" ExpNum="7" Time="240" />
+  <BuildTask ID="437" Name="Luyện Tiềm Năng" BuildID="4" Quality="4" Sum="16" ExpNum="8" Time="240" />
+  <BuildTask ID="438" Name="Luyện Bá Vương" BuildID="4" Quality="4" Sum="16" ExpNum="9" Time="240" />
+</config>

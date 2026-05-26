@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HorseSuperiorType ID="1" Name="Buff giới hạn HP" Type="MaxLifePercent" Parameter="350,0.33|450,0.34|550,0.33" />
+  <HorseSuperiorType ID="2" Name="Sát thương nguyên tố tăng" Type="ElementInjurePercent" Parameter="60,0.33|90,0.34|120,0.33" />
+  <HorseSuperiorType ID="3" Name="Miễn dame nguyên tố" Type="ElementAttackInjurePercent" Parameter="60,0.33|90,0.34|120,0.33" />
+  <HorseSuperiorType ID="4" Name="Hoàn Mỹ" Type="FatalAttack" Parameter="100,0.33|150,0.34|200,0.33" />
+  <HorseSuperiorType ID="5" Name="Tỉ lệ Kháng Đòn Hoàn Mỹ" Type="DeFatalAttack" Parameter="100,0.33|150,0.34|200,0.33" />
+  <HorseSuperiorType ID="6" Name="Buff DMG" Type="AddAttackInjurePercent" Parameter="120,0.33|180,0.34|240,0.33" />
+  <HorseSuperiorType ID="7" Name="Buff giới hạn HP" Type="MaxLifePercent" Parameter="560,0.33|660,0.34|760,0.33" />
+  <HorseSuperiorType ID="8" Name="Sát thương nguyên tố tăng" Type="ElementInjurePercent" Parameter="112,0.33|132,0.34|152,0.33" />
+  <HorseSuperiorType ID="9" Name="Miễn dame nguyên tố" Type="ElementAttackInjurePercent" Parameter="112,0.33|132,0.34|152,0.33" />
+  <HorseSuperiorType ID="10" Name="Tỉ lệ Kháng Đòn Hoàn Mỹ" Type="DeFatalAttack" Parameter="170,0.33|220,0.34|270,0.33" />
+  <HorseSuperiorType ID="11" Name="Buff DMG" Type="AddAttackInjurePercent" Parameter="204,0.33|264,0.34|324,0.33" />
+  <HorseSuperiorType ID="12" Name="Tỉ lệ Kháng Đòn Chí Mạng" Type="DeDoubleAttack" Parameter="85,0.33|110,0.34|135,0.33" />
+  <HorseSuperiorType ID="13" Name="Hút Dame" Type="SubAttackInjurePercent" Parameter="24,0.33|44,0.34|64,0.33" />
+  <HorseSuperiorType ID="14" Name="Hoàn Mỹ" Type="FatalAttack" Parameter="170,0.33|220,0.34|270,0.33" />
+  <HorseSuperiorType ID="15" Name="Chí Mạng" Type="DoubleAttack" Parameter="85,0.33|110,0.34|135,0.33" />
+  <HorseSuperiorType ID="16" Name="Sát thương xuyên thấu" Type="InjurePenetrationPercent" Parameter="24,0.33|44,0.34|64,0.33" />
+  <HorseSuperiorType ID="17" Name="Buff giới hạn HP" Type="MaxLifePercent" Parameter="800,0.33|900,0.34|1000,0.33" />
+  <HorseSuperiorType ID="18" Name="Sát thương nguyên tố tăng" Type="ElementInjurePercent" Parameter="150,0.33|180,0.34|210,0.33" />
+  <HorseSuperiorType ID="19" Name="Miễn dame nguyên tố" Type="ElementAttackInjurePercent" Parameter="150,0.33|180,0.34|210,0.33" />
+  <HorseSuperiorType ID="20" Name="Hoàn Mỹ" Type="FatalAttack" Parameter="250,0.33|300,0.34|350,0.33" />
+  <HorseSuperiorType ID="21" Name="Tỉ lệ Kháng Đòn Hoàn Mỹ" Type="DeFatalAttack" Parameter="250,0.33|300,0.34|350,0.33" />
+  <HorseSuperiorType ID="22" Name="Buff DMG" Type="AddAttackInjurePercent" Parameter="300,0.33|360,0.34|420,0.33" />
+  <HorseSuperiorType ID="23" Name="Chí Mạng" Type="DoubleAttack" Parameter="120,0.33|150,0.34|180,0.33" />
+  <HorseSuperiorType ID="24" Name="Tỉ lệ Kháng Đòn Chí Mạng" Type="DeDoubleAttack" Parameter="120,0.33|150,0.34|180,0.33" />
+  <HorseSuperiorType ID="25" Name="Hút Dame" Type="SubAttackInjurePercent" Parameter="50,0.33|60,0.34|70,0.33" />
+  <HorseSuperiorType ID="26" Name="Sát thương xuyên thấu" Type="InjurePenetrationPercent" Parameter="50,0.33|60,0.34|70,0.33" />
+  <HorseSuperiorType ID="27" Name="Buff giới hạn HP" Type="MaxLifePercent" Parameter="850,0.33|950,0.34|1050,0.33" />
+  <HorseSuperiorType ID="28" Name="Sát thương nguyên tố tăng" Type="ElementInjurePercent" Parameter="160,0.33|190,0.34|220,0.33" />
+  <HorseSuperiorType ID="29" Name="Miễn dame nguyên tố" Type="ElementAttackInjurePercent" Parameter="160,0.33|190,0.34|220,0.33" />
+  <HorseSuperiorType ID="30" Name="Hoàn Mỹ" Type="FatalAttack" Parameter="270,0.33|320,0.34|370,0.33" />
+  <HorseSuperiorType ID="31" Name="Tỉ lệ Kháng Đòn Hoàn Mỹ" Type="DeFatalAttack" Parameter="270,0.33|320,0.34|370,0.33" />
+  <HorseSuperiorType ID="32" Name="Buff DMG" Type="AddAttackInjurePercent" Parameter="330,0.33|390,0.34|450,0.33" />
+  <HorseSuperiorType ID="33" Name="Chí Mạng" Type="DoubleAttack" Parameter="130,0.33|160,0.34|190,0.33" />
+  <HorseSuperiorType ID="34" Name="Tỉ lệ Kháng Đòn Chí Mạng" Type="DeDoubleAttack" Parameter="130,0.33|160,0.34|190,0.33" />
+  <HorseSuperiorType ID="35" Name="Hút Dame" Type="SubAttackInjurePercent" Parameter="60,0.33|70,0.34|80,0.33" />
+  <HorseSuperiorType ID="36" Name="Sát thương xuyên thấu" Type="InjurePenetrationPercent" Parameter="60,0.33|70,0.34|80,0.33" />
+  <HorseSuperiorType ID="37" Name="Tái Sinh Cả Hệ-Xuyên Thấu ST" Type="RebornPenetratePercent" Parameter="40,0.33|50,0.34|60,0.33" />
+  <HorseSuperiorType ID="38" Name="Tái Sinh Cả Hệ-Hấp Thu ST" Type="RebornAbsorbPercent" Parameter="40,0.33|50,0.34|60,0.33" />
+  <HorseSuperiorType ID="39" Name="Tái Sinh Cả Hệ-Tỷ lệ bạo" Type="RebornDoubleAttackPercent" Parameter="40,0.33|50,0.34|60,0.33" />
+  <HorseSuperiorType ID="40" Name="Tái Sinh Cả Hệ-ST Bạo" Type="RebornDoubleAttackInjure" Parameter="40,0.33|50,0.34|60,0.33" />
+  <HorseSuperiorType ID="41" Name="Kháng bạo kích trùng sinh" Type="RebornDoubleAttackResistance" Parameter="40,0.33|50,0.34|60,0.33" />
+  <HorseSuperiorType ID="42" Name="Kháng bạo thương trùng sinh" Type="RebornDoubleAttackInjureResistance" Parameter="40,0.33|50,0.34|60,0.33" />
+  <HorseSuperiorType ID="43" Name="Thần Thánh-Xuyên Thấu ST" Type="HolyPenetratePercent" Parameter="60,0.33|80,0.34|100,0.33" />
+  <HorseSuperiorType ID="44" Name="Thần Thánh-Hấp Thu ST" Type="HolyAbsorbPercent" Parameter="60,0.33|80,0.34|100,0.33" />
+  <HorseSuperiorType ID="45" Name="Thần Thánh-Tỷ lệ bạo" Type="HolyDoubleAttackPercent" Parameter="60,0.33|80,0.34|100,0.33" />
+  <HorseSuperiorType ID="46" Name="Thần Thánh-ST Bạo" Type="HolyDoubleAttackInjure" Parameter="60,0.33|80,0.34|100,0.33" />
+  <HorseSuperiorType ID="47" Name="Kháng bạo kích thần thánh" Type="HolyRebornDoubleAttackResistance" Parameter="60,0.33|80,0.34|100,0.33" />
+  <HorseSuperiorType ID="48" Name="Kháng bạo thương thần thánh" Type="HolyRebornDoubleAttackInjureResistance" Parameter="60,0.33|80,0.34|100,0.33" />
+  <HorseSuperiorType ID="49" Name="Ám Ảnh-Xuyên Thấu ST" Type="ShadowPenetratePercent" Parameter="60,0.33|80,0.34|100,0.33" />
+  <HorseSuperiorType ID="50" Name="Ám Ảnh-Hấp Thu ST" Type="ShadowAbsorbPercent" Parameter="60,0.33|80,0.34|100,0.33" />
+  <HorseSuperiorType ID="51" Name="Ám Ảnh-Tỷ lệ bạo" Type="ShadowDoubleAttackPercent" Parameter="60,0.33|80,0.34|100,0.33" />
+  <HorseSuperiorType ID="52" Name="Ám Ảnh-ST Bạo" Type="ShadowDoubleAttackInjure" Parameter="60,0.33|80,0.34|100,0.33" />
+  <HorseSuperiorType ID="53" Name="Kháng bạo kích bóng tối" Type="ShadowRebornDoubleAttackResistance" Parameter="60,0.33|80,0.34|100,0.33" />
+  <HorseSuperiorType ID="54" Name="Kháng bạo thương bóng tối" Type="ShadowRebornDoubleAttackInjureResistance" Parameter="60,0.33|80,0.34|100,0.33" />
+  <HorseSuperiorType ID="55" Name="Tự Nhiên-Xuyên Thấu ST" Type="NaturePenetratePercent" Parameter="60,0.33|80,0.34|100,0.33" />
+  <HorseSuperiorType ID="56" Name="Tự Nhiên-Hấp Thu ST" Type="NatureAbsorbPercent" Parameter="60,0.33|80,0.34|100,0.33" />
+  <HorseSuperiorType ID="57" Name="Tự Nhiên-Tỷ lệ bạo" Type="NatureDoubleAttackPercent" Parameter="60,0.33|80,0.34|100,0.33" />
+  <HorseSuperiorType ID="58" Name="Tự Nhiên-ST Bạo" Type="NatureDoubleAttackInjure" Parameter="60,0.33|80,0.34|100,0.33" />
+  <HorseSuperiorType ID="59" Name="Hỗn Độn-Xuyên Thấu ST" Type="ChaosPenetratePercent" Parameter="60,0.33|80,0.34|100,0.33" />
+  <HorseSuperiorType ID="60" Name="Hỗn Độn-Hấp Thu ST" Type="ChaosAbsorbPercent" Parameter="60,0.33|80,0.34|100,0.33" />
+  <HorseSuperiorType ID="61" Name="Hỗn Độn-Tỷ lệ bạo" Type="ChaosDoubleAttackPercent" Parameter="60,0.33|80,0.34|100,0.33" />
+  <HorseSuperiorType ID="62" Name="Hỗn Độn-ST Bạo" Type="ChaosDoubleAttackInjure" Parameter="60,0.33|80,0.34|100,0.33" />
+  <HorseSuperiorType ID="63" Name="Kháng bạo kích hỗn loạn" Type="ChaosRebornDoubleAttackResistance" Parameter="60,0.33|80,0.34|100,0.33" />
+  <HorseSuperiorType ID="64" Name="Kháng bạo thương hỗn loạn" Type="ChaosRebornDoubleAttackInjureResistance" Parameter="60,0.33|80,0.34|100,0.33" />
+  <HorseSuperiorType ID="65" Name="Ác Mộng-Xuyên Thấu ST" Type="IncubusPenetratePercent" Parameter="60,0.33|80,0.34|100,0.33" />
+  <HorseSuperiorType ID="66" Name="Ác Mộng-Hấp Thu ST" Type="IncubusAbsorbPercent" Parameter="60,0.33|80,0.34|100,0.33" />
+  <HorseSuperiorType ID="67" Name="Ác Mộng-Tỷ lệ bạo" Type="IncubusDoubleAttackPercent" Parameter="60,0.33|80,0.34|100,0.33" />
+  <HorseSuperiorType ID="68" Name="Ác Mộng-ST Bạo" Type="IncubusDoubleAttackInjure" Parameter="60,0.33|80,0.34|100,0.33" />
+  <HorseSuperiorType ID="69" Name="Kháng bạo kích mộng yểm" Type="IncubusRebornDoubleAttackResistance" Parameter="60,0.33|80,0.34|100,0.33" />
+  <HorseSuperiorType ID="70" Name="Kháng bạo thương mộng yểm" Type="IncubusRebornDoubleAttackInjureResistance" Parameter="60,0.33|80,0.34|100,0.33" />
+</Config>

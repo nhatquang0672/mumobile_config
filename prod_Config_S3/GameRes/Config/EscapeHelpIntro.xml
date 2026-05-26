@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Chi tiết Ma Giới Đại Tháo Sát" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Do đội trưởng báo danh, cấp Tái Sinh đội trưởng cần đạt {17e43e}5{-} chuyển Lv{17e43e}1{-} mới có thể báo danh{dac7ae}." Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, {17e43e}21:30-22:00{-} thứ 2, 5 sẽ mở sự kiện{dac7ae}." Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, Sự kiện kéo dài 2 tuần, vào lúc 24:00 ngày cuối cùng sẽ tổng kết{dac7ae}." Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, Khi kết thúc mùa, hệ thống sẽ dựa vào hạng điểm để phát thưởng{dac7ae}." Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5, Khi đổi đội trong thời gian thi đấu thì sẽ căn cứ vào hạng của đội hiện tại{dac7ae}." Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae}6, Tổng thành viên đội là &lt;{17e43e}3{-} sẽ không thể vào Chiến Trường Đào Sát, đội trưởng rời đội sẽ không thể tham gia{dac7ae}." Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae}7, Ma Giới Đại Tháo Sát khi bắt đầu, lần đầu chiến thắng sẽ nhận được thưởng thắng lần đầu{dac7ae}." Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae}8, Ma Giới Đại Tháo Sát khi bắt đầu, tiêu diệt số người đạt mức chỉ định sẽ nhận thưởng trang sức{dac7ae}." Bold="0" />
+  <HelpIntro ID="10" Intro="{dac7ae}9, Sau khi vào Chiến Trường Đào Sát, HP thành viên đội sẽ đượ tăng thêm và DMG tăng thêm giảm còn 1%{dac7ae}." Bold="0" />
+  <HelpIntro ID="11" Intro="{dac7ae}10, Quy tắc Chiến Trường Đào Sát{dac7ae}" Bold="0" />
+  <HelpIntro ID="12" Intro="{dac7ae}   (1) Sau khi vào chiến trường, bản đồ sẽ xuất hiện &quot;Hạt Sinh Mệnh&quot;, thu thập để tăng số lượng hồi sinh cho thành viên đội, vật thu thập sau {17e43e}1{-} phút sẽ biến mất{dac7ae}." Bold="0" />
+  <HelpIntro ID="13" Intro="{dac7ae}   (2) Vật thu thập sau khi biến mất, người chơi sẽ bắt đầu đồ sát, trong bản đồ sẽ xuất hiện khu vực thần nộ, gây DMG liên tục cho mục tiêu trong đó." Bold="0" />
+  <HelpIntro ID="14" Intro="{dac7ae}   (3) Trong chiến trường có hai buff, mỗi hiệu ứng tối đa cộng dồn 20 tầng, mỗi thành viên ban đầu mang {17e43e}1{-} tầng Ma Thần Cuồng Nhiệt, tiêu diệt người khác để tăng số lần, tử vong sẽ giảm số tầng còn 1. Có thể thu thập &quot;Thần Phù Hộ&quot; trong chiến trường, tử vong sẽ không mất hiệu ứng." Bold="0" />
+  <HelpIntro ID="15" Intro="{dac7ae}11, Khi số người sống sót còn &lt;{17e43e}4{-} người thì sẽ xuất hiện khế ước ma thần, có thể tiêu hao KC để nhận hiệu quả Ma Thần Cuồng Nhiệt tầng cao nhất." Bold="0" />
+  <HelpIntro ID="16" Intro="{dac7ae}12, Quy tắc điểm chiến trường: {dac7ae}" Bold="0" />
+  <HelpIntro ID="17" Intro="{dac7ae}           Chiến thắng và số thành viên đội &lt;=2 sẽ nhận 20 điểm{dac7ae}" Bold="0" />
+  <HelpIntro ID="18" Intro="{dac7ae}           Chiến thắng và số thành viên đội =3 sẽ nhận 22 điểm{dac7ae}" Bold="0" />
+  <HelpIntro ID="19" Intro="{dac7ae}           Chiến thắng và số thành viên đội =4 sẽ nhận 25 điểm{dac7ae}" Bold="0" />
+  <HelpIntro ID="20" Intro="{dac7ae}           Chiến thắng và số thành viên đội =5 sẽ nhận 30 điểm{dac7ae}" Bold="0" />
+  <HelpIntro ID="21" Intro="{dac7ae}           Đội đầu tiên bị loại trừ 20 điểm{dac7ae}" Bold="0" />
+  <HelpIntro ID="22" Intro="{dac7ae}           Đội thứ hai bị loại trừ 10 điểm{dac7ae}" Bold="0" />
+</Config>

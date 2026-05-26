@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <ShenQiRules ID="1" Intro="Nội dung Thần Binh:" Bold="1" Type="5" />
+  <ShenQiRules ID="2" Intro="{dac7ae}1, {fac60d}Mở khóa Thần Binh: {dac7ae}Tiêu hao đạo cụ tiến hành mở khóa Thần Binh, mở khóa sẽ nhận thuộc tính tăng.{dac7ae}" Bold="0" Type="5" />
+  <ShenQiRules ID="3" Intro="{dac7ae}2, {fac60d}Kỹ năng Thần Binh: {dac7ae}Thần Binh đạt số bậc tương ứng, sẽ kích hoạt ngay kỹ năng Thần Binh tương ứng. {dac7ae}" Bold="0" Type="5" />
+  <ShenQiRules ID="4" Intro="{dac7ae}3,{fac60d}Tăng cấp kỹ năng: {dac7ae}Tiêu hao quyển kỹ năng Thần Binh, tăng cấp kỹ năng Thần Binh, tăng mạnh hiệu quả kỹ năng.{dac7ae}" Bold="0" Type="5" />
+</Config>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <CangBaoTuShiJian ID="1" ShiJianName="Phó bản cánh cao" ShiJianType="2" FuBenID="98000" BossID="-1" GoodsReward="-1" ShiJianGongGao="Chúc mừng{0}thông qua sử dụng{1}nhận được{2}" SuccessTips="Chúc mừng bạn kích mở phó bản tàng bảo" />
+  <CangBaoTuShiJian ID="2" ShiJianName="Mảnh Thần Vũ" ShiJianType="1" FuBenID="-1" BossID="-1" GoodsReward="51382,1,1,0,0,0,0" ShiJianGongGao="Chúc mừng{0}thông qua sử dụng{1}nhận được{2}" SuccessTips="Chúc mừng bạn đào được rương" />
+  <CangBaoTuShiJian ID="3" ShiJianName="Rương Lông Vũ-Cao" ShiJianType="1" FuBenID="-1" BossID="-1" GoodsReward="63308,1,1,0,0,0,0" ShiJianGongGao="Chúc mừng{0}thông qua sử dụng{1}nhận được{2}" SuccessTips="Chúc mừng bạn đào được rương" />
+  <CangBaoTuShiJian ID="4" ShiJianName="Rương Lông Vũ-Trung" ShiJianType="1" FuBenID="-1" BossID="-1" GoodsReward="63307,1,1,0,0,0,0" ShiJianGongGao="Chúc mừng{0}thông qua sử dụng{1}nhận được{2}" SuccessTips="Chúc mừng bạn đào được rương" />
+  <CangBaoTuShiJian ID="5" ShiJianName="Rương Lông Vũ-Thấp" ShiJianType="1" FuBenID="-1" BossID="-1" GoodsReward="63306,1,1,0,0,0,0" ShiJianGongGao="Chúc mừng{0}thông qua sử dụng{1}nhận được{2}" SuccessTips="Chúc mừng bạn đào được rương" />
+  <CangBaoTuShiJian ID="6" ShiJianName="Phó Bản Tài Nguyên Cao" ShiJianType="2" FuBenID="98001" BossID="-1" GoodsReward="-1" ShiJianGongGao="Chúc mừng{0}thông qua sử dụng{1}nhận được{2}" SuccessTips="Chúc mừng bạn kích mở phó bản tàng bảo" />
+  <CangBaoTuShiJian ID="7" ShiJianName="Mảnh Thần Vũ" ShiJianType="1" FuBenID="-1" BossID="-1" GoodsReward="51382,1,1,0,0,0,0" ShiJianGongGao="Chúc mừng{0}thông qua sử dụng{1}nhận được{2}" SuccessTips="Chúc mừng bạn đào được rương" />
+  <CangBaoTuShiJian ID="8" ShiJianName="Rương Tài Nguyên-Cao" ShiJianType="1" FuBenID="-1" BossID="-1" GoodsReward="63305,1,1,0,0,0,0" ShiJianGongGao="Chúc mừng{0}thông qua sử dụng{1}nhận được{2}" SuccessTips="Chúc mừng bạn đào được rương" />
+  <CangBaoTuShiJian ID="9" ShiJianName="Rương Tài Nguyên-Trung" ShiJianType="1" FuBenID="-1" BossID="-1" GoodsReward="63304,1,1,0,0,0,0" ShiJianGongGao="Chúc mừng{0}thông qua sử dụng{1}nhận được{2}" SuccessTips="Chúc mừng bạn đào được rương" />
+  <CangBaoTuShiJian ID="10" ShiJianName="Rương Tài Nguyên-Thấp" ShiJianType="1" FuBenID="-1" BossID="-1" GoodsReward="63303,1,1,0,0,0,0" ShiJianGongGao="Chúc mừng{0}thông qua sử dụng{1}nhận được{2}" SuccessTips="Chúc mừng bạn đào được rương" />
+  <CangBaoTuShiJian ID="11" ShiJianName="Huy Chương Thành Tựu" ShiJianType="1" FuBenID="-1" BossID="-1" GoodsReward="2035,1,1,0,0,0,0" ShiJianGongGao="Chúc mừng{0}thông qua sử dụng{1}nhận được{2}" SuccessTips="Chúc mừng bạn đào được rương" />
+  <CangBaoTuShiJian ID="12" ShiJianName="Huy Chương Quân Hàm" ShiJianType="1" FuBenID="-1" BossID="-1" GoodsReward="2036,1,1,0,0,0,0" ShiJianGongGao="Chúc mừng{0}thông qua sử dụng{1}nhận được{2}" SuccessTips="Chúc mừng bạn đào được rương" />
+  <CangBaoTuShiJian ID="13" ShiJianName="Quái Rương Map" ShiJianType="3" FuBenID="-1" BossID="9860001" GoodsReward="-1" ShiJianGongGao="Chúc mừng{0}thông qua sử dụng{1}nhận được{2}" SuccessTips="Chúc mừng bạn kích mở rương thủ vệ" />
+  <CangBaoTuShiJian ID="14" ShiJianName="Rương T.Bị Tím Bậc 8*1" ShiJianType="1" FuBenID="-1" BossID="-1" GoodsReward="63320,1,1,0,0,0,0" ShiJianGongGao="Chúc mừng{0}thông qua sử dụng{1}nhận được{2}" SuccessTips="Chúc mừng bạn đào được rương" />
+  <CangBaoTuShiJian ID="15" ShiJianName="Rương T.Bị Tím Bậc 9*1" ShiJianType="1" FuBenID="-1" BossID="-1" GoodsReward="63321,1,1,0,0,0,0" ShiJianGongGao="Chúc mừng{0}thông qua sử dụng{1}nhận được{2}" SuccessTips="Chúc mừng bạn đào được rương" />
+</Config>

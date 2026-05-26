@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <JiFenDuiHuan ID="1" DuiHuanGoods="30001,1,1,0,0,0,0" DuiHuanMoney="50" LimitTimes="5" />
+  <JiFenDuiHuan ID="2" DuiHuanGoods="30002,1,1,0,0,0,0" DuiHuanMoney="50" LimitTimes="5" />
+  <JiFenDuiHuan ID="3" DuiHuanGoods="30003,1,1,0,0,0,0" DuiHuanMoney="50" LimitTimes="5" />
+  <JiFenDuiHuan ID="4" DuiHuanGoods="30004,1,1,0,0,0,0" DuiHuanMoney="300" LimitTimes="5" />
+  <JiFenDuiHuan ID="5" DuiHuanGoods="30005,1,1,0,0,0,0" DuiHuanMoney="300" LimitTimes="5" />
+  <JiFenDuiHuan ID="6" DuiHuanGoods="30006,1,1,0,0,0,0" DuiHuanMoney="300" LimitTimes="5" />
+  <JiFenDuiHuan ID="7" DuiHuanGoods="30007,1,1,0,0,0,0" DuiHuanMoney="300" LimitTimes="5" />
+  <JiFenDuiHuan ID="8" DuiHuanGoods="30008,1,1,0,0,0,0" DuiHuanMoney="300" LimitTimes="5" />
+  <JiFenDuiHuan ID="9" DuiHuanGoods="30009,1,1,0,0,0,0" DuiHuanMoney="300" LimitTimes="5" />
+  <JiFenDuiHuan ID="10" DuiHuanGoods="30010,1,1,0,0,0,0" DuiHuanMoney="2000" LimitTimes="5" />
+  <JiFenDuiHuan ID="11" DuiHuanGoods="30011,1,1,0,0,0,0" DuiHuanMoney="2000" LimitTimes="5" />
+  <JiFenDuiHuan ID="12" DuiHuanGoods="30012,1,1,0,0,0,0" DuiHuanMoney="2000" LimitTimes="5" />
+</Config>

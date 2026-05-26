@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Operations>
+    <Operation ID="1" Title="Vàng Khóa mua" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="2" Title="Cường hóa trang bị" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="3" Title="Tinh luyện trang bị" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="5" Title="Khảm đá" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="6" Title="Hợp thành " MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="7" Title="Tiến cấp trang bị" MinLevel="100" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="8" Title="Vàng mua" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="9" Title="Dịch chuyển phó bản" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="10" Title="Vận tiêu ngày" MinZhuanSheng="0" MinLevel="40" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="1" TimeLimits="16:00-17:20|21:00-22:20" />
+    <Operation ID="11" Title="Trả tiêu bạc" MinZhuanSheng="0" MinLevel="40" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="2" TimeLimits="" />
+    <Operation ID="12" Title="Đoạt tiêu bạc" MinZhuanSheng="0" MinLevel="40" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="3" TimeLimits="16:00-18:00|21:00-23:00" />
+    <Operation ID="13" Title="Đổi Ma Băng" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="14" Title="Tiệm Quân Công" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="15" Title="Nhận EXP" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="16" Title="Đặt cược" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="20" Title="Đổi huy chương" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="30" Title="Điểm HP" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="40" Title="Sửa trang bị" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="50" Title="Bán vật phẩm" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="60" Title="Dịch vụ kho" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="70" Title="Thanh lý trang bị" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="80" Title="Thanh lý huy chương" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="90" Title="Đổi hồn khí" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="100" Title="Thu hồn khí" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="1000" Title="Chuyển nghề" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="1010" Title="Chuyển sinh" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="1011" Title="Rạp Xiếc Thứ Nguyên" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="1012" Title="Xem Trước SK" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="1013" Title="Khiêu Chiến Trái Cây" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="1014" Title="Xạ Kích Thú Vị" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="1015" Title="Kho Báu Thứ Nguyên" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="1016" Title="Cửa Hàng Đổi" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="2000" Title="Huyết Lâu" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="2010" Title="Đấu Trường Quỷ" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="3000" Title="Đổi Ma Băng" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="4000" Title="Đổi quà" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="5000" Title="Tiệc Roland Thường" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="5001" Title="Tiệc Roland Thịnh Soạn" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="5002" Title="Tiệc Roland Sang Trọng" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="5100" Title="Tiệc Cưới" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Operation ID="5200" Title="Yến Tiệc Chúc Phúc" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+  </Operations>
+</Config>

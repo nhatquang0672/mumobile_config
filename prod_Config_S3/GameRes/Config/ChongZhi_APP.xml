@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <ChongZhi ID="10000" Show="1" Icon="10000" MeiYuan="3.99" RMB="360" ZuanShi="360" FirstBindZuanShi="360" productId="4058_1_9_360" productIdAn="4058_9_360" />
+  <ChongZhi ID="1" Show="1" Icon="1" MeiYuan="1.99" RMB="180" ZuanShi="180" FirstBindZuanShi="180" productId="4058_0_1_180" productIdAn="4058_1_180" />
+  <ChongZhi ID="2" Show="1" Icon="2" MeiYuan="4.99" RMB="450" ZuanShi="450" FirstBindZuanShi="450" productId="4058_0_2_450" productIdAn="4058_2_450" />
+  <ChongZhi ID="3" Show="1" Icon="3" MeiYuan="9.99" RMB="900" ZuanShi="900" FirstBindZuanShi="900" productId="4058_0_3_900" productIdAn="4058_3_900" />
+  <ChongZhi ID="4" Show="1" Icon="4" MeiYuan="19.99" RMB="1800" ZuanShi="1800" FirstBindZuanShi="1800" productId="4058_0_4_1800" productIdAn="4058_4_1800" />
+  <ChongZhi ID="5" Show="1" Icon="5" MeiYuan="29.99" RMB="2700" ZuanShi="2700" FirstBindZuanShi="2700" productId="4058_0_5_2700" productIdAn="4058_5_2700" />
+  <ChongZhi ID="6" Show="1" Icon="6" MeiYuan="49.99" RMB="4500" ZuanShi="4500" FirstBindZuanShi="4500" productId="4058_0_6_4500" productIdAn="4058_6_4500" />
+  <ChongZhi ID="7" Show="1" Icon="7" MeiYuan="69.99" RMB="6300" ZuanShi="6300" FirstBindZuanShi="6300" productId="4058_0_7_6300" productIdAn="4058_7_6300" />
+  <ChongZhi ID="8" Show="1" Icon="8" MeiYuan="99.99" RMB="9000" ZuanShi="9000" FirstBindZuanShi="9000" productId="4058_0_8_9000" productIdAn="4058_8_9000" />
+</config>

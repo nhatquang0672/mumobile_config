@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <ArathiTask ID="1" Day="1" TabName="Thứ 2" TaskList="10,20,30,40,50,60" />
+  <ArathiTask ID="2" Day="2" TabName="Thứ 3" TaskList="70,80,90,100,110,120" />
+  <ArathiTask ID="3" Day="3" TabName="Thứ 4" TaskList="130,140,150,160,170,180" />
+  <ArathiTask ID="4" Day="4" TabName="Thứ 5" TaskList="190,200,210,220,230,240" />
+  <ArathiTask ID="5" Day="5" TabName="Thứ 6" TaskList="250,260,270,280,290,300" />
+  <ArathiTask ID="6" Day="6" TabName="Thứ 7" TaskList="310,320,330,340,350,360" />
+  <ArathiTask ID="7" Day="7" TabName="Chủ Nhật" TaskList="370,380,390,400,410,420" />
+</config>

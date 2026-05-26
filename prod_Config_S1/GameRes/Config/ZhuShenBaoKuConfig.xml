@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <ZhuShenBaoKuConfig ID="1" RefreshTime="7,0,0,0" GetJiFen="1" RandomAwardsNum="1,5|2,5|3,5" OneCost="222,200" TenCost="222,2000" LiBaoGift="1,50000|222,200" LiBaoGiftCost="40,200" LiBaoDec="购买金币包，可获赠200宝库之匙，宝库之匙可用于诸神宝库抽奖" IsGive="0,0" GetLiBaoName="金币包,宝库之匙包" CangKuNum="360" />
+</Config>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <TeQuanChouJiang ID="1" TeQuanID="7" ChouJiangLeiXing="TeQuanQiFu" TuBiaoTips="Sau khi kích hoạt đặc quyền sẽ mở Cầu Phúc Hào Hoa" />
+  <TeQuanChouJiang ID="2" TeQuanID="14" ChouJiangLeiXing="TeQuanShouLie" TuBiaoTips="Sau khi kích hoạt đặc quyền sẽ mở săn bắt Thú Cưỡi Hào Hoa" />
+  <TeQuanChouJiang ID="3" TeQuanID="21" ChouJiangLeiXing="TeQuanBuHuo" TuBiaoTips="Sau khi kích hoạt đặc quyền sẽ mở săn bắt Pet Hào Hoa" />
+  <TeQuanChouJiang ID="4" TeQuanID="28" ChouJiangLeiXing="TeQuanQiFu,TeQuanShouLie" TuBiaoTips="Sau khi kích hoạt đặc quyền sẽ mở Cầu Phúc Hào Hoa, Săn Bắt Thú Cưỡi" />
+  <TeQuanChouJiang ID="5" TeQuanID="35" ChouJiangLeiXing="TeQuanQiFu,TeQuanBuHuo" TuBiaoTips="Sau khi kích hoạt đặc quyền sẽ mở Cầu Phúc Hào Hoa, nhận Thú Cưỡi" />
+  <TeQuanChouJiang ID="6" TeQuanID="42" ChouJiangLeiXing="TeQuanShouLie,TeQuanBuHuo" TuBiaoTips="Sau khi kích hoạt đặc quyền sẽ mở săn bắt Thú Cưỡi, nhận Thú Cưỡi" />
+  <TeQuanChouJiang ID="7" TeQuanID="49" ChouJiangLeiXing="TeQuanQiFu,TeQuanShouLie,TeQuanBuHuo" TuBiaoTips="Sau khi kích hoạt đặc quyền sẽ mở Cầu Phúc Hào Hoa, săn bắt Thú Cưỡi, nhận Thú Cưỡi" />
+  <TeQuanChouJiang ID="8" TeQuanID="56" ChouJiangLeiXing="TeQuanQiFu,TeQuanShouLie,TeQuanBuHuo" TuBiaoTips="Sau khi kích hoạt đặc quyền sẽ mở Cầu Phúc Hào Hoa, săn bắt Thú Cưỡi, nhận Thú Cưỡi" />
+  <TeQuanChouJiang ID="9" TeQuanID="63" ChouJiangLeiXing="TeQuanQiFu,TeQuanShouLie,TeQuanBuHuo" TuBiaoTips="Sau khi kích hoạt đặc quyền sẽ mở Cầu Phúc Hào Hoa, săn bắt Thú Cưỡi, nhận Thú Cưỡi" />
+  <TeQuanChouJiang ID="10" TeQuanID="70" ChouJiangLeiXing="TeQuanQiFu,TeQuanShouLie,TeQuanBuHuo" TuBiaoTips="Sau khi kích hoạt đặc quyền sẽ mở Cầu Phúc Hào Hoa, săn bắt Thú Cưỡi, nhận Thú Cưỡi" />
+</Config>

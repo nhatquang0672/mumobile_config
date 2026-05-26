@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ImprisonedIslandRules ID="1" Intro="Quy tắc" Bold="1" Type="1" />
+  <ImprisonedIslandRules ID="2" Intro="Diệt Thần Ma nhận thưởng rơi, Điểm Thần Phạt đ3 sẽ rời Đảo Tù Thần" Bold="0" Type="1" />
+  <ImprisonedIslandRules ID="3" Intro="Quy tắc Thần Phạt" Bold="1" Type="2" />
+  <ImprisonedIslandRules ID="4" Intro="Cứ 5 giây tăng 1 Điểm Thần Phạt, diệt Thần Ma hoặc bị diệt sẽ tăng Điểm Thần Phạt" Bold="0" Type="2" />
+  <ImprisonedIslandRules ID="5" Intro="Giới thiệu Thần Ma" Bold="1" Type="3" />
+  <ImprisonedIslandRules ID="6" Intro="Thuộc tính tái sinh của Thần Ma khác nhau có khuynh hướng khác nhau, Thần Ma chia làm 3 mức theo thực lực" Bold="0" Type="3" />
+  <ImprisonedIslandRules ID="7" Intro="Giới thiệu thưởng" Bold="1" Type="4" />
+  <ImprisonedIslandRules ID="8" Intro="Thần Ma càng mạnh, thưởng càng phong phú, bậc tái sinh khác nhau, thưởng khác nhau" Bold="0" Type="4" />
+  <ImprisonedIslandRules ID="9" Intro="Hướng dẫn Đảo Tù Thần" Bold="1" Type="5" />
+  <ImprisonedIslandRules ID="10" Intro="1, Đảo Tù Thần là cách chơi tranh đoạt Boss Liên Server, chia người chơi vào bản đồ độ khó khác nhau theo giai đoạn tái sinh. Thời gian mở vào 10:00-24:00 mỗi ngày." Bold="0" Type="5" />
+  <ImprisonedIslandRules ID="11" Intro="2, Vào bản đồ cần tốn 1 vào và nhiều vé, số lượng vé tốn tăng giảm theo số lần vào trong ngày. Tăng cấp VIP có thể tăng số lần vào mỗi ngày." Bold="0" Type="5" />
+  <ImprisonedIslandRules ID="12" Intro="3, Trong bản đồ có 8 Boss độ khó khác nhau, thuộc tính tái sinh của từng Boss khác nhau, rơi thưởng khác nhau, thời gian hồi sinh khác nhau, có thể nhấn Avatar Boss. Boss mỗi lần hồi sinh làm mới sẽ tiến hành ngẫu nhiên cho thuộc tính tái sinh." Bold="0" Type="5" />
+  <ImprisonedIslandRules ID="13" Intro="4, Diệt quái trong bản đồ sẽ tăng Điểm Thần Phạt, Điểm Thần Phạt của mỗi Boss khác nhau, Điểm Thần Phạt sẽ tăng theo thời gian, cứ 5s tăng 1 Điểm Thần Phạt, Điểm Thần Phạt bắt đầu tích lũy sau khi người chơi vào bản đồ, Điểm Thần Phạt đủ sẽ bị Thần Phạt xóa và rời bản đồ." Bold="0" Type="5" />
+  <ImprisonedIslandRules ID="14" Intro="5, Bị diệt trong bản đồ sẽ tăng Điểm Thần Phạt, sau khi bị diệt sẽ chờ một thời gian rồi hồi sinh ở điểm xuất hiện." Bold="0" Type="5" />
+  <ImprisonedIslandRules ID="15" Intro="6, Thưởng Boss rơi tính theo sát thương, người chơi có lượng sát thương dành cho Boss cao nhất được nhận thưởng, người chơi bị xóa khỏi bản đồ, sát thương sẽ bằng 0." Bold="0" Type="5" />
+</Config>

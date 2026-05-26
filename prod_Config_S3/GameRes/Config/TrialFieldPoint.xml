@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <TrialFieldPoint ID="1" MapID="97006" MapTeamPoint="1050,2750" MapTeamRange="20" />
+  <TrialFieldPoint ID="2" MapID="97006" MapTeamPoint="7050,9350" MapTeamRange="20" />
+  <TrialFieldPoint ID="3" MapID="97006" MapTeamPoint="9550,1350" MapTeamRange="20" />
+</Config>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <DistanceConfig ID="1" WalkStepWidth="60" RunStepWidth="120" MaxAttackDistance="80" MinAttackDistance="70" MaxMagicDistance="200" MaxUnWatchDistance="1500" />
+</Config>

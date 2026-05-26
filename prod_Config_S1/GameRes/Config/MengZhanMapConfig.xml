@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <MengZhanMapConfig ID="1" Name="神族" ZhanMengPos="1200,7300" ZhanMengRange="500" MonsterID="12000001" MonsterPos="3100,9100" ChuanSongPos="3200,6700|700,9400" ChuanSongRange="200" ChuanSongEndPos="6650,8300|900,3600" />
+  <MengZhanMapConfig ID="2" Name="魔族" ZhanMengPos="7200,6100" ZhanMengRange="500" MonsterID="12000002" MonsterPos="9200,8100" ChuanSongPos="6650,8300|9250,5600" ChuanSongRange="200" ChuanSongEndPos="3200,6700|3500,900" />
+  <MengZhanMapConfig ID="3" Name="龙族" ZhanMengPos="1300,1200" ZhanMengRange="500" MonsterID="12000003" MonsterPos="3700,3600" ChuanSongPos="900,3600|3500,900" ChuanSongRange="200" ChuanSongEndPos="700,9400|9250,5600" />
+</Config>

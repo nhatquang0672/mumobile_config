@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="9" FromDate="2026-04-04 10:00:00" ToDate="2036-04-04 23:59:59" AwardStartDate="2026-04-04 10:00:00" AwardEndDate="2036-04-04 23:59:59" />
+  <GiftList Description="VUSAGAMING chúc mừng ngày open server! Tặng AE 1 phần quà đặc biệt!">
+    <Award GoodsOne="5101,8000,1,0,0,0,0|5102,8000,1,0,0,0,0|5103,8000,1,0,0,0,0|5104,8000,1,0,0,0,0|4103,600,1,0,0,0,0|5340,1,1,0,0,0,0|50305,999,1,0,0,0,0|7087,1,1,0,0,0,0|1032210,1,1,20,40,1,235|302722835,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+  </GiftList>
+</Config>

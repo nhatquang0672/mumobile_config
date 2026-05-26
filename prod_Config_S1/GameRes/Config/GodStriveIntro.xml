@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Thiên Thần Chiến" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Thiên Thần Chiến là hoạt động {17e43e}5V5{dac7ae}, sau khi vào Chiến Đội phải tham gia tối thiểu 1 trận mới được nhận thưởng" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, Thiên Thần Chiến do đội trưởng báo danh và trong Chiến Đội ít nhất {17e43e}1{dac7ae} thành viên đạt chuyển {17e43e}5{dac7ae} Lv{17e43e}100{dac7ae} mới có thể báo danh tham gia" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, Sau khi vào chiến trường sẽ xuất hiện ở vị trí ngẫu nhiên, trong lúc chuẩn bị không thể đánh nhưng có thể di chuyển, hết t.gian chuẩn bị sẽ tự động chiến đấu" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, Khi chiến đấu sẽ làm mới BOSS và Quái T.Anh, tiêu diệt BOSS nhận buff【Nộ Sấm】, buff này sẽ gây ST thực. Diệt Quái T.Anh nhận buff【Kháng Thể】, buff này sẽ giảm 50% ST của【Nộ Sấm】" Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5, Thiên Thần Chiến lấy quy tắc thi đấu điểm, diệt người chơi, BOSS, Quái T.Anh sẽ nhận điểm khác nhau, sau khi chiến đấu kết thúc, dựa vào điểm phân thắng bại" Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae}6, Kết thúc chiến đấu, đội có điểm cao sẽ chiến thắng, nếu điểm như nhau thì đội đạt được trước tiên sẽ chiến thắng, nếu điểm đều là {17e43e}0{dac7ae} thì xem như thất bại" Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae}7, Thiên Thần Chiến kết thúc, dựa vào hạng chiến đội để nhận điểm, điểm quyết định thứ hạng, hạng càng cao thưởng càng cao, sau khi mùa giải kết thúc, vào giao diện Thiên Thần Chiến để nhận, hãy chú ý" Bold="0" />
+</Config>

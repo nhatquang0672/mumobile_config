@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <ShengHenScreen ID="1" TypeID="1" ScreenName="0,1,2,3,4,5,6" />
+  <ShengHenScreen ID="2" TypeID="2" ScreenName="11,14,35" />
+</Config>

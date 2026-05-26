@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Trang bị Tái Sinh chỉ có {17e43e}thánh vật{-} ban đầu có lỗ Ngọc Huyền Ảo, các vị trí khác không có" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, Dùng {17e43e}【Chùy Thần Rèn】{-} để đục lỗ cho trang bị Tái Sinh, {17e43e}lỗ Đá Tái Sinh{-} có thể khảm Đá Tái Sinh" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, Có thể dùng {17e43e}【Chùy Thần Rèn】{-} đục lỗ lại để nhận lỗ Đá Tái Sinh phẩm chất cao hơn, {17e43e}phẩm chất cao nhất{-} của lỗ Đá Tái Sinh tương đồng với phẩm chất trang bị" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, Đá Tái Sinh phẩm chất cao sẽ {17e43e}khuyếch đại thuộc tính{-} đá khảm" Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5, Lỗ Ngọc Huyền Ảo chỉ có thể khảm {17e43e}Ngọc Huyền Ảo{-}, Ngọc Huyền Ảo cần khảm {17e43e}Đá Tái Sinh chỉ định{-} mới có thể kích hoạt" Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae}6, 【Chùy Thần Rèn】rớt từ {17e43e}quái tinh anh{-} trong bản đồ Tái Sinh hoặc có thể mua trong shop" Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae}7, Đá Tái Sinh rớt từ {17e43e}quái tinh anh{-} hoặc diệt {17e43e}BOSS{-} trong bản đồ Tái Sinh" Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae}8, Ngọc Huyền Ảo rớt từ diệt {17e43e}BOSS{-} trong bản đồ Tái Sinh" Bold="0" />
+</Config>

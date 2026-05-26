@@ -1,0 +1,12 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+	<Mall>
+		
+		<Tab ID="100000" Name="T.Mua" />
+		<!--Tab ID="20000" Name="Tiêu Hao" / -->
+		<Tab ID="100" Name="Thường" />
+		<Tab ID="200" Name="Tiêu Hao" />
+		<Tab ID="10000" Name="KC Khóa" />
+	</Mall>
+</Config>

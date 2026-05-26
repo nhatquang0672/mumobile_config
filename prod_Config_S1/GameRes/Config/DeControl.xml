@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <DeControl ID="1" ExtPropID="56" MaxFlood="5" DeControlPercent="0.3,0.6,0.8,1,1" DeControlTime="0.6,0.3,0.1,0,0" DurationTime="10,7,5,5,5" />
+  <DeControl ID="2" ExtPropID="57" MaxFlood="5" DeControlPercent="0.3,0.6,0.8,1,1" DeControlTime="0.6,0.3,0.1,0,0" DurationTime="10,7,5,5,5" />
+  <DeControl ID="3" ExtPropID="58" MaxFlood="5" DeControlPercent="0.3,0.6,0.8,1,1" DeControlTime="0.6,0.3,0.1,0,0" DurationTime="10,7,5,5,5" />
+  <DeControl ID="4" ExtPropID="59" MaxFlood="5" DeControlPercent="0.3,0.6,0.8,1,1" DeControlTime="0.6,0.3,0.1,0,0" DurationTime="10,7,5,5,5" />
+  <DeControl ID="5" ExtPropID="47" MaxFlood="5" DeControlPercent="0,1,1,1,1" DeControlTime="1,1,1,1,1" DurationTime="10,10,10,10,10" />
+  <DeControl ID="6" ExtPropID="48" MaxFlood="5" DeControlPercent="0,1,1,1,1" DeControlTime="1,1,1,1,1" DurationTime="10,10,10,10,10" />
+  <DeControl ID="7" ExtPropID="49" MaxFlood="5" DeControlPercent="1,1,1,1,1" DeControlTime="1,1,1,1,1" DurationTime="10,10,10,10,10" />
+  <DeControl ID="8" ExtPropID="50" MaxFlood="5" DeControlPercent="1,1,1,1,1" DeControlTime="1,1,1,1,1" DurationTime="10,10,10,10,10" />
+  <DeControl ID="9" ExtPropID="177" MaxFlood="1" DeControlPercent="1" DeControlTime="1" DurationTime="4" />
+  <DeControl ID="10" ExtPropID="197" MaxFlood="1" DeControlPercent="1" DeControlTime="1" DurationTime="12" />
+</Config>

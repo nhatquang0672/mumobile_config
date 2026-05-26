@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="63" FromDate="2022-11-09 00:00:00" ToDate="2022-11-14 23:59:59" AwardStartDate="2022-11-09 00:00:00" AwardEndDate="2022-11-14 23:59:59" />
+  <GiftList Description="Trong thời gian event, mỗi ngày nhận quà đạt sl yêu cầu sẽ nhận thưởng.">
+    <Award ID="1" Goods="30152792" Num="10" GoodsOne="5200,10,1,0,0,0,0|2100,50,1,0,0,0,0|5220,2,1,0,0,0,0|7050,80,1,0,0,0,0|5171,3,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="2" Goods="30152792" Num="20" GoodsOne="5200,15,1,0,0,0,0|2100,75,1,0,0,0,0|5220,4,1,0,0,0,0|7050,100,1,0,0,0,0|5171,5,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="3" Goods="30152792" Num="30" GoodsOne="5200,20,1,0,0,0,0|2100,100,1,0,0,0,0|5220,6,1,0,0,0,0|7050,120,1,0,0,0,0|5171,7,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="4" Goods="30152792" Num="40" GoodsOne="5200,25,1,0,0,0,0|2100,125,1,0,0,0,0|5220,8,1,0,0,0,0|7050,150,1,0,0,0,0|5251,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="5" Goods="30152792" Num="60" GoodsOne="5200,40,1,0,0,0,0|2100,150,1,0,0,0,0|5220,10,1,0,0,0,0|7050,200,1,0,0,0,0|5251,40,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="6" Goods="30152792" Num="100" GoodsOne="5200,50,1,0,0,0,0|2100,200,1,0,0,0,0|5220,12,1,0,0,0,0|7050,300,1,0,0,0,0|63143,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+  </GiftList>
+</Config>

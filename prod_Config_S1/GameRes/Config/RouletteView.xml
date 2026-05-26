@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <RouletteView ID="1" Type="1" Level="1" GoodsOne="1034446,1,0,0,0,0,0|23001,1,0,0,0,0,0" GoodsTwo="39004,99,0,0,0,0,0" GoodsTwoMoneyAward="214,99" Switch="1" />
+  <RouletteView ID="2" Type="1" Level="2" GoodsOne="23008,1,0,0,0,0,0|23012,1,0,0,0,0,0" GoodsTwo="39004,199,0,0,0,0,0" GoodsTwoMoneyAward="214,199" Switch="2" />
+  <RouletteView ID="3" Type="1" Level="3" GoodsOne="731445,1,0,0,0,0,0|731697,1,0,0,0,0,0" GoodsTwo="39004,299,0,0,0,0,0" GoodsTwoMoneyAward="214,299" Switch="1" />
+  <RouletteView ID="4" Type="1" Level="4" GoodsOne="1035240,1,0,0,0,0,0|2090458,1,0,0,0,0,0" GoodsTwo="39004,399,0,0,0,0,0" GoodsTwoMoneyAward="214,399" Switch="2" />
+  <RouletteView ID="5" Type="1" Level="5" GoodsOne="1500009,1,0,0,0,0,0|1031034,1,0,0,0,0,0" GoodsTwo="39004,599,0,0,0,0,0" GoodsTwoMoneyAward="214,599" Switch="1" />
+  <RouletteView ID="6" Type="1" Level="6" GoodsOne="2100040,1,0,0,0,0,0|1033930,1,0,0,0,0,0" GoodsTwo="39004,999,0,0,0,0,0" GoodsTwoMoneyAward="214,999" Switch="2" />
+  <RouletteView ID="7" Type="1" Level="7" GoodsOne="970025,1,0,0,0,0,0" GoodsTwo="39004,9999,0,0,0,0,0" GoodsTwoMoneyAward="214,9999" Switch="1" />
+  <RouletteView ID="8" Type="2" Level="1" GoodsOne="2016,1,0,0,0,0,0|2017,1,0,0,0,0,0" GoodsTwo="39004,99,0,0,0,0,0" GoodsTwoMoneyAward="214,99" Switch="2" />
+  <RouletteView ID="9" Type="2" Level="2" GoodsOne="2016,1,0,0,0,0,0|2017,1,0,0,0,0,0" GoodsTwo="39004,199,0,0,0,0,0" GoodsTwoMoneyAward="214,199" Switch="1" />
+  <RouletteView ID="10" Type="2" Level="3" GoodsOne="2016,1,0,0,0,0,0|2017,1,0,0,0,0,0" GoodsTwo="39004,299,0,0,0,0,0" GoodsTwoMoneyAward="214,299" Switch="2" />
+  <RouletteView ID="11" Type="2" Level="4" GoodsOne="2016,1,0,0,0,0,0|2017,1,0,0,0,0,0" GoodsTwo="39004,399,0,0,0,0,0" GoodsTwoMoneyAward="214,399" Switch="1" />
+  <RouletteView ID="12" Type="2" Level="5" GoodsOne="2016,1,0,0,0,0,0|2017,1,0,0,0,0,0" GoodsTwo="39004,599,0,0,0,0,0" GoodsTwoMoneyAward="214,599" Switch="2" />
+  <RouletteView ID="13" Type="2" Level="6" GoodsOne="2016,1,0,0,0,0,0|2017,1,0,0,0,0,0" GoodsTwo="39004,999,0,0,0,0,0" GoodsTwoMoneyAward="214,999" Switch="1" />
+  <RouletteView ID="14" Type="2" Level="7" GoodsOne="970023,1,0,0,0,0,0" GoodsTwo="39004,9999,0,0,0,0,0" GoodsTwoMoneyAward="214,9999" Switch="2" />
+  <RouletteView ID="15" Type="3" Level="1" GoodsOne="2016,1,0,0,0,0,0|2017,1,0,0,0,0,0" GoodsTwo="39004,99,0,0,0,0,0" GoodsTwoMoneyAward="214,99" Switch="1" />
+  <RouletteView ID="16" Type="3" Level="2" GoodsOne="2016,1,0,0,0,0,0|2017,1,0,0,0,0,0" GoodsTwo="39004,199,0,0,0,0,0" GoodsTwoMoneyAward="214,199" Switch="2" />
+  <RouletteView ID="17" Type="3" Level="3" GoodsOne="2016,1,0,0,0,0,0|2017,1,0,0,0,0,0" GoodsTwo="39004,299,0,0,0,0,0" GoodsTwoMoneyAward="214,299" Switch="1" />
+  <RouletteView ID="18" Type="3" Level="4" GoodsOne="2016,1,0,0,0,0,0|2017,1,0,0,0,0,0" GoodsTwo="39004,399,0,0,0,0,0" GoodsTwoMoneyAward="214,399" Switch="2" />
+  <RouletteView ID="19" Type="3" Level="5" GoodsOne="2016,1,0,0,0,0,0|2017,1,0,0,0,0,0" GoodsTwo="39004,599,0,0,0,0,0" GoodsTwoMoneyAward="214,599" Switch="1" />
+  <RouletteView ID="20" Type="3" Level="6" GoodsOne="2016,1,0,0,0,0,0|2017,1,0,0,0,0,0" GoodsTwo="39004,999,0,0,0,0,0" GoodsTwoMoneyAward="214,999" Switch="2" />
+  <RouletteView ID="21" Type="3" Level="7" GoodsOne="970022,1,0,0,0,0,0" GoodsTwo="39004,9999,0,0,0,0,0" GoodsTwoMoneyAward="214,9999" Switch="1" />
+</Config>

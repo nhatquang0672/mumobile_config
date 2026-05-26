@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <GodStriveBattleReward ID="1" RankValue="400" RankName="Vương Giả" WinRankValue="50" LoseRankValue="-50" WinRankReward="64024,60,1,0,0,0,0" LoseRankReward="64024,40,1,0,0,0,0" FirstWinRankReward="64024,300,1,0,0,0,0" />
+  <GodStriveBattleReward ID="2" RankValue="300" RankName="Kim Cương" WinRankValue="50" LoseRankValue="-40" WinRankReward="64024,60,1,0,0,0,0" LoseRankReward="64024,40,1,0,0,0,0" FirstWinRankReward="64024,300,1,0,0,0,0" />
+  <GodStriveBattleReward ID="3" RankValue="200" RankName="Bạch Kim" WinRankValue="50" LoseRankValue="-30" WinRankReward="64024,60,1,0,0,0,0" LoseRankReward="64024,40,1,0,0,0,0" FirstWinRankReward="64024,300,1,0,0,0,0" />
+  <GodStriveBattleReward ID="4" RankValue="100" RankName="Vàng" WinRankValue="50" LoseRankValue="-20" WinRankReward="64024,60,1,0,0,0,0" LoseRankReward="64024,40,1,0,0,0,0" FirstWinRankReward="64024,300,1,0,0,0,0" />
+  <GodStriveBattleReward ID="5" RankValue="-1" RankName="Bạch Ngân" WinRankValue="50" LoseRankValue="0" WinRankReward="64024,60,1,0,0,0,0" LoseRankReward="64024,40,1,0,0,0,0" FirstWinRankReward="64024,300,1,0,0,0,0" />
+</Config>

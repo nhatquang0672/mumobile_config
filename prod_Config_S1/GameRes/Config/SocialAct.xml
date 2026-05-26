@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ACT ID="1" Type="1" Name="Chào hỏi" FileName="wenhao" VIP="0" />
+  <ACT ID="2" Type="1" Name="Theo ta" FileName="guolai" VIP="0" />
+  <ACT ID="3" Type="1" Name="Vỗ tay" FileName="guzhang" VIP="0" />
+  <ACT ID="4" Type="1" Name="Hoan hô" FileName="huanhu" VIP="0" />
+  <ACT ID="5" Type="1" Name="Ủ rũ" FileName="jushang" VIP="0" />
+  <ACT ID="6" Type="1" Name="Hành lễ" FileName="xingli" VIP="0" />
+  <ACT ID="7" Type="1" Name="Xung phong" FileName="chongfeng" VIP="0" />
+  <ACT ID="8" Type="1" Name="Quỳ bái" FileName="mobai" VIP="0" />
+  <ACT ID="9" Type="1" Name="Khiêu khích" FileName="tiaoxin" VIP="0" />
+  <ACT ID="10" Type="1" Name="Ngồi xuống" FileName="zuoxia" VIP="0" />
+  <ACT ID="11" Type="1" Name="Ngủ" FileName="shuijiao" VIP="0" />
+</Config>

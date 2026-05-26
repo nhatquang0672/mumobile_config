@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <TianXingLongHunShow ID="1" ShowGoods="400010" ShowModel="long_LV2.unity3d" ShowTips="Long Hồn bậc 1 có thể mở khóa" IsOld="1" ShowID="2" />
+  <TianXingLongHunShow ID="2" ShowGoods="400011" ShowModel="long_LV3.unity3d" ShowTips="Long Hồn bậc 2 có thể mở khóa" IsOld="2" ShowID="3" />
+  <TianXingLongHunShow ID="3" ShowGoods="400009" ShowModel="long.unity3d" ShowTips="Kích hoạt Thiên Tinh có thể mở khóa" IsOld="-1" ShowID="1" />
+</config>

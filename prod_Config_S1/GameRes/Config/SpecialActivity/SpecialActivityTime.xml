@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SpecialActivityTime>
+  <Time GroupID="20221019" ServerOpenFromDate="-1" ServerOpenToDate="-1" FromDate="2026-03-19 00:00:00" ToDate="2026-04-25 23:59:59" />
+  <Time GroupID="20221026" ServerOpenFromDate="-1" ServerOpenToDate="-1" FromDate="2026-03-26 00:00:00" ToDate="2026-04-01 23:59:59" />
+  <Time GroupID="20221102" ServerOpenFromDate="-1" ServerOpenToDate="-1" FromDate="2026-03-02 00:00:00" ToDate="2026-04-08 23:59:59" />
+  <Time GroupID="20221109" ServerOpenFromDate="-1" ServerOpenToDate="-1" FromDate="2026-03-09 00:00:00" ToDate="2026-04-15 23:59:59" />
+
+</SpecialActivityTime>

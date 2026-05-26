@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Chi tiết Ấn Ký Tái Sinh" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Tổng cấp {17e43e}Ấn Ký phụ{dac7ae} {17e43e}mỗi tăng 5 cấp{dac7ae}, ấn ký chính sẽ {17e43e}tăng 1 cấp." Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, Ấn Ký Tái Sinh có thể {17e43e}dùng KC{dac7ae} để tái lập, sau khi tái lập sẽ {17e43e}hoàn trả tất cả điểm ấn ký{dac7ae} và chọn lại ấn ký." Bold="0" />
+</Config>

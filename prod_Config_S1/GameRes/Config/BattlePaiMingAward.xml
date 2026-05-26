@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Award ID="1" MinPaiMing="1" MaxPaiMing="1" Goods="50053,200,1,0,0,0,0|30151187,200,0,0,0,0,0|30151188,5,1,0,0,0,0" />
+  <Award ID="2" MinPaiMing="2" MaxPaiMing="2" Goods="50053,150,1,0,0,0,0|30151187,150,0,0,0,0,0|30151188,4,1,0,0,0,0" />
+  <Award ID="3" MinPaiMing="3" MaxPaiMing="3" Goods="50053,100,1,0,0,0,0|30151187,100,0,0,0,0,0|30151188,3,1,0,0,0,0" />
+  <Award ID="4" MinPaiMing="4" MaxPaiMing="4" Goods="50053,80,1,0,0,0,0|30151187,80,0,0,0,0,0|30151188,2,1,0,0,0,0" />
+  <Award ID="5" MinPaiMing="5" MaxPaiMing="5" Goods="50053,50,1,0,0,0,0|30151187,50,0,0,0,0,0|30151188,2,1,0,0,0,0" />
+</Config>

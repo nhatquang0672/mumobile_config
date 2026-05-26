@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}{fac60d}Quy tắc đấu giá" Bold="1" />
+  <HelpIntro ID="2" Intro="1, Mỗi CN {17e43e}19:00 bắt đầu đấu giá{17e43e}, tất cả server trong chiến khu sẽ chia thành {17e43e}4 nhóm{17e43e}, lần lượt bắt đầu đấu giá, mỗi nhóm đấu giá {17e43e}15phút" Bold="0" />
+  <HelpIntro ID="3" Intro="2, Lấy Guild làm đơn vị đấu giá, chỉ có thủ lĩnh có thể đại diện đấu giá, đấu giá {17e43e}tiêu hao vốn Guild" Bold="0" />
+  <HelpIntro ID="4" Intro="3, {ff0000}Không hiển thị {-}giá đấu của Guild khác, sau khi đấu giá {17e43e}sẽ lập tức thông báo {-}có thành công không, đấu giá thất bại sẽ không tiêu hao vốn guild" Bold="0" />
+  <HelpIntro ID="5" Intro="4, Đấu giá có CD, {ff0000}dù thành công hay thất bại{-} sau khi đấu giá sẽ khôn thể lập tức tiến hành đấu giá lần nữa." Bold="0" />
+  <HelpIntro ID="6" Intro="5, Sau khi đấu giá thành công {ff0000}bị vượt quá{-} sẽ có thư thông báo, và hoàn trả vốn Guild" Bold="0" />
+  <HelpIntro ID="7" Intro="6, Mỗi lần mỗi Guild chỉ được đấu giá nhiều nhất {ff0000}1{-} server" Bold="0" />
+  <HelpIntro ID="8" Intro="{fac60d}Quy tắc event" Bold="1" />
+  <HelpIntro ID="9" Intro="1, Mỗi CN {17e43e}21:30-22:30{-}, mỗi mùa đua {17e43e}13 tuần{-}" Bold="0" />
+  <HelpIntro ID="10" Intro="2,Guild đấu giá thành công sẽ nhận được {17e43e}tư cách xâm lược {-}, không nhận được tư cách sẽ tham gia phòng thủ server này." Bold="0" />
+  <HelpIntro ID="11" Intro="{fac60d}Quy tắc chinh phục" Bold="1" />
+  <HelpIntro ID="12" Intro="1, Chinh phục sẽ dựa vào server làm đơn vị, nếu tài nguyên bên phòng thủ {ff0000}bị tranh đoạt toàn bộ{-}, nhưng tổng tài nguyên tranh đoạt của Guild tranh đoạt đến từ {17e43e}cùng 1 server {-} chiếm {17e43e}80%{-}, sẽ trở thành server chinh phục" Bold="0" />
+  <HelpIntro ID="13" Intro="2, Lập lại việc tranh đoạt cùng 1 server trong BXH sẽ {ff0000}không trung việc tích điểm{-}, thông tin BXH mỗi mùa thi sẽ làm mới" Bold="0" />
+</Config>

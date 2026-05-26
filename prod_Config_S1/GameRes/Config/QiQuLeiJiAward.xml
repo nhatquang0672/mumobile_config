@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <QiQuLeiJiAward ID="1" AwardNeed="10" Award="8610,10,1,0,0,0,0" />
+  <QiQuLeiJiAward ID="2" AwardNeed="20" Award="8609,88,1,0,0,0,0" />
+  <QiQuLeiJiAward ID="3" AwardNeed="30" Award="23014,1,1,0,0,0,0" />
+  <QiQuLeiJiAward ID="4" AwardNeed="40" Award="8610,10,1,0,0,0,0" />
+  <QiQuLeiJiAward ID="5" AwardNeed="60" Award="8609,88,1,0,0,0,0" />
+</config>

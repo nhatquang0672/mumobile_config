@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <HorseSoar ID="1" SoarLevel="0" UpgradeConsume="2132,2" />
+  <HorseSoar ID="2" SoarLevel="1" UpgradeConsume="2132,4" />
+  <HorseSoar ID="3" SoarLevel="2" UpgradeConsume="2132,6" />
+  <HorseSoar ID="4" SoarLevel="3" UpgradeConsume="2132,8" />
+  <HorseSoar ID="5" SoarLevel="4" UpgradeConsume="2132,10" />
+  <HorseSoar ID="6" SoarLevel="5" UpgradeConsume="2132,12" />
+  <HorseSoar ID="7" SoarLevel="6" UpgradeConsume="2132,14" />
+  <HorseSoar ID="8" SoarLevel="7" UpgradeConsume="2132,16" />
+  <HorseSoar ID="9" SoarLevel="8" UpgradeConsume="2132,18" />
+  <HorseSoar ID="10" SoarLevel="9" UpgradeConsume="2132,20" />
+  <HorseSoar ID="11" SoarLevel="10" UpgradeConsume="" />
+</Config>

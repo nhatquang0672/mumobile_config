@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <DoomsDayRules ID="1" Intro="{fac60d}Miêu tả event Thiên Tai" Bold="1" />
+  <DoomsDayRules ID="2" Intro="{fac60d}Quy tắc tham gia:" Bold="0" />
+  <DoomsDayRules ID="3" Intro="{dac7ae}1, {fac60d}Chiến trường{dac7ae}: Căn cứ sự khác nhau của {00ff33}Lv Chuyển Sinh, Lv Tái Sinh{dac7ae} của Dũng Sĩ , có thể tham gia Lv chiến trường Thiên Tai khác nhau. " Bold="0" />
+  <DoomsDayRules ID="4" Intro="{dac7ae}2, {fac60d}Thời gian khai mở{dac7ae}: chiến trường level khác nhau sẽ mở thời gian khác nhau, thời gian sẽ hiển thị tại giao diện event." Bold="0" />
+  <DoomsDayRules ID="5" Intro="{dac7ae}3, {fac60d}Thời gian vào trận{dac7ae}: Dũng Sĩ có thể vào chiến trường trong vòng 10 phút đầu, nếu trong 10 phút không vào kịp sẽ không thể tham gia event lần này." Bold="0" />
+  <DoomsDayRules ID="6" Intro="{fac60d}Quy tắc event:" Bold="1" />
+  <DoomsDayRules ID="7" Intro="{dac7ae}1, {fac60d}Lam mới Boss{dac7ae}: Sau khi khai mở, sẽ căn cứ thời gian làm mới 3 Boss Quỷ Cấp, Ma Vương, Thiên Tai. " Bold="0" />
+  <DoomsDayRules ID="8" Intro="{dac7ae}2, {fac60d}Thưởng{dac7ae}: Mỗi Boss có danh sách sát thương riêng, sau khi Boss chết top 1 sát thương sẽ nhận thưởng rơi." Bold="0" />
+  <DoomsDayRules ID="9" Intro="{dac7ae}3, {fac60d}Tư cách săn{dac7ae}: Trong event lần này, người chơi chưa kích sát qua boss Quỷ Cấp hoặc Ma Vương sẽ không thể tham gia săn bắt Boss Thiên Tai. Khi Boss Thiên Tai làm mới, người chơi không có tư cách săn bắt sẽ tự động rời khỏi chiến trường." Bold="0" />
+  <DoomsDayRules ID="10" Intro="{dac7ae}4, {fac60d}Hình thức PK{dac7ae}: Trong chiến trường thiên tai có 2 loại mô hình PK {00ff33}Hòa Bình, Tập Thể{dac7ae}, mặc định mô hình PK là Hòa Bình. " Bold="0" />
+</Config>

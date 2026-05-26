@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+      <Teleports>
+        <Teleport Code="197" FrameNum="13" Tip="Icewind valley" Key="10"  To="3" ToX="3159" ToY="1141" ToDirection="0" X="4050" Y="17850" BodyWidth="512" BodyHeight="512" CenterX="260" CenterY="260" Radius="300" Decorations="" />
+        <Teleport Code="197" FrameNum="13" Tip="Underground city" Key="11"  To="4" ToX="13850" ToY="1850" ToDirection="0" X="18750" Y="12250" BodyWidth="512" BodyHeight="512" CenterX="260" CenterY="260" Radius="300" Decorations="" />
+        <Teleport Code="197" FrameNum="13" Tip="Immortal footprint forest" Key="12"  To="2" ToX="1650" ToY="7050" ToDirection="0" X="18893" Y="4171" BodyWidth="512" BodyHeight="512" CenterX="260" CenterY="260" Radius="300" Decorations="" />
+	<Teleport Code="197" FrameNum="13" Tip="Peaceful Pool" Key="13"  To="40" ToX="1550" ToY="3150" ToDirection="0" X="16450" Y="16450" BodyWidth="512" BodyHeight="512" CenterX="260" CenterY="260" Radius="300" Decorations="" />
+      </Teleports>
+</Map>

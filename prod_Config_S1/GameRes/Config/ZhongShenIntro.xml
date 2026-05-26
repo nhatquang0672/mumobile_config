@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Quy tắc" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Chúng Thần Tranh Bá căn cứ {00ff33}Level chuyển sinh{dac7ae} phân chia chiến trường, nếu trong thời gian báo danh và thời gian cuộc thi tham gia event chiến trường{00ff33} (báo danh, đặt cược, like, dislike) {dac7ae}, thì trong tháng sẽ không thể đổi chiến trường chuyên thuộc. " Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, Mỗi tháng {00ff33}ngày 10 - ngày 17{dac7ae} buổi chiều {00ff33}15:30-16:30{dac7ae} tiến hành cuộc thi." Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, Mỗi tháng {00ff33}ngày 1 - ngày 9{dac7ae} là thời gian báo danh. Chỉ có tham gia báo dành đồng thời tại chiến trường thí luyện có DMG xếp hạng {00ff33}Top 100{dac7ae}, mới có tư cách tham gia." Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, Ngày thi thứ 1 đến thứ 3 là {00ff33}Vòng Tuyển{dac7ae}, hệ thống sẽ ngẫu nhiên chọn người chơi tiến hành đấu 1vs1, căn cứ số lượng tăng cấp mỗi ngày người chơi đạt {00ff33}3 trận thắng sớm nhất{dac7ae} sẽ được chọn." Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5, Ngày thi thứ 4 đến thứ 7 là {00ff33}Vòng Loại{dac7ae}, căn cứ chia đội rút thăm tiến hành đấu 1vs1, người chơi {00ff33}thắng 3 trận{dac7ae} tăng cấp." Bold="1" />
+  <HelpIntro ID="7" Intro="{fac60d}Giải thưởng:" Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae}1, Sau khi kết thúc tất cả cuộc thi, căn cứ thành tích {00ff33}nhận thưởng{dac7ae}." Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae}2, Hạng 1 các chiến khu sẽ nhận {00ff33}Danh Hiệu Quý Tôn Chuyên Thuộc{dac7ae}, cho đến đợt thi Chúng Thần Tranh Bá tiếp theo được bắt đầu." Bold="0" />
+  <HelpIntro ID="10" Intro="{fac60d}Đặt cược" Bold="1" />
+  <HelpIntro ID="11" Intro="{dac7ae}1, Trước mỗi đợt {00ff33}thi bắt đầu{dac7ae}, tất cả người chơi đều có thể tiến hành đặt cược." Bold="0" />
+  <HelpIntro ID="12" Intro="{dac7ae}2, Đặt cược chính xác nhận {00ff33}Điểm Tranh Bá{dac7ae}, có thể đổi thưởng đạo cụ quý hiếm tại Tiệm Tranh Bá." Bold="0" />
+</Config>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Build ID="1" Type="1" Level="1" LevelupCost="0" NeedGoods="2060,10|2061,10|2062,10|2063,10" ConvertCost="500" BuffTime="1800" LevelupNeed="2,1|3,1|4,1" />
+  <Build ID="2" Type="1" Level="2" LevelupCost="400000" NeedGoods="2060,200|2061,200|2062,200|2063,200" ConvertCost="500" BuffTime="1800" LevelupNeed="2,2|3,2|4,2" />
+  <Build ID="3" Type="1" Level="3" LevelupCost="800000" NeedGoods="2060,400|2061,400|2062,400|2063,400" ConvertCost="500" BuffTime="1800" LevelupNeed="2,3|3,3|4,3" />
+  <Build ID="4" Type="1" Level="4" LevelupCost="1200000" NeedGoods="2060,800|2061,800|2062,800|2063,800" ConvertCost="500" BuffTime="1800" LevelupNeed="2,4|3,4|4,4" />
+  <Build ID="5" Type="1" Level="5" LevelupCost="2400000" NeedGoods="2060,1600|2061,1600|2062,1600|2063,1600" ConvertCost="500" BuffTime="1800" LevelupNeed="2,5|3,5|4,5" />
+  <Build ID="6" Type="1" Level="6" LevelupCost="3600000" NeedGoods="2060,3200|2061,3200|2062,3200|2063,3200" ConvertCost="500" BuffTime="1800" LevelupNeed="2,6|3,6|4,6" />
+  <Build ID="7" Type="1" Level="7" LevelupCost="4800000" NeedGoods="2060,7900|2061,7900|2062,7900|2063,7900" ConvertCost="500" BuffTime="1800" LevelupNeed="2,7|3,7|4,7" />
+  <Build ID="8" Type="1" Level="8" LevelupCost="6000000" NeedGoods="2060,15800|2061,15800|2062,15800|2063,15800" ConvertCost="500" BuffTime="3600" LevelupNeed="2,8|3,8|4,8" />
+  <Build ID="9" Type="1" Level="9" LevelupCost="7200000" NeedGoods="2060,22300|2061,22300|2062,22300|2063,22300" ConvertCost="500" BuffTime="5400" LevelupNeed="2,9|3,9|4,9" />
+  <Build ID="10" Type="1" Level="10" LevelupCost="8400000" NeedGoods="2060,30800|2061,30800|2062,30800|2063,30800" ConvertCost="500" BuffTime="7200" LevelupNeed="2,10|3,10|4,10" />
+  <Build ID="11" Type="2" Level="1" LevelupCost="0" NeedGoods="2060,10|2061,10|2062,10|2063,10" ConvertCost="500" BuffTime="1800" LevelupNeed="1,2" />
+  <Build ID="12" Type="2" Level="2" LevelupCost="400000" NeedGoods="2060,100|2061,100|2062,100|2063,100" ConvertCost="500" BuffTime="1800" LevelupNeed="1,3" />
+  <Build ID="13" Type="2" Level="3" LevelupCost="800000" NeedGoods="2060,300|2061,300|2062,300|2063,300" ConvertCost="500" BuffTime="1800" LevelupNeed="1,4" />
+  <Build ID="14" Type="2" Level="4" LevelupCost="1200000" NeedGoods="2060,700|2061,700|2062,700|2063,700" ConvertCost="500" BuffTime="1800" LevelupNeed="1,5" />
+  <Build ID="15" Type="2" Level="5" LevelupCost="2400000" NeedGoods="2060,1500|2061,1500|2062,1500|2063,1500" ConvertCost="500" BuffTime="1800" LevelupNeed="1,6" />
+  <Build ID="16" Type="2" Level="6" LevelupCost="3600000" NeedGoods="2060,2240|2061,2240|2062,2240|2063,2240" ConvertCost="500" BuffTime="1800" LevelupNeed="1,7" />
+  <Build ID="17" Type="2" Level="7" LevelupCost="4800000" NeedGoods="2060,5530|2061,5530|2062,5530|2063,5530" ConvertCost="500" BuffTime="1800" LevelupNeed="1,8" />
+  <Build ID="18" Type="2" Level="8" LevelupCost="6000000" NeedGoods="2060,11060|2061,11060|2062,11060|2063,11060" ConvertCost="500" BuffTime="3600" LevelupNeed="1,9" />
+  <Build ID="19" Type="2" Level="9" LevelupCost="7200000" NeedGoods="2060,15610|2061,15610|2062,15610|2063,15610" ConvertCost="500" BuffTime="5400" LevelupNeed="1,10" />
+  <Build ID="20" Type="2" Level="10" LevelupCost="8400000" NeedGoods="2060,21560|2061,21560|2062,21560|2063,21560" ConvertCost="500" BuffTime="7200" LevelupNeed="1,10" />
+  <Build ID="21" Type="3" Level="1" LevelupCost="0" NeedGoods="2060,10|2061,10|2062,10|2063,10" ConvertCost="500" BuffTime="1800" LevelupNeed="1,2" />
+  <Build ID="22" Type="3" Level="2" LevelupCost="400000" NeedGoods="2060,100|2061,100|2062,100|2063,100" ConvertCost="500" BuffTime="1800" LevelupNeed="1,3" />
+  <Build ID="23" Type="3" Level="3" LevelupCost="800000" NeedGoods="2060,300|2061,300|2062,300|2063,300" ConvertCost="500" BuffTime="1800" LevelupNeed="1,4" />
+  <Build ID="24" Type="3" Level="4" LevelupCost="1200000" NeedGoods="2060,700|2061,700|2062,700|2063,700" ConvertCost="500" BuffTime="1800" LevelupNeed="1,5" />
+  <Build ID="25" Type="3" Level="5" LevelupCost="2400000" NeedGoods="2060,1500|2061,1500|2062,1500|2063,1500" ConvertCost="500" BuffTime="1800" LevelupNeed="1,6" />
+  <Build ID="26" Type="3" Level="6" LevelupCost="3600000" NeedGoods="2060,2240|2061,2240|2062,2240|2063,2240" ConvertCost="500" BuffTime="1800" LevelupNeed="1,7" />
+  <Build ID="27" Type="3" Level="7" LevelupCost="4800000" NeedGoods="2060,5530|2061,5530|2062,5530|2063,5530" ConvertCost="500" BuffTime="1800" LevelupNeed="1,8" />
+  <Build ID="28" Type="3" Level="8" LevelupCost="6000000" NeedGoods="2060,11060|2061,11060|2062,11060|2063,11060" ConvertCost="500" BuffTime="3600" LevelupNeed="1,9" />
+  <Build ID="29" Type="3" Level="9" LevelupCost="7200000" NeedGoods="2060,15610|2061,15610|2062,15610|2063,15610" ConvertCost="500" BuffTime="5400" LevelupNeed="1,10" />
+  <Build ID="30" Type="3" Level="10" LevelupCost="8400000" NeedGoods="2060,21560|2061,21560|2062,21560|2063,21560" ConvertCost="500" BuffTime="7200" LevelupNeed="1,10" />
+  <Build ID="31" Type="4" Level="1" LevelupCost="0" NeedGoods="2060,10|2061,10|2062,10|2063,10" ConvertCost="500" BuffTime="1800" LevelupNeed="1,2" />
+  <Build ID="32" Type="4" Level="2" LevelupCost="400000" NeedGoods="2060,100|2061,100|2062,100|2063,100" ConvertCost="500" BuffTime="1800" LevelupNeed="1,3" />
+  <Build ID="33" Type="4" Level="3" LevelupCost="800000" NeedGoods="2060,300|2061,300|2062,300|2063,300" ConvertCost="500" BuffTime="1800" LevelupNeed="1,4" />
+  <Build ID="34" Type="4" Level="4" LevelupCost="1200000" NeedGoods="2060,700|2061,700|2062,700|2063,700" ConvertCost="500" BuffTime="1800" LevelupNeed="1,5" />
+  <Build ID="35" Type="4" Level="5" LevelupCost="2400000" NeedGoods="2060,1500|2061,1500|2062,1500|2063,1500" ConvertCost="500" BuffTime="1800" LevelupNeed="1,6" />
+  <Build ID="36" Type="4" Level="6" LevelupCost="3600000" NeedGoods="2060,2240|2061,2240|2062,2240|2063,2240" ConvertCost="500" BuffTime="1800" LevelupNeed="1,7" />
+  <Build ID="37" Type="4" Level="7" LevelupCost="4800000" NeedGoods="2060,5530|2061,5530|2062,5530|2063,5530" ConvertCost="500" BuffTime="1800" LevelupNeed="1,8" />
+  <Build ID="38" Type="4" Level="8" LevelupCost="6000000" NeedGoods="2060,11060|2061,11060|2062,11060|2063,11060" ConvertCost="500" BuffTime="3600" LevelupNeed="1,9" />
+  <Build ID="39" Type="4" Level="9" LevelupCost="7200000" NeedGoods="2060,15610|2061,15610|2062,15610|2063,15610" ConvertCost="500" BuffTime="5400" LevelupNeed="1,10" />
+  <Build ID="40" Type="4" Level="10" LevelupCost="8400000" NeedGoods="2060,21560|2061,21560|2062,21560|2063,21560" ConvertCost="500" BuffTime="7200" LevelupNeed="1,10" />
+</Config>

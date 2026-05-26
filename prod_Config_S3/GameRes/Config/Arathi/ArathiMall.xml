@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <ArathiMall ID="1" MallID="" Goods="33105,10,1,0,0,0,0" Cost="226,10" WeekLimit="-1" DayLimit="5" />
+  <ArathiMall ID="2" MallID="" Goods="8633,1,1,0,0,0,0" Cost="226,200" WeekLimit="20" DayLimit="-1" />
+  <ArathiMall ID="3" MallID="" Goods="8634,1,1,0,0,0,0" Cost="226,400" WeekLimit="10" DayLimit="-1" />
+  <ArathiMall ID="4" MallID="" Goods="23003,1,1,0,0,0,0" Cost="226,100" WeekLimit="50" DayLimit="-1" />
+  <ArathiMall ID="5" MallID="" Goods="23006,1,1,0,0,0,0" Cost="226,100" WeekLimit="50" DayLimit="-1" />
+</config>

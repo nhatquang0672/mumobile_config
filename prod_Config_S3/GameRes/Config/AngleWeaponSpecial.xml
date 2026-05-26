@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <AngleWeaponSpecial ID="1" Picture="TianShiZhuFu14" Picture_B="TianShiZhuFu18" Bg_Picture="TianShiZhuFu9" Bg_Picture_B="TianShiZhuFu13" SpecialAttributes="AddAttackPercent,0.05" QuanZhong="100" Name="Phán Quyết Quang Minh" />
+  <AngleWeaponSpecial ID="2" Picture="TianShiZhuFu16" Picture_B="TianShiZhuFu19" Bg_Picture="TianShiZhuFu8" Bg_Picture_B="TianShiZhuFu12" SpecialAttributes="AddDefensePercent,0.05" QuanZhong="5000" Name="Chúc Phúc Sinh Mệnh" />
+  <AngleWeaponSpecial ID="3" Picture="TianShiZhuFu17" Picture_B="TianShiZhuFu20" Bg_Picture="TianShiZhuFu6" Bg_Picture_B="TianShiZhuFu10" SpecialAttributes="InjurePenetrationPercent,0.1" QuanZhong="5000" Name="Lôi Đình Phá Phong" />
+  <AngleWeaponSpecial ID="4" Picture="TianShiZhuFu15" Picture_B="TianShiZhuFu21" Bg_Picture="TianShiZhuFu7" Bg_Picture_B="TianShiZhuFu11" SpecialAttributes="IgnoreDamageThornPercent,0.05" QuanZhong="10" Name="Thánh Linh Bảo Hộ" />
+</Config>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <RouletteFailed ID="1" Type="1" Level="0" Return="214,99" Weight="1,75|2,25" ReturnIcon="39004,99,0,0,0,0,0" />
+  <RouletteFailed ID="2" Type="1" Level="1" Return="214,99" Weight="1,75|2,25" ReturnIcon="39004,99,0,0,0,0,0" />
+  <RouletteFailed ID="3" Type="1" Level="2" Return="214,99" Weight="1,75|2,25" ReturnIcon="39004,99,0,0,0,0,0" />
+  <RouletteFailed ID="4" Type="1" Level="3" Return="214,99" Weight="1,75|2,25" ReturnIcon="39004,99,0,0,0,0,0" />
+  <RouletteFailed ID="5" Type="1" Level="4" Return="214,99" Weight="1,75|2,25" ReturnIcon="39004,99,0,0,0,0,0" />
+  <RouletteFailed ID="6" Type="1" Level="5" Return="214,99" Weight="1,75|2,25" ReturnIcon="39004,99,0,0,0,0,0" />
+  <RouletteFailed ID="7" Type="1" Level="6" Return="214,999" Weight="1,75|2,25" ReturnIcon="39004,999,0,0,0,0,0" />
+  <RouletteFailed ID="8" Type="2" Level="0" Return="214,99" Weight="1,75|2,25" ReturnIcon="39004,99,0,0,0,0,0" />
+  <RouletteFailed ID="9" Type="2" Level="1" Return="214,99" Weight="1,75|2,25" ReturnIcon="39004,99,0,0,0,0,0" />
+  <RouletteFailed ID="10" Type="2" Level="2" Return="214,99" Weight="1,75|2,25" ReturnIcon="39004,99,0,0,0,0,0" />
+  <RouletteFailed ID="11" Type="2" Level="3" Return="214,99" Weight="1,75|2,25" ReturnIcon="39004,99,0,0,0,0,0" />
+  <RouletteFailed ID="12" Type="2" Level="4" Return="214,99" Weight="1,75|2,25" ReturnIcon="39004,99,0,0,0,0,0" />
+  <RouletteFailed ID="13" Type="2" Level="5" Return="214,99" Weight="1,75|2,25" ReturnIcon="39004,99,0,0,0,0,0" />
+  <RouletteFailed ID="14" Type="2" Level="6" Return="214,999" Weight="1,75|2,25" ReturnIcon="39004,999,0,0,0,0,0" />
+  <RouletteFailed ID="15" Type="3" Level="0" Return="214,99" Weight="1,75|2,25" ReturnIcon="39004,99,0,0,0,0,0" />
+  <RouletteFailed ID="16" Type="3" Level="1" Return="214,99" Weight="1,75|2,25" ReturnIcon="39004,99,0,0,0,0,0" />
+  <RouletteFailed ID="17" Type="3" Level="2" Return="214,99" Weight="1,75|2,25" ReturnIcon="39004,99,0,0,0,0,0" />
+  <RouletteFailed ID="18" Type="3" Level="3" Return="214,99" Weight="1,75|2,25" ReturnIcon="39004,99,0,0,0,0,0" />
+  <RouletteFailed ID="19" Type="3" Level="4" Return="214,99" Weight="1,75|2,25" ReturnIcon="39004,99,0,0,0,0,0" />
+  <RouletteFailed ID="20" Type="3" Level="5" Return="214,99" Weight="1,75|2,25" ReturnIcon="39004,99,0,0,0,0,0" />
+  <RouletteFailed ID="21" Type="3" Level="6" Return="214,999" Weight="1,75|2,25" ReturnIcon="39004,999,0,0,0,0,0" />
+</Config>

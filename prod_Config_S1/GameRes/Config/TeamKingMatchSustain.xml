@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <TeamKingMatchSustain ID="1" MatchID="1" CostZhiChi="40,50|40,100" MaxNum="8" WinAward="5600,10,1,0,0,0,0|5600,25,1,0,0,0,0" FaillAward="5600,7,1,0,0,0,0|5600,15,1,0,0,0,0" Group="1,2|3,4|5,6|7,8|9,10|11,12|13,14|15,16" BeginTime="0:05" EndTime="15:30" MinLevel="3,55" StartDay="1" EndDay="1" />
+  <TeamKingMatchSustain ID="2" MatchID="2" CostZhiChi="40,100|40,200" MaxNum="4" WinAward="5600,25,1,0,0,0,0|5600,60,1,0,0,0,0" FaillAward="5600,15,1,0,0,0,0|5600,40,1,0,0,0,0" Group="1,2,3,4|5,6,7,8|9,10,11,12|13,14,15,16" BeginTime="15:40" EndTime="15:30" MinLevel="3,55" StartDay="1" EndDay="2" />
+  <TeamKingMatchSustain ID="3" MatchID="3" CostZhiChi="40,100|40,200|40,500" MaxNum="2" WinAward="5600,25,1,0,0,0,0|5600,60,1,0,0,0,0|5600,150,1,0,0,0,0" FaillAward="5600,15,1,0,0,0,0|5600,40,1,0,0,0,0|5600,100,1,0,0,0,0" Group="1,2,3,4,5,6,7,8|9,10,11,12,13,14,15,16" BeginTime="15:40" EndTime="15:30" MinLevel="3,55" StartDay="2" EndDay="3" />
+  <TeamKingMatchSustain ID="4" MatchID="4" CostZhiChi="40,500|40,1000|40,2000" MaxNum="1" WinAward="5600,150,1,0,0,0,0|5600,300,1,0,0,0,0|5600,700,1,0,0,0,0" FaillAward="5600,100,1,0,0,0,0|5600,200,1,0,0,0,0|5600,500,1,0,0,0,0" Group="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16" BeginTime="15:40" EndTime="16:00" MinLevel="3,55" StartDay="3" EndDay="3" />
+</config>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <PetPalaceInherit ExcellencePropertyNum="0" HeritPercent="0.01" />
+  <PetPalaceInherit ExcellencePropertyNum="1" HeritPercent="0.03" />
+  <PetPalaceInherit ExcellencePropertyNum="2" HeritPercent="0.05" />
+  <PetPalaceInherit ExcellencePropertyNum="3" HeritPercent="0.07" />
+  <PetPalaceInherit ExcellencePropertyNum="4" HeritPercent="0.1" />
+  <PetPalaceInherit ExcellencePropertyNum="5" HeritPercent="0.15" />
+  <PetPalaceInherit ExcellencePropertyNum="6" HeritPercent="0.3" />
+</Config>

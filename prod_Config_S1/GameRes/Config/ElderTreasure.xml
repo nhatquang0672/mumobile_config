@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <ElderTreasure ID="10" TreasureLevel="1" TreasureName="Bảo Tàng Công Tước" Key="200,3" Point="206,100" TreasurePositon="1,3,5,11,13,15,21,23,25" TreasureNum="9" ChooseOpen="0" NeedAll="1" NextID="20" />
+  <ElderTreasure ID="20" TreasureLevel="1" TreasureName="Bảo Tàng Công Tước" Key="200,4" Point="206,150" TreasurePositon="1,3,5,11,13,15,21,23,25" TreasureNum="9" ChooseOpen="0" NeedAll="1" NextID="30" />
+  <ElderTreasure ID="30" TreasureLevel="1" TreasureName="Bảo Tàng Công Tước" Key="200,5" Point="206,200" TreasurePositon="1,3,5,11,13,15,21,23,25" TreasureNum="9" ChooseOpen="0" NeedAll="1" NextID="40" />
+  <ElderTreasure ID="40" TreasureLevel="1" TreasureName="Bảo Tàng Công Tước" Key="200,6" Point="206,250" TreasurePositon="1,3,5,11,13,15,21,23,25" TreasureNum="9" ChooseOpen="0" NeedAll="1" NextID="-1" />
+  <ElderTreasure ID="50" TreasureLevel="2" TreasureName="Bảo Tàng Quốc Vương" Key="201,4" Point="207,200" TreasurePositon="1,3,5,7,9,11,13,15,17,19,21,23,25,27,29" TreasureNum="15" ChooseOpen="1" NeedAll="0" NextID="60" />
+  <ElderTreasure ID="60" TreasureLevel="2" TreasureName="Bảo Tàng Quốc Vương" Key="201,4" Point="207,220" TreasurePositon="1,3,5,7,9,11,13,15,17,19,21,23,25,27,29" TreasureNum="15" ChooseOpen="1" NeedAll="0" NextID="70" />
+  <ElderTreasure ID="70" TreasureLevel="2" TreasureName="Bảo Tàng Quốc Vương" Key="201,5" Point="207,240" TreasurePositon="1,3,5,7,9,11,13,15,17,19,21,23,25,27,29" TreasureNum="15" ChooseOpen="1" NeedAll="0" NextID="80" />
+  <ElderTreasure ID="80" TreasureLevel="2" TreasureName="Bảo Tàng Quốc Vương" Key="201,5" Point="207,250" TreasurePositon="1,3,5,7,9,11,13,15,17,19,21,23,25,27,29" TreasureNum="15" ChooseOpen="1" NeedAll="0" NextID="50" />
+  <ElderTreasure ID="90" TreasureLevel="3" TreasureName="Bảo Tàng Tinh Linh" Key="202,6" Point="208,500" TreasurePositon="1,3,5,11,13,15,21,23,25" TreasureNum="9" ChooseOpen="3" NeedAll="1" NextID="100" />
+  <ElderTreasure ID="100" TreasureLevel="3" TreasureName="Bảo Tàng Tinh Linh" Key="202,6" Point="208,510" TreasurePositon="1,3,5,11,13,15,21,23,25" TreasureNum="9" ChooseOpen="3" NeedAll="1" NextID="110" />
+  <ElderTreasure ID="110" TreasureLevel="3" TreasureName="Bảo Tàng Tinh Linh" Key="202,7" Point="208,520" TreasurePositon="1,3,5,11,13,15,21,23,25" TreasureNum="9" ChooseOpen="3" NeedAll="1" NextID="120" />
+  <ElderTreasure ID="120" TreasureLevel="3" TreasureName="Bảo Tàng Tinh Linh" Key="202,7" Point="208,530" TreasurePositon="1,3,5,11,13,15,21,23,25" TreasureNum="9" ChooseOpen="3" NeedAll="1" NextID="120" />
+  <ElderTreasure ID="130" TreasureLevel="4" TreasureName="Bảo Tàng Thợ Sơn" Key="203,6" Point="209,500" TreasurePositon="1,3,5,11,13,15,21,23,25" TreasureNum="9" ChooseOpen="3" NeedAll="0" NextID="140" />
+  <ElderTreasure ID="140" TreasureLevel="4" TreasureName="Bảo Tàng Thợ Sơn" Key="203,6" Point="209,510" TreasurePositon="1,3,5,11,13,15,21,23,25" TreasureNum="9" ChooseOpen="3" NeedAll="0" NextID="150" />
+  <ElderTreasure ID="150" TreasureLevel="4" TreasureName="Bảo Tàng Thợ Sơn" Key="203,7" Point="209,520" TreasurePositon="1,3,5,11,13,15,21,23,25" TreasureNum="9" ChooseOpen="3" NeedAll="0" NextID="160" />
+  <ElderTreasure ID="160" TreasureLevel="4" TreasureName="Bảo Tàng Thợ Sơn" Key="203,7" Point="209,530" TreasurePositon="1,3,5,11,13,15,21,23,25" TreasureNum="9" ChooseOpen="3" NeedAll="0" NextID="160" />
+  <ElderTreasure ID="170" TreasureLevel="5" TreasureName="Bảo Tàng Cự Long" Key="204,6" Point="210,500" TreasurePositon="1,3,5,11,13,15,21,23,25" TreasureNum="9" ChooseOpen="3" NeedAll="1" NextID="180" />
+  <ElderTreasure ID="180" TreasureLevel="5" TreasureName="Bảo Tàng Cự Long" Key="204,6" Point="210,510" TreasurePositon="1,3,5,11,13,15,21,23,25" TreasureNum="9" ChooseOpen="3" NeedAll="1" NextID="190" />
+  <ElderTreasure ID="190" TreasureLevel="5" TreasureName="Bảo Tàng Cự Long" Key="204,7" Point="210,520" TreasurePositon="1,3,5,11,13,15,21,23,25" TreasureNum="9" ChooseOpen="3" NeedAll="1" NextID="200" />
+  <ElderTreasure ID="200" TreasureLevel="5" TreasureName="Bảo Tàng Cự Long" Key="204,7" Point="210,530" TreasurePositon="1,3,5,11,13,15,21,23,25" TreasureNum="9" ChooseOpen="3" NeedAll="1" NextID="-1" />
+  <ElderTreasure ID="210" TreasureLevel="6" TreasureName="Bảo Tàng Thần Lực" Key="205,6" Point="211,500" TreasurePositon="1,3,5,11,13,15,21,23,25" TreasureNum="9" ChooseOpen="3" NeedAll="0" NextID="220" />
+  <ElderTreasure ID="220" TreasureLevel="6" TreasureName="Bảo Tàng Thần Lực" Key="205,6" Point="211,510" TreasurePositon="1,3,5,11,13,15,21,23,25" TreasureNum="9" ChooseOpen="3" NeedAll="0" NextID="230" />
+  <ElderTreasure ID="230" TreasureLevel="6" TreasureName="Bảo Tàng Thần Lực" Key="205,7" Point="211,520" TreasurePositon="1,3,5,11,13,15,21,23,25" TreasureNum="9" ChooseOpen="3" NeedAll="0" NextID="240" />
+  <ElderTreasure ID="240" TreasureLevel="6" TreasureName="Bảo Tàng Thần Lực" Key="205,7" Point="211,530" TreasurePositon="1,3,5,11,13,15,21,23,25" TreasureNum="9" ChooseOpen="3" NeedAll="0" NextID="210" />
+</Config>

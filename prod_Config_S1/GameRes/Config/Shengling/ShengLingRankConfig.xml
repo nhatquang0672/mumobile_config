@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <ShengLingRankConfig ID="1" Rank="1" NeedLevel="0" Goods="12501" />
+  <ShengLingRankConfig ID="2" Rank="2" NeedLevel="10" Goods="12502" />
+  <ShengLingRankConfig ID="3" Rank="3" NeedLevel="20" Goods="12503" />
+  <ShengLingRankConfig ID="4" Rank="4" NeedLevel="30" Goods="12504" />
+</config>

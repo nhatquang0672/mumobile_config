@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <ShengZheBattleFieldEquipBuff SYID="1" ID="1" Num="2" Buff="4000101" />
+  <ShengZheBattleFieldEquipBuff SYID="2" ID="1" Num="4" Buff="4000102" />
+  <ShengZheBattleFieldEquipBuff SYID="3" ID="1" Num="7" Buff="4000103" />
+  <ShengZheBattleFieldEquipBuff SYID="4" ID="2" Num="2" Buff="4000111" />
+  <ShengZheBattleFieldEquipBuff SYID="5" ID="2" Num="4" Buff="4000112" />
+  <ShengZheBattleFieldEquipBuff SYID="6" ID="2" Num="7" Buff="4000113" />
+  <ShengZheBattleFieldEquipBuff SYID="7" ID="3" Num="2" Buff="4000121" />
+  <ShengZheBattleFieldEquipBuff SYID="8" ID="3" Num="4" Buff="4000122" />
+  <ShengZheBattleFieldEquipBuff SYID="9" ID="3" Num="7" Buff="4000123" />
+  <ShengZheBattleFieldEquipBuff SYID="10" ID="4" Num="2" Buff="4000131" />
+  <ShengZheBattleFieldEquipBuff SYID="11" ID="4" Num="4" Buff="4000132" />
+  <ShengZheBattleFieldEquipBuff SYID="12" ID="4" Num="7" Buff="4000133" />
+  <ShengZheBattleFieldEquipBuff SYID="13" ID="5" Num="2" Buff="4000141" />
+  <ShengZheBattleFieldEquipBuff SYID="14" ID="5" Num="4" Buff="4000142" />
+  <ShengZheBattleFieldEquipBuff SYID="15" ID="5" Num="7" Buff="4000143" />
+</Config>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="10" FromDate="2026-04-04 10:00:00" ToDate="2026-04-20 00:00:00" AwardStartDate="2026-04-04 10:00:00" AwardEndDate="2026-04-20 00:00:00" />
+  <GiftList Description="Tích lũy đăng nhập đạt số lượng ngày tương ứng sẽ nhận được quà khủng!">
+    <Award TimeOl="1" GoodsOne="30151186,200,1,0,0,0,0|50166,1250,1,0,0,0,0|1030915,1,1,0,0,1,158597120" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award TimeOl="2" GoodsOne="30151186,200,1,0,0,0,0|50166,2000,1,0,0,0,0|1030916,1,1,0,0,1,158597120" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award TimeOl="3" GoodsOne="30151186,200,1,0,0,0,0|50166,4000,1,0,0,0,0|1031001,1,1,0,0,1,158597120" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award TimeOl="4" GoodsOne="30151186,200,1,0,0,0,0|50166,6000,1,0,0,0,0|1031002,1,1,0,0,1,158597120" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award TimeOl="5" GoodsOne="30151186,200,1,0,0,0,0|50166,10000,1,0,0,0,0|1031003,1,1,0,0,1,158597120" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award TimeOl="6" GoodsOne="30151186,200,1,0,0,0,0|50166,13000,1,0,0,0,0|1031004,1,1,0,0,1,158597120" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award TimeOl="7" GoodsOne="30151186,200,1,0,0,0,0|50166,15000,1,0,0,0,0|1031005,1,1,0,0,1,158597120" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award TimeOl="8" GoodsOne="30151186,200,1,0,0,0,0|50166,18000,1,0,0,0,0|1031006,1,1,0,0,1,158597120" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award TimeOl="9" GoodsOne="30151186,200,1,0,0,0,0|50166,20000,1,0,0,0,0|1031007,1,1,0,0,1,158597120" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award TimeOl="10" GoodsOne="30151186,200,1,0,0,0,0|50166,25000,1,0,0,0,0|1031008,1,1,0,0,1,158597120" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+
+  </GiftList>
+</Config>

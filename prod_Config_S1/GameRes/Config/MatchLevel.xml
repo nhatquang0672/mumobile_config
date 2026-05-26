@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <MatchLevel MatchID="1" MatchName="Chiến Khu Tân Tinh" TrialID="99501" MinLevel="3,55" MaxLevel="5,100" MatchTitlePic="matchtitle_01.png" SpecialTitleID="36" />
+  <MatchLevel MatchID="2" MatchName="Chiến Khu Dũng Sĩ" TrialID="99502" MinLevel="6,1" MaxLevel="7,100" MatchTitlePic="matchtitle_02.png" SpecialTitleID="37" />
+  <MatchLevel MatchID="3" MatchName="Chiến Khu Anh Hùng" TrialID="99503" MinLevel="8,1" MaxLevel="9,100" MatchTitlePic="matchtitle_03.png" SpecialTitleID="38" />
+  <MatchLevel MatchID="4" MatchName="Chiến Khu Chư Vương" TrialID="99504" MinLevel="10,1" MaxLevel="12,100" MatchTitlePic="matchtitle_04.png" SpecialTitleID="39" />
+  <MatchLevel MatchID="999" MatchName="Chiến Khu Chúng Thần" TrialID="99509" MinLevel="13,1" MaxLevel="19,100" MatchTitlePic="matchtitle_99.png" SpecialTitleID="2" />
+</config>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <Types>
+    <Type ID="101" Title="Vé" NPCs="" MinLevel="" MaxLevel="" SexCondition="" OccupCondition="" />
+    <Type ID="201" Title="Quả" NPCs="" MinLevel="" MaxLevel="" SexCondition="" OccupCondition="" />
+    <Type ID="301" Title="Thần Vũ" NPCs="" MinLevel="" MaxLevel="" SexCondition="" OccupCondition="" />
+    <Type ID="401" Title="Mảnh Thần Khí" NPCs="" MinLevel="" MaxLevel="" SexCondition="" OccupCondition="" />
+    <Type ID="501" Title="Ngoại Trang" NPCs="" MinLevel="" MaxLevel="" SexCondition="" OccupCondition="" />
+    <Type ID="701" Title="Đá Hiền Giả" NPCs="" MinLevel="" MaxLevel="" SexCondition="" OccupCondition="" />
+    <!--<Type ID="801" Title="Event" NPCs="" MinLevel="" MaxLevel="" SexCondition="" OccupCondition="" />-->
+    <Type ID="901" Title="Bộ Tái Sinh" NPCs="" MinLevel="" MaxLevel="" SexCondition="" OccupCondition="" />
+  </Types>
+</config>

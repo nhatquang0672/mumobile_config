@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <XingBeiAactivity ID="1" StarType="1" StarName="Kỳ Tích/nTân Tinh" StarTime="2021-06-15 00:00:00,2021-06-20 23:59:59" StarEvent="" />
+  <XingBeiAactivity ID="2" StarType="2" StarName="1" StarTime="2021-06-15 00:00:00,2021-06-18 23:59:59" StarEvent="1,2" />
+  <XingBeiAactivity ID="3" StarType="2" StarName="2" StarTime="2021-06-19 00:00:00,2021-06-20 23:59:59" StarEvent="3,4" />
+  <XingBeiAactivity ID="4" StarType="1" StarName="Ma Vương/nGiáng Lâm" StarTime="2021-06-21 00:00:00,2021-06-30 23:59:59" StarEvent="" />
+  <XingBeiAactivity ID="5" StarType="2" StarName="1" StarTime="2021-06-21 00:00:00,2021-06-23 23:59:59" StarEvent="1,2" />
+  <XingBeiAactivity ID="6" StarType="2" StarName="2" StarTime="2021-06-24 00:00:00,2021-06-27 23:59:59" StarEvent="3,4" />
+  <XingBeiAactivity ID="7" StarType="2" StarName="3" StarTime="2021-06-28 00:00:00,2021-06-30 23:59:59" StarEvent="1,2,3,4" />
+  <XingBeiAactivity ID="8" StarType="1" StarName="Dũng Sĩ/nTrở Về" StarTime="2021-07-01 00:00:00,2021-07-07 23:59:59" StarEvent="" />
+  <XingBeiAactivity ID="9" StarType="2" StarName="1" StarTime="2021-07-01 00:00:00,2021-07-04 23:59:59" StarEvent="3,4" />
+  <XingBeiAactivity ID="10" StarType="2" StarName="2" StarTime="2021-07-05 00:00:00,2021-07-06 23:59:59" StarEvent="1,2,3,4" />
+</config>

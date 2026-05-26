@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Info Active="true" Title="PVPController" Desciption="PVP Controller" />
+  <Config>
+    <FullHpRecoveryControl 
+        Enable="true" 
+        TriggerWhenHpPercent="0.50" 
+        RecoveryHpMinPercent="0.50" 
+        RecoveryHpMaxPercent="0.99" 
+        Description="Full HP Recovery behavior override. 
+            //Enable =[true or false] -control switch 
+            //TriggerWhenHpPercent =[0.0 - 1.0] -0.0 means never trigger, overriding system trigger when the player's hp is equal or less that the value
+            //RecoveryHpMinPercent =[0.0 - 1.0] -minimum HP % that player can recover 
+            //RecoveryHpMaxPercent =[0.0 - 1.0] -maximum HP % that player can recover" />
+
+    <ReflectDamageControl 
+        Enable="true" 
+        DamageOutputPercent="0.10" 
+        Description="Control Reflect Damage output. 
+            //Enable =[true or false] -control switch 
+            //ReflectDmgOutputPercent =[0.0 - 1.0] -multiply the reflect damage output to this value; disable value: 0.0, default value: 1.0" />
+    
+    <ExcellentDamageControl 
+        Enable="true" 
+        ExcellentChancePercent="0.50" 
+        Description="Control Excellent Damage output. 
+            //Enable =[true or false] -control switch 
+            //ExcellentChancePercent =[0.0 - 1.0] -control the changes; disable value: 0.0, default value=1.0" />
+   
+    <OccupationControl Enable="false" Description="">
+      <Occupation Occupation="0" PhysicalDamageAgainst="1|1|1|1|1|1|1|1" PhysicalDefenseAgainst="1|1|1|1|1|1|1|1" MagicDamageAgainst="1|1|1|1|1|1|1|1" MagicDefenseAgainst="1|1|1|1|1|1|1|1" />
+      <Occupation Occupation="1" PhysicalDamageAgainst="1|1|1|1|1|1|1|1" PhysicalDefenseAgainst="1|1|1|1|1|1|1|1" MagicDamageAgainst="1|1|1|1|1|1|1|1" MagicDefenseAgainst="1|1|1|1|1|1|1|1" />
+      <Occupation Occupation="2" PhysicalDamageAgainst="1|1|1|1|1|1|1|1" PhysicalDefenseAgainst="1|1|1|1|1|1|1|1" MagicDamageAgainst="1|1|1|1|1|1|1|1" MagicDefenseAgainst="1|1|1|1|1|1|1|1" />
+      <Occupation Occupation="3" PhysicalDamageAgainst="1|1|1|1|1|1|1|1" PhysicalDefenseAgainst="1|1|1|1|1|1|1|1" MagicDamageAgainst="1|1|1|1|1|1|1|1" MagicDefenseAgainst="1|1|1|1|1|1|1|1" />
+      <Occupation Occupation="4" PhysicalDamageAgainst="1|1|1|1|1|1|1|1" PhysicalDefenseAgainst="1|1|1|1|1|1|1|1" MagicDamageAgainst="1|1|1|1|1|1|1|1" MagicDefenseAgainst="1|1|1|1|1|1|1|1" />
+      <Occupation Occupation="5" PhysicalDamageAgainst="1|1|1|1|1|1|1|1" PhysicalDefenseAgainst="1|1|1|1|1|1|1|1" MagicDamageAgainst="1|1|1|1|1|1|1|1" MagicDefenseAgainst="1|1|1|1|1|1|1|1" />
+      <Occupation Occupation="6" PhysicalDamageAgainst="1|1|1|1|1|1|1|1" PhysicalDefenseAgainst="1|1|1|1|1|1|1|1" MagicDamageAgainst="1|1|1|1|1|1|1|1" MagicDefenseAgainst="1|1|1|1|1|1|1|1" />
+      <Occupation Occupation="7" PhysicalDamageAgainst="1|1|1|1|1|1|1|1" PhysicalDefenseAgainst="1|1|1|1|1|1|1|1" MagicDamageAgainst="1|1|1|1|1|1|1|1" MagicDefenseAgainst="1|1|1|1|1|1|1|1" />
+    </OccupationControl>
+  </Config>
+</Module>

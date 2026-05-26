@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <GroupRobot Rid="10001" RName="Robot 1" Occupation="0" />
+  <GroupRobot Rid="10002" RName="Robot 2" Occupation="1" />
+  <GroupRobot Rid="10003" RName="Robot 3" Occupation="2" />
+  <GroupRobot Rid="10004" RName="Robot 4" Occupation="3" />
+  <GroupRobot Rid="10005" RName="Robot 5" Occupation="5" />
+  <GroupRobot Rid="10006" RName="Robot 6" Occupation="6" />
+  <GroupRobot Rid="10007" RName="Robot 7" Occupation="0" />
+  <GroupRobot Rid="10008" RName="Robot 8" Occupation="1" />
+  <GroupRobot Rid="10009" RName="Robot 9" Occupation="2" />
+  <GroupRobot Rid="10010" RName="Robot 10" Occupation="3" />
+  <GroupRobot Rid="10011" RName="Robot 11" Occupation="5" />
+  <GroupRobot Rid="10012" RName="Robot 12" Occupation="6" />
+</Config>

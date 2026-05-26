@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ShenYuAttributeChuanCheng ID="1" Name="Moses-" NeedZuanShi="30" PinZhi="3" />
+  <ShenYuAttributeChuanCheng ID="2" Name="Moses-" NeedZuanShi="30" PinZhi="4" />
+  <ShenYuAttributeChuanCheng ID="3" Name="Moses-" NeedZuanShi="30" PinZhi="6" />
+  <ShenYuAttributeChuanCheng ID="4" Name="Moses-" NeedZuanShi="30" PinZhi="-1" />
+  <ShenYuAttributeChuanCheng ID="5" Name="Moses-" NeedZuanShi="30" PinZhi="-1" />
+  <ShenYuAttributeChuanCheng ID="6" Name="Moses-" NeedZuanShi="30" PinZhi="-1" />
+</Config>

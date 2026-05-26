@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <CircusLotteryPos ID="1" LotteryID="10" PosID="1" Pos="1,1" />
+  <CircusLotteryPos ID="2" LotteryID="10" PosID="2" Pos="1,1" />
+  <CircusLotteryPos ID="3" LotteryID="10" PosID="3" Pos="1,1" />
+  <CircusLotteryPos ID="4" LotteryID="10" PosID="4" Pos="1,1" />
+  <CircusLotteryPos ID="5" LotteryID="10" PosID="5" Pos="1,1" />
+  <CircusLotteryPos ID="6" LotteryID="10" PosID="6" Pos="1,1" />
+  <CircusLotteryPos ID="7" LotteryID="10" PosID="7" Pos="1,1" />
+  <CircusLotteryPos ID="8" LotteryID="10" PosID="8" Pos="1,1" />
+  <CircusLotteryPos ID="9" LotteryID="10" PosID="9" Pos="1,1" />
+  <CircusLotteryPos ID="10" LotteryID="10" PosID="10" Pos="1,1" />
+  <CircusLotteryPos ID="11" LotteryID="20" PosID="1" Pos="1,1" />
+  <CircusLotteryPos ID="12" LotteryID="20" PosID="2" Pos="1,1" />
+  <CircusLotteryPos ID="13" LotteryID="20" PosID="3" Pos="1,1" />
+  <CircusLotteryPos ID="14" LotteryID="20" PosID="4" Pos="1,1" />
+  <CircusLotteryPos ID="15" LotteryID="20" PosID="5" Pos="1,1" />
+  <CircusLotteryPos ID="16" LotteryID="20" PosID="6" Pos="1,1" />
+  <CircusLotteryPos ID="17" LotteryID="20" PosID="7" Pos="1,1" />
+  <CircusLotteryPos ID="18" LotteryID="20" PosID="8" Pos="1,1" />
+  <CircusLotteryPos ID="19" LotteryID="20" PosID="9" Pos="1,1" />
+  <CircusLotteryPos ID="20" LotteryID="20" PosID="10" Pos="1,1" />
+  <CircusLotteryPos ID="21" LotteryID="30" PosID="1" Pos="1,1" />
+  <CircusLotteryPos ID="22" LotteryID="30" PosID="2" Pos="1,1" />
+  <CircusLotteryPos ID="23" LotteryID="30" PosID="3" Pos="1,1" />
+  <CircusLotteryPos ID="24" LotteryID="30" PosID="4" Pos="1,1" />
+  <CircusLotteryPos ID="25" LotteryID="30" PosID="5" Pos="1,1" />
+  <CircusLotteryPos ID="26" LotteryID="30" PosID="6" Pos="1,1" />
+  <CircusLotteryPos ID="27" LotteryID="30" PosID="7" Pos="1,1" />
+  <CircusLotteryPos ID="28" LotteryID="30" PosID="8" Pos="1,1" />
+  <CircusLotteryPos ID="29" LotteryID="30" PosID="9" Pos="1,1" />
+  <CircusLotteryPos ID="30" LotteryID="30" PosID="10" Pos="1,1" />
+</config>

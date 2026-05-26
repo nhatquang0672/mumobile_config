@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+  <Monsters>
+    <Monster ID="1" Code="9910101" />
+	<Monster ID="2" Code="9910102" />
+	<Monster ID="3" Code="9910103" />
+	<Monster ID="4" Code="9910104" />
+	<Monster ID="5" Code="9910105" />
+	<Monster ID="6" Code="9910106" />
+	<Monster ID="7" Code="9910107" />
+	<Monster ID="8" Code="9910108" />
+	<Monster ID="9" Code="9910109" />
+	<Monster ID="10" Code="9910110" />
+	<Monster ID="11" Code="9910111" />
+	<Monster ID="12" Code="9910112" />
+	<Monster ID="13" Code="9910113" />
+	<Monster ID="14" Code="9910114" />
+	<Monster ID="15" Code="9910115" />
+  </Monsters>
+</Map>

@@ -1,0 +1,12 @@
+{
+  "LoadView": true,
+  "TranslateCaching": true,
+  "UserEnglishRegex": true,
+  "AutoSave": {
+    "Enable": false,
+    "AutoSaveInterval": 1
+  },
+  "TranslateApi": {
+    "ReqestPerSecond": 3
+  }
+}

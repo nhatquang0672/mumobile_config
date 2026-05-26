@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <MengZhanDes ID="1" ShowPic="1.png" ShowDec="我是个文本你猜猜这个怎么完" />
+  <MengZhanDes ID="2" ShowPic="2.png" ShowDec="我是个文本你猜猜这个怎么完" />
+  <MengZhanDes ID="3" ShowPic="3.png" ShowDec="我是个文本你猜猜这个怎么完" />
+  <MengZhanDes ID="4" ShowPic="4.png" ShowDec="我是个文本你猜猜这个怎么完" />
+  <MengZhanDes ID="5" ShowPic="5.png" ShowDec="我是个文本你猜猜这个怎么完" />
+  <MengZhanDes ID="6" ShowPic="6.png" ShowDec="我是个文本你猜猜这个怎么完" />
+  <MengZhanDes ID="7" ShowPic="7.png" ShowDec="我是个文本你猜猜这个怎么完" />
+</Config>

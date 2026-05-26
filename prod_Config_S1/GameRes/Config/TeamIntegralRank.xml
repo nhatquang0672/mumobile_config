@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <TeamIntegralRank ID="1" TeamMinRank="1" TeamMaxRank="1" TeamAward="970014,1,1,0,0,0,0|2302,60,1,0,0,0,0|51382,36,1,0,0,0,0|50033,50,1,0,0,0,0" />
+  <TeamIntegralRank ID="2" TeamMinRank="2" TeamMaxRank="2" TeamAward="970014,1,1,0,0,0,0|2302,50,1,0,0,0,0|51382,36,1,0,0,0,0|50033,45,1,0,0,0,0" />
+  <TeamIntegralRank ID="3" TeamMinRank="3" TeamMaxRank="3" TeamAward="970014,1,1,0,0,0,0|2302,45,1,0,0,0,0|51382,36,1,0,0,0,0|50033,40,1,0,0,0,0" />
+  <TeamIntegralRank ID="4" TeamMinRank="4" TeamMaxRank="4" TeamAward="51455,80,1,0,0,0,0|2302,40,1,0,0,0,0|51382,24,1,0,0,0,0|50033,35,1,0,0,0,0" />
+  <TeamIntegralRank ID="5" TeamMinRank="5" TeamMaxRank="5" TeamAward="51455,70,1,0,0,0,0|2302,35,1,0,0,0,0|51382,20,1,0,0,0,0|50033,30,1,0,0,0,0" />
+  <TeamIntegralRank ID="6" TeamMinRank="6" TeamMaxRank="10" TeamAward="51455,60,1,0,0,0,0|2302,35,1,0,0,0,0|51382,18,1,0,0,0,0|50033,28,1,0,0,0,0" />
+  <TeamIntegralRank ID="7" TeamMinRank="11" TeamMaxRank="20" TeamAward="51455,50,1,0,0,0,0|2302,30,1,0,0,0,0|51382,12,1,0,0,0,0|50033,25,1,0,0,0,0" />
+  <TeamIntegralRank ID="8" TeamMinRank="21" TeamMaxRank="30" TeamAward="51455,40,1,0,0,0,0|2302,30,1,0,0,0,0|51382,10,1,0,0,0,0|50033,20,1,0,0,0,0" />
+  <TeamIntegralRank ID="9" TeamMinRank="31" TeamMaxRank="50" TeamAward="51455,30,1,0,0,0,0|2302,30,1,0,0,0,0|51382,8,1,0,0,0,0|50033,18,1,0,0,0,0" />
+  <TeamIntegralRank ID="10" TeamMinRank="51" TeamMaxRank="100" TeamAward="51455,20,1,0,0,0,0|2302,20,1,0,0,0,0|51382,6,1,0,0,0,0|50033,15,1,0,0,0,0" />
+  <TeamIntegralRank ID="11" TeamMinRank="101" TeamMaxRank="150" TeamAward="2302,10,1,0,0,0,0|51382,3,1,0,0,0,0|50033,14,1,0,0,0,0" />
+  <TeamIntegralRank ID="12" TeamMinRank="151" TeamMaxRank="200" TeamAward="2302,5,1,0,0,0,0|51382,2,1,0,0,0,0|50033,13,1,0,0,0,0" />
+  <TeamIntegralRank ID="13" TeamMinRank="201" TeamMaxRank="-1" TeamAward="2302,5,1,0,0,0,0|51382,1,1,0,0,0,0|50033,12,1,0,0,0,0" />
+</Config>

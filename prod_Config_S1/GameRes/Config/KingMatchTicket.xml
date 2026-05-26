@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <KingMatchTicket ID="40" Type="1" Price="1000" Pic="8013" Pic2="5594" />
+  <KingMatchTicket ID="5594" Type="2" Price="1" Pic="5594" Pic2="5594" />
+</Config>

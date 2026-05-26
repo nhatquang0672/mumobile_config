@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <WenZhangAddition ID="1" WenZhangNum="5" WenZhangLevel="10" Attributes="MinAttack,500|MaxAttack,600|MaxDefense,200|MinDefense,100|HitV,220|Dodge,220|MaxLifeV,1900" />
+  <WenZhangAddition ID="2" WenZhangNum="5" WenZhangLevel="20" Attributes="MinAttack,800|MaxAttack,800|MaxDefense,300|MinDefense,114|HitV,320|Dodge,320|MaxLifeV,2000" />
+  <WenZhangAddition ID="3" WenZhangNum="5" WenZhangLevel="30" Attributes="MinAttack,1100|MaxAttack,1000|MaxDefense,400|MinDefense,128|HitV,420|Dodge,420|MaxLifeV,2100" />
+  <WenZhangAddition ID="4" WenZhangNum="5" WenZhangLevel="40" Attributes="MinAttack,1400|MaxAttack,1200|MaxDefense,500|MinDefense,142|HitV,520|Dodge,520|MaxLifeV,2200" />
+  <WenZhangAddition ID="5" WenZhangNum="5" WenZhangLevel="50" Attributes="MinAttack,1700|MaxAttack,1400|MaxDefense,600|MinDefense,156|HitV,620|Dodge,620|MaxLifeV,2300" />
+  <WenZhangAddition ID="6" WenZhangNum="5" WenZhangLevel="60" Attributes="MinAttack,2000|MaxAttack,1600|MaxDefense,700|MinDefense,170|HitV,720|Dodge,720|MaxLifeV,2400" />
+  <WenZhangAddition ID="7" WenZhangNum="5" WenZhangLevel="70" Attributes="MinAttack,2300|MaxAttack,1800|MaxDefense,800|MinDefense,184|HitV,820|Dodge,820|MaxLifeV,2500" />
+  <WenZhangAddition ID="8" WenZhangNum="5" WenZhangLevel="80" Attributes="MinAttack,2600|MaxAttack,2000|MaxDefense,900|MinDefense,198|HitV,920|Dodge,920|MaxLifeV,2600" />
+  <WenZhangAddition ID="9" WenZhangNum="5" WenZhangLevel="90" Attributes="MinAttack,2900|MaxAttack,2200|MaxDefense,1000|MinDefense,212|HitV,1020|Dodge,1020|MaxLifeV,2700" />
+  <WenZhangAddition ID="10" WenZhangNum="5" WenZhangLevel="100" Attributes="MinAttack,3200|MaxAttack,2400|MaxDefense,1100|MinDefense,226|HitV,1120|Dodge,1120|MaxLifeV,2800" />
+</Config>

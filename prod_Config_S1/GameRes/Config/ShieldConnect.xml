@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <ShieldConnect ID="1" Level="1" Description="Ngọc Kim" IconID="JinStone" Progress="JinJD" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="39002,1|2018,1" NeedDiamond="100" NeedCoin="999" AttackPro="0.2" Open="1" GoldShow="8003" />
+  <ShieldConnect ID="2" Level="2" Description="Ngọc Mộc" IconID="MuStone" Progress="MuJD" LuckyOne="109945" LuckyTwo="109989" LuckyTwoRate="0.8" NeedGoods="39002,2|2018,2" NeedDiamond="100" NeedCoin="999" AttackPro="0.2" Open="1" GoldShow="8003" />
+  <ShieldConnect ID="3" Level="3" Description="Ngọc Thủy" IconID="ShuiStone" Progress="ShuiJD" LuckyOne="109884" LuckyTwo="109979" LuckyTwoRate="0.5" NeedGoods="39002,4|2018,4" NeedDiamond="100" NeedCoin="999" AttackPro="0.2" Open="1" GoldShow="8003" />
+  <ShieldConnect ID="4" Level="4" Description="Ngọc Hỏa" IconID="HuoStone" Progress="HuoJD" LuckyOne="109786" LuckyTwo="109960" LuckyTwoRate="0.3" NeedGoods="39002,6|2018,6" NeedDiamond="100" NeedCoin="999" AttackPro="0.2" Open="1" GoldShow="8003" />
+  <ShieldConnect ID="5" Level="5" Description="Ngọc Thổ" IconID="TuStone" Progress="TuJD" LuckyOne="109705" LuckyTwo="109946" LuckyTwoRate="0.2" NeedGoods="39002,10|2018,10" NeedDiamond="100" NeedCoin="999" AttackPro="0.2" Open="1" GoldShow="8003" />
+  <ShieldConnect ID="6" Level="6" Description="Ngọc Phong" IconID="FengStone" Progress="FengJD" LuckyOne="109672" LuckyTwo="109936" LuckyTwoRate="0.1" NeedGoods="39002,15|2018,15" NeedDiamond="100" NeedCoin="999" AttackPro="0.2" Open="0" GoldShow="8003" />
+  <ShieldConnect ID="7" Level="7" Description="Ngọc Lôi" IconID="LeiStone" Progress="LeiJD" LuckyOne="109626" LuckyTwo="109927" LuckyTwoRate="0.1" NeedGoods="39002,15|2018,15" NeedDiamond="100" NeedCoin="999" AttackPro="0.2" Open="0" GoldShow="8003" />
+  <ShieldConnect ID="8" Level="8" Description="Ngọc U" IconID="YouStone" Progress="YouJD" LuckyOne="109551" LuckyTwo="109915" LuckyTwoRate="0.1" NeedGoods="39002,20|2018,20" NeedDiamond="100" NeedCoin="999" AttackPro="0.2" Open="0" GoldShow="8003" />
+  <ShieldConnect ID="9" Level="9" Description="Ngọc Quang" IconID="GuangStone" Progress="GuangJD" LuckyOne="109551" LuckyTwo="109915" LuckyTwoRate="0.1" NeedGoods="39002,20|2018,20" NeedDiamond="100" NeedCoin="999" AttackPro="0.2" Open="0" GoldShow="8003" />
+  <ShieldConnect ID="10" Level="10" Description="Ngọc Ám" IconID="AnStone" Progress="AnJD" LuckyOne="109551" LuckyTwo="109915" LuckyTwoRate="0.1" NeedGoods="39002,20|2018,20" NeedDiamond="100" NeedCoin="999" AttackPro="0.2" Open="0" GoldShow="8003" />
+</Config>

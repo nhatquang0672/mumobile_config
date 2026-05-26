@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <CircusFruitReward ID="1" JiFen="1,10" Reward="5603,10,1,0,0,0,0" />
+  <CircusFruitReward ID="2" JiFen="11,20" Reward="5603,20,1,0,0,0,0" />
+  <CircusFruitReward ID="3" JiFen="21,30" Reward="5603,30,1,0,0,0,0" />
+  <CircusFruitReward ID="4" JiFen="31,40" Reward="5603,40,1,0,0,0,0" />
+  <CircusFruitReward ID="5" JiFen="41,50" Reward="5603,50,1,0,0,0,0" />
+  <CircusFruitReward ID="6" JiFen="51,60" Reward="5603,60,1,0,0,0,0" />
+  <CircusFruitReward ID="7" JiFen="61,70" Reward="5603,70,1,0,0,0,0" />
+  <CircusFruitReward ID="8" JiFen="71,80" Reward="5603,80,1,0,0,0,0" />
+  <CircusFruitReward ID="9" JiFen="81,90" Reward="5603,90,1,0,0,0,0" />
+  <CircusFruitReward ID="10" JiFen="91,100" Reward="5603,100,1,0,0,0,0" />
+  <CircusFruitReward ID="11" JiFen="101,110" Reward="5603,110,1,0,0,0,0" />
+  <CircusFruitReward ID="12" JiFen="111,120" Reward="5603,120,1,0,0,0,0" />
+  <CircusFruitReward ID="13" JiFen="121,130" Reward="5603,130,1,0,0,0,0" />
+  <CircusFruitReward ID="14" JiFen="131,140" Reward="5603,140,1,0,0,0,0" />
+  <CircusFruitReward ID="15" JiFen="141,150" Reward="5603,150,1,0,0,0,0" />
+  <CircusFruitReward ID="16" JiFen="151,160" Reward="5606,1,1,0,0,0,0|5603,160,1,0,0,0,0" />
+  <CircusFruitReward ID="17" JiFen="161,170" Reward="5606,1,1,0,0,0,0|5603,170,1,0,0,0,0" />
+  <CircusFruitReward ID="18" JiFen="171,180" Reward="5606,1,1,0,0,0,0|5603,180,1,0,0,0,0" />
+  <CircusFruitReward ID="19" JiFen="181,190" Reward="5606,1,1,0,0,0,0|5603,190,1,0,0,0,0" />
+  <CircusFruitReward ID="20" JiFen="191,200" Reward="5606,1,1,0,0,0,0|5603,200,1,0,0,0,0" />
+  <CircusFruitReward ID="21" JiFen="201,500" Reward="5606,2,1,0,0,0,0|5603,300,1,0,0,0,0" />
+</config>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <ShengZheBattleFieldEquipCiTiao ID="1" Name="雷霆" Color="ffa500" Quality="3,4" Weight="300" Pic="shengzhezhanchang1s" />
+  <ShengZheBattleFieldEquipCiTiao ID="2" Name="烈焰" Color="ffa500" Quality="3,4" Weight="1" Pic="shengzhezhanchang2s" />
+  <ShengZheBattleFieldEquipCiTiao ID="3" Name="狂风" Color="ffa500" Quality="3,4" Weight="1" Pic="shengzhezhanchang3s" />
+  <ShengZheBattleFieldEquipCiTiao ID="4" Name="星耀" Color="fdf7dd" Quality="4,6" Weight="300" Pic="shengzhezhanchang4s" />
+  <ShengZheBattleFieldEquipCiTiao ID="5" Name="昼日" Color="fdf7dd" Quality="4,6" Weight="1" Pic="shengzhezhanchang5s" />
+</Config>

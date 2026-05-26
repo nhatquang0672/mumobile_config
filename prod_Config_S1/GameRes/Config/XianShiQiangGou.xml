@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <XianShiQiangGou ID="10" OpenTime="2022-04-01 00:00:00" CloseTime="2027-03-01 23:59:59" Name="直购购买1" ShowImage="1" Type="0" Params="166558" GoodsList="" ReturnNeed="3" ReturnCurrency="64017,100,1,0,0,0,0" />
+  <XianShiQiangGou ID="20" OpenTime="2022-04-01 00:00:00" CloseTime="2027-03-01 23:59:59" Name="钻石购买1" ShowImage="2" Type="1" Params="500" GoodsList="63219,1,1,0,0,0,0|50305,2,1,0,0,0,0|732173,1,1,0,0,0,0" ReturnNeed="7" ReturnCurrency="64018,200,1,0,0,0,0" />
+  <XianShiQiangGou ID="30" OpenTime="2022-04-01 00:00:00" CloseTime="2027-03-01 23:59:59" Name="钻石购买2" ShowImage="3" Type="1" Params="300" GoodsList="2031,18,1,0,0,0,0|5133,10,1,0,0,0,0|2005,12,1,0,0,0,0" ReturnNeed="7" ReturnCurrency="64018,400,1,0,0,0,0" />
+  <XianShiQiangGou ID="40" OpenTime="2022-04-01 00:00:00" CloseTime="2027-03-01 23:59:59" Name="直购购买2" ShowImage="4" Type="0" Params="166560" GoodsList="" ReturnNeed="1" ReturnCurrency="64017,200,1,0,0,0,0" />
+  <XianShiQiangGou ID="50" OpenTime="2022-04-01 00:00:00" CloseTime="2027-03-01 23:59:59" Name="直购购买3" ShowImage="5" Type="0" Params="166574" GoodsList="" ReturnNeed="2" ReturnCurrency="64017,300,1,0,0,0,0" />
+  <XianShiQiangGou ID="60" OpenTime="2022-04-01 00:00:00" CloseTime="2027-03-01 23:59:59" Name="直购购买4" ShowImage="6" Type="0" Params="166582" GoodsList="" ReturnNeed="3" ReturnCurrency="64017,400,1,0,0,0,0" />
+  <XianShiQiangGou ID="70" OpenTime="2022-04-01 00:00:00" CloseTime="2027-03-01 23:59:59" Name="钻石购买3" ShowImage="7" Type="1" Params="300" GoodsList="2031,18,1,0,0,0,0|5133,10,1,0,0,0,0" ReturnNeed="1" ReturnCurrency="64018,400,1,0,0,0,0" />
+  <XianShiQiangGou ID="80" OpenTime="2022-04-01 00:00:00" CloseTime="2027-03-01 23:59:59" Name="钻石购买4" ShowImage="8" Type="1" Params="300" GoodsList="2031,18,1,0,0,0,0|5133,10,1,0,0,0,0" ReturnNeed="2" ReturnCurrency="64018,400,1,0,0,0,0" />
+  <XianShiQiangGou ID="90" OpenTime="2022-04-01 00:00:00" CloseTime="2027-03-01 23:59:59" Name="钻石购买5" ShowImage="9" Type="1" Params="300" GoodsList="2031,18,1,0,0,0,0|5133,10,1,0,0,0,0" ReturnNeed="3" ReturnCurrency="64018,400,1,0,0,0,0" />
+  <XianShiQiangGou ID="100" OpenTime="2022-04-01 00:00:00" CloseTime="2027-03-01 23:59:59" Name="钻石购买6" ShowImage="10" Type="1" Params="300" GoodsList="2031,18,1,0,0,0,0|5133,10,1,0,0,0,0" ReturnNeed="4" ReturnCurrency="64018,400,1,0,0,0,0" />
+</config>

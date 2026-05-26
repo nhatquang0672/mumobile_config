@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <ShengLingGroupMagic ID="1" Rank="1" Quality="1|1|1|1|1|1" QualityLevel="1" Name="组合技能1--测试" ShowGoods="1000" Prop="MaxLifeV,1000|AddAttack,1000|AddDefense,1000" MagicS="121027" Describe="其实我是个描述的" />
+  <ShengLingGroupMagic ID="2" Rank="1" Quality="1|1|1|1|2|2" QualityLevel="1" Name="组合技能2--测试" ShowGoods="1001" Prop="MaxLifeV,2000|AddAttack,2000|AddDefense,1000" MagicS="121027" Describe="描述2" />
+  <ShengLingGroupMagic ID="3" Rank="1" Quality="2|2|2|2|2|2" QualityLevel="2" Name="组合技能3--测试" ShowGoods="1002" Prop="MaxLifeV,2000|AddAttack,2000|AddDefense,2000" MagicS="121028" Describe="描述3" />
+  <ShengLingGroupMagic ID="4" Rank="1" Quality="2|2|2|2|3|3" QualityLevel="2" Name="组合技能4--测试" ShowGoods="1003" Prop="MaxLifeV,3000|AddAttack,2000|AddDefense,2000" MagicS="121028" Describe="描述4" />
+  <ShengLingGroupMagic ID="5" Rank="1" Quality="3|3|3|3|2|2" QualityLevel="3" Name="组合技能5--测试" ShowGoods="1004" Prop="MaxLifeV,3000|AddAttack,3000|AddDefense,2000" MagicS="121029" Describe="描述5" />
+  <ShengLingGroupMagic ID="6" Rank="1" Quality="3|3|3|3|3|3" QualityLevel="3" Name="组合技能6--测试" ShowGoods="1005" Prop="MaxLifeV,3000|AddAttack,3000|AddDefense,3000" MagicS="121029" Describe="描述6" />
+  <ShengLingGroupMagic ID="7" Rank="2" Quality="1|1|1|1|1|1" QualityLevel="1" Name="组合技能7--测试" ShowGoods="1006" Prop="MaxLifeV,1000|AddAttack,1000|AddDefense,1000" MagicS="121027" Describe="描述7" />
+  <ShengLingGroupMagic ID="8" Rank="2" Quality="1|1|1|1|2|2" QualityLevel="1" Name="组合技能8--测试" ShowGoods="1007" Prop="MaxLifeV,2000|AddAttack,2000|AddDefense,1000" MagicS="121027" Describe="描述8" />
+  <ShengLingGroupMagic ID="9" Rank="2" Quality="2|2|2|2|2|2" QualityLevel="2" Name="组合技能9--测试" ShowGoods="1008" Prop="MaxLifeV,2000|AddAttack,2000|AddDefense,2000" MagicS="121028" Describe="描述9" />
+  <ShengLingGroupMagic ID="10" Rank="2" Quality="2|2|2|2|3|3" QualityLevel="2" Name="组合技能10--测试" ShowGoods="1009" Prop="MaxLifeV,3000|AddAttack,2000|AddDefense,2000" MagicS="121028" Describe="描述10" />
+  <ShengLingGroupMagic ID="11" Rank="2" Quality="3|3|3|3|2|2" QualityLevel="3" Name="组合技能11--测试" ShowGoods="1010" Prop="MaxLifeV,3000|AddAttack,3000|AddDefense,2000" MagicS="121029" Describe="描述11" />
+  <ShengLingGroupMagic ID="12" Rank="2" Quality="3|3|3|3|3|3" QualityLevel="3" Name="组合技能12--测试" ShowGoods="1011" Prop="MaxLifeV,3000|AddAttack,3000|AddDefense,3000" MagicS="121029" Describe="描述12" />
+  <ShengLingGroupMagic ID="13" Rank="3" Quality="1|1|1|1|1|1" QualityLevel="1" Name="组合技能13--测试" ShowGoods="1012" Prop="MaxLifeV,1000|AddAttack,1000|AddDefense,1000" MagicS="121027" Describe="描述13" />
+  <ShengLingGroupMagic ID="14" Rank="3" Quality="1|1|1|1|2|2" QualityLevel="1" Name="组合技能14--测试" ShowGoods="1013" Prop="MaxLifeV,2000|AddAttack,2000|AddDefense,1000" MagicS="121027" Describe="描述14" />
+  <ShengLingGroupMagic ID="15" Rank="3" Quality="2|2|2|2|2|2" QualityLevel="2" Name="组合技能15--测试" ShowGoods="1014" Prop="MaxLifeV,2000|AddAttack,2000|AddDefense,2000" MagicS="121028" Describe="描述15" />
+  <ShengLingGroupMagic ID="16" Rank="3" Quality="2|2|2|2|3|3" QualityLevel="2" Name="组合技能16--测试" ShowGoods="1015" Prop="MaxLifeV,3000|AddAttack,2000|AddDefense,2000" MagicS="121028" Describe="描述16" />
+  <ShengLingGroupMagic ID="17" Rank="3" Quality="3|3|3|3|2|2" QualityLevel="3" Name="组合技能17--测试" ShowGoods="1016" Prop="MaxLifeV,3000|AddAttack,3000|AddDefense,2000" MagicS="121029" Describe="描述17" />
+  <ShengLingGroupMagic ID="18" Rank="3" Quality="3|3|3|3|3|3" QualityLevel="3" Name="组合技能18--测试" ShowGoods="1017" Prop="MaxLifeV,3000|AddAttack,3000|AddDefense,3000" MagicS="121029" Describe="描述18" />
+  <ShengLingGroupMagic ID="19" Rank="4" Quality="1|1|1|1|1|1" QualityLevel="1" Name="组合技能19--测试" ShowGoods="1018" Prop="MaxLifeV,1000|AddAttack,1000|AddDefense,1000" MagicS="121027" Describe="描述19" />
+  <ShengLingGroupMagic ID="20" Rank="4" Quality="1|1|1|1|2|2" QualityLevel="1" Name="组合技能20--测试" ShowGoods="1019" Prop="MaxLifeV,2000|AddAttack,2000|AddDefense,1000" MagicS="121027" Describe="描述20" />
+  <ShengLingGroupMagic ID="21" Rank="4" Quality="2|2|2|2|2|2" QualityLevel="2" Name="组合技能21--测试" ShowGoods="1020" Prop="MaxLifeV,2000|AddAttack,2000|AddDefense,2000" MagicS="121028" Describe="描述21" />
+  <ShengLingGroupMagic ID="22" Rank="4" Quality="2|2|2|2|3|3" QualityLevel="2" Name="组合技能22--测试" ShowGoods="1021" Prop="MaxLifeV,3000|AddAttack,2000|AddDefense,2000" MagicS="121028" Describe="描述22" />
+  <ShengLingGroupMagic ID="23" Rank="4" Quality="3|3|3|3|2|2" QualityLevel="3" Name="组合技能23--测试" ShowGoods="1022" Prop="MaxLifeV,3000|AddAttack,3000|AddDefense,2000" MagicS="121029" Describe="描述23" />
+  <ShengLingGroupMagic ID="24" Rank="4" Quality="3|3|3|3|3|3" QualityLevel="3" Name="组合技能24--测试" ShowGoods="1023" Prop="MaxLifeV,3000|AddAttack,3000|AddDefense,3000" MagicS="121029" Describe="描述24" />
+</config>

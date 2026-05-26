@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Tarot ID="1" Name="Chính Nghĩa" GoodsID="703001" Level="0" NeedGoods="-1" />
+  <Tarot ID="2" Name="Chính Nghĩa" GoodsID="703001" Level="1" NeedGoods="704001,1" />
+  <Tarot ID="3" Name="Chính Nghĩa" GoodsID="703001" Level="2" NeedGoods="704001,2" />
+  <Tarot ID="4" Name="Chính Nghĩa" GoodsID="703001" Level="3" NeedGoods="704001,4" />
+  <Tarot ID="5" Name="Chính Nghĩa" GoodsID="703001" Level="4" NeedGoods="704001,7" />
+  <Tarot ID="6" Name="Chính Nghĩa" GoodsID="703001" Level="5" NeedGoods="704001,9" />
+  <Tarot ID="7" Name="Chính Nghĩa" GoodsID="703001" Level="6" NeedGoods="704001,12" />
+  <Tarot ID="8" Name="Chính Nghĩa" GoodsID="703001" Level="7" NeedGoods="704001,15" />
+  <Tarot ID="9" Name="Chính Nghĩa" GoodsID="703001" Level="8" NeedGoods="704001,18" />
+  <Tarot ID="10" Name="Chính Nghĩa" GoodsID="703001" Level="9" NeedGoods="704001,22" />
+  <Tarot ID="11" Name="Chính Nghĩa" GoodsID="703001" Level="10" NeedGoods="704001,25" />
+  <Tarot ID="12" Name="Chính Nghĩa" GoodsID="703001" Level="11" NeedGoods="704001,29" />
+  <Tarot ID="13" Name="Chính Nghĩa" GoodsID="703001" Level="12" NeedGoods="704001,33" />
+  <Tarot ID="14" Name="Chính Nghĩa" GoodsID="703001" Level="13" NeedGoods="704001,37" />
+  <Tarot ID="15" Name="Chính Nghĩa" GoodsID="703001" Level="14" NeedGoods="704001,41" />
+  <Tarot ID="16" Name="Chính Nghĩa" GoodsID="703001" Level="15" NeedGoods="704001,46" />
+  <Tarot ID="17" Name="Chính Nghĩa" GoodsID="703001" Level="16" NeedGoods="704001,50" />
+  <Tarot ID="18" Name="Chính Nghĩa" GoodsID="703001" Level="17" NeedGoods="704001,54" />
+  <Tarot ID="19" Name="Chính Nghĩa" GoodsID="703001" Level="18" NeedGoods="704001,59" />
+  <Tarot ID="20" Name="Chính Nghĩa" GoodsID="703001" Level="19" NeedGoods="704001,64" />
+  <Tarot ID="21" Name="Chính Nghĩa" GoodsID="703001" Level="20" NeedGoods="704001,69" />
+  <Tarot ID="22" Name="Chính Nghĩa" GoodsID="703001" Level="21" NeedGoods="704001,74" />
+  <Tarot ID="23" Name="Chính Nghĩa" GoodsID="703001" Level="22" NeedGoods="704001,79" />
+  <Tarot ID="24" Name="Chính Nghĩa" GoodsID="703001" Level="23" NeedGoods="704001,84" />
+  <Tarot ID="25" Name="Chính Nghĩa" GoodsID="703001" Level="24" NeedGoods="704001,89" />
+  <Tarot ID="26" Name="Chính Nghĩa" GoodsID="703001" Level="25" NeedGoods="704001,94" />
+  <Tarot ID="27" Name="Chính Nghĩa" GoodsID="703001" Level="26" NeedGoods="704001,100" />
+  <Tarot ID="28" Name="Chính Nghĩa" GoodsID="703001" Level="27" NeedGoods="704001,105" />
+  <Tarot ID="29" Name="Chính Nghĩa" GoodsID="703001" Level="28" NeedGoods="704001,111" />
+  <Tarot ID="30" Name="Chính Nghĩa" GoodsID="703001" Level="29" NeedGoods="704001,116" />
+  <Tarot ID="31" Name="Chính Nghĩa" GoodsID="703001" Level="30" NeedGoods="704001,122" />
+  <Tarot ID="32" Name="Chính Nghĩa" GoodsID="703001" Level="31" NeedGoods="704001,128" />
+  <Tarot ID="33" Name="Chính Nghĩa" GoodsID="703001" Level="32" NeedGoods="704001,134" />
+  <Tarot ID="34" Name="Chính Nghĩa" GoodsID="703001" Level="33" NeedGoods="704001,140" />
+  <Tarot ID="35" Name="Chính Nghĩa" GoodsID="703001" Level="34" NeedGoods="704001,146" />
+  <Tarot ID="36" Name="Chính Nghĩa" GoodsID="703001" Level="35" NeedGoods="704001,152" />
+  <Tarot ID="37" Name="Chính Nghĩa" GoodsID="703001" Level="36" NeedGoods="704001,158" />
+  <Tarot ID="38" Name="Chính Nghĩa" GoodsID="703001" Level="37" NeedGoods="704001,164" />
+  <Tarot ID="39" Name="Chính Nghĩa" GoodsID="703001" Level="38" NeedGoods="704001,171" />
+  <Tarot ID="40" Name="Chính Nghĩa" GoodsID="703001" Level="39" NeedGoods="704001,177" />
+  <Tarot ID="41" Name="Chính Nghĩa" GoodsID="703001" Level="40" NeedGoods="704001,184" />
+  <Tarot ID="42" Name="Chính Nghĩa" GoodsID="703001" Level="41" NeedGoods="704001,190" />
+  <Tarot ID="43" Name="Chính Nghĩa" GoodsID="703001" Level="42" NeedGoods="704001,197" />
+  <Tarot ID="44" Name="Chính Nghĩa" GoodsID="703001" Level="43" NeedGoods="704001,204" />
+  <Tarot ID="45" Name="Chính Nghĩa" GoodsID="703001" Level="44" NeedGoods="704001,210" />
+  <Tarot ID="46" Name="Chính Nghĩa" GoodsID="703001" Level="45" NeedGoods="704001,217" />
+  <Tarot ID="47" Name="Chính Nghĩa" GoodsID="703001" Level="46" NeedGoods="704001,224" />
+  <Tarot ID="48" Name="Chính Nghĩa" GoodsID="703001" Level="47" NeedGoods="704001,231" />
+  <Tarot ID="49" Name="Chính Nghĩa" GoodsID="703001" Level="48" NeedGoods="704001,238" />
+  <Tarot ID="50" Name="Chính Nghĩa" GoodsID="703001" Level="49" NeedGoods="704001,245" />
+  <Tarot ID="51" Name="Chính Nghĩa" GoodsID="703001" Level="50" NeedGoods="704001,252" />
+  <Tarot ID="52" Name="Nữ Tế Tư" GoodsID="703002" Level="0" NeedGoods="-1" />
+  <Tarot ID="53" Name="Nữ Tế Tư" GoodsID="703002" Level="1" NeedGoods="704002,1" />
+  <Tarot ID="54" Name="Nữ Tế Tư" GoodsID="703002" Level="2" NeedGoods="704002,2" />
+  <Tarot ID="55" Name="Nữ Tế Tư" GoodsID="703002" Level="3" NeedGoods="704002,4" />
+  <Tarot ID="56" Name="Nữ Tế Tư" GoodsID="703002" Level="4" NeedGoods="704002,7" />
+  <Tarot ID="57" Name="Nữ Tế Tư" GoodsID="703002" Level="5" NeedGoods="704002,9" />
+  <Tarot ID="58" Name="Nữ Tế Tư" GoodsID="703002" Level="6" NeedGoods="704002,12" />
+  <Tarot ID="59" Name="Nữ Tế Tư" GoodsID="703002" Level="7" NeedGoods="704002,15" />
+  <Tarot ID="60" Name="Nữ Tế Tư" GoodsID="703002" Level="8" NeedGoods="704002,18" />
+  <Tarot ID="61" Name="Nữ Tế Tư" GoodsID="703002" Level="9" NeedGoods="704002,22" />
+  <Tarot ID="62" Name="Nữ Tế Tư" GoodsID="703002" Level="10" NeedGoods="704002,25" />
+  <Tarot ID="63" Name="Nữ Tế Tư" GoodsID="703002" Level="11" NeedGoods="704002,29" />
+  <Tarot ID="64" Name="Nữ Tế Tư" GoodsID="703002" Level="12" NeedGoods="704002,33" />
+  <Tarot ID="65" Name="Nữ Tế Tư" GoodsID="703002" Level="13" NeedGoods="704002,37" />
+  <Tarot ID="66" Name="Nữ Tế Tư" GoodsID="703002" Level="14" NeedGoods="704002,41" />
+  <Tarot ID="67" Name="Nữ Tế Tư" GoodsID="703002" Level="15" NeedGoods="704002,46" />
+  <Tarot ID="68" Name="Nữ Tế Tư" GoodsID="703002" Level="16" NeedGoods="704002,50" />
+  <Tarot ID="69" Name="Nữ Tế Tư" GoodsID="703002" Level="17" NeedGoods="704002,54" />
+  <Tarot ID="70" Name="Nữ Tế Tư" GoodsID="703002" Level="18" NeedGoods="704002,59" />
+  <Tarot ID="71" Name="Nữ Tế Tư" GoodsID="703002" Level="19" NeedGoods="704002,64" />
+  <Tarot ID="72" Name="Nữ Tế Tư" GoodsID="703002" Level="20" NeedGoods="704002,69" />
+  <Tarot ID="73" Name="Nữ Tế Tư" GoodsID="703002" Level="21" NeedGoods="704002,74" />
+  <Tarot ID="74" Name="Nữ Tế Tư" GoodsID="703002" Level="22" NeedGoods="704002,79" />
+  <Tarot ID="75" Name="Nữ Tế Tư" GoodsID="703002" Level="23" NeedGoods="704002,84" />
+  <Tarot ID="76" Name="Nữ Tế Tư" GoodsID="703002" Level="24" NeedGoods="704002,89" />
+  <Tarot ID="77" Name="Nữ Tế Tư" GoodsID="703002" Level="25" NeedGoods="704002,94" />
+  <Tarot ID="78" Name="Nữ Tế Tư" GoodsID="703002" Level="26" NeedGoods="704002,100" />
+  <Tarot ID="79" Name="Nữ Tế Tư" GoodsID="703002" Level="27" NeedGoods="704002,105" />
+  <Tarot ID="80" Name="Nữ Tế Tư" GoodsID="703002" Level="28" NeedGoods="704002,111" />
+  <Tarot ID="81" Name="Nữ Tế Tư" GoodsID="703002" Level="29" NeedGoods="704002,116" />
+  <Tarot ID="82" Name="Nữ Tế Tư" GoodsID="703002" Level="30" NeedGoods="704002,122" />
+  <Tarot ID="83" Name="Nữ Tế Tư" GoodsID="703002" Level="31" NeedGoods="704002,128" />
+  <Tarot ID="84" Name="Nữ Tế Tư" GoodsID="703002" Level="32" NeedGoods="704002,134" />
+  <Tarot ID="85" Name="Nữ Tế Tư" GoodsID="703002" Level="33" NeedGoods="704002,140" />
+  <Tarot ID="86" Name="Nữ Tế Tư" GoodsID="703002" Level="34" NeedGoods="704002,146" />
+  <Tarot ID="87" Name="Nữ Tế Tư" GoodsID="703002" Level="35" NeedGoods="704002,152" />
+  <Tarot ID="88" Name="Nữ Tế Tư" GoodsID="703002" Level="36" NeedGoods="704002,158" />
+  <Tarot ID="89" Name="Nữ Tế Tư" GoodsID="703002" Level="37" NeedGoods="704002,164" />
+  <Tarot ID="90" Name="Nữ Tế Tư" GoodsID="703002" Level="38" NeedGoods="704002,171" />
+  <Tarot ID="91" Name="Nữ Tế Tư" GoodsID="703002" Level="39" NeedGoods="704002,177" />
+  <Tarot ID="92" Name="Nữ Tế Tư" GoodsID="703002" Level="40" NeedGoods="704002,184" />
+  <Tarot ID="93" Name="Nữ Tế Tư" GoodsID="703002" Level="41" NeedGoods="704002,190" />
+  <Tarot ID="94" Name="Nữ Tế Tư" GoodsID="703002" Level="42" NeedGoods="704002,197" />
+  <Tarot ID="95" Name="Nữ Tế Tư" GoodsID="703002" Level="43" NeedGoods="704002,204" />
+  <Tarot ID="96" Name="Nữ Tế Tư" GoodsID="703002" Level="44" NeedGoods="704002,210" />
+  <Tarot ID="97" Name="Nữ Tế Tư" GoodsID="703002" Level="45" NeedGoods="704002,217" />
+  <Tarot ID="98" Name="Nữ Tế Tư" GoodsID="703002" Level="46" NeedGoods="704002,224" />
+  <Tarot ID="99" Name="Nữ Tế Tư" GoodsID="703002" Level="47" NeedGoods="704002,231" />
+  <Tarot ID="100" Name="Nữ Tế Tư" GoodsID="703002" Level="48" NeedGoods="704002,238" />
+  <Tarot ID="101" Name="Nữ Tế Tư" GoodsID="703002" Level="49" NeedGoods="704002,245" />
+  <Tarot ID="102" Name="Nữ Tế Tư" GoodsID="703002" Level="50" NeedGoods="704002,252" />
+  <Tarot ID="103" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="0" NeedGoods="-1" />
+  <Tarot ID="104" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="1" NeedGoods="704003,1" />
+  <Tarot ID="105" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="2" NeedGoods="704003,2" />
+  <Tarot ID="106" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="3" NeedGoods="704003,4" />
+  <Tarot ID="107" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="4" NeedGoods="704003,7" />
+  <Tarot ID="108" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="5" NeedGoods="704003,9" />
+  <Tarot ID="109" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="6" NeedGoods="704003,12" />
+  <Tarot ID="110" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="7" NeedGoods="704003,15" />
+  <Tarot ID="111" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="8" NeedGoods="704003,18" />
+  <Tarot ID="112" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="9" NeedGoods="704003,22" />
+  <Tarot ID="113" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="10" NeedGoods="704003,25" />
+  <Tarot ID="114" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="11" NeedGoods="704003,29" />
+  <Tarot ID="115" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="12" NeedGoods="704003,33" />
+  <Tarot ID="116" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="13" NeedGoods="704003,37" />
+  <Tarot ID="117" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="14" NeedGoods="704003,41" />
+  <Tarot ID="118" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="15" NeedGoods="704003,46" />
+  <Tarot ID="119" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="16" NeedGoods="704003,50" />
+  <Tarot ID="120" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="17" NeedGoods="704003,54" />
+  <Tarot ID="121" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="18" NeedGoods="704003,59" />
+  <Tarot ID="122" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="19" NeedGoods="704003,64" />
+  <Tarot ID="123" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="20" NeedGoods="704003,69" />
+  <Tarot ID="124" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="21" NeedGoods="704003,74" />
+  <Tarot ID="125" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="22" NeedGoods="704003,79" />
+  <Tarot ID="126" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="23" NeedGoods="704003,84" />
+  <Tarot ID="127" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="24" NeedGoods="704003,89" />
+  <Tarot ID="128" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="25" NeedGoods="704003,94" />
+  <Tarot ID="129" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="26" NeedGoods="704003,100" />
+  <Tarot ID="130" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="27" NeedGoods="704003,105" />
+  <Tarot ID="131" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="28" NeedGoods="704003,111" />
+  <Tarot ID="132" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="29" NeedGoods="704003,116" />
+  <Tarot ID="133" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="30" NeedGoods="704003,122" />
+  <Tarot ID="134" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="31" NeedGoods="704003,128" />
+  <Tarot ID="135" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="32" NeedGoods="704003,134" />
+  <Tarot ID="136" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="33" NeedGoods="704003,140" />
+  <Tarot ID="137" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="34" NeedGoods="704003,146" />
+  <Tarot ID="138" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="35" NeedGoods="704003,152" />
+  <Tarot ID="139" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="36" NeedGoods="704003,158" />
+  <Tarot ID="140" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="37" NeedGoods="704003,164" />
+  <Tarot ID="141" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="38" NeedGoods="704003,171" />
+  <Tarot ID="142" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="39" NeedGoods="704003,177" />
+  <Tarot ID="143" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="40" NeedGoods="704003,184" />
+  <Tarot ID="144" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="41" NeedGoods="704003,190" />
+  <Tarot ID="145" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="42" NeedGoods="704003,197" />
+  <Tarot ID="146" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="43" NeedGoods="704003,204" />
+  <Tarot ID="147" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="44" NeedGoods="704003,210" />
+  <Tarot ID="148" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="45" NeedGoods="704003,217" />
+  <Tarot ID="149" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="46" NeedGoods="704003,224" />
+  <Tarot ID="150" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="47" NeedGoods="704003,231" />
+  <Tarot ID="151" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="48" NeedGoods="704003,238" />
+  <Tarot ID="152" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="49" NeedGoods="704003,245" />
+  <Tarot ID="153" Name="Vòng Quay Vận Mệnh" GoodsID="703003" Level="50" NeedGoods="704003,252" />
+  <Tarot ID="154" Name="Ngôi Sao" GoodsID="703004" Level="0" NeedGoods="-1" />
+  <Tarot ID="155" Name="Ngôi Sao" GoodsID="703004" Level="1" NeedGoods="704004,1" />
+  <Tarot ID="156" Name="Ngôi Sao" GoodsID="703004" Level="2" NeedGoods="704004,2" />
+  <Tarot ID="157" Name="Ngôi Sao" GoodsID="703004" Level="3" NeedGoods="704004,4" />
+  <Tarot ID="158" Name="Ngôi Sao" GoodsID="703004" Level="4" NeedGoods="704004,7" />
+  <Tarot ID="159" Name="Ngôi Sao" GoodsID="703004" Level="5" NeedGoods="704004,9" />
+  <Tarot ID="160" Name="Ngôi Sao" GoodsID="703004" Level="6" NeedGoods="704004,12" />
+  <Tarot ID="161" Name="Ngôi Sao" GoodsID="703004" Level="7" NeedGoods="704004,15" />
+  <Tarot ID="162" Name="Ngôi Sao" GoodsID="703004" Level="8" NeedGoods="704004,18" />
+  <Tarot ID="163" Name="Ngôi Sao" GoodsID="703004" Level="9" NeedGoods="704004,22" />
+  <Tarot ID="164" Name="Ngôi Sao" GoodsID="703004" Level="10" NeedGoods="704004,25" />
+  <Tarot ID="165" Name="Ngôi Sao" GoodsID="703004" Level="11" NeedGoods="704004,29" />
+  <Tarot ID="166" Name="Ngôi Sao" GoodsID="703004" Level="12" NeedGoods="704004,33" />
+  <Tarot ID="167" Name="Ngôi Sao" GoodsID="703004" Level="13" NeedGoods="704004,37" />
+  <Tarot ID="168" Name="Ngôi Sao" GoodsID="703004" Level="14" NeedGoods="704004,41" />
+  <Tarot ID="169" Name="Ngôi Sao" GoodsID="703004" Level="15" NeedGoods="704004,46" />
+  <Tarot ID="170" Name="Ngôi Sao" GoodsID="703004" Level="16" NeedGoods="704004,50" />
+  <Tarot ID="171" Name="Ngôi Sao" GoodsID="703004" Level="17" NeedGoods="704004,54" />
+  <Tarot ID="172" Name="Ngôi Sao" GoodsID="703004" Level="18" NeedGoods="704004,59" />
+  <Tarot ID="173" Name="Ngôi Sao" GoodsID="703004" Level="19" NeedGoods="704004,64" />
+  <Tarot ID="174" Name="Ngôi Sao" GoodsID="703004" Level="20" NeedGoods="704004,69" />
+  <Tarot ID="175" Name="Ngôi Sao" GoodsID="703004" Level="21" NeedGoods="704004,74" />
+  <Tarot ID="176" Name="Ngôi Sao" GoodsID="703004" Level="22" NeedGoods="704004,79" />
+  <Tarot ID="177" Name="Ngôi Sao" GoodsID="703004" Level="23" NeedGoods="704004,84" />
+  <Tarot ID="178" Name="Ngôi Sao" GoodsID="703004" Level="24" NeedGoods="704004,89" />
+  <Tarot ID="179" Name="Ngôi Sao" GoodsID="703004" Level="25" NeedGoods="704004,94" />
+  <Tarot ID="180" Name="Ngôi Sao" GoodsID="703004" Level="26" NeedGoods="704004,100" />
+  <Tarot ID="181" Name="Ngôi Sao" GoodsID="703004" Level="27" NeedGoods="704004,105" />
+  <Tarot ID="182" Name="Ngôi Sao" GoodsID="703004" Level="28" NeedGoods="704004,111" />
+  <Tarot ID="183" Name="Ngôi Sao" GoodsID="703004" Level="29" NeedGoods="704004,116" />
+  <Tarot ID="184" Name="Ngôi Sao" GoodsID="703004" Level="30" NeedGoods="704004,122" />
+  <Tarot ID="185" Name="Ngôi Sao" GoodsID="703004" Level="31" NeedGoods="704004,128" />
+  <Tarot ID="186" Name="Ngôi Sao" GoodsID="703004" Level="32" NeedGoods="704004,134" />
+  <Tarot ID="187" Name="Ngôi Sao" GoodsID="703004" Level="33" NeedGoods="704004,140" />
+  <Tarot ID="188" Name="Ngôi Sao" GoodsID="703004" Level="34" NeedGoods="704004,146" />
+  <Tarot ID="189" Name="Ngôi Sao" GoodsID="703004" Level="35" NeedGoods="704004,152" />
+  <Tarot ID="190" Name="Ngôi Sao" GoodsID="703004" Level="36" NeedGoods="704004,158" />
+  <Tarot ID="191" Name="Ngôi Sao" GoodsID="703004" Level="37" NeedGoods="704004,164" />
+  <Tarot ID="192" Name="Ngôi Sao" GoodsID="703004" Level="38" NeedGoods="704004,171" />
+  <Tarot ID="193" Name="Ngôi Sao" GoodsID="703004" Level="39" NeedGoods="704004,177" />
+  <Tarot ID="194" Name="Ngôi Sao" GoodsID="703004" Level="40" NeedGoods="704004,184" />
+  <Tarot ID="195" Name="Ngôi Sao" GoodsID="703004" Level="41" NeedGoods="704004,190" />
+  <Tarot ID="196" Name="Ngôi Sao" GoodsID="703004" Level="42" NeedGoods="704004,197" />
+  <Tarot ID="197" Name="Ngôi Sao" GoodsID="703004" Level="43" NeedGoods="704004,204" />
+  <Tarot ID="198" Name="Ngôi Sao" GoodsID="703004" Level="44" NeedGoods="704004,210" />
+  <Tarot ID="199" Name="Ngôi Sao" GoodsID="703004" Level="45" NeedGoods="704004,217" />
+  <Tarot ID="200" Name="Ngôi Sao" GoodsID="703004" Level="46" NeedGoods="704004,224" />
+  <Tarot ID="201" Name="Ngôi Sao" GoodsID="703004" Level="47" NeedGoods="704004,231" />
+  <Tarot ID="202" Name="Ngôi Sao" GoodsID="703004" Level="48" NeedGoods="704004,238" />
+  <Tarot ID="203" Name="Ngôi Sao" GoodsID="703004" Level="49" NeedGoods="704004,245" />
+  <Tarot ID="204" Name="Ngôi Sao" GoodsID="703004" Level="50" NeedGoods="704004,252" />
+  <Tarot ID="205" Name="Thế Giới" GoodsID="703005" Level="0" NeedGoods="-1" />
+  <Tarot ID="206" Name="Thế Giới" GoodsID="703005" Level="1" NeedGoods="704005,1" />
+  <Tarot ID="207" Name="Thế Giới" GoodsID="703005" Level="2" NeedGoods="704005,2" />
+  <Tarot ID="208" Name="Thế Giới" GoodsID="703005" Level="3" NeedGoods="704005,4" />
+  <Tarot ID="209" Name="Thế Giới" GoodsID="703005" Level="4" NeedGoods="704005,7" />
+  <Tarot ID="210" Name="Thế Giới" GoodsID="703005" Level="5" NeedGoods="704005,9" />
+  <Tarot ID="211" Name="Thế Giới" GoodsID="703005" Level="6" NeedGoods="704005,12" />
+  <Tarot ID="212" Name="Thế Giới" GoodsID="703005" Level="7" NeedGoods="704005,15" />
+  <Tarot ID="213" Name="Thế Giới" GoodsID="703005" Level="8" NeedGoods="704005,18" />
+  <Tarot ID="214" Name="Thế Giới" GoodsID="703005" Level="9" NeedGoods="704005,22" />
+  <Tarot ID="215" Name="Thế Giới" GoodsID="703005" Level="10" NeedGoods="704005,25" />
+  <Tarot ID="216" Name="Thế Giới" GoodsID="703005" Level="11" NeedGoods="704005,29" />
+  <Tarot ID="217" Name="Thế Giới" GoodsID="703005" Level="12" NeedGoods="704005,33" />
+  <Tarot ID="218" Name="Thế Giới" GoodsID="703005" Level="13" NeedGoods="704005,37" />
+  <Tarot ID="219" Name="Thế Giới" GoodsID="703005" Level="14" NeedGoods="704005,41" />
+  <Tarot ID="220" Name="Thế Giới" GoodsID="703005" Level="15" NeedGoods="704005,46" />
+  <Tarot ID="221" Name="Thế Giới" GoodsID="703005" Level="16" NeedGoods="704005,50" />
+  <Tarot ID="222" Name="Thế Giới" GoodsID="703005" Level="17" NeedGoods="704005,54" />
+  <Tarot ID="223" Name="Thế Giới" GoodsID="703005" Level="18" NeedGoods="704005,59" />
+  <Tarot ID="224" Name="Thế Giới" GoodsID="703005" Level="19" NeedGoods="704005,64" />
+  <Tarot ID="225" Name="Thế Giới" GoodsID="703005" Level="20" NeedGoods="704005,69" />
+  <Tarot ID="226" Name="Thế Giới" GoodsID="703005" Level="21" NeedGoods="704005,74" />
+  <Tarot ID="227" Name="Thế Giới" GoodsID="703005" Level="22" NeedGoods="704005,79" />
+  <Tarot ID="228" Name="Thế Giới" GoodsID="703005" Level="23" NeedGoods="704005,84" />
+  <Tarot ID="229" Name="Thế Giới" GoodsID="703005" Level="24" NeedGoods="704005,89" />
+  <Tarot ID="230" Name="Thế Giới" GoodsID="703005" Level="25" NeedGoods="704005,94" />
+  <Tarot ID="231" Name="Thế Giới" GoodsID="703005" Level="26" NeedGoods="704005,100" />
+  <Tarot ID="232" Name="Thế Giới" GoodsID="703005" Level="27" NeedGoods="704005,105" />
+  <Tarot ID="233" Name="Thế Giới" GoodsID="703005" Level="28" NeedGoods="704005,111" />
+  <Tarot ID="234" Name="Thế Giới" GoodsID="703005" Level="29" NeedGoods="704005,116" />
+  <Tarot ID="235" Name="Thế Giới" GoodsID="703005" Level="30" NeedGoods="704005,122" />
+  <Tarot ID="236" Name="Thế Giới" GoodsID="703005" Level="31" NeedGoods="704005,128" />
+  <Tarot ID="237" Name="Thế Giới" GoodsID="703005" Level="32" NeedGoods="704005,134" />
+  <Tarot ID="238" Name="Thế Giới" GoodsID="703005" Level="33" NeedGoods="704005,140" />
+  <Tarot ID="239" Name="Thế Giới" GoodsID="703005" Level="34" NeedGoods="704005,146" />
+  <Tarot ID="240" Name="Thế Giới" GoodsID="703005" Level="35" NeedGoods="704005,152" />
+  <Tarot ID="241" Name="Thế Giới" GoodsID="703005" Level="36" NeedGoods="704005,158" />
+  <Tarot ID="242" Name="Thế Giới" GoodsID="703005" Level="37" NeedGoods="704005,164" />
+  <Tarot ID="243" Name="Thế Giới" GoodsID="703005" Level="38" NeedGoods="704005,171" />
+  <Tarot ID="244" Name="Thế Giới" GoodsID="703005" Level="39" NeedGoods="704005,177" />
+  <Tarot ID="245" Name="Thế Giới" GoodsID="703005" Level="40" NeedGoods="704005,184" />
+  <Tarot ID="246" Name="Thế Giới" GoodsID="703005" Level="41" NeedGoods="704005,190" />
+  <Tarot ID="247" Name="Thế Giới" GoodsID="703005" Level="42" NeedGoods="704005,197" />
+  <Tarot ID="248" Name="Thế Giới" GoodsID="703005" Level="43" NeedGoods="704005,204" />
+  <Tarot ID="249" Name="Thế Giới" GoodsID="703005" Level="44" NeedGoods="704005,210" />
+  <Tarot ID="250" Name="Thế Giới" GoodsID="703005" Level="45" NeedGoods="704005,217" />
+  <Tarot ID="251" Name="Thế Giới" GoodsID="703005" Level="46" NeedGoods="704005,224" />
+  <Tarot ID="252" Name="Thế Giới" GoodsID="703005" Level="47" NeedGoods="704005,231" />
+  <Tarot ID="253" Name="Thế Giới" GoodsID="703005" Level="48" NeedGoods="704005,238" />
+  <Tarot ID="254" Name="Thế Giới" GoodsID="703005" Level="49" NeedGoods="704005,245" />
+  <Tarot ID="255" Name="Thế Giới" GoodsID="703005" Level="50" NeedGoods="704005,252" />
+  <Tarot ID="256" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="0" NeedGoods="-1" />
+  <Tarot ID="257" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="1" NeedGoods="704006,1" />
+  <Tarot ID="258" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="2" NeedGoods="704006,2" />
+  <Tarot ID="259" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="3" NeedGoods="704006,4" />
+  <Tarot ID="260" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="4" NeedGoods="704006,7" />
+  <Tarot ID="261" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="5" NeedGoods="704006,9" />
+  <Tarot ID="262" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="6" NeedGoods="704006,12" />
+  <Tarot ID="263" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="7" NeedGoods="704006,15" />
+  <Tarot ID="264" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="8" NeedGoods="704006,18" />
+  <Tarot ID="265" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="9" NeedGoods="704006,22" />
+  <Tarot ID="266" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="10" NeedGoods="704006,25" />
+  <Tarot ID="267" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="11" NeedGoods="704006,29" />
+  <Tarot ID="268" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="12" NeedGoods="704006,33" />
+  <Tarot ID="269" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="13" NeedGoods="704006,37" />
+  <Tarot ID="270" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="14" NeedGoods="704006,41" />
+  <Tarot ID="271" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="15" NeedGoods="704006,46" />
+  <Tarot ID="272" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="16" NeedGoods="704006,50" />
+  <Tarot ID="273" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="17" NeedGoods="704006,54" />
+  <Tarot ID="274" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="18" NeedGoods="704006,59" />
+  <Tarot ID="275" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="19" NeedGoods="704006,64" />
+  <Tarot ID="276" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="20" NeedGoods="704006,69" />
+  <Tarot ID="277" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="21" NeedGoods="704006,74" />
+  <Tarot ID="278" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="22" NeedGoods="704006,79" />
+  <Tarot ID="279" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="23" NeedGoods="704006,84" />
+  <Tarot ID="280" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="24" NeedGoods="704006,89" />
+  <Tarot ID="281" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="25" NeedGoods="704006,94" />
+  <Tarot ID="282" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="26" NeedGoods="704006,100" />
+  <Tarot ID="283" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="27" NeedGoods="704006,105" />
+  <Tarot ID="284" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="28" NeedGoods="704006,111" />
+  <Tarot ID="285" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="29" NeedGoods="704006,116" />
+  <Tarot ID="286" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="30" NeedGoods="704006,122" />
+  <Tarot ID="287" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="31" NeedGoods="704006,128" />
+  <Tarot ID="288" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="32" NeedGoods="704006,134" />
+  <Tarot ID="289" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="33" NeedGoods="704006,140" />
+  <Tarot ID="290" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="34" NeedGoods="704006,146" />
+  <Tarot ID="291" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="35" NeedGoods="704006,152" />
+  <Tarot ID="292" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="36" NeedGoods="704006,158" />
+  <Tarot ID="293" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="37" NeedGoods="704006,164" />
+  <Tarot ID="294" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="38" NeedGoods="704006,171" />
+  <Tarot ID="295" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="39" NeedGoods="704006,177" />
+  <Tarot ID="296" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="40" NeedGoods="704006,184" />
+  <Tarot ID="297" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="41" NeedGoods="704006,190" />
+  <Tarot ID="298" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="42" NeedGoods="704006,197" />
+  <Tarot ID="299" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="43" NeedGoods="704006,204" />
+  <Tarot ID="300" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="44" NeedGoods="704006,210" />
+  <Tarot ID="301" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="45" NeedGoods="704006,217" />
+  <Tarot ID="302" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="46" NeedGoods="704006,224" />
+  <Tarot ID="303" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="47" NeedGoods="704006,231" />
+  <Tarot ID="304" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="48" NeedGoods="704006,238" />
+  <Tarot ID="305" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="49" NeedGoods="704006,245" />
+  <Tarot ID="306" Name="Kẻ Ngu Xuẩn" GoodsID="703006" Level="50" NeedGoods="704006,252" />
+  <Tarot ID="307" Name="Ảo Thuật Gia" GoodsID="703007" Level="0" NeedGoods="-1" />
+  <Tarot ID="308" Name="Ảo Thuật Gia" GoodsID="703007" Level="1" NeedGoods="704007,1" />
+  <Tarot ID="309" Name="Ảo Thuật Gia" GoodsID="703007" Level="2" NeedGoods="704007,2" />
+  <Tarot ID="310" Name="Ảo Thuật Gia" GoodsID="703007" Level="3" NeedGoods="704007,4" />
+  <Tarot ID="311" Name="Ảo Thuật Gia" GoodsID="703007" Level="4" NeedGoods="704007,7" />
+  <Tarot ID="312" Name="Ảo Thuật Gia" GoodsID="703007" Level="5" NeedGoods="704007,9" />
+  <Tarot ID="313" Name="Ảo Thuật Gia" GoodsID="703007" Level="6" NeedGoods="704007,12" />
+  <Tarot ID="314" Name="Ảo Thuật Gia" GoodsID="703007" Level="7" NeedGoods="704007,15" />
+  <Tarot ID="315" Name="Ảo Thuật Gia" GoodsID="703007" Level="8" NeedGoods="704007,18" />
+  <Tarot ID="316" Name="Ảo Thuật Gia" GoodsID="703007" Level="9" NeedGoods="704007,22" />
+  <Tarot ID="317" Name="Ảo Thuật Gia" GoodsID="703007" Level="10" NeedGoods="704007,25" />
+  <Tarot ID="318" Name="Ảo Thuật Gia" GoodsID="703007" Level="11" NeedGoods="704007,29" />
+  <Tarot ID="319" Name="Ảo Thuật Gia" GoodsID="703007" Level="12" NeedGoods="704007,33" />
+  <Tarot ID="320" Name="Ảo Thuật Gia" GoodsID="703007" Level="13" NeedGoods="704007,37" />
+  <Tarot ID="321" Name="Ảo Thuật Gia" GoodsID="703007" Level="14" NeedGoods="704007,41" />
+  <Tarot ID="322" Name="Ảo Thuật Gia" GoodsID="703007" Level="15" NeedGoods="704007,46" />
+  <Tarot ID="323" Name="Ảo Thuật Gia" GoodsID="703007" Level="16" NeedGoods="704007,50" />
+  <Tarot ID="324" Name="Ảo Thuật Gia" GoodsID="703007" Level="17" NeedGoods="704007,54" />
+  <Tarot ID="325" Name="Ảo Thuật Gia" GoodsID="703007" Level="18" NeedGoods="704007,59" />
+  <Tarot ID="326" Name="Ảo Thuật Gia" GoodsID="703007" Level="19" NeedGoods="704007,64" />
+  <Tarot ID="327" Name="Ảo Thuật Gia" GoodsID="703007" Level="20" NeedGoods="704007,69" />
+  <Tarot ID="328" Name="Ảo Thuật Gia" GoodsID="703007" Level="21" NeedGoods="704007,74" />
+  <Tarot ID="329" Name="Ảo Thuật Gia" GoodsID="703007" Level="22" NeedGoods="704007,79" />
+  <Tarot ID="330" Name="Ảo Thuật Gia" GoodsID="703007" Level="23" NeedGoods="704007,84" />
+  <Tarot ID="331" Name="Ảo Thuật Gia" GoodsID="703007" Level="24" NeedGoods="704007,89" />
+  <Tarot ID="332" Name="Ảo Thuật Gia" GoodsID="703007" Level="25" NeedGoods="704007,94" />
+  <Tarot ID="333" Name="Ảo Thuật Gia" GoodsID="703007" Level="26" NeedGoods="704007,100" />
+  <Tarot ID="334" Name="Ảo Thuật Gia" GoodsID="703007" Level="27" NeedGoods="704007,105" />
+  <Tarot ID="335" Name="Ảo Thuật Gia" GoodsID="703007" Level="28" NeedGoods="704007,111" />
+  <Tarot ID="336" Name="Ảo Thuật Gia" GoodsID="703007" Level="29" NeedGoods="704007,116" />
+  <Tarot ID="337" Name="Ảo Thuật Gia" GoodsID="703007" Level="30" NeedGoods="704007,122" />
+  <Tarot ID="338" Name="Ảo Thuật Gia" GoodsID="703007" Level="31" NeedGoods="704007,128" />
+  <Tarot ID="339" Name="Ảo Thuật Gia" GoodsID="703007" Level="32" NeedGoods="704007,134" />
+  <Tarot ID="340" Name="Ảo Thuật Gia" GoodsID="703007" Level="33" NeedGoods="704007,140" />
+  <Tarot ID="341" Name="Ảo Thuật Gia" GoodsID="703007" Level="34" NeedGoods="704007,146" />
+  <Tarot ID="342" Name="Ảo Thuật Gia" GoodsID="703007" Level="35" NeedGoods="704007,152" />
+  <Tarot ID="343" Name="Ảo Thuật Gia" GoodsID="703007" Level="36" NeedGoods="704007,158" />
+  <Tarot ID="344" Name="Ảo Thuật Gia" GoodsID="703007" Level="37" NeedGoods="704007,164" />
+  <Tarot ID="345" Name="Ảo Thuật Gia" GoodsID="703007" Level="38" NeedGoods="704007,171" />
+  <Tarot ID="346" Name="Ảo Thuật Gia" GoodsID="703007" Level="39" NeedGoods="704007,177" />
+  <Tarot ID="347" Name="Ảo Thuật Gia" GoodsID="703007" Level="40" NeedGoods="704007,184" />
+  <Tarot ID="348" Name="Ảo Thuật Gia" GoodsID="703007" Level="41" NeedGoods="704007,190" />
+  <Tarot ID="349" Name="Ảo Thuật Gia" GoodsID="703007" Level="42" NeedGoods="704007,197" />
+  <Tarot ID="350" Name="Ảo Thuật Gia" GoodsID="703007" Level="43" NeedGoods="704007,204" />
+  <Tarot ID="351" Name="Ảo Thuật Gia" GoodsID="703007" Level="44" NeedGoods="704007,210" />
+  <Tarot ID="352" Name="Ảo Thuật Gia" GoodsID="703007" Level="45" NeedGoods="704007,217" />
+  <Tarot ID="353" Name="Ảo Thuật Gia" GoodsID="703007" Level="46" NeedGoods="704007,224" />
+  <Tarot ID="354" Name="Ảo Thuật Gia" GoodsID="703007" Level="47" NeedGoods="704007,231" />
+  <Tarot ID="355" Name="Ảo Thuật Gia" GoodsID="703007" Level="48" NeedGoods="704007,238" />
+  <Tarot ID="356" Name="Ảo Thuật Gia" GoodsID="703007" Level="49" NeedGoods="704007,245" />
+  <Tarot ID="357" Name="Ảo Thuật Gia" GoodsID="703007" Level="50" NeedGoods="704007,252" />
+  <Tarot ID="358" Name="Ẩn Sĩ" GoodsID="703008" Level="0" NeedGoods="-1" />
+  <Tarot ID="359" Name="Ẩn Sĩ" GoodsID="703008" Level="1" NeedGoods="704008,1" />
+  <Tarot ID="360" Name="Ẩn Sĩ" GoodsID="703008" Level="2" NeedGoods="704008,2" />
+  <Tarot ID="361" Name="Ẩn Sĩ" GoodsID="703008" Level="3" NeedGoods="704008,4" />
+  <Tarot ID="362" Name="Ẩn Sĩ" GoodsID="703008" Level="4" NeedGoods="704008,7" />
+  <Tarot ID="363" Name="Ẩn Sĩ" GoodsID="703008" Level="5" NeedGoods="704008,9" />
+  <Tarot ID="364" Name="Ẩn Sĩ" GoodsID="703008" Level="6" NeedGoods="704008,12" />
+  <Tarot ID="365" Name="Ẩn Sĩ" GoodsID="703008" Level="7" NeedGoods="704008,15" />
+  <Tarot ID="366" Name="Ẩn Sĩ" GoodsID="703008" Level="8" NeedGoods="704008,18" />
+  <Tarot ID="367" Name="Ẩn Sĩ" GoodsID="703008" Level="9" NeedGoods="704008,22" />
+  <Tarot ID="368" Name="Ẩn Sĩ" GoodsID="703008" Level="10" NeedGoods="704008,25" />
+  <Tarot ID="369" Name="Ẩn Sĩ" GoodsID="703008" Level="11" NeedGoods="704008,29" />
+  <Tarot ID="370" Name="Ẩn Sĩ" GoodsID="703008" Level="12" NeedGoods="704008,33" />
+  <Tarot ID="371" Name="Ẩn Sĩ" GoodsID="703008" Level="13" NeedGoods="704008,37" />
+  <Tarot ID="372" Name="Ẩn Sĩ" GoodsID="703008" Level="14" NeedGoods="704008,41" />
+  <Tarot ID="373" Name="Ẩn Sĩ" GoodsID="703008" Level="15" NeedGoods="704008,46" />
+  <Tarot ID="374" Name="Ẩn Sĩ" GoodsID="703008" Level="16" NeedGoods="704008,50" />
+  <Tarot ID="375" Name="Ẩn Sĩ" GoodsID="703008" Level="17" NeedGoods="704008,54" />
+  <Tarot ID="376" Name="Ẩn Sĩ" GoodsID="703008" Level="18" NeedGoods="704008,59" />
+  <Tarot ID="377" Name="Ẩn Sĩ" GoodsID="703008" Level="19" NeedGoods="704008,64" />
+  <Tarot ID="378" Name="Ẩn Sĩ" GoodsID="703008" Level="20" NeedGoods="704008,69" />
+  <Tarot ID="379" Name="Ẩn Sĩ" GoodsID="703008" Level="21" NeedGoods="704008,74" />
+  <Tarot ID="380" Name="Ẩn Sĩ" GoodsID="703008" Level="22" NeedGoods="704008,79" />
+  <Tarot ID="381" Name="Ẩn Sĩ" GoodsID="703008" Level="23" NeedGoods="704008,84" />
+  <Tarot ID="382" Name="Ẩn Sĩ" GoodsID="703008" Level="24" NeedGoods="704008,89" />
+  <Tarot ID="383" Name="Ẩn Sĩ" GoodsID="703008" Level="25" NeedGoods="704008,94" />
+  <Tarot ID="384" Name="Ẩn Sĩ" GoodsID="703008" Level="26" NeedGoods="704008,100" />
+  <Tarot ID="385" Name="Ẩn Sĩ" GoodsID="703008" Level="27" NeedGoods="704008,105" />
+  <Tarot ID="386" Name="Ẩn Sĩ" GoodsID="703008" Level="28" NeedGoods="704008,111" />
+  <Tarot ID="387" Name="Ẩn Sĩ" GoodsID="703008" Level="29" NeedGoods="704008,116" />
+  <Tarot ID="388" Name="Ẩn Sĩ" GoodsID="703008" Level="30" NeedGoods="704008,122" />
+  <Tarot ID="389" Name="Ẩn Sĩ" GoodsID="703008" Level="31" NeedGoods="704008,128" />
+  <Tarot ID="390" Name="Ẩn Sĩ" GoodsID="703008" Level="32" NeedGoods="704008,134" />
+  <Tarot ID="391" Name="Ẩn Sĩ" GoodsID="703008" Level="33" NeedGoods="704008,140" />
+  <Tarot ID="392" Name="Ẩn Sĩ" GoodsID="703008" Level="34" NeedGoods="704008,146" />
+  <Tarot ID="393" Name="Ẩn Sĩ" GoodsID="703008" Level="35" NeedGoods="704008,152" />
+  <Tarot ID="394" Name="Ẩn Sĩ" GoodsID="703008" Level="36" NeedGoods="704008,158" />
+  <Tarot ID="395" Name="Ẩn Sĩ" GoodsID="703008" Level="37" NeedGoods="704008,164" />
+  <Tarot ID="396" Name="Ẩn Sĩ" GoodsID="703008" Level="38" NeedGoods="704008,171" />
+  <Tarot ID="397" Name="Ẩn Sĩ" GoodsID="703008" Level="39" NeedGoods="704008,177" />
+  <Tarot ID="398" Name="Ẩn Sĩ" GoodsID="703008" Level="40" NeedGoods="704008,184" />
+  <Tarot ID="399" Name="Ẩn Sĩ" GoodsID="703008" Level="41" NeedGoods="704008,190" />
+  <Tarot ID="400" Name="Ẩn Sĩ" GoodsID="703008" Level="42" NeedGoods="704008,197" />
+  <Tarot ID="401" Name="Ẩn Sĩ" GoodsID="703008" Level="43" NeedGoods="704008,204" />
+  <Tarot ID="402" Name="Ẩn Sĩ" GoodsID="703008" Level="44" NeedGoods="704008,210" />
+  <Tarot ID="403" Name="Ẩn Sĩ" GoodsID="703008" Level="45" NeedGoods="704008,217" />
+  <Tarot ID="404" Name="Ẩn Sĩ" GoodsID="703008" Level="46" NeedGoods="704008,224" />
+  <Tarot ID="405" Name="Ẩn Sĩ" GoodsID="703008" Level="47" NeedGoods="704008,231" />
+  <Tarot ID="406" Name="Ẩn Sĩ" GoodsID="703008" Level="48" NeedGoods="704008,238" />
+  <Tarot ID="407" Name="Ẩn Sĩ" GoodsID="703008" Level="49" NeedGoods="704008,245" />
+  <Tarot ID="408" Name="Ẩn Sĩ" GoodsID="703008" Level="50" NeedGoods="704008,252" />
+  <Tarot ID="409" Name="Lực Lượng" GoodsID="703009" Level="0" NeedGoods="-1" />
+  <Tarot ID="410" Name="Lực Lượng" GoodsID="703009" Level="1" NeedGoods="704009,1" />
+  <Tarot ID="411" Name="Lực Lượng" GoodsID="703009" Level="2" NeedGoods="704009,2" />
+  <Tarot ID="412" Name="Lực Lượng" GoodsID="703009" Level="3" NeedGoods="704009,4" />
+  <Tarot ID="413" Name="Lực Lượng" GoodsID="703009" Level="4" NeedGoods="704009,7" />
+  <Tarot ID="414" Name="Lực Lượng" GoodsID="703009" Level="5" NeedGoods="704009,9" />
+  <Tarot ID="415" Name="Lực Lượng" GoodsID="703009" Level="6" NeedGoods="704009,12" />
+  <Tarot ID="416" Name="Lực Lượng" GoodsID="703009" Level="7" NeedGoods="704009,15" />
+  <Tarot ID="417" Name="Lực Lượng" GoodsID="703009" Level="8" NeedGoods="704009,18" />
+  <Tarot ID="418" Name="Lực Lượng" GoodsID="703009" Level="9" NeedGoods="704009,22" />
+  <Tarot ID="419" Name="Lực Lượng" GoodsID="703009" Level="10" NeedGoods="704009,25" />
+  <Tarot ID="420" Name="Lực Lượng" GoodsID="703009" Level="11" NeedGoods="704009,29" />
+  <Tarot ID="421" Name="Lực Lượng" GoodsID="703009" Level="12" NeedGoods="704009,33" />
+  <Tarot ID="422" Name="Lực Lượng" GoodsID="703009" Level="13" NeedGoods="704009,37" />
+  <Tarot ID="423" Name="Lực Lượng" GoodsID="703009" Level="14" NeedGoods="704009,41" />
+  <Tarot ID="424" Name="Lực Lượng" GoodsID="703009" Level="15" NeedGoods="704009,46" />
+  <Tarot ID="425" Name="Lực Lượng" GoodsID="703009" Level="16" NeedGoods="704009,50" />
+  <Tarot ID="426" Name="Lực Lượng" GoodsID="703009" Level="17" NeedGoods="704009,54" />
+  <Tarot ID="427" Name="Lực Lượng" GoodsID="703009" Level="18" NeedGoods="704009,59" />
+  <Tarot ID="428" Name="Lực Lượng" GoodsID="703009" Level="19" NeedGoods="704009,64" />
+  <Tarot ID="429" Name="Lực Lượng" GoodsID="703009" Level="20" NeedGoods="704009,69" />
+  <Tarot ID="430" Name="Lực Lượng" GoodsID="703009" Level="21" NeedGoods="704009,74" />
+  <Tarot ID="431" Name="Lực Lượng" GoodsID="703009" Level="22" NeedGoods="704009,79" />
+  <Tarot ID="432" Name="Lực Lượng" GoodsID="703009" Level="23" NeedGoods="704009,84" />
+  <Tarot ID="433" Name="Lực Lượng" GoodsID="703009" Level="24" NeedGoods="704009,89" />
+  <Tarot ID="434" Name="Lực Lượng" GoodsID="703009" Level="25" NeedGoods="704009,94" />
+  <Tarot ID="435" Name="Lực Lượng" GoodsID="703009" Level="26" NeedGoods="704009,100" />
+  <Tarot ID="436" Name="Lực Lượng" GoodsID="703009" Level="27" NeedGoods="704009,105" />
+  <Tarot ID="437" Name="Lực Lượng" GoodsID="703009" Level="28" NeedGoods="704009,111" />
+  <Tarot ID="438" Name="Lực Lượng" GoodsID="703009" Level="29" NeedGoods="704009,116" />
+  <Tarot ID="439" Name="Lực Lượng" GoodsID="703009" Level="30" NeedGoods="704009,122" />
+  <Tarot ID="440" Name="Lực Lượng" GoodsID="703009" Level="31" NeedGoods="704009,128" />
+  <Tarot ID="441" Name="Lực Lượng" GoodsID="703009" Level="32" NeedGoods="704009,134" />
+  <Tarot ID="442" Name="Lực Lượng" GoodsID="703009" Level="33" NeedGoods="704009,140" />
+  <Tarot ID="443" Name="Lực Lượng" GoodsID="703009" Level="34" NeedGoods="704009,146" />
+  <Tarot ID="444" Name="Lực Lượng" GoodsID="703009" Level="35" NeedGoods="704009,152" />
+  <Tarot ID="445" Name="Lực Lượng" GoodsID="703009" Level="36" NeedGoods="704009,158" />
+  <Tarot ID="446" Name="Lực Lượng" GoodsID="703009" Level="37" NeedGoods="704009,164" />
+  <Tarot ID="447" Name="Lực Lượng" GoodsID="703009" Level="38" NeedGoods="704009,171" />
+  <Tarot ID="448" Name="Lực Lượng" GoodsID="703009" Level="39" NeedGoods="704009,177" />
+  <Tarot ID="449" Name="Lực Lượng" GoodsID="703009" Level="40" NeedGoods="704009,184" />
+  <Tarot ID="450" Name="Lực Lượng" GoodsID="703009" Level="41" NeedGoods="704009,190" />
+  <Tarot ID="451" Name="Lực Lượng" GoodsID="703009" Level="42" NeedGoods="704009,197" />
+  <Tarot ID="452" Name="Lực Lượng" GoodsID="703009" Level="43" NeedGoods="704009,204" />
+  <Tarot ID="453" Name="Lực Lượng" GoodsID="703009" Level="44" NeedGoods="704009,210" />
+  <Tarot ID="454" Name="Lực Lượng" GoodsID="703009" Level="45" NeedGoods="704009,217" />
+  <Tarot ID="455" Name="Lực Lượng" GoodsID="703009" Level="46" NeedGoods="704009,224" />
+  <Tarot ID="456" Name="Lực Lượng" GoodsID="703009" Level="47" NeedGoods="704009,231" />
+  <Tarot ID="457" Name="Lực Lượng" GoodsID="703009" Level="48" NeedGoods="704009,238" />
+  <Tarot ID="458" Name="Lực Lượng" GoodsID="703009" Level="49" NeedGoods="704009,245" />
+  <Tarot ID="459" Name="Lực Lượng" GoodsID="703009" Level="50" NeedGoods="704009,252" />
+  <Tarot ID="460" Name="Giáo Hoàng" GoodsID="703010" Level="0" NeedGoods="-1" />
+  <Tarot ID="461" Name="Giáo Hoàng" GoodsID="703010" Level="1" NeedGoods="704010,1" />
+  <Tarot ID="462" Name="Giáo Hoàng" GoodsID="703010" Level="2" NeedGoods="704010,2" />
+  <Tarot ID="463" Name="Giáo Hoàng" GoodsID="703010" Level="3" NeedGoods="704010,4" />
+  <Tarot ID="464" Name="Giáo Hoàng" GoodsID="703010" Level="4" NeedGoods="704010,7" />
+  <Tarot ID="465" Name="Giáo Hoàng" GoodsID="703010" Level="5" NeedGoods="704010,9" />
+  <Tarot ID="466" Name="Giáo Hoàng" GoodsID="703010" Level="6" NeedGoods="704010,12" />
+  <Tarot ID="467" Name="Giáo Hoàng" GoodsID="703010" Level="7" NeedGoods="704010,15" />
+  <Tarot ID="468" Name="Giáo Hoàng" GoodsID="703010" Level="8" NeedGoods="704010,18" />
+  <Tarot ID="469" Name="Giáo Hoàng" GoodsID="703010" Level="9" NeedGoods="704010,22" />
+  <Tarot ID="470" Name="Giáo Hoàng" GoodsID="703010" Level="10" NeedGoods="704010,25" />
+  <Tarot ID="471" Name="Giáo Hoàng" GoodsID="703010" Level="11" NeedGoods="704010,29" />
+  <Tarot ID="472" Name="Giáo Hoàng" GoodsID="703010" Level="12" NeedGoods="704010,33" />
+  <Tarot ID="473" Name="Giáo Hoàng" GoodsID="703010" Level="13" NeedGoods="704010,37" />
+  <Tarot ID="474" Name="Giáo Hoàng" GoodsID="703010" Level="14" NeedGoods="704010,41" />
+  <Tarot ID="475" Name="Giáo Hoàng" GoodsID="703010" Level="15" NeedGoods="704010,46" />
+  <Tarot ID="476" Name="Giáo Hoàng" GoodsID="703010" Level="16" NeedGoods="704010,50" />
+  <Tarot ID="477" Name="Giáo Hoàng" GoodsID="703010" Level="17" NeedGoods="704010,54" />
+  <Tarot ID="478" Name="Giáo Hoàng" GoodsID="703010" Level="18" NeedGoods="704010,59" />
+  <Tarot ID="479" Name="Giáo Hoàng" GoodsID="703010" Level="19" NeedGoods="704010,64" />
+  <Tarot ID="480" Name="Giáo Hoàng" GoodsID="703010" Level="20" NeedGoods="704010,69" />
+  <Tarot ID="481" Name="Giáo Hoàng" GoodsID="703010" Level="21" NeedGoods="704010,74" />
+  <Tarot ID="482" Name="Giáo Hoàng" GoodsID="703010" Level="22" NeedGoods="704010,79" />
+  <Tarot ID="483" Name="Giáo Hoàng" GoodsID="703010" Level="23" NeedGoods="704010,84" />
+  <Tarot ID="484" Name="Giáo Hoàng" GoodsID="703010" Level="24" NeedGoods="704010,89" />
+  <Tarot ID="485" Name="Giáo Hoàng" GoodsID="703010" Level="25" NeedGoods="704010,94" />
+  <Tarot ID="486" Name="Giáo Hoàng" GoodsID="703010" Level="26" NeedGoods="704010,100" />
+  <Tarot ID="487" Name="Giáo Hoàng" GoodsID="703010" Level="27" NeedGoods="704010,105" />
+  <Tarot ID="488" Name="Giáo Hoàng" GoodsID="703010" Level="28" NeedGoods="704010,111" />
+  <Tarot ID="489" Name="Giáo Hoàng" GoodsID="703010" Level="29" NeedGoods="704010,116" />
+  <Tarot ID="490" Name="Giáo Hoàng" GoodsID="703010" Level="30" NeedGoods="704010,122" />
+  <Tarot ID="491" Name="Giáo Hoàng" GoodsID="703010" Level="31" NeedGoods="704010,128" />
+  <Tarot ID="492" Name="Giáo Hoàng" GoodsID="703010" Level="32" NeedGoods="704010,134" />
+  <Tarot ID="493" Name="Giáo Hoàng" GoodsID="703010" Level="33" NeedGoods="704010,140" />
+  <Tarot ID="494" Name="Giáo Hoàng" GoodsID="703010" Level="34" NeedGoods="704010,146" />
+  <Tarot ID="495" Name="Giáo Hoàng" GoodsID="703010" Level="35" NeedGoods="704010,152" />
+  <Tarot ID="496" Name="Giáo Hoàng" GoodsID="703010" Level="36" NeedGoods="704010,158" />
+  <Tarot ID="497" Name="Giáo Hoàng" GoodsID="703010" Level="37" NeedGoods="704010,164" />
+  <Tarot ID="498" Name="Giáo Hoàng" GoodsID="703010" Level="38" NeedGoods="704010,171" />
+  <Tarot ID="499" Name="Giáo Hoàng" GoodsID="703010" Level="39" NeedGoods="704010,177" />
+  <Tarot ID="500" Name="Giáo Hoàng" GoodsID="703010" Level="40" NeedGoods="704010,184" />
+  <Tarot ID="501" Name="Giáo Hoàng" GoodsID="703010" Level="41" NeedGoods="704010,190" />
+  <Tarot ID="502" Name="Giáo Hoàng" GoodsID="703010" Level="42" NeedGoods="704010,197" />
+  <Tarot ID="503" Name="Giáo Hoàng" GoodsID="703010" Level="43" NeedGoods="704010,204" />
+  <Tarot ID="504" Name="Giáo Hoàng" GoodsID="703010" Level="44" NeedGoods="704010,210" />
+  <Tarot ID="505" Name="Giáo Hoàng" GoodsID="703010" Level="45" NeedGoods="704010,217" />
+  <Tarot ID="506" Name="Giáo Hoàng" GoodsID="703010" Level="46" NeedGoods="704010,224" />
+  <Tarot ID="507" Name="Giáo Hoàng" GoodsID="703010" Level="47" NeedGoods="704010,231" />
+  <Tarot ID="508" Name="Giáo Hoàng" GoodsID="703010" Level="48" NeedGoods="704010,238" />
+  <Tarot ID="509" Name="Giáo Hoàng" GoodsID="703010" Level="49" NeedGoods="704010,245" />
+  <Tarot ID="510" Name="Giáo Hoàng" GoodsID="703010" Level="50" NeedGoods="704010,252" />
+  <Tarot ID="511" Name="Hoàng Hậu" GoodsID="703011" Level="0" NeedGoods="-1" />
+  <Tarot ID="512" Name="Hoàng Hậu" GoodsID="703011" Level="1" NeedGoods="704011,1" />
+  <Tarot ID="513" Name="Hoàng Hậu" GoodsID="703011" Level="2" NeedGoods="704011,2" />
+  <Tarot ID="514" Name="Hoàng Hậu" GoodsID="703011" Level="3" NeedGoods="704011,4" />
+  <Tarot ID="515" Name="Hoàng Hậu" GoodsID="703011" Level="4" NeedGoods="704011,7" />
+  <Tarot ID="516" Name="Hoàng Hậu" GoodsID="703011" Level="5" NeedGoods="704011,9" />
+  <Tarot ID="517" Name="Hoàng Hậu" GoodsID="703011" Level="6" NeedGoods="704011,12" />
+  <Tarot ID="518" Name="Hoàng Hậu" GoodsID="703011" Level="7" NeedGoods="704011,15" />
+  <Tarot ID="519" Name="Hoàng Hậu" GoodsID="703011" Level="8" NeedGoods="704011,18" />
+  <Tarot ID="520" Name="Hoàng Hậu" GoodsID="703011" Level="9" NeedGoods="704011,22" />
+  <Tarot ID="521" Name="Hoàng Hậu" GoodsID="703011" Level="10" NeedGoods="704011,25" />
+  <Tarot ID="522" Name="Hoàng Hậu" GoodsID="703011" Level="11" NeedGoods="704011,29" />
+  <Tarot ID="523" Name="Hoàng Hậu" GoodsID="703011" Level="12" NeedGoods="704011,33" />
+  <Tarot ID="524" Name="Hoàng Hậu" GoodsID="703011" Level="13" NeedGoods="704011,37" />
+  <Tarot ID="525" Name="Hoàng Hậu" GoodsID="703011" Level="14" NeedGoods="704011,41" />
+  <Tarot ID="526" Name="Hoàng Hậu" GoodsID="703011" Level="15" NeedGoods="704011,46" />
+  <Tarot ID="527" Name="Hoàng Hậu" GoodsID="703011" Level="16" NeedGoods="704011,50" />
+  <Tarot ID="528" Name="Hoàng Hậu" GoodsID="703011" Level="17" NeedGoods="704011,54" />
+  <Tarot ID="529" Name="Hoàng Hậu" GoodsID="703011" Level="18" NeedGoods="704011,59" />
+  <Tarot ID="530" Name="Hoàng Hậu" GoodsID="703011" Level="19" NeedGoods="704011,64" />
+  <Tarot ID="531" Name="Hoàng Hậu" GoodsID="703011" Level="20" NeedGoods="704011,69" />
+  <Tarot ID="532" Name="Hoàng Hậu" GoodsID="703011" Level="21" NeedGoods="704011,74" />
+  <Tarot ID="533" Name="Hoàng Hậu" GoodsID="703011" Level="22" NeedGoods="704011,79" />
+  <Tarot ID="534" Name="Hoàng Hậu" GoodsID="703011" Level="23" NeedGoods="704011,84" />
+  <Tarot ID="535" Name="Hoàng Hậu" GoodsID="703011" Level="24" NeedGoods="704011,89" />
+  <Tarot ID="536" Name="Hoàng Hậu" GoodsID="703011" Level="25" NeedGoods="704011,94" />
+  <Tarot ID="537" Name="Hoàng Hậu" GoodsID="703011" Level="26" NeedGoods="704011,100" />
+  <Tarot ID="538" Name="Hoàng Hậu" GoodsID="703011" Level="27" NeedGoods="704011,105" />
+  <Tarot ID="539" Name="Hoàng Hậu" GoodsID="703011" Level="28" NeedGoods="704011,111" />
+  <Tarot ID="540" Name="Hoàng Hậu" GoodsID="703011" Level="29" NeedGoods="704011,116" />
+  <Tarot ID="541" Name="Hoàng Hậu" GoodsID="703011" Level="30" NeedGoods="704011,122" />
+  <Tarot ID="542" Name="Hoàng Hậu" GoodsID="703011" Level="31" NeedGoods="704011,128" />
+  <Tarot ID="543" Name="Hoàng Hậu" GoodsID="703011" Level="32" NeedGoods="704011,134" />
+  <Tarot ID="544" Name="Hoàng Hậu" GoodsID="703011" Level="33" NeedGoods="704011,140" />
+  <Tarot ID="545" Name="Hoàng Hậu" GoodsID="703011" Level="34" NeedGoods="704011,146" />
+  <Tarot ID="546" Name="Hoàng Hậu" GoodsID="703011" Level="35" NeedGoods="704011,152" />
+  <Tarot ID="547" Name="Hoàng Hậu" GoodsID="703011" Level="36" NeedGoods="704011,158" />
+  <Tarot ID="548" Name="Hoàng Hậu" GoodsID="703011" Level="37" NeedGoods="704011,164" />
+  <Tarot ID="549" Name="Hoàng Hậu" GoodsID="703011" Level="38" NeedGoods="704011,171" />
+  <Tarot ID="550" Name="Hoàng Hậu" GoodsID="703011" Level="39" NeedGoods="704011,177" />
+  <Tarot ID="551" Name="Hoàng Hậu" GoodsID="703011" Level="40" NeedGoods="704011,184" />
+  <Tarot ID="552" Name="Hoàng Hậu" GoodsID="703011" Level="41" NeedGoods="704011,190" />
+  <Tarot ID="553" Name="Hoàng Hậu" GoodsID="703011" Level="42" NeedGoods="704011,197" />
+  <Tarot ID="554" Name="Hoàng Hậu" GoodsID="703011" Level="43" NeedGoods="704011,204" />
+  <Tarot ID="555" Name="Hoàng Hậu" GoodsID="703011" Level="44" NeedGoods="704011,210" />
+  <Tarot ID="556" Name="Hoàng Hậu" GoodsID="703011" Level="45" NeedGoods="704011,217" />
+  <Tarot ID="557" Name="Hoàng Hậu" GoodsID="703011" Level="46" NeedGoods="704011,224" />
+  <Tarot ID="558" Name="Hoàng Hậu" GoodsID="703011" Level="47" NeedGoods="704011,231" />
+  <Tarot ID="559" Name="Hoàng Hậu" GoodsID="703011" Level="48" NeedGoods="704011,238" />
+  <Tarot ID="560" Name="Hoàng Hậu" GoodsID="703011" Level="49" NeedGoods="704011,245" />
+  <Tarot ID="561" Name="Hoàng Hậu" GoodsID="703011" Level="50" NeedGoods="704011,252" />
+  <Tarot ID="562" Name="Mặt Trăng" GoodsID="703012" Level="0" NeedGoods="-1" />
+  <Tarot ID="563" Name="Mặt Trăng" GoodsID="703012" Level="1" NeedGoods="704012,1" />
+  <Tarot ID="564" Name="Mặt Trăng" GoodsID="703012" Level="2" NeedGoods="704012,2" />
+  <Tarot ID="565" Name="Mặt Trăng" GoodsID="703012" Level="3" NeedGoods="704012,4" />
+  <Tarot ID="566" Name="Mặt Trăng" GoodsID="703012" Level="4" NeedGoods="704012,7" />
+  <Tarot ID="567" Name="Mặt Trăng" GoodsID="703012" Level="5" NeedGoods="704012,9" />
+  <Tarot ID="568" Name="Mặt Trăng" GoodsID="703012" Level="6" NeedGoods="704012,12" />
+  <Tarot ID="569" Name="Mặt Trăng" GoodsID="703012" Level="7" NeedGoods="704012,15" />
+  <Tarot ID="570" Name="Mặt Trăng" GoodsID="703012" Level="8" NeedGoods="704012,18" />
+  <Tarot ID="571" Name="Mặt Trăng" GoodsID="703012" Level="9" NeedGoods="704012,22" />
+  <Tarot ID="572" Name="Mặt Trăng" GoodsID="703012" Level="10" NeedGoods="704012,25" />
+  <Tarot ID="573" Name="Mặt Trăng" GoodsID="703012" Level="11" NeedGoods="704012,29" />
+  <Tarot ID="574" Name="Mặt Trăng" GoodsID="703012" Level="12" NeedGoods="704012,33" />
+  <Tarot ID="575" Name="Mặt Trăng" GoodsID="703012" Level="13" NeedGoods="704012,37" />
+  <Tarot ID="576" Name="Mặt Trăng" GoodsID="703012" Level="14" NeedGoods="704012,41" />
+  <Tarot ID="577" Name="Mặt Trăng" GoodsID="703012" Level="15" NeedGoods="704012,46" />
+  <Tarot ID="578" Name="Mặt Trăng" GoodsID="703012" Level="16" NeedGoods="704012,50" />
+  <Tarot ID="579" Name="Mặt Trăng" GoodsID="703012" Level="17" NeedGoods="704012,54" />
+  <Tarot ID="580" Name="Mặt Trăng" GoodsID="703012" Level="18" NeedGoods="704012,59" />
+  <Tarot ID="581" Name="Mặt Trăng" GoodsID="703012" Level="19" NeedGoods="704012,64" />
+  <Tarot ID="582" Name="Mặt Trăng" GoodsID="703012" Level="20" NeedGoods="704012,69" />
+  <Tarot ID="583" Name="Mặt Trăng" GoodsID="703012" Level="21" NeedGoods="704012,74" />
+  <Tarot ID="584" Name="Mặt Trăng" GoodsID="703012" Level="22" NeedGoods="704012,79" />
+  <Tarot ID="585" Name="Mặt Trăng" GoodsID="703012" Level="23" NeedGoods="704012,84" />
+  <Tarot ID="586" Name="Mặt Trăng" GoodsID="703012" Level="24" NeedGoods="704012,89" />
+  <Tarot ID="587" Name="Mặt Trăng" GoodsID="703012" Level="25" NeedGoods="704012,94" />
+  <Tarot ID="588" Name="Mặt Trăng" GoodsID="703012" Level="26" NeedGoods="704012,100" />
+  <Tarot ID="589" Name="Mặt Trăng" GoodsID="703012" Level="27" NeedGoods="704012,105" />
+  <Tarot ID="590" Name="Mặt Trăng" GoodsID="703012" Level="28" NeedGoods="704012,111" />
+  <Tarot ID="591" Name="Mặt Trăng" GoodsID="703012" Level="29" NeedGoods="704012,116" />
+  <Tarot ID="592" Name="Mặt Trăng" GoodsID="703012" Level="30" NeedGoods="704012,122" />
+  <Tarot ID="593" Name="Mặt Trăng" GoodsID="703012" Level="31" NeedGoods="704012,128" />
+  <Tarot ID="594" Name="Mặt Trăng" GoodsID="703012" Level="32" NeedGoods="704012,134" />
+  <Tarot ID="595" Name="Mặt Trăng" GoodsID="703012" Level="33" NeedGoods="704012,140" />
+  <Tarot ID="596" Name="Mặt Trăng" GoodsID="703012" Level="34" NeedGoods="704012,146" />
+  <Tarot ID="597" Name="Mặt Trăng" GoodsID="703012" Level="35" NeedGoods="704012,152" />
+  <Tarot ID="598" Name="Mặt Trăng" GoodsID="703012" Level="36" NeedGoods="704012,158" />
+  <Tarot ID="599" Name="Mặt Trăng" GoodsID="703012" Level="37" NeedGoods="704012,164" />
+  <Tarot ID="600" Name="Mặt Trăng" GoodsID="703012" Level="38" NeedGoods="704012,171" />
+  <Tarot ID="601" Name="Mặt Trăng" GoodsID="703012" Level="39" NeedGoods="704012,177" />
+  <Tarot ID="602" Name="Mặt Trăng" GoodsID="703012" Level="40" NeedGoods="704012,184" />
+  <Tarot ID="603" Name="Mặt Trăng" GoodsID="703012" Level="41" NeedGoods="704012,190" />
+  <Tarot ID="604" Name="Mặt Trăng" GoodsID="703012" Level="42" NeedGoods="704012,197" />
+  <Tarot ID="605" Name="Mặt Trăng" GoodsID="703012" Level="43" NeedGoods="704012,204" />
+  <Tarot ID="606" Name="Mặt Trăng" GoodsID="703012" Level="44" NeedGoods="704012,210" />
+  <Tarot ID="607" Name="Mặt Trăng" GoodsID="703012" Level="45" NeedGoods="704012,217" />
+  <Tarot ID="608" Name="Mặt Trăng" GoodsID="703012" Level="46" NeedGoods="704012,224" />
+  <Tarot ID="609" Name="Mặt Trăng" GoodsID="703012" Level="47" NeedGoods="704012,231" />
+  <Tarot ID="610" Name="Mặt Trăng" GoodsID="703012" Level="48" NeedGoods="704012,238" />
+  <Tarot ID="611" Name="Mặt Trăng" GoodsID="703012" Level="49" NeedGoods="704012,245" />
+  <Tarot ID="612" Name="Mặt Trăng" GoodsID="703012" Level="50" NeedGoods="704012,252" />
+  <Tarot ID="613" Name="Chiến Xa" GoodsID="703013" Level="0" NeedGoods="-1" />
+  <Tarot ID="614" Name="Chiến Xa" GoodsID="703013" Level="1" NeedGoods="704013,1" />
+  <Tarot ID="615" Name="Chiến Xa" GoodsID="703013" Level="2" NeedGoods="704013,2" />
+  <Tarot ID="616" Name="Chiến Xa" GoodsID="703013" Level="3" NeedGoods="704013,4" />
+  <Tarot ID="617" Name="Chiến Xa" GoodsID="703013" Level="4" NeedGoods="704013,7" />
+  <Tarot ID="618" Name="Chiến Xa" GoodsID="703013" Level="5" NeedGoods="704013,9" />
+  <Tarot ID="619" Name="Chiến Xa" GoodsID="703013" Level="6" NeedGoods="704013,12" />
+  <Tarot ID="620" Name="Chiến Xa" GoodsID="703013" Level="7" NeedGoods="704013,15" />
+  <Tarot ID="621" Name="Chiến Xa" GoodsID="703013" Level="8" NeedGoods="704013,18" />
+  <Tarot ID="622" Name="Chiến Xa" GoodsID="703013" Level="9" NeedGoods="704013,22" />
+  <Tarot ID="623" Name="Chiến Xa" GoodsID="703013" Level="10" NeedGoods="704013,25" />
+  <Tarot ID="624" Name="Chiến Xa" GoodsID="703013" Level="11" NeedGoods="704013,29" />
+  <Tarot ID="625" Name="Chiến Xa" GoodsID="703013" Level="12" NeedGoods="704013,33" />
+  <Tarot ID="626" Name="Chiến Xa" GoodsID="703013" Level="13" NeedGoods="704013,37" />
+  <Tarot ID="627" Name="Chiến Xa" GoodsID="703013" Level="14" NeedGoods="704013,41" />
+  <Tarot ID="628" Name="Chiến Xa" GoodsID="703013" Level="15" NeedGoods="704013,46" />
+  <Tarot ID="629" Name="Chiến Xa" GoodsID="703013" Level="16" NeedGoods="704013,50" />
+  <Tarot ID="630" Name="Chiến Xa" GoodsID="703013" Level="17" NeedGoods="704013,54" />
+  <Tarot ID="631" Name="Chiến Xa" GoodsID="703013" Level="18" NeedGoods="704013,59" />
+  <Tarot ID="632" Name="Chiến Xa" GoodsID="703013" Level="19" NeedGoods="704013,64" />
+  <Tarot ID="633" Name="Chiến Xa" GoodsID="703013" Level="20" NeedGoods="704013,69" />
+  <Tarot ID="634" Name="Chiến Xa" GoodsID="703013" Level="21" NeedGoods="704013,74" />
+  <Tarot ID="635" Name="Chiến Xa" GoodsID="703013" Level="22" NeedGoods="704013,79" />
+  <Tarot ID="636" Name="Chiến Xa" GoodsID="703013" Level="23" NeedGoods="704013,84" />
+  <Tarot ID="637" Name="Chiến Xa" GoodsID="703013" Level="24" NeedGoods="704013,89" />
+  <Tarot ID="638" Name="Chiến Xa" GoodsID="703013" Level="25" NeedGoods="704013,94" />
+  <Tarot ID="639" Name="Chiến Xa" GoodsID="703013" Level="26" NeedGoods="704013,100" />
+  <Tarot ID="640" Name="Chiến Xa" GoodsID="703013" Level="27" NeedGoods="704013,105" />
+  <Tarot ID="641" Name="Chiến Xa" GoodsID="703013" Level="28" NeedGoods="704013,111" />
+  <Tarot ID="642" Name="Chiến Xa" GoodsID="703013" Level="29" NeedGoods="704013,116" />
+  <Tarot ID="643" Name="Chiến Xa" GoodsID="703013" Level="30" NeedGoods="704013,122" />
+  <Tarot ID="644" Name="Chiến Xa" GoodsID="703013" Level="31" NeedGoods="704013,128" />
+  <Tarot ID="645" Name="Chiến Xa" GoodsID="703013" Level="32" NeedGoods="704013,134" />
+  <Tarot ID="646" Name="Chiến Xa" GoodsID="703013" Level="33" NeedGoods="704013,140" />
+  <Tarot ID="647" Name="Chiến Xa" GoodsID="703013" Level="34" NeedGoods="704013,146" />
+  <Tarot ID="648" Name="Chiến Xa" GoodsID="703013" Level="35" NeedGoods="704013,152" />
+  <Tarot ID="649" Name="Chiến Xa" GoodsID="703013" Level="36" NeedGoods="704013,158" />
+  <Tarot ID="650" Name="Chiến Xa" GoodsID="703013" Level="37" NeedGoods="704013,164" />
+  <Tarot ID="651" Name="Chiến Xa" GoodsID="703013" Level="38" NeedGoods="704013,171" />
+  <Tarot ID="652" Name="Chiến Xa" GoodsID="703013" Level="39" NeedGoods="704013,177" />
+  <Tarot ID="653" Name="Chiến Xa" GoodsID="703013" Level="40" NeedGoods="704013,184" />
+  <Tarot ID="654" Name="Chiến Xa" GoodsID="703013" Level="41" NeedGoods="704013,190" />
+  <Tarot ID="655" Name="Chiến Xa" GoodsID="703013" Level="42" NeedGoods="704013,197" />
+  <Tarot ID="656" Name="Chiến Xa" GoodsID="703013" Level="43" NeedGoods="704013,204" />
+  <Tarot ID="657" Name="Chiến Xa" GoodsID="703013" Level="44" NeedGoods="704013,210" />
+  <Tarot ID="658" Name="Chiến Xa" GoodsID="703013" Level="45" NeedGoods="704013,217" />
+  <Tarot ID="659" Name="Chiến Xa" GoodsID="703013" Level="46" NeedGoods="704013,224" />
+  <Tarot ID="660" Name="Chiến Xa" GoodsID="703013" Level="47" NeedGoods="704013,231" />
+  <Tarot ID="661" Name="Chiến Xa" GoodsID="703013" Level="48" NeedGoods="704013,238" />
+  <Tarot ID="662" Name="Chiến Xa" GoodsID="703013" Level="49" NeedGoods="704013,245" />
+  <Tarot ID="663" Name="Chiến Xa" GoodsID="703013" Level="50" NeedGoods="704013,252" />
+  <Tarot ID="664" Name="Phán Quyết" GoodsID="703014" Level="0" NeedGoods="-1" />
+  <Tarot ID="665" Name="Phán Quyết" GoodsID="703014" Level="1" NeedGoods="704014,1" />
+  <Tarot ID="666" Name="Phán Quyết" GoodsID="703014" Level="2" NeedGoods="704014,2" />
+  <Tarot ID="667" Name="Phán Quyết" GoodsID="703014" Level="3" NeedGoods="704014,4" />
+  <Tarot ID="668" Name="Phán Quyết" GoodsID="703014" Level="4" NeedGoods="704014,7" />
+  <Tarot ID="669" Name="Phán Quyết" GoodsID="703014" Level="5" NeedGoods="704014,9" />
+  <Tarot ID="670" Name="Phán Quyết" GoodsID="703014" Level="6" NeedGoods="704014,12" />
+  <Tarot ID="671" Name="Phán Quyết" GoodsID="703014" Level="7" NeedGoods="704014,15" />
+  <Tarot ID="672" Name="Phán Quyết" GoodsID="703014" Level="8" NeedGoods="704014,18" />
+  <Tarot ID="673" Name="Phán Quyết" GoodsID="703014" Level="9" NeedGoods="704014,22" />
+  <Tarot ID="674" Name="Phán Quyết" GoodsID="703014" Level="10" NeedGoods="704014,25" />
+  <Tarot ID="675" Name="Phán Quyết" GoodsID="703014" Level="11" NeedGoods="704014,29" />
+  <Tarot ID="676" Name="Phán Quyết" GoodsID="703014" Level="12" NeedGoods="704014,33" />
+  <Tarot ID="677" Name="Phán Quyết" GoodsID="703014" Level="13" NeedGoods="704014,37" />
+  <Tarot ID="678" Name="Phán Quyết" GoodsID="703014" Level="14" NeedGoods="704014,41" />
+  <Tarot ID="679" Name="Phán Quyết" GoodsID="703014" Level="15" NeedGoods="704014,46" />
+  <Tarot ID="680" Name="Phán Quyết" GoodsID="703014" Level="16" NeedGoods="704014,50" />
+  <Tarot ID="681" Name="Phán Quyết" GoodsID="703014" Level="17" NeedGoods="704014,54" />
+  <Tarot ID="682" Name="Phán Quyết" GoodsID="703014" Level="18" NeedGoods="704014,59" />
+  <Tarot ID="683" Name="Phán Quyết" GoodsID="703014" Level="19" NeedGoods="704014,64" />
+  <Tarot ID="684" Name="Phán Quyết" GoodsID="703014" Level="20" NeedGoods="704014,69" />
+  <Tarot ID="685" Name="Phán Quyết" GoodsID="703014" Level="21" NeedGoods="704014,74" />
+  <Tarot ID="686" Name="Phán Quyết" GoodsID="703014" Level="22" NeedGoods="704014,79" />
+  <Tarot ID="687" Name="Phán Quyết" GoodsID="703014" Level="23" NeedGoods="704014,84" />
+  <Tarot ID="688" Name="Phán Quyết" GoodsID="703014" Level="24" NeedGoods="704014,89" />
+  <Tarot ID="689" Name="Phán Quyết" GoodsID="703014" Level="25" NeedGoods="704014,94" />
+  <Tarot ID="690" Name="Phán Quyết" GoodsID="703014" Level="26" NeedGoods="704014,100" />
+  <Tarot ID="691" Name="Phán Quyết" GoodsID="703014" Level="27" NeedGoods="704014,105" />
+  <Tarot ID="692" Name="Phán Quyết" GoodsID="703014" Level="28" NeedGoods="704014,111" />
+  <Tarot ID="693" Name="Phán Quyết" GoodsID="703014" Level="29" NeedGoods="704014,116" />
+  <Tarot ID="694" Name="Phán Quyết" GoodsID="703014" Level="30" NeedGoods="704014,122" />
+  <Tarot ID="695" Name="Phán Quyết" GoodsID="703014" Level="31" NeedGoods="704014,128" />
+  <Tarot ID="696" Name="Phán Quyết" GoodsID="703014" Level="32" NeedGoods="704014,134" />
+  <Tarot ID="697" Name="Phán Quyết" GoodsID="703014" Level="33" NeedGoods="704014,140" />
+  <Tarot ID="698" Name="Phán Quyết" GoodsID="703014" Level="34" NeedGoods="704014,146" />
+  <Tarot ID="699" Name="Phán Quyết" GoodsID="703014" Level="35" NeedGoods="704014,152" />
+  <Tarot ID="700" Name="Phán Quyết" GoodsID="703014" Level="36" NeedGoods="704014,158" />
+  <Tarot ID="701" Name="Phán Quyết" GoodsID="703014" Level="37" NeedGoods="704014,164" />
+  <Tarot ID="702" Name="Phán Quyết" GoodsID="703014" Level="38" NeedGoods="704014,171" />
+  <Tarot ID="703" Name="Phán Quyết" GoodsID="703014" Level="39" NeedGoods="704014,177" />
+  <Tarot ID="704" Name="Phán Quyết" GoodsID="703014" Level="40" NeedGoods="704014,184" />
+  <Tarot ID="705" Name="Phán Quyết" GoodsID="703014" Level="41" NeedGoods="704014,190" />
+  <Tarot ID="706" Name="Phán Quyết" GoodsID="703014" Level="42" NeedGoods="704014,197" />
+  <Tarot ID="707" Name="Phán Quyết" GoodsID="703014" Level="43" NeedGoods="704014,204" />
+  <Tarot ID="708" Name="Phán Quyết" GoodsID="703014" Level="44" NeedGoods="704014,210" />
+  <Tarot ID="709" Name="Phán Quyết" GoodsID="703014" Level="45" NeedGoods="704014,217" />
+  <Tarot ID="710" Name="Phán Quyết" GoodsID="703014" Level="46" NeedGoods="704014,224" />
+  <Tarot ID="711" Name="Phán Quyết" GoodsID="703014" Level="47" NeedGoods="704014,231" />
+  <Tarot ID="712" Name="Phán Quyết" GoodsID="703014" Level="48" NeedGoods="704014,238" />
+  <Tarot ID="713" Name="Phán Quyết" GoodsID="703014" Level="49" NeedGoods="704014,245" />
+  <Tarot ID="714" Name="Phán Quyết" GoodsID="703014" Level="50" NeedGoods="704014,252" />
+  <Tarot ID="715" Name="Mặt Trời" GoodsID="703015" Level="0" NeedGoods="-1" />
+  <Tarot ID="716" Name="Mặt Trời" GoodsID="703015" Level="1" NeedGoods="704015,1" />
+  <Tarot ID="717" Name="Mặt Trời" GoodsID="703015" Level="2" NeedGoods="704015,2" />
+  <Tarot ID="718" Name="Mặt Trời" GoodsID="703015" Level="3" NeedGoods="704015,4" />
+  <Tarot ID="719" Name="Mặt Trời" GoodsID="703015" Level="4" NeedGoods="704015,7" />
+  <Tarot ID="720" Name="Mặt Trời" GoodsID="703015" Level="5" NeedGoods="704015,9" />
+  <Tarot ID="721" Name="Mặt Trời" GoodsID="703015" Level="6" NeedGoods="704015,12" />
+  <Tarot ID="722" Name="Mặt Trời" GoodsID="703015" Level="7" NeedGoods="704015,15" />
+  <Tarot ID="723" Name="Mặt Trời" GoodsID="703015" Level="8" NeedGoods="704015,18" />
+  <Tarot ID="724" Name="Mặt Trời" GoodsID="703015" Level="9" NeedGoods="704015,22" />
+  <Tarot ID="725" Name="Mặt Trời" GoodsID="703015" Level="10" NeedGoods="704015,25" />
+  <Tarot ID="726" Name="Mặt Trời" GoodsID="703015" Level="11" NeedGoods="704015,29" />
+  <Tarot ID="727" Name="Mặt Trời" GoodsID="703015" Level="12" NeedGoods="704015,33" />
+  <Tarot ID="728" Name="Mặt Trời" GoodsID="703015" Level="13" NeedGoods="704015,37" />
+  <Tarot ID="729" Name="Mặt Trời" GoodsID="703015" Level="14" NeedGoods="704015,41" />
+  <Tarot ID="730" Name="Mặt Trời" GoodsID="703015" Level="15" NeedGoods="704015,46" />
+  <Tarot ID="731" Name="Mặt Trời" GoodsID="703015" Level="16" NeedGoods="704015,50" />
+  <Tarot ID="732" Name="Mặt Trời" GoodsID="703015" Level="17" NeedGoods="704015,54" />
+  <Tarot ID="733" Name="Mặt Trời" GoodsID="703015" Level="18" NeedGoods="704015,59" />
+  <Tarot ID="734" Name="Mặt Trời" GoodsID="703015" Level="19" NeedGoods="704015,64" />
+  <Tarot ID="735" Name="Mặt Trời" GoodsID="703015" Level="20" NeedGoods="704015,69" />
+  <Tarot ID="736" Name="Mặt Trời" GoodsID="703015" Level="21" NeedGoods="704015,74" />
+  <Tarot ID="737" Name="Mặt Trời" GoodsID="703015" Level="22" NeedGoods="704015,79" />
+  <Tarot ID="738" Name="Mặt Trời" GoodsID="703015" Level="23" NeedGoods="704015,84" />
+  <Tarot ID="739" Name="Mặt Trời" GoodsID="703015" Level="24" NeedGoods="704015,89" />
+  <Tarot ID="740" Name="Mặt Trời" GoodsID="703015" Level="25" NeedGoods="704015,94" />
+  <Tarot ID="741" Name="Mặt Trời" GoodsID="703015" Level="26" NeedGoods="704015,100" />
+  <Tarot ID="742" Name="Mặt Trời" GoodsID="703015" Level="27" NeedGoods="704015,105" />
+  <Tarot ID="743" Name="Mặt Trời" GoodsID="703015" Level="28" NeedGoods="704015,111" />
+  <Tarot ID="744" Name="Mặt Trời" GoodsID="703015" Level="29" NeedGoods="704015,116" />
+  <Tarot ID="745" Name="Mặt Trời" GoodsID="703015" Level="30" NeedGoods="704015,122" />
+  <Tarot ID="746" Name="Mặt Trời" GoodsID="703015" Level="31" NeedGoods="704015,128" />
+  <Tarot ID="747" Name="Mặt Trời" GoodsID="703015" Level="32" NeedGoods="704015,134" />
+  <Tarot ID="748" Name="Mặt Trời" GoodsID="703015" Level="33" NeedGoods="704015,140" />
+  <Tarot ID="749" Name="Mặt Trời" GoodsID="703015" Level="34" NeedGoods="704015,146" />
+  <Tarot ID="750" Name="Mặt Trời" GoodsID="703015" Level="35" NeedGoods="704015,152" />
+  <Tarot ID="751" Name="Mặt Trời" GoodsID="703015" Level="36" NeedGoods="704015,158" />
+  <Tarot ID="752" Name="Mặt Trời" GoodsID="703015" Level="37" NeedGoods="704015,164" />
+  <Tarot ID="753" Name="Mặt Trời" GoodsID="703015" Level="38" NeedGoods="704015,171" />
+  <Tarot ID="754" Name="Mặt Trời" GoodsID="703015" Level="39" NeedGoods="704015,177" />
+  <Tarot ID="755" Name="Mặt Trời" GoodsID="703015" Level="40" NeedGoods="704015,184" />
+  <Tarot ID="756" Name="Mặt Trời" GoodsID="703015" Level="41" NeedGoods="704015,190" />
+  <Tarot ID="757" Name="Mặt Trời" GoodsID="703015" Level="42" NeedGoods="704015,197" />
+  <Tarot ID="758" Name="Mặt Trời" GoodsID="703015" Level="43" NeedGoods="704015,204" />
+  <Tarot ID="759" Name="Mặt Trời" GoodsID="703015" Level="44" NeedGoods="704015,210" />
+  <Tarot ID="760" Name="Mặt Trời" GoodsID="703015" Level="45" NeedGoods="704015,217" />
+  <Tarot ID="761" Name="Mặt Trời" GoodsID="703015" Level="46" NeedGoods="704015,224" />
+  <Tarot ID="762" Name="Mặt Trời" GoodsID="703015" Level="47" NeedGoods="704015,231" />
+  <Tarot ID="763" Name="Mặt Trời" GoodsID="703015" Level="48" NeedGoods="704015,238" />
+  <Tarot ID="764" Name="Mặt Trời" GoodsID="703015" Level="49" NeedGoods="704015,245" />
+  <Tarot ID="765" Name="Mặt Trời" GoodsID="703015" Level="50" NeedGoods="704015,252" />
+</Config>

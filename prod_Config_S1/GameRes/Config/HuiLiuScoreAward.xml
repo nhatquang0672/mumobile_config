@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <HuiLiuScoreAward ID="1001" Level="1" Score="50" Award="2003,1,1,0,0,0,0" ScorePercent="20" />
+  <HuiLiuScoreAward ID="1002" Level="1" Score="100" Award="2004,1,1,0,0,0,0" ScorePercent="40" />
+  <HuiLiuScoreAward ID="1003" Level="1" Score="200" Award="2005,1,1,0,0,0,0" ScorePercent="80" />
+  <HuiLiuScoreAward ID="2001" Level="2" Score="50" Award="2003,1,1,0,0,0,0" ScorePercent="20" />
+  <HuiLiuScoreAward ID="2002" Level="2" Score="100" Award="2004,1,1,0,0,0,0" ScorePercent="40" />
+  <HuiLiuScoreAward ID="2003" Level="2" Score="200" Award="2005,1,1,0,0,0,0" ScorePercent="80" />
+  <HuiLiuScoreAward ID="3001" Level="3" Score="50" Award="2003,1,1,0,0,0,0" ScorePercent="20" />
+  <HuiLiuScoreAward ID="3002" Level="3" Score="100" Award="2004,1,1,0,0,0,0" ScorePercent="40" />
+  <HuiLiuScoreAward ID="3003" Level="3" Score="200" Award="2005,1,1,0,0,0,0" ScorePercent="80" />
+</Config>

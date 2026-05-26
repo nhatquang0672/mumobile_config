@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <ShenQiUnlock ID="1" Type="1" GoodsID="23001" RateAdd="2.6" />
+  <ShenQiUnlock ID="2" Type="1" GoodsID="23002" RateAdd="15.7" />
+  <ShenQiUnlock ID="3" Type="1" GoodsID="23003" RateAdd="52.6" />
+  <ShenQiUnlock ID="4" Type="2" GoodsID="23004" RateAdd="3.5" />
+  <ShenQiUnlock ID="5" Type="2" GoodsID="23005" RateAdd="21.4" />
+  <ShenQiUnlock ID="6" Type="2" GoodsID="23006" RateAdd="71.4" />
+  <ShenQiUnlock ID="7" Type="3" GoodsID="23007" RateAdd="2.2" />
+  <ShenQiUnlock ID="8" Type="3" GoodsID="23008" RateAdd="13.6" />
+  <ShenQiUnlock ID="9" Type="3" GoodsID="23009" RateAdd="45.4" />
+  <ShenQiUnlock ID="10" Type="4" GoodsID="23010" RateAdd="1.3" />
+  <ShenQiUnlock ID="11" Type="4" GoodsID="23011" RateAdd="7.8" />
+  <ShenQiUnlock ID="12" Type="4" GoodsID="23012" RateAdd="26.3" />
+</Config>

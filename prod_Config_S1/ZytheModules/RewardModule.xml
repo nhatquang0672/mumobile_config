@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Info Active="false" Title="RewardModule" Desciption="Reward Module" />
+  <OnlineTime Enable="true" Interval="5" Currency="1" Amount="100" Description="Reward player while being online, Interval=(Interval time in menutes), Currency=(1 for Diamonds, 2 for boundDiamonds, 3 for Gold and 4 for boundGold), Amount=(amount)" />
+</Module>

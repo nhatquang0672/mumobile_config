@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Quy tắc đấu giá" Bold="1" />
+  <HelpIntro ID="2" Intro="1. Mỗi CN {17e43e}19:00 sẽ mở đấu giá{17e43e}, tất cả server trong chiến khu sẽ được chia làm {17e43e}4 nhóm{17e43e}, đấu giá lần lượt, thời gian đấu giá của mỗi nhóm là {17e43e}15 phút" Bold="0" />
+  <HelpIntro ID="3" Intro="2. Đấu giá theo đơn vị Chiến Minh, chỉ có Thủ Lĩnh mới được đại diện ra giá, đấu giá sẽ {17e43e}tiêu hao tiền Chiến Minh" Bold="0" />
+  <HelpIntro ID="4" Intro="3. {ff0000}Không hiển thị{-} số tiền đấu giá của các Chiến Minh khác, sau khi đấu giá {17e43e}sẽ thông báo{-} đấu giá có thành công hay không, đấu giá thất bại sẽ không tốn tiền Chiến Minh" Bold="0" />
+  <HelpIntro ID="5" Intro="4. Đấu giá có CD, {ff0000}dù thành công hay thất bại{-} sau khi đấu giá cũng không thể tiếp tục ra giá" Bold="0" />
+  <HelpIntro ID="6" Intro="5. Sau khi đấu giá thành công {ff0000}nếu bị vượt qua{-} sẽ báo qua Thư và hoàn trả tiền Chiến Minh" Bold="0" />
+  <HelpIntro ID="7" Intro="6. Mỗi vòng, mỗi Chiến Minh được đấu giá tối đa {ff0000}1{-} server" Bold="0" />
+  <HelpIntro ID="8" Intro="{fac60d}Quy tắc sự kiện" Bold="1" />
+  <HelpIntro ID="9" Intro="1. Mỗi CN {17e43e}21:30-22:30{-}, mỗi mùa giải gồm {17e43e}13 tuần{-}" Bold="0" />
+  <HelpIntro ID="10" Intro="2. Chiến Minh đấu giá thành công sẽ có {17e43e}quyền xâm lược{-}, chưa có quyền sẽ được tham gia phòng thủ" Bold="0" />
+  <HelpIntro ID="11" Intro="{fac60d}Quy tắc chinh phục" Bold="1" />
+  <HelpIntro ID="12" Intro="1. Chinh phục theo đơn vị server, nếu tài nguyên phe phòng thủ {ff0000}bị cướp hết{-}, và số tài nguyên do Chiến Minh {17e43e}cùng server{-} cướp đi chiếm {17e43e}80%{-} sẽ đạt chinh phục server" Bold="0" />
+  <HelpIntro ID="13" Intro="2. Chinh phục 1 server nhiều lần cũng sẽ {ff0000}không được tính{-} vào BXH, BXH sẽ reset sau mỗi mùa giải" Bold="0" />
+</Config>

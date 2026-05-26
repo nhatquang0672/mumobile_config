@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Chi tiết Khoáng Động Thế Lực" Bold="1" />
+  <HelpIntro ID="2" Intro="1, Khoáng Động Thế Lực mở mỗi {17e43e}T6 19:00-19:30{-}." Bold="0" />
+  <HelpIntro ID="3" Intro="2, Trong event mỗi Thế Lực mở {17e43e}1 chiến trường{-}, có thể tự do chọn vào chiến trường của mình {17e43e}để phòng thủ {-}hoặc vào chiến trường địch {ff0000}tiến hành tranh đoạt{-}, có thể {17e43e}chuyển đổi chiến trường{-} trong thời gian event." Bold="0" />
+  <HelpIntro ID="4" Intro="3, Mỗi chiến trường sẽ làm mới {17e43e}5 xe khoáng {-}theo thứ tự, xe khoáng sẽ theo đường cố định, đi qua nơi bù điểm sẽ {17e43e}hồi phục độ bền{-}" Bold="0" />
+  <HelpIntro ID="5" Intro="4, Xe khoáng {ff0000}trong quá trình vận chuyện bị đánh nát {-}hoặc {17e43e}đến đích{-}, sẽ làm mới xe tiếp theo" Bold="0" />
+  <HelpIntro ID="6" Intro="{fac60d}Quy tắc tích điểm" Bold="1" />
+  <HelpIntro ID="7" Intro="1, Trong chiến trường kích sát địch thế lực nhân vật sẽ nhận {17e43e}tích điểm{-}, liên sát hoặc làm mất liên sát đối phương sẽ nhận {17e43e}thêm tích điểm{-}" Bold="0" />
+  <HelpIntro ID="8" Intro="2, Trong chiến trường của mình xe khoáng đến đích, căn cứ số người giết nhận {17e43e}lượng lớn tích điểm{-}" Bold="0" />
+  <HelpIntro ID="9" Intro="3, Trong chiến trường địch đánh nát xe khoáng của địch, căn cứ vào sát thương đối với xe khoáng sẽ nhận {17e43e}lượng lớn tích điểm{-}" Bold="0" />
+  <HelpIntro ID="10" Intro="{fac60d}Quy tắc nhận thưởng" Bold="1" />
+  <HelpIntro ID="11" Intro="1, Xếp hạng tổng tài nguyên Thế Lực sẽ ảnh hưởng thưởng cuối cùng của cá nhân, điều chỉnh tỷ lệ theo xếp hạng 1.2, 1, 0.8" Bold="0" />
+  <HelpIntro ID="12" Intro="2, Trong Thế Lực sẽ căn cứ tích điểm cá nhân trong chiến trường để xếp hạng, xếp hạng càng cao {17e43e}quà cơ bản {dac7ae}của chiến trường càng cao." Bold="0" />
+  <HelpIntro ID="13" Intro="3, {17e43e}T7 19:30-CN 23:55{-}nhận thưởng chiến trường sẽ nhận thưởng {17e43e}Quân Hàm Thế Lực{-}, {17e43e}CN 23:56-T7 19:00{-}nhận thưởng {ff0000}sẽ không {-}nhận được thưởng {17e43e}Quân Hàm Thế Lực{-}." Bold="0" />
+</Config>

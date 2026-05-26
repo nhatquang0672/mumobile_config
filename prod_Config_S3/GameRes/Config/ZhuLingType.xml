@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <Types>
+    <Type ID="1" Name="Chú Linh" GoodsID="2018,1" CostBandJinBi="200000" />
+    <Type ID="2" Name="Chú Hồn" GoodsID="2020,3" CostBandJinBi="800000" />
+  </Types>
+</config>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <StarTreasureShop ID="1" Use="1" Goods="1033150,1,1,0,0,0,0" NeedMaterial="600" LimitNum="5" IsOnStage="0" Picture="" />
+  <StarTreasureShop ID="2" Use="1" Goods="1033210,1,1,0,0,0,0" NeedMaterial="600" LimitNum="5" IsOnStage="0" Picture="" />
+  <StarTreasureShop ID="3" Use="1" Goods="1033510,1,1,0,0,0,0" NeedMaterial="800" LimitNum="1" IsOnStage="1" Picture="01.png" />
+  <StarTreasureShop ID="4" Use="1" Goods="970012,1,1,0,0,0,0" NeedMaterial="400" LimitNum="5" IsOnStage="0" Picture="" />
+  <StarTreasureShop ID="5" Use="1" Goods="970013,1,1,0,0,0,0" NeedMaterial="400" LimitNum="5" IsOnStage="0" Picture="" />
+  <StarTreasureShop ID="6" Use="1" Goods="970014,1,1,0,0,0,0" NeedMaterial="400" LimitNum="5" IsOnStage="0" Picture="" />
+  <StarTreasureShop ID="7" Use="1" Goods="970019,1,1,0,0,0,0" NeedMaterial="600" LimitNum="1" IsOnStage="1" Picture="01.png" />
+  <StarTreasureShop ID="8" Use="1" Goods="1035019,1,1,0,0,0,0" NeedMaterial="300" LimitNum="5" IsOnStage="0" Picture="" />
+  <StarTreasureShop ID="9" Use="1" Goods="1035258,1,1,0,0,0,0" NeedMaterial="300" LimitNum="5" IsOnStage="0" Picture="" />
+  <StarTreasureShop ID="10" Use="1" Goods="1035031,1,1,0,0,0,0" NeedMaterial="300" LimitNum="5" IsOnStage="0" Picture="" />
+  <StarTreasureShop ID="11" Use="1" Goods="1035042,1,1,0,0,0,0" NeedMaterial="500" LimitNum="1" IsOnStage="1" Picture="02.png" />
+  <StarTreasureShop ID="12" Use="1" Goods="2100060,1,1,0,0,0,0" NeedMaterial="200" LimitNum="5" IsOnStage="0" Picture="" />
+  <StarTreasureShop ID="13" Use="1" Goods="2100050,1,1,0,0,0,0" NeedMaterial="200" LimitNum="5" IsOnStage="0" Picture="" />
+  <StarTreasureShop ID="14" Use="1" Goods="2100090,1,1,0,0,0,0" NeedMaterial="200" LimitNum="5" IsOnStage="0" Picture="" />
+  <StarTreasureShop ID="15" Use="1" Goods="2100100,1,1,0,0,0,0" NeedMaterial="300" LimitNum="1" IsOnStage="1" Picture="03.png" />
+  <StarTreasureShop ID="16" Use="1" Goods="50015,1,1,0,0,0,0" NeedMaterial="1" LimitNum="99999" IsOnStage="0" Picture="" />
+</Config>

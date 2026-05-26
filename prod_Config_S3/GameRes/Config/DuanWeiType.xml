@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DuanWeiType>
+  <DuanWeiType TypeID="1" Name="Đồng" />
+  <DuanWeiType TypeID="2" Name="Bạc" />
+  <DuanWeiType TypeID="3" Name="Vàng" />
+  <DuanWeiType TypeID="4" Name="Bạch Kim" />
+  <DuanWeiType TypeID="5" Name="Kim Cương" />
+  <DuanWeiType TypeID="6" Name="Vương Giả" />
+  <DuanWeiType TypeID="7" Name="Thiên Thần" />
+</DuanWeiType>

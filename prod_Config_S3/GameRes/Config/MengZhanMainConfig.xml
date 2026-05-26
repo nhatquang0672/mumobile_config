@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <MengZhanMainConfig ID="1" MengZhanTime="2021-07-16 00:00:00,2021-07-16 23:59:59" BaoMingTime="2021-07-16 00:00:00,2021-07-16 20:00:00" WaitTime="300" BeginTime="300" FightTime="600" CleanTime="30" NeedMoney="40,2000" FreeTimes="2" MapID="110000" LimitPlayer="25" LimitMeng="90" ZhanMengZhanLi="500" />
+</Config>

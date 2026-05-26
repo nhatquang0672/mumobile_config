@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Chi tiết tiến bậc trang bị" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Trang bị Tái Sinh bậc thấp có thể {17e43e}tiến bậc{dac7ae} để trở thành bậc cao. Tốn {17e43e}Điểm Tôi Luyện{dac7ae}, {17e43e}Điểm Đúc{dac7ae}, {17e43e}Điểm Niết Bàn{dac7ae}." Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, Khi tiến bậc ngoài việc cần có trang bị Tái Sinh, còn tiêu hao {17e43e}Điểm Tôi Luyện{dac7ae}, {17e43e}Điểm Đúc{dac7ae}, {17e43e}Điểm Niết Bàn{dac7ae}." Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, Tiến bậc có {17e43e}tỉ lệ thành công{dac7ae}, thành công sẽ nhận trang bị {17e43e}bậc cao{dac7ae}, thất bại sẽ không {17e43e}mất{dac7ae} trang bị gốc." Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, {17e43e}Đá khảm{dac7ae} trên trang bị gốc sẽ kế thừa đến trang bị mới." Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5, Sau khi tiến bậc, dù trang bị gốc {17e43e}có khóa hay không{dac7ae}, dù {17e43e}thành công hay không{dac7ae}, trang bị thành phẩm đều sẽ bị {17e43e}khóa{dac7ae}." Bold="0" />
+</Config>

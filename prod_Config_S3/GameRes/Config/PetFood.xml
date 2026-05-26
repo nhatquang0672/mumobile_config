@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <PetFood ID="0" FoodNum="1" FoodItemID="4026" FoodTime="604800" FoodAddAttribute="1" FoodGetExp="0" />
+  <PetFood ID="1" FoodNum="2" FoodItemID="4027" FoodTime="604800" FoodAddAttribute="1.25" FoodGetExp="0" />
+  <PetFood ID="2" FoodNum="3" FoodItemID="4028" FoodTime="604800" FoodAddAttribute="1.5" FoodGetExp="0" />
+</Config>

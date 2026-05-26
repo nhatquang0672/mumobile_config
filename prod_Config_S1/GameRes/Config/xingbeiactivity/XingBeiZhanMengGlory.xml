@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <XingBeiZhanMengGlory ID="1" RewardLev="1" NeedExp="500" RewardGoods="2041,1,1,0,0,0,0" />
+  <XingBeiZhanMengGlory ID="2" RewardLev="2" NeedExp="1000" RewardGoods="2041,5,1,0,0,0,0" />
+  <XingBeiZhanMengGlory ID="3" RewardLev="3" NeedExp="1500" RewardGoods="2041,10,1,0,0,0,0" />
+  <XingBeiZhanMengGlory ID="4" RewardLev="4" NeedExp="2000" RewardGoods="2041,15,1,0,0,0,0" />
+  <XingBeiZhanMengGlory ID="5" RewardLev="1" NeedExp="500" RewardGoods="2041,1,1,0,0,0,0" />
+  <XingBeiZhanMengGlory ID="6" RewardLev="2" NeedExp="1000" RewardGoods="2041,5,1,0,0,0,0" />
+  <XingBeiZhanMengGlory ID="7" RewardLev="3" NeedExp="1500" RewardGoods="2041,10,1,0,0,0,0" />
+  <XingBeiZhanMengGlory ID="8" RewardLev="4" NeedExp="2000" RewardGoods="2041,15,1,0,0,0,0" />
+</config>

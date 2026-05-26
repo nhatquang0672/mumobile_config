@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <ShengHenWake ID="1" WakeUpLev="0" NeedExp="500" Attribute="" Model="SHKY01.unity3d" />
+  <ShengHenWake ID="2" WakeUpLev="1" NeedExp="600" Attribute="MaxLifeV,3238" Model="SHKY01.unity3d" />
+  <ShengHenWake ID="3" WakeUpLev="2" NeedExp="700" Attribute="MaxLifeV,3239|MinAttack,200" Model="SHKY01.unity3d" />
+  <ShengHenWake ID="4" WakeUpLev="3" NeedExp="800" Attribute="MaxLifeV,3240|MinAttack,400" Model="SHKY01.unity3d" />
+  <ShengHenWake ID="5" WakeUpLev="4" NeedExp="900" Attribute="MaxLifeV,3241|MinAttack,600" Model="SHKY01.unity3d" />
+  <ShengHenWake ID="6" WakeUpLev="5" NeedExp="1000" Attribute="MaxLifeV,3242|MinAttack,800" Model="SHKY01.unity3d" />
+  <ShengHenWake ID="7" WakeUpLev="6" NeedExp="1100" Attribute="MaxLifeV,3243|MinAttack,800|MinMDefense,100" Model="SHKY01.unity3d" />
+  <ShengHenWake ID="8" WakeUpLev="7" NeedExp="1200" Attribute="MaxLifeV,3243|MinAttack,800|MinMDefense,101" Model="SHKY01.unity3d" />
+  <ShengHenWake ID="9" WakeUpLev="8" NeedExp="1300" Attribute="MaxLifeV,3243|MinAttack,800|MinMDefense,102" Model="SHKY01.unity3d" />
+  <ShengHenWake ID="10" WakeUpLev="9" NeedExp="1400" Attribute="MaxLifeV,3243|MinAttack,800|MinMDefense,103" Model="SHKY01.unity3d" />
+  <ShengHenWake ID="11" WakeUpLev="10" NeedExp="1500" Attribute="MaxLifeV,3243|MinAttack,800|MinMDefense,104" Model="SHKY01.unity3d" />
+  <ShengHenWake ID="12" WakeUpLev="11" NeedExp="1600" Attribute="MaxLifeV,3243|MinAttack,800|MinMDefense,105" Model="SHKY01.unity3d" />
+</Config>

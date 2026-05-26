@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <monster ID="1" mapID="99001" typeSign="0" monsterID="9890100" monsterSite="15350|10950" countDown="120" monsterNum="1" treasureDropid="-1" dailyLimit="3" collectTime="-1" crystalValue="-1" />
+  <monster ID="2" mapID="99001" typeSign="1" monsterID="9890101" monsterSite="" countDown="-1" monsterNum="5" treasureDropid="-1" dailyLimit="3" collectTime="-1" crystalValue="-1" />
+  <monster ID="3" mapID="99001" typeSign="2" monsterID="9890402" monsterSite="" countDown="-1" monsterNum="25" treasureDropid="9835001,3" dailyLimit="3" collectTime="2" crystalValue="-1" />
+  <monster ID="4" mapID="99001" typeSign="3" monsterID="9890400" monsterSite="" countDown="-1" monsterNum="25" treasureDropid="-1" dailyLimit="-1" collectTime="5" crystalValue="2" />
+  <monster ID="5" mapID="99001" typeSign="3" monsterID="9890401" monsterSite="" countDown="-1" monsterNum="25" treasureDropid="-1" dailyLimit="-1" collectTime="10" crystalValue="12" />
+</Config>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <ChengJiu>
+    <Tab ID="1" Name="Lần Đầu" />
+    <Tab ID="2" Name="Cường giả" />
+    <Tab ID="3" Name="Đăng nhập" />
+    <Tab ID="4" Name="Tài phú" />
+    <Tab ID="5" Name="Huyết chiến" />
+    <Tab ID="6" Name="Rèn Đúc" />
+    <Tab ID="7" Name="Vương Giả" />
+    <Tab ID="8" Name="Nhiệm vụ chính" />
+  </ChengJiu>
+</config>

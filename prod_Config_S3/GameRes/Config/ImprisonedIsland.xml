@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ImprisonedIsland ID="1" Grade="1" Name="Đảo Tù Thần I" DungeonID="99101" ResurrectionPrice="20_40_60_80_100_120" ClearRolesSecs="30" NeedGoods="8061" ImprisonedIslandNum="2_2_2_2_3_3_3_3_3_3_4_4_4_4_4_4" ImprisonedIslandTicketNum="5_10_15_20" ShowGoods="8111_8114_8101_8104" />
+  <ImprisonedIsland ID="2" Grade="2" Name="Đảo Tù Thần II" DungeonID="99102" ResurrectionPrice="20_40_60_80_100_120" ClearRolesSecs="30" NeedGoods="8061" ImprisonedIslandNum="2_2_2_2_3_3_3_3_3_3_4_4_4_4_4_4" ImprisonedIslandTicketNum="5_10_15_20" ShowGoods="8111_8114_8112_8115_8101_8104_8102" />
+  <ImprisonedIsland ID="3" Grade="3" Name="Đảo Tù Thần III" DungeonID="99103" ResurrectionPrice="20_40_60_80_100_120" ClearRolesSecs="30" NeedGoods="8061" ImprisonedIslandNum="2_2_2_2_3_3_3_3_3_3_4_4_4_4_4_4" ImprisonedIslandTicketNum="5_10_15_20" ShowGoods="8101_8104_8102_8112_8113_8115_8116" />
+</Config>

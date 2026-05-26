@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ScrollListData ID="0" ItemID="999000" MonsterID="9890000" GuardMonsterNeedNum="999000,20" GuardMonsterDecompose="96" Scale="130" PortraitLevel="3,9" />
+  <ScrollListData ID="1" ItemID="999001" MonsterID="9890001" GuardMonsterNeedNum="999001,20" GuardMonsterDecompose="96" Scale="110" PortraitLevel="3,9" />
+  <ScrollListData ID="2" ItemID="999002" MonsterID="9890002" GuardMonsterNeedNum="999002,20" GuardMonsterDecompose="96" Scale="110" PortraitLevel="3,9" />
+  <ScrollListData ID="3" ItemID="999003" MonsterID="9890003" GuardMonsterNeedNum="999003,20" GuardMonsterDecompose="96" Scale="110" PortraitLevel="3,9" />
+  <ScrollListData ID="4" ItemID="999004" MonsterID="9890004" GuardMonsterNeedNum="999004,15" GuardMonsterDecompose="30" Scale="110" PortraitLevel="3,9" />
+  <ScrollListData ID="5" ItemID="999005" MonsterID="9890005" GuardMonsterNeedNum="999005,15" GuardMonsterDecompose="30" Scale="120" PortraitLevel="3,9" />
+  <ScrollListData ID="6" ItemID="999006" MonsterID="9890006" GuardMonsterNeedNum="999006,15" GuardMonsterDecompose="30" Scale="100" PortraitLevel="3,9" />
+  <ScrollListData ID="7" ItemID="999007" MonsterID="9890007" GuardMonsterNeedNum="999007,10" GuardMonsterDecompose="10" Scale="110" PortraitLevel="3,9" />
+  <ScrollListData ID="8" ItemID="999008" MonsterID="9890008" GuardMonsterNeedNum="999008,10" GuardMonsterDecompose="10" Scale="135" PortraitLevel="3,9" />
+  <ScrollListData ID="9" ItemID="999009" MonsterID="9890009" GuardMonsterNeedNum="999009,10" GuardMonsterDecompose="10" Scale="110" PortraitLevel="3,9" />
+  <ScrollListData ID="10" ItemID="999010" MonsterID="9890010" GuardMonsterNeedNum="999010,10" GuardMonsterDecompose="10" Scale="90" PortraitLevel="3,9" />
+</Config>

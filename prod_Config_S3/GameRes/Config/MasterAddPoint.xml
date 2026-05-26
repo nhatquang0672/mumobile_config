@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <MasterAddPoint ID="1" MasterID="1" JiaDian="5" Strength="50" Intelligence="50" Constitution="50" Dexterity="50" />
+  <MasterAddPoint ID="2" MasterID="2" JiaDian="6" Strength="150" Intelligence="100" Constitution="100" Dexterity="100" />
+  <MasterAddPoint ID="3" MasterID="3" JiaDian="7" Strength="220" Intelligence="220" Constitution="220" Dexterity="220" />
+  <MasterAddPoint ID="4" MasterID="4" JiaDian="8" Strength="360" Intelligence="360" Constitution="360" Dexterity="360" />
+  <MasterAddPoint ID="5" MasterID="5" JiaDian="9" Strength="520" Intelligence="520" Constitution="520" Dexterity="520" />
+  <MasterAddPoint ID="6" MasterID="6" JiaDian="10" Strength="700" Intelligence="700" Constitution="700" Dexterity="700" />
+  <MasterAddPoint ID="7" MasterID="7" JiaDian="11" Strength="900" Intelligence="900" Constitution="900" Dexterity="900" />
+  <MasterAddPoint ID="8" MasterID="8" JiaDian="12" Strength="1120" Intelligence="1120" Constitution="1120" Dexterity="1120" />
+  <MasterAddPoint ID="9" MasterID="9" JiaDian="13" Strength="1360" Intelligence="1360" Constitution="1360" Dexterity="1360" />
+  <MasterAddPoint ID="10" MasterID="10" JiaDian="14" Strength="1620" Intelligence="1620" Constitution="1620" Dexterity="1620" />
+  <MasterAddPoint ID="11" MasterID="11" JiaDian="15" Strength="1900" Intelligence="1900" Constitution="1900" Dexterity="1900" />
+  <MasterAddPoint ID="12" MasterID="12" JiaDian="16" Strength="2200" Intelligence="2200" Constitution="2200" Dexterity="2200" />
+  <MasterAddPoint ID="13" MasterID="13" JiaDian="17" Strength="2520" Intelligence="2520" Constitution="2520" Dexterity="2520" />
+  <MasterAddPoint ID="14" MasterID="14" JiaDian="18" Strength="2860" Intelligence="2860" Constitution="2860" Dexterity="2860" />
+  <MasterAddPoint ID="15" MasterID="15" JiaDian="19" Strength="3220" Intelligence="3220" Constitution="3220" Dexterity="3220" />
+  <MasterAddPoint ID="16" MasterID="16" JiaDian="20" Strength="3600" Intelligence="3600" Constitution="3600" Dexterity="3600" />
+  <MasterAddPoint ID="17" MasterID="17" JiaDian="21" Strength="4000" Intelligence="4000" Constitution="4000" Dexterity="4000" />
+  <MasterAddPoint ID="18" MasterID="18" JiaDian="22" Strength="4500" Intelligence="4500" Constitution="4500" Dexterity="4500" />
+  <MasterAddPoint ID="19" MasterID="19" JiaDian="23" Strength="5000" Intelligence="5000" Constitution="5000" Dexterity="5000" />
+</Config>

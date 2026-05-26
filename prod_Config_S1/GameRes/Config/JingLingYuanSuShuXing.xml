@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Rose ID="100" Name="Dấu Thánh Quang" Tipe="1" Level="1" AcetiveElement="FireEnhance,0.1|LightningEnhance,0.1" tips="Bao gồm Nguyên Tố Hỏa và Lôi, có thể kích hoạt Dấu Thánh Quang" JingLingSpecial="15216" />
+  <Rose ID="101" Name="Dấu Thánh Quang" Tipe="1" Level="2" AcetiveElement="FireEnhance,0.15|LightningEnhance,0.15" tips="Bao gồm Nguyên Tố Hỏa và Lôi, có thể kích hoạt Dấu Thánh Quang" JingLingSpecial="15216" />
+  <Rose ID="102" Name="Dấu Thánh Quang" Tipe="1" Level="3" AcetiveElement="FireEnhance,0.2|LightningEnhance,0.2" tips="Bao gồm Nguyên Tố Hỏa và Lôi, có thể kích hoạt Dấu Thánh Quang" JingLingSpecial="15217" />
+  <Rose ID="103" Name="Dấu Thánh Quang" Tipe="1" Level="4" AcetiveElement="FireEnhance,0.25|LightningEnhance,0.25" tips="Bao gồm Nguyên Tố Hỏa và Lôi, có thể kích hoạt Dấu Thánh Quang" JingLingSpecial="15217" />
+  <Rose ID="104" Name="Dấu Thánh Quang" Tipe="1" Level="5" AcetiveElement="FireEnhance,0.3|LightningEnhance,0.3" tips="Bao gồm Nguyên Tố Hỏa và Lôi, có thể kích hoạt Dấu Thánh Quang" JingLingSpecial="15218" />
+  <Rose ID="200" Name="Dấu Sương Mù" Tipe="2" Level="1" AcetiveElement="WindEnhance,0.1|WaterEnhance,0.1" tips="Bao gồm Nguyên Tố Phong và Thủy, có thể kích hoạt Dấu Sương Mù" JingLingSpecial="15210" />
+  <Rose ID="201" Name="Dấu Sương Mù" Tipe="2" Level="2" AcetiveElement="WindEnhance,0.15|WaterEnhance,0.15" tips="Bao gồm Nguyên Tố Phong và Thủy, có thể kích hoạt Dấu Sương Mù" JingLingSpecial="15210" />
+  <Rose ID="202" Name="Dấu Sương Mù" Tipe="2" Level="3" AcetiveElement="WindEnhance,0.2|WaterEnhance,0.2" tips="Bao gồm Nguyên Tố Phong và Thủy, có thể kích hoạt Dấu Sương Mù" JingLingSpecial="15211" />
+  <Rose ID="203" Name="Dấu Sương Mù" Tipe="2" Level="4" AcetiveElement="WindEnhance,0.25|WaterEnhance,0.25" tips="Bao gồm Nguyên Tố Phong và Thủy, có thể kích hoạt Dấu Sương Mù" JingLingSpecial="15211" />
+  <Rose ID="204" Name="Dấu Sương Mù" Tipe="2" Level="5" AcetiveElement="WindEnhance,0.3|WaterEnhance,0.3" tips="Bao gồm Nguyên Tố Phong và Thủy, có thể kích hoạt Dấu Sương Mù" JingLingSpecial="15212" />
+  <Rose ID="300" Name="Dấu Băng Phong" Tipe="3" Level="1" AcetiveElement="SoilEnhance,0.1|IceEnhance,0.1" tips="Bao gồm Nguyên Tố Thổ và Băng, có thể kích hoạt Dấu Băng Phong" JingLingSpecial="15213" />
+  <Rose ID="301" Name="Dấu Băng Phong" Tipe="3" Level="2" AcetiveElement="SoilEnhance,0.15|IceEnhance,0.15" tips="Bao gồm Nguyên Tố Thổ và Băng, có thể kích hoạt Dấu Băng Phong" JingLingSpecial="15213" />
+  <Rose ID="302" Name="Dấu Băng Phong" Tipe="3" Level="3" AcetiveElement="SoilEnhance,0.2|IceEnhance,0.2" tips="Bao gồm Nguyên Tố Thổ và Băng, có thể kích hoạt Dấu Băng Phong" JingLingSpecial="15214" />
+  <Rose ID="303" Name="Dấu Băng Phong" Tipe="3" Level="4" AcetiveElement="SoilEnhance,0.25|IceEnhance,0.25" tips="Bao gồm Nguyên Tố Thổ và Băng, có thể kích hoạt Dấu Băng Phong" JingLingSpecial="15214" />
+  <Rose ID="304" Name="Dấu Băng Phong" Tipe="3" Level="5" AcetiveElement="SoilEnhance,0.3|IceEnhance,0.3" tips="Bao gồm Nguyên Tố Thổ và Băng, có thể kích hoạt Dấu Băng Phong" JingLingSpecial="15215" />
+</Config>

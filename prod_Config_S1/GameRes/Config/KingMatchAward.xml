@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <KingMatchAward ID="1" Name="Giải tham gia" MatchID="-1" Award="5596,10,1,0,0,0,0" />
+  <KingMatchAward ID="2" Name="Top 32" MatchID="1" Award="5596,12,1,0,0,0,0" />
+  <KingMatchAward ID="3" Name="Top 16" MatchID="2" Award="5596,15,1,0,0,0,0" />
+  <KingMatchAward ID="5" Name="Top 8" MatchID="3" Award="5596,18,1,0,0,0,0" />
+  <KingMatchAward ID="6" Name="Top 4" MatchID="4" Award="5596,20,1,0,0,0,0" />
+  <KingMatchAward ID="7" Name="Hạng 2" MatchID="5" Award="5596,25,1,0,0,0,0" />
+  <KingMatchAward ID="8" Name="Hạng 1" MatchID="6" Award="5596,30,1,0,0,0,0" />
+  <KingMatchAward ID="9" Name="Bồi thường chưa mở giải đấu" MatchID="-2" Award="5596,8,1,0,0,0,0|5594,1,1,0,0,0,0" />
+</Config>

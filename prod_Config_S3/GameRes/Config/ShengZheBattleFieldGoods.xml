@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <ShengZheBattleFieldGoods ID="4100001" GoodsType="3" GoodsResult="20" />
+  <ShengZheBattleFieldGoods ID="4100002" GoodsType="3" GoodsResult="40" />
+  <ShengZheBattleFieldGoods ID="4100003" GoodsType="3" GoodsResult="60" />
+  <ShengZheBattleFieldGoods ID="4100004" GoodsType="2" GoodsResult="4" />
+  <ShengZheBattleFieldGoods ID="4100005" GoodsType="1" GoodsResult="30" />
+</Config>

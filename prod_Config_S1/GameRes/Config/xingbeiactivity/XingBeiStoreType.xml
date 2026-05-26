@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <XingBeiStoreType ID="1" StoreType="1" StoreName="Kỳ Tích Tân Tinh" StarTime="2021-06-15 00:00:00" EndTime="2021-07-07 23:59:59" />
+  <XingBeiStoreType ID="2" StoreType="2" StoreName="Ma Vương Giáng Lâm" StarTime="2021-06-15 00:00:00" EndTime="2021-07-07 23:59:59" />
+  <XingBeiStoreType ID="3" StoreType="3" StoreName="Dũng Sĩ Trở Về" StarTime="2021-06-15 00:00:00" EndTime="2021-07-07 23:59:59" />
+</config>

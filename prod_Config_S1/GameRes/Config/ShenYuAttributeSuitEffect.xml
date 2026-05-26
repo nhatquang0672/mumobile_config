@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ShenYuAttributeSuitEffect ID="1" ShenYuAttributeName="Rực Rỡ-" AttributeType="1" PinZhi="1" SuitEffect="HolyAttack,4000" />
+  <ShenYuAttributeSuitEffect ID="2" ShenYuAttributeName="Lụi Tàn-" AttributeType="2" PinZhi="1" SuitEffect="ShadowAttack,4000" />
+  <ShenYuAttributeSuitEffect ID="3" ShenYuAttributeName="Bảo Vệ-" AttributeType="3" PinZhi="1" SuitEffect="NatureAttack,4000" />
+  <ShenYuAttributeSuitEffect ID="4" ShenYuAttributeName="Trừng Trị-" AttributeType="4" PinZhi="1" SuitEffect="ChaosAttack,4000" />
+  <ShenYuAttributeSuitEffect ID="5" ShenYuAttributeName="Kết Cục-" AttributeType="5" PinZhi="1" SuitEffect="IncubusAttack,4000" />
+  <ShenYuAttributeSuitEffect ID="6" ShenYuAttributeName="Rực Rỡ-" AttributeType="1" PinZhi="2" SuitEffect="HolyAttack,6000|HolyRebornDoubleAttackInjureResistance,0.05" />
+  <ShenYuAttributeSuitEffect ID="7" ShenYuAttributeName="Lụi Tàn-" AttributeType="2" PinZhi="2" SuitEffect="ShadowAttack,6000|ShadowRebornDoubleAttackInjureResistance,0.05" />
+  <ShenYuAttributeSuitEffect ID="8" ShenYuAttributeName="Bảo Vệ-" AttributeType="3" PinZhi="2" SuitEffect="NatureAttack,6000|NatureRebornDoubleAttackInjureResistance,0.05" />
+  <ShenYuAttributeSuitEffect ID="9" ShenYuAttributeName="Trừng Trị-" AttributeType="4" PinZhi="2" SuitEffect="ChaosAttack,6000|ChaosRebornDoubleAttackInjureResistance,0.05" />
+  <ShenYuAttributeSuitEffect ID="10" ShenYuAttributeName="Kết Cục-" AttributeType="5" PinZhi="2" SuitEffect="IncubusAttack,6000|IncubusRebornDoubleAttackInjureResistance,0.05" />
+  <ShenYuAttributeSuitEffect ID="11" ShenYuAttributeName="Rực Rỡ-" AttributeType="1" PinZhi="3" SuitEffect="HolyAttack,10000|HolyRebornDoubleAttackInjureResistance,0.1|HolyDoubleAttackPercent,0.02" />
+  <ShenYuAttributeSuitEffect ID="12" ShenYuAttributeName="Lụi Tàn-" AttributeType="2" PinZhi="3" SuitEffect="ShadowAttack,10000|ShadowRebornDoubleAttackInjureResistance,0.1|ShadowDoubleAttackPercent,0.02" />
+  <ShenYuAttributeSuitEffect ID="13" ShenYuAttributeName="Bảo Vệ-" AttributeType="3" PinZhi="3" SuitEffect="NatureAttack,10000|NatureRebornDoubleAttackInjureResistance,0.1|NatureDoubleAttackPercent,0.02" />
+  <ShenYuAttributeSuitEffect ID="14" ShenYuAttributeName="Trừng Trị-" AttributeType="4" PinZhi="3" SuitEffect="ChaosAttack,10000|ChaosRebornDoubleAttackInjureResistance,0.1|ChaosDoubleAttackPercent,0.02" />
+  <ShenYuAttributeSuitEffect ID="15" ShenYuAttributeName="Kết Cục-" AttributeType="5" PinZhi="3" SuitEffect="IncubusAttack,10000|IncubusRebornDoubleAttackInjureResistance,0.1|IncubusDoubleAttackPercent,0.02" />
+</Config>

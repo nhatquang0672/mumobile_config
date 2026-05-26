@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--区域脚本-->
+<Map>
+  <Areas>
+  	<Area ID="1" X="16300" Y="17500" Radius="200" LuaScriptFile="jiaofu.lua"/>
+  </Areas>
+</Map>

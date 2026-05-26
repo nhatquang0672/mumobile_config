@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <ShengHenExp ID="1" QualityType="0" Exp="5" ChaiXieRate="0.5" />
+  <ShengHenExp ID="2" QualityType="1" Exp="10" ChaiXieRate="0.23" />
+  <ShengHenExp ID="3" QualityType="2" Exp="15" ChaiXieRate="0.33" />
+  <ShengHenExp ID="4" QualityType="3" Exp="20" ChaiXieRate="0.4" />
+  <ShengHenExp ID="5" QualityType="4" Exp="25" ChaiXieRate="0.3" />
+  <ShengHenExp ID="6" QualityType="5" Exp="30" ChaiXieRate="0.1" />
+  <ShengHenExp ID="7" QualityType="6" Exp="35" ChaiXieRate="0.15" />
+</Config>

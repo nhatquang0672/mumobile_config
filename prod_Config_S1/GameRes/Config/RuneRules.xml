@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="Hướng dẫn Khắc Thú Cưỡi" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, {fac60d}Kích hoạt Khắc{dac7ae}: Tốn đạo cụ Khắc cùng loại, có thể kích hoạt Khắc Thú Cưỡi hệ tái sinh khác trong giao diện Khắc Thú Cưỡi, sau khi kích hoạt sẽ vĩnh viễn thêm thuộc tính cơ bản tái sinh tương ứng, có thể cùng lúc kích hoạt hệ tái sinh khác, Khắc hệ khác thuộc tính hoàn mỹ {17e43e}cộng dồn{dac7ae}." Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, {fac60d}Tăng cấp Khắc{dac7ae}: Tốn đạo cụ Khắc cùng loại, có thể tăng cấp Khắc Thú Cưỡi, giới hạn Khắc {17e43e}Lv100{dac7ae}, sau khi tăng cấp sẽ tăng thuộc tính cơ bản tái sinh tương ứng, cấp Khắc càng cao, thuộc tính tăng càng nhiều, đạo cụ Khắc tốn càng nhiều. tăng cấp Khắc cao cấp cần tốn thêm {17e43e}Khắc Thần Quang{dac7ae}." Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, {fac60d}Phân loại Khắc{dac7ae}: Khắc Thú Cưỡi gồm 5 hệ tái sinh là Thần Thánh, Ám Ảnh, Tự Nhiên, Ác Mộng, Hỗn Độn, Khắc mỗi hệ do 4 loại Khắc là Đấu Chí, Hình Luật, Ưng Thú, Luân Hồi hợp thành, mỗi loại Khắc có thuộc tính tăng khác nhau.{dac7ae}" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, {fac60d}Hiệu quả Khắc{dac7ae}: 4 loại Khắc cùng hệ đều đạt cấp chỉ định có thể kích hoạt hiệu quả Khắc đặc biệt có tên &quot;Bạo Phát&quot;, có xác suất kích hoạt thuộc tính Thần Thánh/Ám Ảnh/Tự Nhiên/Ác Mộng/Hỗn Hộn gây sát thương thêm. Có thể vào giao diện Khắc Thú Cưỡi chọn hiệu quả Khắc muốn dùng, hiệu quả Khắc chỉ hiệu lực sau khi dùng.{dac7ae}" Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5, {fac60d}Tăng hiệu quả{dac7ae}: 4 loại Khắc cùng hệ tái sinh mỗi lần tăng {17e43e}10{dac7ae} cấp, hiệu quả Khắc được 1 lần tăng.{dac7ae}" Bold="0" />
+</Config>

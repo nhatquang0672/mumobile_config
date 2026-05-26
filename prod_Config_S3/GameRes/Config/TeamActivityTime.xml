@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <TeamActivityTime ID="0" TeamSeasonEndTime="0" TeamActivityType="1" TeamActivityName="Đoạt Bảo Ma Vực" TeamActivityInterFace="108" />
+  <TeamActivityTime ID="1" TeamSeasonEndTime="0" TeamActivityType="2" TeamActivityName="Đại Sát Ma Giới" TeamActivityInterFace="108" />
+  <TeamActivityTime ID="2" TeamSeasonEndTime="0" TeamActivityType="4" TeamActivityName="Chiến Đội Tranh Bá" TeamActivityInterFace="108" />
+  <TeamActivityTime ID="3" TeamSeasonEndTime="0" TeamActivityType="5" TeamActivityName="Tranh Đấu Chiến Đội" TeamActivityInterFace="108" />
+  <TeamActivityTime ID="4" TeamSeasonEndTime="1" TeamActivityType="1" TeamActivityName="Đoạt Bảo Ma Vực" TeamActivityInterFace="108" />
+  <TeamActivityTime ID="5" TeamSeasonEndTime="1" TeamActivityType="2" TeamActivityName="Đại Sát Ma Giới" TeamActivityInterFace="108" />
+  <TeamActivityTime ID="6" TeamSeasonEndTime="1" TeamActivityType="4" TeamActivityName="Chiến Đội Tranh Bá" TeamActivityInterFace="108" />
+  <TeamActivityTime ID="7" TeamSeasonEndTime="1" TeamActivityType="5" TeamActivityName="Tranh Đấu Chiến Đội" TeamActivityInterFace="108" />
+  <TeamActivityTime ID="8" TeamSeasonEndTime="2" TeamActivityType="2" TeamActivityName="Đại Sát Ma Giới" TeamActivityInterFace="108" />
+  <TeamActivityTime ID="9" TeamSeasonEndTime="2" TeamActivityType="3" TeamActivityName="Săn Bắt Đào Vong" TeamActivityInterFace="108" />
+  <TeamActivityTime ID="10" TeamSeasonEndTime="2" TeamActivityType="4" TeamActivityName="Chiến Đội Tranh Bá" TeamActivityInterFace="108" />
+  <TeamActivityTime ID="11" TeamSeasonEndTime="2" TeamActivityType="5" TeamActivityName="Tranh Đấu Chiến Đội" TeamActivityInterFace="108" />
+  <TeamActivityTime ID="12" TeamSeasonEndTime="3" TeamActivityType="4" TeamActivityName="Chiến Đội Tranh Bá" TeamActivityInterFace="108" />
+  <TeamActivityTime ID="13" TeamSeasonEndTime="3" TeamActivityType="5" TeamActivityName="Tranh Đấu Chiến Đội" TeamActivityInterFace="108" />
+  <TeamActivityTime ID="14" TeamSeasonEndTime="3" TeamActivityType="6" TeamActivityName="Thiên Thần Chiến" TeamActivityInterFace="108" />
+  <TeamActivityTime ID="15" TeamSeasonEndTime="3" TeamActivityType="7" TeamActivityName="Vùng Thần Phạt" TeamActivityInterFace="108" />
+  <TeamActivityTime ID="16" TeamSeasonEndTime="4" TeamActivityType="4" TeamActivityName="Chiến Đội Tranh Bá" TeamActivityInterFace="108" />
+  <TeamActivityTime ID="17" TeamSeasonEndTime="4" TeamActivityType="5" TeamActivityName="Tranh Đấu Chiến Đội" TeamActivityInterFace="108" />
+  <TeamActivityTime ID="18" TeamSeasonEndTime="4" TeamActivityType="8" TeamActivityName="Động Hắc Ám" TeamActivityInterFace="108" />
+  <TeamActivityTime ID="19" TeamSeasonEndTime="4" TeamActivityType="6" TeamActivityName="Thiên Thần Chiến" TeamActivityInterFace="108" />
+</Config>

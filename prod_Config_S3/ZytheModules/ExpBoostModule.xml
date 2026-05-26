@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Info Active="false" Title="ExpBoostModule" Desciption="Exp Bost Event for Monster Exp and Task Exp (if you want the exp bost permanet just set Days and Time blank. If multiple boos is active then the first one will be used)" />
+  <Config>
+    <ExpBost Enable="true" MapIds="1" DaysOfWeek="Sunday|" TimesOfDay="-1" SpanMinutes="30" ExpMultiplier="20" Notice="Global ExpBoost" />
+  </Config>
+</Module>

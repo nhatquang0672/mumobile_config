@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <MengZhanTiShi ID="1" ShowType="1" ShowNum="5" ShowPic="Kill_1" />
+  <MengZhanTiShi ID="2" ShowType="1" ShowNum="10" ShowPic="Kill_2" />
+  <MengZhanTiShi ID="3" ShowType="1" ShowNum="15" ShowPic="Kill_3" />
+  <MengZhanTiShi ID="4" ShowType="2" ShowNum="5" ShowPic="Kill_4" />
+</Config>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Quy tắc chiếm lĩnh Thần Điện" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1、Trạng thái ban đầu Thần Điện là{17e43e} chưa chiếm lĩnh{dac7ae}, bên nào tiến vào Thần Điện{17e43e} lập tức chiếm lĩnh" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2、Trong Thần Điện tồn tại người 2 phe, trạng thái Thần Điện không đổi" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3、Trong Thần Điện chỉ có người phe chưa chiếm lĩnh, trạng thái sẽ {17e43e}lập tức thay đổi {dac7ae}thành phe này" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4、Trong Thần Điện không có người chơi, trạng thái {17e43e}sẽ thay đổi ngay{dac7ae} thành chưa được chiếm lĩnh" Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5、Trong Thần Điện không có cổng rời khỏi" Bold="0" />
+  <HelpIntro ID="7" Intro="{fac60d}Quy tắc Thần Phạt Thiểm Điện" Bold="1" />
+  <HelpIntro ID="8" Intro="{dac7ae}1、Mỗi 5 giây trong Thần Điện, tất cả người chơi trong map chịu {ff0000}1 lần sát thương" Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae}2、Sát thương sẽ tùy vào thời gian nhân vật lưu giữ trong map {ff0000}tăng dần 1 ít" Bold="0" />
+  <HelpIntro ID="10" Intro="{dac7ae}3、Chiếm lĩnh thần điện, cờ sẽ nhận được {17e43e}buff giảm dame của Thần Phạt" Bold="0" />
+  <HelpIntro ID="11" Intro="{dac7ae}4、Chiếm lĩnh thần điện, cờ sẽ nhận được {17e43e}tích điểm chiến trường" Bold="0" />
+  <HelpIntro ID="12" Intro="{fac60d}Tổng kết" Bold="1" />
+  <HelpIntro ID="13" Intro="{dac7ae}1、Khi hoạt động kết thúc, phe chiếm lĩnh Thần Điện sẽ {17e43e}thắng" Bold="0" />
+  <HelpIntro ID="14" Intro="{dac7ae}2、Nếu 2 phe đều không chiếm lĩnh, phe có tích điểm cao sẽ{17e43e} thắng" Bold="0" />
+  <HelpIntro ID="15" Intro="{dac7ae}3、Phe thắng sẽ căn cứ vào {17e43e}số kích sát{dac7ae}, {17e43e}chiếm lĩnh Điện Thần{dac7ae}, {17e43e}chiếm lĩnh cờ{dac7ae} vân vân, sẽ chọn ra {17e43e}MVP trận đấu" Bold="0" />
+</Config>

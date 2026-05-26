@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Star GuardQuality="1" GuardLevel="2" GuardLuckyOne="109982" LuckyTwo="109989" LuckyTwoRate="0.091" NeedGoods="2043,1" LuckyMax="110000" />
+  <Star GuardQuality="1" GuardLevel="3" GuardLuckyOne="109976" LuckyTwo="109986" LuckyTwoRate="0.071" NeedGoods="2043,1" LuckyMax="110000" />
+  <Star GuardQuality="1" GuardLevel="4" GuardLuckyOne="109970" LuckyTwo="109985" LuckyTwoRate="0.067" NeedGoods="2043,1" LuckyMax="110000" />
+  <Star GuardQuality="1" GuardLevel="5" GuardLuckyOne="109964" LuckyTwo="109982" LuckyTwoRate="0.056" NeedGoods="2043,1" LuckyMax="110000" />
+  <Star GuardQuality="1" GuardLevel="6" GuardLuckyOne="109952" LuckyTwo="109980" LuckyTwoRate="0.05" NeedGoods="2043,1" LuckyMax="110000" />
+  <Star GuardQuality="1" GuardLevel="7" GuardLuckyOne="109940" LuckyTwo="109975" LuckyTwoRate="0.04" NeedGoods="2043,1" LuckyMax="110000" />
+  <Star GuardQuality="1" GuardLevel="8" GuardLuckyOne="109928" LuckyTwo="109976" LuckyTwoRate="0.042" NeedGoods="2043,1" LuckyMax="110000" />
+  <Star GuardQuality="1" GuardLevel="9" GuardLuckyOne="109916" LuckyTwo="109972" LuckyTwoRate="0.036" NeedGoods="2043,1" LuckyMax="110000" />
+  <Star GuardQuality="1" GuardLevel="10" GuardLuckyOne="109904" LuckyTwo="109968" LuckyTwoRate="0.031" NeedGoods="2043,1" LuckyMax="110000" />
+  <Star GuardQuality="2" GuardLevel="2" GuardLuckyOne="109957" LuckyTwo="109975" LuckyTwoRate="0.04" NeedGoods="2043,1" LuckyMax="110000" />
+  <Star GuardQuality="2" GuardLevel="3" GuardLuckyOne="109943" LuckyTwo="109967" LuckyTwoRate="0.03" NeedGoods="2043,1" LuckyMax="110000" />
+  <Star GuardQuality="2" GuardLevel="4" GuardLuckyOne="109928" LuckyTwo="109964" LuckyTwoRate="0.028" NeedGoods="2043,1" LuckyMax="110000" />
+  <Star GuardQuality="2" GuardLevel="5" GuardLuckyOne="109914" LuckyTwo="109957" LuckyTwoRate="0.023" NeedGoods="2043,1" LuckyMax="110000" />
+  <Star GuardQuality="2" GuardLevel="6" GuardLuckyOne="109885" LuckyTwo="109952" LuckyTwoRate="0.021" NeedGoods="2043,1" LuckyMax="110000" />
+  <Star GuardQuality="2" GuardLevel="7" GuardLuckyOne="109857" LuckyTwo="109941" LuckyTwoRate="0.017" NeedGoods="2043,1" LuckyMax="110000" />
+  <Star GuardQuality="2" GuardLevel="8" GuardLuckyOne="109826" LuckyTwo="109941" LuckyTwoRate="0.017" NeedGoods="2043,1" LuckyMax="110000" />
+  <Star GuardQuality="2" GuardLevel="9" GuardLuckyOne="109799" LuckyTwo="109933" LuckyTwoRate="0.015" NeedGoods="2043,1" LuckyMax="110000" />
+  <Star GuardQuality="2" GuardLevel="10" GuardLuckyOne="109769" LuckyTwo="109941" LuckyTwoRate="0.017" NeedGoods="2043,1" LuckyMax="110000" />
+  <Star GuardQuality="3" GuardLevel="2" GuardLuckyOne="109923" LuckyTwo="109966" LuckyTwoRate="0.03" NeedGoods="2043,1" LuckyMax="110000" />
+  <Star GuardQuality="3" GuardLevel="3" GuardLuckyOne="109898" LuckyTwo="109964" LuckyTwoRate="0.028" NeedGoods="2043,1" LuckyMax="110000" />
+  <Star GuardQuality="3" GuardLevel="4" GuardLuckyOne="109871" LuckyTwo="109961" LuckyTwoRate="0.026" NeedGoods="2043,1" LuckyMax="110000" />
+  <Star GuardQuality="3" GuardLevel="5" GuardLuckyOne="109846" LuckyTwo="109958" LuckyTwoRate="0.024" NeedGoods="2043,1" LuckyMax="110000" />
+  <Star GuardQuality="3" GuardLevel="6" GuardLuckyOne="109793" LuckyTwo="109954" LuckyTwoRate="0.022" NeedGoods="2043,1" LuckyMax="110000" />
+  <Star GuardQuality="3" GuardLevel="7" GuardLuckyOne="109743" LuckyTwo="109950" LuckyTwoRate="0.02" NeedGoods="2043,1" LuckyMax="110000" />
+  <Star GuardQuality="3" GuardLevel="8" GuardLuckyOne="109687" LuckyTwo="109944" LuckyTwoRate="0.018" NeedGoods="2043,1" LuckyMax="110000" />
+  <Star GuardQuality="3" GuardLevel="9" GuardLuckyOne="109639" LuckyTwo="109937" LuckyTwoRate="0.016" NeedGoods="2043,1" LuckyMax="110000" />
+  <Star GuardQuality="3" GuardLevel="10" GuardLuckyOne="109585" LuckyTwo="109928" LuckyTwoRate="0.014" NeedGoods="2043,1" LuckyMax="110000" />
+</Config>

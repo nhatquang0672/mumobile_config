@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <QiQuLottery ID="1" LotteryID="10" LotteryName="Tuyển Thủ Sơ Cấp" LotteryYeQianPic="QiQuSLnpc_13" LotteryPic="QiQuSLnpc_12" LotteryUnlock="-1" DrawCost="40,1" Scissors="90" Rock="5" Paper="3" WinAward="8610,10,1,0,0,0,0" LossAward="63174,1,1,0,0,0,0|50305,3,1,0,0,0,0" DrawAward="2001,188,1,0,0,0,0|2002,188,1,0,0,0,0|2003,188,1,0,0,0,0" ShowImage="QiQuSL1_10" ResultImage="QiQuSLnpc_11" />
+  <QiQuLottery ID="2" LotteryID="20" LotteryName="Tuyển Thủ Trung Cấp" LotteryYeQianPic="QiQuSLnpc_23" LotteryPic="QiQuSLnpc_22" LotteryUnlock="200" DrawCost="40,2" Scissors="80" Rock="15" Paper="5" WinAward="8609,88,1,0,0,0,0" LossAward="63174,1,1,0,0,0,0|50305,3,1,0,0,0,0" DrawAward="2001,188,1,0,0,0,0|2002,188,1,0,0,0,0|2003,188,1,0,0,0,0" ShowImage="" ResultImage="QiQuSLnpc_21" />
+  <QiQuLottery ID="3" LotteryID="30" LotteryName="Tuyển Thủ Cao Cấp" LotteryYeQianPic="QiQuSLnpc_33" LotteryPic="QiQuSLnpc_32" LotteryUnlock="300" DrawCost="40,3" Scissors="70" Rock="20" Paper="10" WinAward="23014,1,1,0,0,0,0" LossAward="63174,1,1,0,0,0,0|50305,3,1,0,0,0,0" DrawAward="2001,188,1,0,0,0,0|2002,188,1,0,0,0,0|2003,188,1,0,0,0,0" ShowImage="" ResultImage="QiQuSLnpc_31" />
+</config>

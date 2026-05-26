@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <ID ID="20000" Name="Hỏa Liệt Nộ" Attribute="MaxLifeV,10396|MaxLifePercent,0.02" AddPercent="0.1" InitialIcon="SoulFire_001" Icon="SoulFire_001" Decoration1="huoqi_huo_hong.unity3d" Decoration2="16515" Decoration3="16515" NeedGoods="8620,1" NeedLevel="2,0" />
+  <ID ID="20001" Name="Hỏa Tinh Hồn" Attribute="MaxLifeV,17674|MaxLifePercent,0.04" AddPercent="0.2" InitialIcon="SoulFire_001" Icon="SoulFire_002" Decoration1="huoqi_huo_cheng.unity3d" Decoration2="16516" Decoration3="16516" NeedGoods="8620,2" NeedLevel="4,0" />
+  <ID ID="20002" Name="Hỏa Thường Minh" Attribute="MaxLifeV,28279|MaxLifePercent,0.08" AddPercent="0.3" InitialIcon="SoulFire_001" Icon="SoulFire_003" Decoration1="huoqi_huo_huang.unity3d" Decoration2="16517" Decoration3="16517" NeedGoods="8620,4" NeedLevel="6,0" />
+  <ID ID="20003" Name="Hỏa U Ảnh" Attribute="MaxLifeV,45247|MaxLifePercent,0.16" AddPercent="0.4" InitialIcon="SoulFire_001" Icon="SoulFire_004" Decoration1="huoqi_huo_lv.unity3d" Decoration2="16518" Decoration3="16518" NeedGoods="8620,8" NeedLevel="8,0" />
+  <ID ID="20004" Name="Hỏa Vô Chước" Attribute="MaxLifeV,72396|MaxLifePercent,0.3" AddPercent="0.5" InitialIcon="SoulFire_001" Icon="SoulFire_005" Decoration1="huoqi_huo_lan.unity3d" Decoration2="16519" Decoration3="16519" NeedGoods="8620,16" NeedLevel="10,0" />
+  <ID ID="20005" Name="Hỏa Áo Pháp" Attribute="MaxLifeV,108594|MaxLifePercent,0.6" AddPercent="0.6" InitialIcon="SoulFire_001" Icon="SoulFire_006" Decoration1="huoqi_huo_zi.unity3d" Decoration2="16520" Decoration3="16520" NeedGoods="8620,32" NeedLevel="12,0" />
+</Config>

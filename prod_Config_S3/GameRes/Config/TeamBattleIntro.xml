@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Chi tiết Thi Đấu Đội" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Tham gia Thi Đấu Đội cần tạo hoặc tham gia 1 {17e43e}chiến đội{dac7ae}." Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, {17e43e}18:00-24:00{dac7ae} mỗi ngày sẽ mở Thi Đấu Đội, đội đủ {17e43e}5 người{dac7ae} và đều {17e43e}online{dac7ae} sẽ có thể {17e43e}đăng ký chiến đấu{dac7ae}." Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, Khi vào chiến đấu, {17e43e}2{dac7ae} chiến đội sẽ tiến hành {17e43e}5V5{dac7ae}, {17e43e}phe sống sót{dac7ae} sẽ {17e43e}chiến thắng{dac7ae}. Khi hết thời gian, nếu {17e43e}hai bên{dac7ae} đều còn sống thì xem như hai bên {17e43e}đều thua{dac7ae}." Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, {17e43e}Chiến thắng{dac7ae} sẽ dựa vào {17e43e}bậc chiến đội{dac7ae} bản thân {17e43e}để nhận {dac7ae}điểm bậc, {17e43e}thất bại{dac7ae} sẽ {17e43e}trừ{dac7ae} điểm bậc, tích lũy điểm để tăng {17e43e}bậc chiến đội{dac7ae}." Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5, Chiến đội {17e43e}Đồng bậc 1-5{dac7ae} {17e43e}khi thua sẽ không bị trừ điểm{dac7ae}." Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae}6, {17e43e}5{dac7ae} trận đầu mỗi ngày sẽ nhận {17e43e}điểm Vinh Dự Đội{dac7ae}, thắng hay thua {17e43e}đều{dac7ae} nhận được. Điểm vinh dự dùng để đổi {17e43e}đạo cụ quý{dac7ae} trong tiệm." Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae}7, Dựa vào {17e43e}bậc bà điểm{dac7ae} của đội để tiến hành xếp hạng, hạng càng {17e43e}cao{dac7ae}, thường càng {17e43e}cao{dac7ae}." Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae}8, Ngày {17e43e}1 mỗi tháng lúc 3:00{dac7ae} sẽ làm mới BXH và phát {17e43e}thưởng{dac7ae}. Tư cách nhận thưởng cần phải tham gia {17e43e}4{dac7ae} trận đấu. Khi rời đội thì số trận đấu sẽ bị {17e43e}xóa{dac7ae}." Bold="0" />
+</Config>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Info Active="false" Title="CustomDropModule" Desciption="Cusom Drop System" />
+  <CustomDrop>
+    <CustomDrop Enable="1" UseRate="100" Maps="5310|" Monsters="531000|" ItemGroup="1000:1|" DropCount="1" Description="Sample" />
+  </CustomDrop>
+  <ItemGroup>
+    <Group ID="1000" Name="Sample" GoodsIds="50057|" IsBound="0" MaxCount="1" MaxLevel="0" MaxAppend="0" CanLucky="0" ExcellentRandom="1001" />
+  </ItemGroup>
+  <ExcellentRandom>
+    <Random ID="1001" ExcellentRate="0:10|1:5|3:5|5:5|6:2|7:2|8:2|9:2|10:1" MaxRate="2:20|3:20|4:50|5:05|6:05" Comment="Sample" />
+  </ExcellentRandom>
+</Module>

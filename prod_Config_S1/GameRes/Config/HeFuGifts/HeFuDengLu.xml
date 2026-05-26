@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="21"  />
+  <GiftList Description="Trong thời gian gộp server, chỉ cần người chơi Tích lũy đạt số lượng ngày tương ứng sẽ có thể nhận quà phong phú.">
+  <Award TimeOl="1" GoodsIDs="2000,3,1,0,0,0,0|2030,5,1,0,0,0,0|2001,2,1,0,0,0,0|2002,1,1,0,0,0,0"  />
+  <Award TimeOl="2" GoodsIDs="2000,3,1,0,0,0,0|2030,5,1,0,0,0,0|2001,2,1,0,0,0,0|2002,1,1,0,0,0,0"  />
+  <Award TimeOl="3" GoodsIDs="2000,3,1,0,0,0,0|2030,5,1,0,0,0,0|2001,2,1,0,0,0,0|2002,1,1,0,0,0,0|2003,5,1,0,0,0,0"  />
+  <Award TimeOl="4" GoodsIDs="2000,3,1,0,0,0,0|2030,5,1,0,0,0,0|2001,2,1,0,0,0,0|2002,1,1,0,0,0,0|2003,5,1,0,0,0,0"  />
+  <Award TimeOl="5" GoodsIDs="2000,3,1,0,0,0,0|2030,5,1,0,0,0,0|2001,2,1,0,0,0,0|2002,1,1,0,0,0,0|2003,5,1,0,0,0,0|7040,1,1,0,0,0,0"  />
+  </GiftList>
+</Config>

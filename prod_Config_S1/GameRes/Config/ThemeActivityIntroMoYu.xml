@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Cách chơi Long Huyệt Ma Hoặc" Bold="1" />
+  <HelpIntro ID="2" Intro="1, Trong map có 11 BOSS, {17e43e}mỗi ngày 19:00{-}làm mới BOSS" Bold="0" />
+  <HelpIntro ID="3" Intro="2, Mỗi BOSS căn cứ vào sát thương mỗi Guild và xếp hạng, Guild có tổng DMG {17e43e}xếp hạng top 5 {-}hoặc DMG cá nhân {17e43e}đạt 20000{-} có thể nhận được {17e43e}lượng lớn Thành Tựu, Danh Vọng{-}." Bold="0" />
+  <HelpIntro ID="4" Intro="3, Trong Guild {17e43e}xếp hạng 1{-}, người chơi DMG BOSS {17e43e}cao nhất {-}sẽ nhận thưởng đạo cụ rơi của BOSS." Bold="0" />
+  <HelpIntro ID="5" Intro="4, Người chơi {ff0000}không Guild{-}, DMG BOSS sẽ không được ghi nhận vào BXH" Bold="0" />
+</Config>

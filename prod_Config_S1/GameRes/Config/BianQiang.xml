@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <BianQiang ID="101" Name="Lv sao cánh" Image="WingStar" PlaceType="2" Parameter="1061" Link="701" />
+  <BianQiang ID="102" Name="Lv cánh" Image="WingLevel" PlaceType="2" Parameter="1061" Link="701" />
+  <BianQiang ID="201" Name="Tăng kỹ năng" Image="SkillLevelup" PlaceType="1" Parameter="0,1" Link="700" />
+  <BianQiang ID="301" Name="Lv trang bị" Image="EquipLevel" PlaceType="2" Parameter="1152" Link="202" />
+  <BianQiang ID="302" Name="Cường hóa trang bị" Image="EquipStrengthen" PlaceType="2" Parameter="1152" Link="200" />
+  <BianQiang ID="303" Name="Gia cố trang bị" Image="EquipSuperaddition" PlaceType="2" Parameter="1351" Link="201" />
+  <BianQiang ID="401" Name="Hộ Phù" Image="Amulet" PlaceType="2" Parameter="1464" Link="305" />
+  <BianQiang ID="501" Name="Tăng ích VIP" Image="VIPBuff" PlaceType="1" Parameter="0,1" Link="800" />
+  <BianQiang ID="601" Name="Danh hiệu thành tựu" Image="TitleLevel" PlaceType="1" Parameter="0,1" Link="801" />
+  <BianQiang ID="701" Name="Quân hàm" Image="MilitaryRanklevel" PlaceType="2" Parameter="1420" Link="207" />
+  <BianQiang ID="801" Name="Kích hoạt sao" Image="Constellation" PlaceType="2" Parameter="1080" Link="702" />
+  <BianQiang ID="901" Name="Lv chuyển sinh" Image="ZhuanSheng" PlaceType="1" Parameter="0,1" Link="1100" />
+  <BianQiang ID="1001" Name="Bồi dưỡng trang bị" Image="EquipPeiyang" PlaceType="2" Parameter="1791" Link="210" />
+  <BianQiang ID="1101" Name="Lv tinh linh" Image="JingLingLevelup" PlaceType="2" Parameter="1110" Link="1330" />
+  <BianQiang ID="1201" Name="Nguyên Tố" Image="YuanSuLevelup" PlaceType="2" Parameter="2110" Link="1340" />
+  <BianQiang ID="1301" Name="Linh Vũ" Image="WingLingYu" PlaceType="3" Parameter="4,0" Link="1350" />
+  <BianQiang ID="1302" Name="Chú Linh" Image="WingZhuLing" PlaceType="3" Parameter="5,0" Link="1351" />
+  <BianQiang ID="1303" Name="Chú Hồn" Image="WingZhuHun" PlaceType="3" Parameter="6,0" Link="1352" />
+  <BianQiang ID="1401" Name="Bùa Thành Tựu" Image="ChengJiuFuWen" PlaceType="4" Parameter="4" Link="1360" />
+  <BianQiang ID="1501" Name="Tái tạo trang bị" Image="ShenQiZaiZao" PlaceType="2" Parameter="4170" Link="310" />
+  <BianQiang ID="1601" Name="Huân Chương" Image="JunXianXunZhang" PlaceType="5" Parameter="4" Link="2003" />
+  <BianQiang ID="1701" Name="Sách Merlin" Image="MeiLinZhiShu" PlaceType="2" Parameter="2561" Link="350" />
+  <BianQiang ID="1801" Name="Guardian" Image="ShouHuShen" PlaceType="2" Parameter="2133" Link="340" />
+  <BianQiang ID="1901" Name="Đá Huỳnh Quang" Image="YingShi" PlaceType="2" Parameter="3070" Link="390" />
+  <BianQiang ID="2001" Name="Thánh Vật" Image="ShengWu" PlaceType="2" Parameter="2890" Link="380" />
+  <BianQiang ID="2101" Name="Kỹ năng Tinh Linh" Image="JingLingJiNeng" PlaceType="2" Parameter="1901" Link="1470" />
+  <BianQiang ID="2201" Name="Thần Điện Chiến Minh" Image="ZhanMengShenDian" PlaceType="2" Parameter="1820" Link="1460" />
+  <BianQiang ID="2301" Name="Tarot" Image="TaLuoPai" PlaceType="2" Parameter="3580" Link="1490" />
+  <BianQiang ID="2401" Name="Thần Khí" Image="ShenQi" PlaceType="2" Parameter="3970" Link="1495" />
+  <BianQiang ID="2501" Name="Thần Tích Tinh Linh" Image="ShenJi" PlaceType="2" Parameter="2121" Link="1500" />
+  <BianQiang ID="2601" Name="Huy Hiệu" Image="HuiJi" PlaceType="2" Parameter="2320" Link="1498" />
+  <BianQiang ID="2701" Name="Cấp thú cưỡi" Image="ZuoQiLevelup" PlaceType="2" Parameter="2372" Link="1515" />
+  <BianQiang ID="2801" Name="Truyền T.Bị Tái Sinh" Image="ChongShengZhuangBeiGuanZhu" PlaceType="6" Parameter="60" Link="1538" />
+  <BianQiang ID="2901" Name="Bậc Bí Bảo Ma Thần" Image="MiBaoLevelup" PlaceType="6" Parameter="1" Link="1539" />
+  <BianQiang ID="3001" Name="Cấp Chổi Phép" Image="SaoZhouLevelup" PlaceType="7" Parameter="10,0" Link="350" />
+  <BianQiang ID="4001" Name="Đặc Quyền Quốc Vương" Image="GuoWangTeQuan" PlaceType="2" Parameter="3580" Link="1547" />
+</config>

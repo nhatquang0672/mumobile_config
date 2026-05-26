@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+<Teleports>
+	<Teleport Code="197" FrameNum="13" Tip="City of Frost" Key="10"  To="30" ToX="7750" ToY="4250" ToDirection="6" X="8550" Y="16050" BodyWidth="512" BodyHeight="512" CenterX="260" CenterY="260" Radius="300" Decorations="" />
+	<Teleport Code="197" FrameNum="13" Tip="บึงความมืด" Key="11"  To="130" ToX="11250" ToY="10250" ToDirection="6" X="7750" Y="1450" BodyWidth="512" BodyHeight="512" CenterX="260" CenterY="260" Radius="300" Decorations="" />
+</Teleports>
+</Map>

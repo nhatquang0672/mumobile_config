@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <SoulPowerLevel Level="1" Attribute="MaxAttack,100|MinAttack,550" NeedSoulLevel="3,4" />
+  <SoulPowerLevel Level="2" Attribute="MaxAttack,400|MinAttack,1000|MinDefense,100" NeedSoulLevel="6,5" />
+  <SoulPowerLevel Level="3" Attribute="MaxAttack,400|MinAttack,1600|MinDefense,100" NeedSoulLevel="9,6" />
+  <SoulPowerLevel Level="4" Attribute="MaxAttack,400|MinAttack,1600|MinDefense,400" NeedSoulLevel="12,6" />
+  <SoulPowerLevel Level="5" Attribute="MaxAttack,500|MinAttack,5600|MinDefense,500" NeedSoulLevel="15,2" />
+</Config>

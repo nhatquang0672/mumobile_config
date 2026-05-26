@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="35" FromDate="-1" ToDate="-1" AwardStartDate="-1" AwardEndDate="-1"  />
+  <GiftList Title="Vua Tiêu Phí" Description="Trong thời gian event tiêu phí đạt hạng XXX sẽ nhận quà phong phú!" Image="">
+    <Award ID="1" GoodsOne="63080,20,1,0,0,0,0|2002,250,1,0,0,0,0|2003,500,1,0,0,0,0|5050,20,1,0,0,0,0" GoodsTwo="" MinYuanBao="20000" />
+    <Award ID="2" GoodsOne="63080,15,1,0,0,0,0|2002,180,1,0,0,0,0|2003,400,1,0,0,0,0|5050,14,1,0,0,0,0" GoodsTwo="" MinYuanBao="10000" />
+    <Award ID="3" GoodsOne="63080,10,1,0,0,0,0|2002,150,1,0,0,0,0|2003,300,1,0,0,0,0|5050,8,1,0,0,0,0" GoodsTwo="" MinYuanBao="5000" />
+    <Award ID="4" GoodsOne="63080,5,1,0,0,0,0|2002,120,1,0,0,0,0|2003,200,1,0,0,0,0|5050,4,1,0,0,0,0" GoodsTwo="" MinYuanBao="1000" />
+    <Award ID="5" GoodsOne="63080,2,1,0,0,0,0|2002,99,1,0,0,0,0|2003,99,1,0,0,0,0|5050,2,1,0,0,0,0" GoodsTwo="" MinYuanBao="10" />
+    <Award ID="6" GoodsOne="63080,2,1,0,0,0,0|2002,99,1,0,0,0,0|2003,99,1,0,0,0,0|5050,2,1,0,0,0,0" GoodsTwo="" MinYuanBao="10" />
+    <Award ID="7" GoodsOne="63080,2,1,0,0,0,0|2002,99,1,0,0,0,0|2003,99,1,0,0,0,0|5050,2,1,0,0,0,0" GoodsTwo="" MinYuanBao="10" />
+    <Award ID="8" GoodsOne="63080,2,1,0,0,0,0|2002,99,1,0,0,0,0|2003,99,1,0,0,0,0|5050,2,1,0,0,0,0" GoodsTwo="" MinYuanBao="10" />
+    <Award ID="9" GoodsOne="63080,2,1,0,0,0,0|2002,99,1,0,0,0,0|2003,99,1,0,0,0,0|5050,2,1,0,0,0,0" GoodsTwo="" MinYuanBao="10" />
+    <Award ID="10" GoodsOne="63080,2,1,0,0,0,0|2002,99,1,0,0,0,0|2003,99,1,0,0,0,0|5050,2,1,0,0,0,0" GoodsTwo="" MinYuanBao="10" />
+  </GiftList>
+</Config>

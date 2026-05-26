@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <WangZheTaoZhuangRules ID="1" Intro="คำอธิบายชุดเซ็ทราชา" Bold="1" Type="5" />
+  <WangZheTaoZhuangRules ID="2" Intro="{dac7ae}1、{fac60d}ชุดเซ็ทราชา：{dac7ae}ใช้แก่นแท้ของชุดเซ็ทเพื่อเลื่อนขั้น และเพิ่มคุณสมบัติพื้นฐานหลังจากเลื่อนขั้น{dac7ae}" Bold="0" Type="5" />
+  <WangZheTaoZhuangRules ID="3" Intro="{dac7ae}2、{fac60d}คุณสมบัติชุดเซ็ท：{dac7ae}ชุดเซ็ทแต่ละขั้นมีคุณสมบัติชุดเซ็ทแยกต่างหาก เมื่อเปิดใช้งานจะไม่หมดอายุ{dac7ae}" Bold="0" Type="5" />
+  <WangZheTaoZhuangRules ID="4" Intro="{dac7ae}3、{fac60d}ใช้ชุดเซ็ท：{dac7ae}ชุดเซ็ทที่ไม่เหมือนกันใช้สกุลเงินต่างกัน{dac7ae}" Bold="0" Type="5" />
+</Config>

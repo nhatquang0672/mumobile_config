@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <CircusDuiHuanMallList ID="1" MallID="60" Goods="8630,1,1,0,0,0,0" HuodongLimit="-1" DayLimit="-1" CurrencyNeed="223,30" IsShow="1" />
+  <CircusDuiHuanMallList ID="2" MallID="70" Goods="8631,1,1,0,0,0,0" HuodongLimit="40" DayLimit="-1" CurrencyNeed="223,50" IsShow="1" />
+  <CircusDuiHuanMallList ID="3" MallID="80" Goods="8632,1,1,0,0,0,0" HuodongLimit="20" DayLimit="-1" CurrencyNeed="223,100" IsShow="1" />
+  <CircusDuiHuanMallList ID="4" MallID="90" Goods="8633,1,1,0,0,0,0" HuodongLimit="2" DayLimit="-1" CurrencyNeed="223,1000" IsShow="1" />
+  <CircusDuiHuanMallList ID="5" MallID="100" Goods="8634,1,1,0,0,0,0" HuodongLimit="2" DayLimit="-1" CurrencyNeed="223,1200" IsShow="1" />
+</config>

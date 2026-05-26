@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <JunXian Level="1" Name="Binh Nhì" NeedShengWang="9000" NeedGoods="" XiaoHaoShengWang="0" />
+  <JunXian Level="2" Name="Hạ Sĩ" NeedShengWang="46000" NeedGoods="" XiaoHaoShengWang="0" />
+  <JunXian Level="3" Name="Trung Sĩ" NeedShengWang="144000" NeedGoods="" XiaoHaoShengWang="0" />
+  <JunXian Level="4" Name="Quân Sĩ" NeedShengWang="351000" NeedGoods="" XiaoHaoShengWang="0" />
+  <JunXian Level="5" Name="Kỵ Sĩ" NeedShengWang="726000" NeedGoods="" XiaoHaoShengWang="0" />
+  <JunXian Level="6" Name="Trung Úy" NeedShengWang="1345000" NeedGoods="" XiaoHaoShengWang="0" />
+  <JunXian Level="7" Name="Thiếu Tá" NeedShengWang="2295000" NeedGoods="" XiaoHaoShengWang="0" />
+  <JunXian Level="8" Name="Trung Tướng" NeedShengWang="3675000" NeedGoods="" XiaoHaoShengWang="0" />
+  <JunXian Level="9" Name="Tư Lệnh" NeedShengWang="5601000" NeedGoods="" XiaoHaoShengWang="0" />
+  <JunXian Level="10" Name="Thống Soái" NeedShengWang="8201000" NeedGoods="" XiaoHaoShengWang="0" />
+  <JunXian Level="11" Name="Đốc Quân" NeedShengWang="11615000" NeedGoods="" XiaoHaoShengWang="0" />
+  <JunXian Level="12" Name="Nguyên Soái" NeedShengWang="15997000" NeedGoods="" XiaoHaoShengWang="0" />
+  <JunXian Level="13" Name="Thượng Tướng" NeedShengWang="15997000" NeedGoods="2036,50" XiaoHaoShengWang="0" />
+  <JunXian Level="14" Name="Công Tước" NeedShengWang="15997000" NeedGoods="2036,60" XiaoHaoShengWang="0" />
+  <JunXian Level="15" Name="Đại Công" NeedShengWang="15997000" NeedGoods="2036,80" XiaoHaoShengWang="0" />
+  <JunXian Level="16" Name="Thân Vương" NeedShengWang="15997000" NeedGoods="2036,100" XiaoHaoShengWang="0" />
+  <JunXian Level="17" Name="Đế Tuyển" NeedShengWang="15997000" NeedGoods="2036,100" XiaoHaoShengWang="0" />
+  <JunXian Level="18" Name="Đại Tướng" NeedShengWang="15997000" NeedGoods="2036,100" XiaoHaoShengWang="0" />
+  <JunXian Level="19" Name="Quốc Vương" NeedShengWang="15997000" NeedGoods="2036,100" XiaoHaoShengWang="0" />
+  <JunXian Level="20" Name="Thần Du" NeedShengWang="15997000" NeedGoods="2036,100" XiaoHaoShengWang="0" />
+  <JunXian Level="21" Name="Chiến Thần" NeedShengWang="15997000" NeedGoods="2036,100" XiaoHaoShengWang="0" />
+  <JunXian Level="22" Name="Chúng Thần" NeedShengWang="15997000" NeedGoods="2036,100" XiaoHaoShengWang="0" />
+</Config>

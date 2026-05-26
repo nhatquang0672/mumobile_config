@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ZhuanPan ID="1" Name="Cốt Lâu Vương" GoodsID="1030914,1,0,0,0,1,158597120" AwardLevel="3" AwardLabel="2" GongGao="1" />
+  <ZhuanPan ID="2" Name="Thời Trang Thú Cưỡi Cá Bay" GoodsID="1035052,1,0,0,0,0,0" AwardLevel="3" AwardLabel="2" GongGao="1" />
+  <ZhuanPan ID="3" Name="Ngọc tiến hoá" GoodsID="4043,1,0,0,0,0,0" AwardLevel="3" AwardLabel="2" GongGao="1" />
+  <ZhuanPan ID="4" Name="300 Bụi Nguyên Tố" GoodsID="5112,2,0,0,0,0,0" AwardLevel="2" AwardLabel="1" GongGao="1" />
+  <ZhuanPan ID="5" Name="Rương thánh vật vàng" GoodsID="7050,50,0,0,0,0,0" AwardLevel="2" AwardLabel="1" GongGao="1" />
+  <ZhuanPan ID="6" Name="Thời Trang Lạc Anh Thổi Tuyết" GoodsID="1033180,1,0,0,0,0,0" AwardLevel="2" AwardLabel="1" GongGao="1" />
+  <ZhuanPan ID="7" Name="Ngọc tái tạo" GoodsID="2031,100,0,0,0,0,0" AwardLevel="3" AwardLabel="2" GongGao="1" />
+  <ZhuanPan ID="8" Name="Thời Trang Hải Tặc" GoodsID="970006,1,0,0,0,0,0" AwardLevel="2" AwardLabel="1" GongGao="1" />
+  <ZhuanPan ID="9" Name="Danh hiệu [Lấp Lánh]" GoodsID="6007,1,0,0,0,0,0" AwardLevel="3" AwardLabel="2" GongGao="1" />
+  <ZhuanPan ID="10" Name="Bài Tarot ngẫu nhiên" GoodsID="5250,1,0,0,0,0,0" AwardLevel="1" AwardLabel="0" GongGao="0" />
+  <ZhuanPan ID="11" Name="1000 Điểm Thần Tích" GoodsID="5122,5,0,0,0,0,0" AwardLevel="1" AwardLabel="0" GongGao="0" />
+  <ZhuanPan ID="12" Name="Ấn Ký Mị Lực" GoodsID="5271,10,0,0,0,0,0" AwardLevel="1" AwardLabel="0" GongGao="0" />
+  <ZhuanPan ID="13" Name="Ngọc Hộ Mệnh" GoodsID="64022,1000,0,0,0,0,0" AwardLevel="1" AwardLabel="0" GongGao="0" />
+  <ZhuanPan ID="14" Name="Bùa May Mắn Huỳnh Thạch Cao" GoodsID="63143,1,0,0,0,0,0" AwardLevel="2" AwardLabel="1" GongGao="1" />
+  <ZhuanPan ID="15" Name="100 Bột Phù Văn" GoodsID="5331,100,0,0,0,0,0" AwardLevel="1" AwardLabel="0" GongGao="0" />
+  <ZhuanPan ID="16" Name="100 Phấn Hồn Sói" GoodsID="5220,15,0,0,0,0,0" AwardLevel="1" AwardLabel="0" GongGao="0" />
+</Config>

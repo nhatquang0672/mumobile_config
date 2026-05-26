@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Info Active="true" Title="MapEntryControl" Desciption="Map Entry Control" />
+  <Maps>
+    <MapEntry Enable="true" MapCode="12000" MinVIPLevel="0" />
+  </Maps>
+</Module>

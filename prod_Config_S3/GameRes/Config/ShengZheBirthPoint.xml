@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <Item ID="1" PosX="4300" PosY="17900" BirthRadius="1" />
+  <Item ID="2" PosX="16300" PosY="17500" BirthRadius="1" />
+  <Item ID="3" PosX="18300" PosY="15200" BirthRadius="1" />
+  <Item ID="4" PosX="18700" PosY="5200" BirthRadius="1" />
+  <Item ID="5" PosX="17100" PosY="2000" BirthRadius="1" />
+  <Item ID="6" PosX="5400" PosY="1800" BirthRadius="1" />
+  <Item ID="7" PosX="1600" PosY="6300" BirthRadius="1" />
+  <Item ID="8" PosX="1200" PosY="14300" BirthRadius="1" />
+</Items>

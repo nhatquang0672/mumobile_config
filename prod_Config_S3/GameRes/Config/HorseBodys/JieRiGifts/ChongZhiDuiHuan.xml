@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="64" FromDate="2026-04-04 10:00:00" ToDate="2036-04-04 00:00:00" AwardStartDate="2026-04-04 10:00:00" AwardEndDate="2036-04-04 00:00:00" />
+  <GiftList Description2="Trong event, nạp KC sẽ nhận điểm nạp dựa theo tỉ lệ 1:1">
+    <Award ID="1" NewGoodsID="50054,10,0,0,0,0,0" NeedChongZhiDianShu="90000" MaxNum="9999" />
+	  <Award ID="2" NewGoodsID="30151186,100,0,0,0,0,0" NeedChongZhiDianShu="90000" MaxNum="9999" />
+    <Award ID="3" NewGoodsID="5574,10,0,0,0,0,0" NeedChongZhiDianShu="50000" MaxNum="9999" />
+    <Award ID="4" NewGoodsID="2300,10,0,0,0,0,0" NeedChongZhiDianShu="10000" MaxNum="9999" />
+    <Award ID="5" NewGoodsID="50305,30,0,0,0,0,0" NeedChongZhiDianShu="300000" MaxNum="999" />
+	  <Award ID="6" NewGoodsID="4404,30,0,0,0,0,0" NeedChongZhiDianShu="300000" MaxNum="999" />
+    <Award ID="7" NewGoodsID="5313,10,0,0,0,0,0" NeedChongZhiDianShu="20000" MaxNum="9999" />
+    <Award ID="8" NewGoodsID="5122,10,0,0,0,0,0" NeedChongZhiDianShu="10000" MaxNum="9999" />
+    <Award ID="28" NewGoodsID="63141,10,0,0,0,0,0" NeedChongZhiDianShu="100000" MaxNum="99999" />
+    <Award ID="29" NewGoodsID="63246,10,0,0,0,0,0" NeedChongZhiDianShu="500000" MaxNum="99999" />
+	  <Award ID="30" NewGoodsID="1031046,1,1,0,0,1,158597120" NeedChongZhiDianShu="7000000" MaxNum="99" />
+    <Award ID="31" NewGoodsID="1031045,1,1,0,0,1,158597120" NeedChongZhiDianShu="8000000" MaxNum="99" />
+    <Award ID="32" NewGoodsID="1031048,1,1,0,0,1,1585971200" NeedChongZhiDianShu="10000000" MaxNum="99" />
+    <Award ID="33" NewGoodsID="1031047,1,1,0,0,1,158597120" NeedChongZhiDianShu="20000000" MaxNum="99" />
+    <Award ID="34" NewGoodsID="1031039,1,1,0,0,1,158597120" NeedChongZhiDianShu="7000000" MaxNum="99" />
+    <Award ID="35" NewGoodsID="1031037,1,1,0,0,1,158597120" NeedChongZhiDianShu="9000000" MaxNum="99" />
+    <Award ID="36" NewGoodsID="1031044,1,1,0,0,1,1585971200" NeedChongZhiDianShu="13000000" MaxNum="99" />
+    <Award ID="37" NewGoodsID="1031042,1,1,0,0,1,158597120" NeedChongZhiDianShu="20000000" MaxNum="99" />
+    
+  </GiftList>
+</Config>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <JingGao ID="1" Operate="1" Time="30" Description="Mutizens thân mến, hệ thống phát hiện gần đây bạn {ff0000}giao dịch lượng Kim Cương lớn{ffffff}, BQT game gửi cảnh báo đến bạn, nếu tiếp tục xuất hiện hành vi giao dịch bất thường, chúng tôi sẽ {ff0000}khóa tài khoản{ffffff}, vui lòng chơi game lành mạnh. Xin cảm ơn!"/>
+  <JingGao ID="2" Operate="2" Time="30" Description="Tài khoản của bạn đã vi phạm quy định 2 lần, nên đã bị {ff0000}khóa tài khoản 24h{ffffff}, nếu có thắc mắc vui lòng liên hệ {17e43f}Email: MUCSKH@HOPEPAY.VN{ffffff}!"/>
+  <JingGao ID="3" Operate="3" Time="30" Description="Tài khoản của bạn đã tái phạm quy định, nên đã bị {ff0000}khóa tài khoản 7 ngày{ffffff} nếu có thắc mắc vui lòng liên hệ {17e43f}Email: MUCSKH@HOPEPAY.VN{ffffff}!"/>
+  <JingGao ID="4" Operate="4" Time="30" Description="Tài khoản của bạn đã vi phạm quy định nhiều lần, nên đã bị {ff0000}khóa tài khoản vĩnh viễn{ffffff} nếu có thắc mắc vui lòng liên hệ {17e43f}Email: MUCSKH@HOPEPAY.VN{ffffff}!"/>
+</config>

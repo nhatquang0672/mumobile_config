@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <ExpExchange GoodsID="2131" WakeExp="10" />
+  <ExpExchange GoodsID="2132" WakeExp="20" />
+</Config>

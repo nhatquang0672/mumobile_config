@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <CircusMain ID="1" HuoDongType="1000" HuoDongName="SK Thú Vị" OpenDay="1" CloseDay="5" IsOpen="1" />
+  <CircusMain ID="2" HuoDongType="1001" HuoDongName="Hào Lễ Trời Giáng" OpenDay="1" CloseDay="5" IsOpen="1" />
+  <CircusMain ID="3" HuoDongType="1002" HuoDongName="Tiệm Đổi" OpenDay="1" CloseDay="5" IsOpen="1" />
+  <CircusMain ID="4" HuoDongType="1003" HuoDongName="Tụ Hội Cuồng Hoan" OpenDay="1" CloseDay="5" IsOpen="1" />
+</config>

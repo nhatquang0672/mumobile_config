@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <ZhuShenBaoKuDuiHuan ID="1" Goods="1033960,1,1,0,0,0,0" NeedHuoBi="221,500" BuyNum="1" IsHaoHua="1" ShowGoodsPos="15,-222,-300" ShowGoodsSize="1,1,1" ShowGoodsRot="0,0,0" Des="第一个道具" />
+  <ZhuShenBaoKuDuiHuan ID="2" Goods="970026,1,1,0,0,0,0" NeedHuoBi="221,501" BuyNum="1" IsHaoHua="1" ShowGoodsPos="15,-222,-300" ShowGoodsSize="1,1,1" ShowGoodsRot="0,0,0" Des="2" />
+  <ZhuShenBaoKuDuiHuan ID="3" Goods="1035283,1,1,0,0,0,0" NeedHuoBi="221,502" BuyNum="1" IsHaoHua="1" ShowGoodsPos="15,-222,-300" ShowGoodsSize="1,1,1" ShowGoodsRot="0,0,0" Des="3" />
+  <ZhuShenBaoKuDuiHuan ID="4" Goods="2090347,1,1,0,0,0,0" NeedHuoBi="221,503" BuyNum="1" IsHaoHua="1" ShowGoodsPos="15,-222,-300" ShowGoodsSize="1,1,1" ShowGoodsRot="0,0,0" Des="4" />
+  <ZhuShenBaoKuDuiHuan ID="5" Goods="2100000,1,1,0,0,0,0" NeedHuoBi="221,504" BuyNum="1" IsHaoHua="1" ShowGoodsPos="15,-222,-300" ShowGoodsSize="1,1,1" ShowGoodsRot="0,0,0" Des="5" />
+  <ZhuShenBaoKuDuiHuan ID="6" Goods="23001,1,1,0,0,0,0" NeedHuoBi="221,505" BuyNum="1" IsHaoHua="0" ShowGoodsPos="" ShowGoodsSize="" ShowGoodsRot="" Des="6" />
+  <ZhuShenBaoKuDuiHuan ID="7" Goods="23002,1,1,0,0,0,0" NeedHuoBi="221,506" BuyNum="1" IsHaoHua="0" ShowGoodsPos="" ShowGoodsSize="" ShowGoodsRot="" Des="7" />
+  <ZhuShenBaoKuDuiHuan ID="8" Goods="23003,1,1,0,0,0,0" NeedHuoBi="221,507" BuyNum="1" IsHaoHua="0" ShowGoodsPos="" ShowGoodsSize="" ShowGoodsRot="" Des="8" />
+  <ZhuShenBaoKuDuiHuan ID="9" Goods="23004,5,1,0,0,0,0" NeedHuoBi="221,508" BuyNum="10" IsHaoHua="0" ShowGoodsPos="" ShowGoodsSize="" ShowGoodsRot="" Des="89" />
+  <ZhuShenBaoKuDuiHuan ID="10" Goods="23005,5,1,0,0,0,0" NeedHuoBi="221,509" BuyNum="20" IsHaoHua="0" ShowGoodsPos="" ShowGoodsSize="" ShowGoodsRot="" Des="90" />
+  <ZhuShenBaoKuDuiHuan ID="11" Goods="23006,5,1,0,0,0,0" NeedHuoBi="221,510" BuyNum="2" IsHaoHua="0" ShowGoodsPos="" ShowGoodsSize="" ShowGoodsRot="" Des="0" />
+  <ZhuShenBaoKuDuiHuan ID="12" Goods="30001,1,1,0,0,0,0" NeedHuoBi="221,511" BuyNum="20" IsHaoHua="0" ShowGoodsPos="" ShowGoodsSize="" ShowGoodsRot="" Des="0" />
+  <ZhuShenBaoKuDuiHuan ID="13" Goods="30002,1,1,0,0,0,0" NeedHuoBi="221,512" BuyNum="10" IsHaoHua="0" ShowGoodsPos="" ShowGoodsSize="" ShowGoodsRot="" Des="0" />
+  <ZhuShenBaoKuDuiHuan ID="14" Goods="30003,1,1,0,0,0,0" NeedHuoBi="221,513" BuyNum="5" IsHaoHua="0" ShowGoodsPos="" ShowGoodsSize="" ShowGoodsRot="" Des="-" />
+  <ZhuShenBaoKuDuiHuan ID="15" Goods="30004,1,1,0,0,0,0" NeedHuoBi="221,514" BuyNum="20" IsHaoHua="0" ShowGoodsPos="" ShowGoodsSize="" ShowGoodsRot="" Des="2" />
+  <ZhuShenBaoKuDuiHuan ID="16" Goods="30005,1,1,0,0,0,0" NeedHuoBi="221,515" BuyNum="-1" IsHaoHua="0" ShowGoodsPos="" ShowGoodsSize="" ShowGoodsRot="" Des="1" />
+</Config>

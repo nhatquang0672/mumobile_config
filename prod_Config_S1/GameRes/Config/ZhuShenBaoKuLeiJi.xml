@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <ZhuShenBaoKuLeiJi ID="1" Times="10" Award="221,20" ShowGodos="33102,20,1,0,0,0,0" />
+  <ZhuShenBaoKuLeiJi ID="2" Times="20" Award="221,40" ShowGodos="33102,40,1,0,0,0,0" />
+  <ZhuShenBaoKuLeiJi ID="3" Times="30" Award="221,60" ShowGodos="33102,60,1,0,0,0,0" />
+  <ZhuShenBaoKuLeiJi ID="4" Times="50" Award="221,80" ShowGodos="33102,80,1,0,0,0,0" />
+  <ZhuShenBaoKuLeiJi ID="5" Times="70" Award="221,100" ShowGodos="33102,100,1,0,0,0,0" />
+  <ZhuShenBaoKuLeiJi ID="6" Times="90" Award="221,120" ShowGodos="33102,120,1,0,0,0,0" />
+  <ZhuShenBaoKuLeiJi ID="7" Times="110" Award="221,140" ShowGodos="33102,140,1,0,0,0,0" />
+  <ZhuShenBaoKuLeiJi ID="8" Times="130" Award="221,160" ShowGodos="33102,160,1,0,0,0,0" />
+  <ZhuShenBaoKuLeiJi ID="9" Times="150" Award="221,180" ShowGodos="33102,180,1,0,0,0,0" />
+  <ZhuShenBaoKuLeiJi ID="10" Times="180" Award="221,200" ShowGodos="33102,200,1,0,0,0,0" />
+</Config>

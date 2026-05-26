@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <CircusLotteryType ID="1" LotteryID="10" LotteryName="Kho Báu Sơ Cấp" ShowGoods="30152321,1,1,0,0,0,0" Cost="5605,1" LotteryImage="" />
+  <CircusLotteryType ID="2" LotteryID="20" LotteryName="Kho Báu Trung Cấp" ShowGoods="30152321,3,1,0,0,0,0" Cost="5606,1" LotteryImage="" />
+  <CircusLotteryType ID="3" LotteryID="30" LotteryName="Kho Báu Siêu Cấp" ShowGoods="30152321,3,1,0,0,0,0|30152321,3,1,0,0,0,0" Cost="5607,1" LotteryImage="" />
+</config>

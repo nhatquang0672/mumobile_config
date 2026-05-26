@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="25" />
+  <GiftList Title="Chiến Thần" Description="Trong 5 ngày sau khi liên thông server, chiến trường x2 thưởng, dã ngoại x2 Exp">
+  <Award ActivitiesIDs="3|4" Override="2" SpecialTimeID="3"/>
+  </GiftList>
+</Config>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="20" />
+  <GiftList Title="Đăng nhập" Description="Trong vòng 5 ngày sau khi gộp server, đăng nhập sẽ nhận quà lớn, VIP có thể nhận thêm quà lớn. ">
+  <Award GoodsIDs="2001,3,1,0,0,0,0|2002,2,1,0,0,0,0|2030,10,1,0,0,0,0|2017,10,1,0,0,0,0|5041,1,1,0,0,0,0|5031,1,1,0,0,0,0" VIPGoodsIDs="2002,2,1,0,0,0,0|2030,10,1,0,0,0,0|2003,10,1,0,0,0,0|2004,10,1,0,0,0,0|5041,1,1,0,0,0,0|5031,1,1,0,0,0,0" />
+  </GiftList>
+</Config>

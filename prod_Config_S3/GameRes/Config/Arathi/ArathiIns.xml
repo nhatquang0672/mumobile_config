@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <ArathiIns ID="1" Ins="Nhanh chóng chiếm Tế Đàn" />
+  <ArathiIns ID="2" Ins="Tế Đàn A tập hợp" />
+  <ArathiIns ID="3" Ins="Tế Đàn B tập hợp" />
+  <ArathiIns ID="4" Ins="Tế Đàn C tập hợp" />
+  <ArathiIns ID="5" Ins="Tiêu diệt quái trung lập" />
+  <ArathiIns ID="6" Ins="Sơ tán khỏi Tế Đàn A" />
+  <ArathiIns ID="7" Ins="Sơ tán khỏi Tế Đàn B" />
+  <ArathiIns ID="8" Ins="Sơ tán khỏi Tế Đàn C" />
+</config>

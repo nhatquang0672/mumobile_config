@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Inlay ID="1" Name="Nón" GemType1="1" GemType2="2" GemType3="3" />
+  <Inlay ID="2" Name="Giáp" GemType1="1" GemType2="2" GemType3="3" />
+  <Inlay ID="3" Name="Giáp đùi" GemType1="1" GemType2="2" GemType3="3" />
+  <Inlay ID="4" Name="Giáp tay" GemType1="1" GemType2="2" GemType3="3" />
+  <Inlay ID="5" Name="Giày" GemType1="1" GemType2="2" GemType3="3" />
+  <Inlay ID="6" Name="Vũ khí" GemType1="1" GemType2="2" GemType3="3" />
+  <Inlay ID="7" Name="Vũ khí" GemType1="1" GemType2="2" GemType3="3" />
+  <Inlay ID="8" Name="D.Chuyền" GemType1="1" GemType2="2" GemType3="3" />
+  <Inlay ID="9" Name="Nhẫn" GemType1="1" GemType2="2" GemType3="3" />
+  <Inlay ID="10" Name="Nhẫn" GemType1="1" GemType2="2" GemType3="3" />
+</Config>

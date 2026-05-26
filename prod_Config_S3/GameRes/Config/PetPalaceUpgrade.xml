@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <PetPalaceUpgrade ExcellencePropNum="1" ExcellencePropProgress="3" />
+  <PetPalaceUpgrade ExcellencePropNum="2" ExcellencePropProgress="5" />
+  <PetPalaceUpgrade ExcellencePropNum="3" ExcellencePropProgress="7" />
+  <PetPalaceUpgrade ExcellencePropNum="4" ExcellencePropProgress="10" />
+  <PetPalaceUpgrade ExcellencePropNum="5" ExcellencePropProgress="15" />
+  <PetPalaceUpgrade ExcellencePropNum="6" ExcellencePropProgress="30" />
+</Config>

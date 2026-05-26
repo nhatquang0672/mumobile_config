@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <HorseAdvanced ID="1" HorseID="990000" Name="Thú Độc Giác" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="12001" ChangeHunJing="30" />
+  <HorseAdvanced ID="2" HorseID="990000" Name="Thú Độc Giác" Level="2" NeedGoods="2131,10" AdvancedEffect="0.5" SkillID="12002" ChangeHunJing="36" />
+  <HorseAdvanced ID="3" HorseID="990000" Name="Thú Độc Giác" Level="3" NeedGoods="2131,20" AdvancedEffect="1" SkillID="12003" ChangeHunJing="42" />
+  <HorseAdvanced ID="4" HorseID="990000" Name="Thú Độc Giác" Level="4" NeedGoods="2131,30" AdvancedEffect="1.5" SkillID="12004" ChangeHunJing="48" />
+  <HorseAdvanced ID="5" HorseID="990000" Name="Thú Độc Giác" Level="5" NeedGoods="2131,40|2132,25" AdvancedEffect="2" SkillID="12005" ChangeHunJing="54" />
+  <HorseAdvanced ID="6" HorseID="990000" Name="Thú Độc Giác" Level="6" NeedGoods="2131,50|2132,30" AdvancedEffect="2.6" SkillID="12006" ChangeHunJing="60" />
+  <HorseAdvanced ID="7" HorseID="990000" Name="Thú Độc Giác" Level="7" NeedGoods="2131,60|2132,35" AdvancedEffect="3.2" SkillID="12007" ChangeHunJing="66" />
+  <HorseAdvanced ID="8" HorseID="990000" Name="Thú Độc Giác" Level="8" NeedGoods="2131,70|2132,40|2133,20" AdvancedEffect="3.8" SkillID="12008" ChangeHunJing="72" />
+  <HorseAdvanced ID="9" HorseID="990000" Name="Thú Độc Giác" Level="9" NeedGoods="2131,80|2132,45|2133,25" AdvancedEffect="4.4" SkillID="12009" ChangeHunJing="78" />
+  <HorseAdvanced ID="10" HorseID="990000" Name="Thú Độc Giác" Level="10" NeedGoods="2131,90|2132,50|2133,30" AdvancedEffect="5" SkillID="12010" ChangeHunJing="84" />
+  <HorseAdvanced ID="11" HorseID="990001" Name="Thú Mây Màu" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="12101" ChangeHunJing="50" />
+  <HorseAdvanced ID="12" HorseID="990001" Name="Thú Mây Màu" Level="2" NeedGoods="2131,20" AdvancedEffect="1" SkillID="12102" ChangeHunJing="60" />
+  <HorseAdvanced ID="13" HorseID="990001" Name="Thú Mây Màu" Level="3" NeedGoods="2131,40" AdvancedEffect="2" SkillID="12103" ChangeHunJing="70" />
+  <HorseAdvanced ID="14" HorseID="990001" Name="Thú Mây Màu" Level="4" NeedGoods="2131,60" AdvancedEffect="3" SkillID="12104" ChangeHunJing="80" />
+  <HorseAdvanced ID="15" HorseID="990001" Name="Thú Mây Màu" Level="5" NeedGoods="2131,80|2132,50" AdvancedEffect="4" SkillID="12105" ChangeHunJing="90" />
+  <HorseAdvanced ID="16" HorseID="990001" Name="Thú Mây Màu" Level="6" NeedGoods="2131,100|2132,60" AdvancedEffect="5.2" SkillID="12106" ChangeHunJing="100" />
+  <HorseAdvanced ID="17" HorseID="990001" Name="Thú Mây Màu" Level="7" NeedGoods="2131,120|2132,70" AdvancedEffect="6.4" SkillID="12107" ChangeHunJing="110" />
+  <HorseAdvanced ID="18" HorseID="990001" Name="Thú Mây Màu" Level="8" NeedGoods="2131,140|2132,80|2133,40" AdvancedEffect="7.6" SkillID="12108" ChangeHunJing="120" />
+  <HorseAdvanced ID="19" HorseID="990001" Name="Thú Mây Màu" Level="9" NeedGoods="2131,160|2132,90|2133,50" AdvancedEffect="8.8" SkillID="12109" ChangeHunJing="130" />
+  <HorseAdvanced ID="20" HorseID="990001" Name="Thú Mây Màu" Level="10" NeedGoods="2131,180|2132,100|2133,60" AdvancedEffect="10" SkillID="12110" ChangeHunJing="140" />
+  <HorseAdvanced ID="21" HorseID="990002" Name="Ngựa Hắc Ngọc" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="12201" ChangeHunJing="50" />
+  <HorseAdvanced ID="22" HorseID="990002" Name="Ngựa Hắc Ngọc" Level="2" NeedGoods="2131,20" AdvancedEffect="1" SkillID="12202" ChangeHunJing="60" />
+  <HorseAdvanced ID="23" HorseID="990002" Name="Ngựa Hắc Ngọc" Level="3" NeedGoods="2131,40" AdvancedEffect="2" SkillID="12203" ChangeHunJing="70" />
+  <HorseAdvanced ID="24" HorseID="990002" Name="Ngựa Hắc Ngọc" Level="4" NeedGoods="2131,60" AdvancedEffect="3" SkillID="12204" ChangeHunJing="80" />
+  <HorseAdvanced ID="25" HorseID="990002" Name="Ngựa Hắc Ngọc" Level="5" NeedGoods="2131,80|2132,50" AdvancedEffect="4" SkillID="12205" ChangeHunJing="90" />
+  <HorseAdvanced ID="26" HorseID="990002" Name="Ngựa Hắc Ngọc" Level="6" NeedGoods="2131,100|2132,60" AdvancedEffect="5.2" SkillID="12206" ChangeHunJing="100" />
+  <HorseAdvanced ID="27" HorseID="990002" Name="Ngựa Hắc Ngọc" Level="7" NeedGoods="2131,120|2132,70" AdvancedEffect="6.4" SkillID="12207" ChangeHunJing="110" />
+  <HorseAdvanced ID="28" HorseID="990002" Name="Ngựa Hắc Ngọc" Level="8" NeedGoods="2131,140|2132,80|2133,40" AdvancedEffect="7.6" SkillID="12208" ChangeHunJing="120" />
+  <HorseAdvanced ID="29" HorseID="990002" Name="Ngựa Hắc Ngọc" Level="9" NeedGoods="2131,160|2132,90|2133,50" AdvancedEffect="8.8" SkillID="12209" ChangeHunJing="130" />
+  <HorseAdvanced ID="30" HorseID="990002" Name="Ngựa Hắc Ngọc" Level="10" NeedGoods="2131,180|2132,100|2133,60" AdvancedEffect="10" SkillID="12210" ChangeHunJing="140" />
+  <HorseAdvanced ID="31" HorseID="990003" Name="Sói Lửa" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="12301" ChangeHunJing="200" />
+  <HorseAdvanced ID="32" HorseID="990003" Name="Sói Lửa" Level="2" NeedGoods="2131,30" AdvancedEffect="1.5" SkillID="12302" ChangeHunJing="240" />
+  <HorseAdvanced ID="33" HorseID="990003" Name="Sói Lửa" Level="3" NeedGoods="2131,60" AdvancedEffect="3" SkillID="12303" ChangeHunJing="280" />
+  <HorseAdvanced ID="34" HorseID="990003" Name="Sói Lửa" Level="4" NeedGoods="2131,90" AdvancedEffect="4.5" SkillID="12304" ChangeHunJing="320" />
+  <HorseAdvanced ID="35" HorseID="990003" Name="Sói Lửa" Level="5" NeedGoods="2131,120|2132,75" AdvancedEffect="6" SkillID="12305" ChangeHunJing="360" />
+  <HorseAdvanced ID="36" HorseID="990003" Name="Sói Lửa" Level="6" NeedGoods="2131,150|2132,90|2133,10" AdvancedEffect="7.8" SkillID="12306" ChangeHunJing="400" />
+  <HorseAdvanced ID="37" HorseID="990003" Name="Sói Lửa" Level="7" NeedGoods="2131,180|2132,105|2133,30" AdvancedEffect="9.6" SkillID="12307" ChangeHunJing="440" />
+  <HorseAdvanced ID="38" HorseID="990003" Name="Sói Lửa" Level="8" NeedGoods="2131,210|2132,120|2133,60" AdvancedEffect="11.4" SkillID="12308" ChangeHunJing="480" />
+  <HorseAdvanced ID="39" HorseID="990003" Name="Sói Lửa" Level="9" NeedGoods="2131,240|2132,135|2133,75" AdvancedEffect="13.2" SkillID="12309" ChangeHunJing="520" />
+  <HorseAdvanced ID="40" HorseID="990003" Name="Sói Lửa" Level="10" NeedGoods="2131,270|2132,150|2133,90" AdvancedEffect="15" SkillID="12310" ChangeHunJing="560" />
+  <HorseAdvanced ID="41" HorseID="990004" Name="Tê Giác Thép" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="12401" ChangeHunJing="200" />
+  <HorseAdvanced ID="42" HorseID="990004" Name="Tê Giác Thép" Level="2" NeedGoods="2131,30" AdvancedEffect="1.5" SkillID="12402" ChangeHunJing="240" />
+  <HorseAdvanced ID="43" HorseID="990004" Name="Tê Giác Thép" Level="3" NeedGoods="2131,60" AdvancedEffect="3" SkillID="12403" ChangeHunJing="280" />
+  <HorseAdvanced ID="44" HorseID="990004" Name="Tê Giác Thép" Level="4" NeedGoods="2131,90" AdvancedEffect="4.5" SkillID="12404" ChangeHunJing="320" />
+  <HorseAdvanced ID="45" HorseID="990004" Name="Tê Giác Thép" Level="5" NeedGoods="2131,120|2132,75" AdvancedEffect="6" SkillID="12405" ChangeHunJing="360" />
+  <HorseAdvanced ID="46" HorseID="990004" Name="Tê Giác Thép" Level="6" NeedGoods="2131,150|2132,90|2133,10" AdvancedEffect="7.8" SkillID="12406" ChangeHunJing="400" />
+  <HorseAdvanced ID="47" HorseID="990004" Name="Tê Giác Thép" Level="7" NeedGoods="2131,180|2132,105|2133,30" AdvancedEffect="9.6" SkillID="12407" ChangeHunJing="440" />
+  <HorseAdvanced ID="48" HorseID="990004" Name="Tê Giác Thép" Level="8" NeedGoods="2131,210|2132,120|2133,60" AdvancedEffect="11.4" SkillID="12408" ChangeHunJing="480" />
+  <HorseAdvanced ID="49" HorseID="990004" Name="Tê Giác Thép" Level="9" NeedGoods="2131,240|2132,135|2133,75" AdvancedEffect="13.2" SkillID="12409" ChangeHunJing="520" />
+  <HorseAdvanced ID="50" HorseID="990004" Name="Tê Giác Thép" Level="10" NeedGoods="2131,270|2132,150|2133,90" AdvancedEffect="15" SkillID="12410" ChangeHunJing="560" />
+  <HorseAdvanced ID="51" HorseID="990005" Name="Bò Cạp Ma" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="12501" ChangeHunJing="200" />
+  <HorseAdvanced ID="52" HorseID="990005" Name="Bò Cạp Ma" Level="2" NeedGoods="2131,30" AdvancedEffect="1.5" SkillID="12502" ChangeHunJing="240" />
+  <HorseAdvanced ID="53" HorseID="990005" Name="Bò Cạp Ma" Level="3" NeedGoods="2131,60" AdvancedEffect="3" SkillID="12503" ChangeHunJing="280" />
+  <HorseAdvanced ID="54" HorseID="990005" Name="Bò Cạp Ma" Level="4" NeedGoods="2131,90" AdvancedEffect="4.5" SkillID="12504" ChangeHunJing="320" />
+  <HorseAdvanced ID="55" HorseID="990005" Name="Bò Cạp Ma" Level="5" NeedGoods="2131,120|2132,75" AdvancedEffect="6" SkillID="12505" ChangeHunJing="360" />
+  <HorseAdvanced ID="56" HorseID="990005" Name="Bò Cạp Ma" Level="6" NeedGoods="2131,150|2132,90|2133,10" AdvancedEffect="7.8" SkillID="12506" ChangeHunJing="400" />
+  <HorseAdvanced ID="57" HorseID="990005" Name="Bò Cạp Ma" Level="7" NeedGoods="2131,180|2132,105|2133,30" AdvancedEffect="9.6" SkillID="12507" ChangeHunJing="440" />
+  <HorseAdvanced ID="58" HorseID="990005" Name="Bò Cạp Ma" Level="8" NeedGoods="2131,210|2132,120|2133,60" AdvancedEffect="11.4" SkillID="12508" ChangeHunJing="480" />
+  <HorseAdvanced ID="59" HorseID="990005" Name="Bò Cạp Ma" Level="9" NeedGoods="2131,240|2132,135|2133,75" AdvancedEffect="13.2" SkillID="12509" ChangeHunJing="520" />
+  <HorseAdvanced ID="60" HorseID="990005" Name="Bò Cạp Ma" Level="10" NeedGoods="2131,270|2132,150|2133,90" AdvancedEffect="15" SkillID="12510" ChangeHunJing="560" />
+  <HorseAdvanced ID="61" HorseID="990006" Name="Mammoth" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="12001" ChangeHunJing="30" />
+  <HorseAdvanced ID="62" HorseID="990006" Name="Mammoth" Level="2" NeedGoods="2131,10" AdvancedEffect="0.5" SkillID="12002" ChangeHunJing="36" />
+  <HorseAdvanced ID="63" HorseID="990006" Name="Mammoth" Level="3" NeedGoods="2131,20" AdvancedEffect="1" SkillID="12003" ChangeHunJing="42" />
+  <HorseAdvanced ID="64" HorseID="990006" Name="Mammoth" Level="4" NeedGoods="2131,30" AdvancedEffect="1.5" SkillID="12004" ChangeHunJing="48" />
+  <HorseAdvanced ID="65" HorseID="990006" Name="Mammoth" Level="5" NeedGoods="2131,40|2132,25" AdvancedEffect="2" SkillID="12005" ChangeHunJing="54" />
+  <HorseAdvanced ID="66" HorseID="990006" Name="Mammoth" Level="6" NeedGoods="2131,50|2132,30" AdvancedEffect="2.6" SkillID="12006" ChangeHunJing="60" />
+  <HorseAdvanced ID="67" HorseID="990006" Name="Mammoth" Level="7" NeedGoods="2131,60|2132,35" AdvancedEffect="3.2" SkillID="12007" ChangeHunJing="66" />
+  <HorseAdvanced ID="68" HorseID="990006" Name="Mammoth" Level="8" NeedGoods="2131,70|2132,40|2133,20" AdvancedEffect="3.8" SkillID="12008" ChangeHunJing="72" />
+  <HorseAdvanced ID="69" HorseID="990006" Name="Mammoth" Level="9" NeedGoods="2131,80|2132,45|2133,25" AdvancedEffect="4.4" SkillID="12009" ChangeHunJing="78" />
+  <HorseAdvanced ID="70" HorseID="990006" Name="Mammoth" Level="10" NeedGoods="2131,90|2132,50|2133,30" AdvancedEffect="5" SkillID="12010" ChangeHunJing="84" />
+  <HorseAdvanced ID="71" HorseID="990007" Name="Kim Sư" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="12101" ChangeHunJing="50" />
+  <HorseAdvanced ID="72" HorseID="990007" Name="Kim Sư" Level="2" NeedGoods="2131,20" AdvancedEffect="1" SkillID="12102" ChangeHunJing="60" />
+  <HorseAdvanced ID="73" HorseID="990007" Name="Kim Sư" Level="3" NeedGoods="2131,40" AdvancedEffect="2" SkillID="12103" ChangeHunJing="70" />
+  <HorseAdvanced ID="74" HorseID="990007" Name="Kim Sư" Level="4" NeedGoods="2131,60" AdvancedEffect="3" SkillID="12104" ChangeHunJing="80" />
+  <HorseAdvanced ID="75" HorseID="990007" Name="Kim Sư" Level="5" NeedGoods="2131,80|2132,50" AdvancedEffect="4" SkillID="12105" ChangeHunJing="90" />
+  <HorseAdvanced ID="76" HorseID="990007" Name="Kim Sư" Level="6" NeedGoods="2131,100|2132,60" AdvancedEffect="5.2" SkillID="12106" ChangeHunJing="100" />
+  <HorseAdvanced ID="77" HorseID="990007" Name="Kim Sư" Level="7" NeedGoods="2131,120|2132,70" AdvancedEffect="6.4" SkillID="12107" ChangeHunJing="110" />
+  <HorseAdvanced ID="78" HorseID="990007" Name="Kim Sư" Level="8" NeedGoods="2131,140|2132,80|2133,40" AdvancedEffect="7.6" SkillID="12108" ChangeHunJing="120" />
+  <HorseAdvanced ID="79" HorseID="990007" Name="Kim Sư" Level="9" NeedGoods="2131,160|2132,90|2133,50" AdvancedEffect="8.8" SkillID="12109" ChangeHunJing="130" />
+  <HorseAdvanced ID="80" HorseID="990007" Name="Kim Sư" Level="10" NeedGoods="2131,180|2132,100|2133,60" AdvancedEffect="10" SkillID="12110" ChangeHunJing="140" />
+  <HorseAdvanced ID="81" HorseID="990008" Name="火凤凰" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="12601" ChangeHunJing="250" />
+  <HorseAdvanced ID="82" HorseID="990008" Name="火凤凰" Level="2" NeedGoods="2131,30" AdvancedEffect="1.5" SkillID="12602" ChangeHunJing="300" />
+  <HorseAdvanced ID="83" HorseID="990008" Name="火凤凰" Level="3" NeedGoods="2131,60" AdvancedEffect="3" SkillID="12603" ChangeHunJing="350" />
+  <HorseAdvanced ID="84" HorseID="990008" Name="火凤凰" Level="4" NeedGoods="2131,90" AdvancedEffect="4.5" SkillID="12604" ChangeHunJing="400" />
+  <HorseAdvanced ID="85" HorseID="990008" Name="火凤凰" Level="5" NeedGoods="2131,120|2132,75" AdvancedEffect="6" SkillID="12605" ChangeHunJing="450" />
+  <HorseAdvanced ID="86" HorseID="990008" Name="火凤凰" Level="6" NeedGoods="2131,150|2132,90|2133,10" AdvancedEffect="7.8" SkillID="12606" ChangeHunJing="500" />
+  <HorseAdvanced ID="87" HorseID="990008" Name="火凤凰" Level="7" NeedGoods="2131,180|2132,105|2133,30" AdvancedEffect="9.6" SkillID="12607" ChangeHunJing="550" />
+  <HorseAdvanced ID="88" HorseID="990008" Name="火凤凰" Level="8" NeedGoods="2131,210|2132,120|2133,60" AdvancedEffect="11.4" SkillID="12608" ChangeHunJing="600" />
+  <HorseAdvanced ID="89" HorseID="990008" Name="火凤凰" Level="9" NeedGoods="2131,240|2132,135|2133,75" AdvancedEffect="13.2" SkillID="12609" ChangeHunJing="650" />
+  <HorseAdvanced ID="90" HorseID="990008" Name="火凤凰" Level="10" NeedGoods="2131,270|2132,150|2133,90" AdvancedEffect="15" SkillID="12610" ChangeHunJing="700" />
+  <HorseAdvanced ID="91" HorseID="990009" Name="Rồng Vàng" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="12301" ChangeHunJing="200" />
+  <HorseAdvanced ID="92" HorseID="990009" Name="Rồng Vàng" Level="2" NeedGoods="2131,30" AdvancedEffect="1.5" SkillID="12302" ChangeHunJing="240" />
+  <HorseAdvanced ID="93" HorseID="990009" Name="Rồng Vàng" Level="3" NeedGoods="2131,60" AdvancedEffect="3" SkillID="12303" ChangeHunJing="280" />
+  <HorseAdvanced ID="94" HorseID="990009" Name="Rồng Vàng" Level="4" NeedGoods="2131,90" AdvancedEffect="4.5" SkillID="12304" ChangeHunJing="320" />
+  <HorseAdvanced ID="95" HorseID="990009" Name="Rồng Vàng" Level="5" NeedGoods="2131,120|2132,75" AdvancedEffect="6" SkillID="12305" ChangeHunJing="360" />
+  <HorseAdvanced ID="96" HorseID="990009" Name="Rồng Vàng" Level="6" NeedGoods="2131,150|2132,90|2133,10" AdvancedEffect="7.8" SkillID="12306" ChangeHunJing="400" />
+  <HorseAdvanced ID="97" HorseID="990009" Name="Rồng Vàng" Level="7" NeedGoods="2131,180|2132,105|2133,30" AdvancedEffect="9.6" SkillID="12307" ChangeHunJing="440" />
+  <HorseAdvanced ID="98" HorseID="990009" Name="Rồng Vàng" Level="8" NeedGoods="2131,210|2132,120|2133,60" AdvancedEffect="11.4" SkillID="12308" ChangeHunJing="480" />
+  <HorseAdvanced ID="99" HorseID="990009" Name="Rồng Vàng" Level="9" NeedGoods="2131,240|2132,135|2133,75" AdvancedEffect="13.2" SkillID="12309" ChangeHunJing="520" />
+  <HorseAdvanced ID="100" HorseID="990009" Name="Rồng Vàng" Level="10" NeedGoods="2131,270|2132,150|2133,90" AdvancedEffect="15" SkillID="12310" ChangeHunJing="560" />
+  <HorseAdvanced ID="101" HorseID="990010" Name="Ngựa Sao" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="12401" ChangeHunJing="200" />
+  <HorseAdvanced ID="102" HorseID="990010" Name="Ngựa Sao" Level="2" NeedGoods="2131,30" AdvancedEffect="1.5" SkillID="12402" ChangeHunJing="240" />
+  <HorseAdvanced ID="103" HorseID="990010" Name="Ngựa Sao" Level="3" NeedGoods="2131,60" AdvancedEffect="3" SkillID="12403" ChangeHunJing="280" />
+  <HorseAdvanced ID="104" HorseID="990010" Name="Ngựa Sao" Level="4" NeedGoods="2131,90" AdvancedEffect="4.5" SkillID="12404" ChangeHunJing="320" />
+  <HorseAdvanced ID="105" HorseID="990010" Name="Ngựa Sao" Level="5" NeedGoods="2131,120|2132,75" AdvancedEffect="6" SkillID="12405" ChangeHunJing="360" />
+  <HorseAdvanced ID="106" HorseID="990010" Name="Ngựa Sao" Level="6" NeedGoods="2131,150|2132,90|2133,10" AdvancedEffect="7.8" SkillID="12406" ChangeHunJing="400" />
+  <HorseAdvanced ID="107" HorseID="990010" Name="Ngựa Sao" Level="7" NeedGoods="2131,180|2132,105|2133,30" AdvancedEffect="9.6" SkillID="12407" ChangeHunJing="440" />
+  <HorseAdvanced ID="108" HorseID="990010" Name="Ngựa Sao" Level="8" NeedGoods="2131,210|2132,120|2133,60" AdvancedEffect="11.4" SkillID="12408" ChangeHunJing="480" />
+  <HorseAdvanced ID="109" HorseID="990010" Name="Ngựa Sao" Level="9" NeedGoods="2131,240|2132,135|2133,75" AdvancedEffect="13.2" SkillID="12409" ChangeHunJing="520" />
+  <HorseAdvanced ID="110" HorseID="990010" Name="Ngựa Sao" Level="10" NeedGoods="2131,270|2132,150|2133,90" AdvancedEffect="15" SkillID="12410" ChangeHunJing="560" />
+  <HorseAdvanced ID="111" HorseID="990011" Name="Gấu Trúc" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="12501" ChangeHunJing="200" />
+  <HorseAdvanced ID="112" HorseID="990011" Name="Gấu Trúc" Level="2" NeedGoods="2131,30" AdvancedEffect="1.5" SkillID="12502" ChangeHunJing="240" />
+  <HorseAdvanced ID="113" HorseID="990011" Name="Gấu Trúc" Level="3" NeedGoods="2131,60" AdvancedEffect="3" SkillID="12503" ChangeHunJing="280" />
+  <HorseAdvanced ID="114" HorseID="990011" Name="Gấu Trúc" Level="4" NeedGoods="2131,90" AdvancedEffect="4.5" SkillID="12504" ChangeHunJing="320" />
+  <HorseAdvanced ID="115" HorseID="990011" Name="Gấu Trúc" Level="5" NeedGoods="2131,120|2132,75" AdvancedEffect="6" SkillID="12505" ChangeHunJing="360" />
+  <HorseAdvanced ID="116" HorseID="990011" Name="Gấu Trúc" Level="6" NeedGoods="2131,150|2132,90|2133,10" AdvancedEffect="7.8" SkillID="12506" ChangeHunJing="400" />
+  <HorseAdvanced ID="117" HorseID="990011" Name="Gấu Trúc" Level="7" NeedGoods="2131,180|2132,105|2133,30" AdvancedEffect="9.6" SkillID="12507" ChangeHunJing="440" />
+  <HorseAdvanced ID="118" HorseID="990011" Name="Gấu Trúc" Level="8" NeedGoods="2131,210|2132,120|2133,60" AdvancedEffect="11.4" SkillID="12508" ChangeHunJing="480" />
+  <HorseAdvanced ID="119" HorseID="990011" Name="Gấu Trúc" Level="9" NeedGoods="2131,240|2132,135|2133,75" AdvancedEffect="13.2" SkillID="12509" ChangeHunJing="520" />
+  <HorseAdvanced ID="120" HorseID="990011" Name="Gấu Trúc" Level="10" NeedGoods="2131,270|2132,150|2133,90" AdvancedEffect="15" SkillID="12510" ChangeHunJing="560" />
+  <HorseAdvanced ID="121" HorseID="990012" Name="Cá Bay" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="12001" ChangeHunJing="30" />
+  <HorseAdvanced ID="122" HorseID="990012" Name="Cá Bay" Level="2" NeedGoods="2131,10" AdvancedEffect="0.5" SkillID="12002" ChangeHunJing="36" />
+  <HorseAdvanced ID="123" HorseID="990012" Name="Cá Bay" Level="3" NeedGoods="2131,20" AdvancedEffect="1" SkillID="12003" ChangeHunJing="42" />
+  <HorseAdvanced ID="124" HorseID="990012" Name="Cá Bay" Level="4" NeedGoods="2131,30" AdvancedEffect="1.5" SkillID="12004" ChangeHunJing="48" />
+  <HorseAdvanced ID="125" HorseID="990012" Name="Cá Bay" Level="5" NeedGoods="2131,40|2132,25" AdvancedEffect="2" SkillID="12005" ChangeHunJing="54" />
+  <HorseAdvanced ID="126" HorseID="990012" Name="Cá Bay" Level="6" NeedGoods="2131,50|2132,30" AdvancedEffect="2.6" SkillID="12006" ChangeHunJing="60" />
+  <HorseAdvanced ID="127" HorseID="990012" Name="Cá Bay" Level="7" NeedGoods="2131,60|2132,35" AdvancedEffect="3.2" SkillID="12007" ChangeHunJing="66" />
+  <HorseAdvanced ID="128" HorseID="990012" Name="Cá Bay" Level="8" NeedGoods="2131,70|2132,40|2133,20" AdvancedEffect="3.8" SkillID="12008" ChangeHunJing="72" />
+  <HorseAdvanced ID="129" HorseID="990012" Name="Cá Bay" Level="9" NeedGoods="2131,80|2132,45|2133,25" AdvancedEffect="4.4" SkillID="12009" ChangeHunJing="78" />
+  <HorseAdvanced ID="130" HorseID="990012" Name="Cá Bay" Level="10" NeedGoods="2131,90|2132,50|2133,30" AdvancedEffect="5" SkillID="12010" ChangeHunJing="84" />
+  <HorseAdvanced ID="131" HorseID="990013" Name="Griffon" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="12101" ChangeHunJing="50" />
+  <HorseAdvanced ID="132" HorseID="990013" Name="Griffon" Level="2" NeedGoods="2131,20" AdvancedEffect="1" SkillID="12102" ChangeHunJing="60" />
+  <HorseAdvanced ID="133" HorseID="990013" Name="Griffon" Level="3" NeedGoods="2131,40" AdvancedEffect="2" SkillID="12103" ChangeHunJing="70" />
+  <HorseAdvanced ID="134" HorseID="990013" Name="Griffon" Level="4" NeedGoods="2131,60" AdvancedEffect="3" SkillID="12104" ChangeHunJing="80" />
+  <HorseAdvanced ID="135" HorseID="990013" Name="Griffon" Level="5" NeedGoods="2131,80|2132,50" AdvancedEffect="4" SkillID="12105" ChangeHunJing="90" />
+  <HorseAdvanced ID="136" HorseID="990013" Name="Griffon" Level="6" NeedGoods="2131,100|2132,60" AdvancedEffect="5.2" SkillID="12106" ChangeHunJing="100" />
+  <HorseAdvanced ID="137" HorseID="990013" Name="Griffon" Level="7" NeedGoods="2131,120|2132,70" AdvancedEffect="6.4" SkillID="12107" ChangeHunJing="110" />
+  <HorseAdvanced ID="138" HorseID="990013" Name="Griffon" Level="8" NeedGoods="2131,140|2132,80|2133,40" AdvancedEffect="7.6" SkillID="12108" ChangeHunJing="120" />
+  <HorseAdvanced ID="139" HorseID="990013" Name="Griffon" Level="9" NeedGoods="2131,160|2132,90|2133,50" AdvancedEffect="8.8" SkillID="12109" ChangeHunJing="130" />
+  <HorseAdvanced ID="140" HorseID="990013" Name="Griffon" Level="10" NeedGoods="2131,180|2132,100|2133,60" AdvancedEffect="10" SkillID="12110" ChangeHunJing="140" />
+  <HorseAdvanced ID="141" HorseID="990014" Name="Rồng Tốc Độ" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="12201" ChangeHunJing="50" />
+  <HorseAdvanced ID="142" HorseID="990014" Name="Rồng Tốc Độ" Level="2" NeedGoods="2131,20" AdvancedEffect="1" SkillID="12202" ChangeHunJing="60" />
+  <HorseAdvanced ID="143" HorseID="990014" Name="Rồng Tốc Độ" Level="3" NeedGoods="2131,40" AdvancedEffect="2" SkillID="12203" ChangeHunJing="70" />
+  <HorseAdvanced ID="144" HorseID="990014" Name="Rồng Tốc Độ" Level="4" NeedGoods="2131,60" AdvancedEffect="3" SkillID="12204" ChangeHunJing="80" />
+  <HorseAdvanced ID="145" HorseID="990014" Name="Rồng Tốc Độ" Level="5" NeedGoods="2131,80|2132,50" AdvancedEffect="4" SkillID="12205" ChangeHunJing="90" />
+  <HorseAdvanced ID="146" HorseID="990014" Name="Rồng Tốc Độ" Level="6" NeedGoods="2131,100|2132,60" AdvancedEffect="5.2" SkillID="12206" ChangeHunJing="100" />
+  <HorseAdvanced ID="147" HorseID="990014" Name="Rồng Tốc Độ" Level="7" NeedGoods="2131,120|2132,70" AdvancedEffect="6.4" SkillID="12207" ChangeHunJing="110" />
+  <HorseAdvanced ID="148" HorseID="990014" Name="Rồng Tốc Độ" Level="8" NeedGoods="2131,140|2132,80|2133,40" AdvancedEffect="7.6" SkillID="12208" ChangeHunJing="120" />
+  <HorseAdvanced ID="149" HorseID="990014" Name="Rồng Tốc Độ" Level="9" NeedGoods="2131,160|2132,90|2133,50" AdvancedEffect="8.8" SkillID="12209" ChangeHunJing="130" />
+  <HorseAdvanced ID="150" HorseID="990014" Name="Rồng Tốc Độ" Level="10" NeedGoods="2131,180|2132,100|2133,60" AdvancedEffect="10" SkillID="12210" ChangeHunJing="140" />
+  <HorseAdvanced ID="151" HorseID="990015" Name="Heo Rừng" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="12301" ChangeHunJing="200" />
+  <HorseAdvanced ID="152" HorseID="990015" Name="Heo Rừng" Level="2" NeedGoods="2131,30" AdvancedEffect="1.5" SkillID="12302" ChangeHunJing="240" />
+  <HorseAdvanced ID="153" HorseID="990015" Name="Heo Rừng" Level="3" NeedGoods="2131,60" AdvancedEffect="3" SkillID="12303" ChangeHunJing="280" />
+  <HorseAdvanced ID="154" HorseID="990015" Name="Heo Rừng" Level="4" NeedGoods="2131,90" AdvancedEffect="4.5" SkillID="12304" ChangeHunJing="320" />
+  <HorseAdvanced ID="155" HorseID="990015" Name="Heo Rừng" Level="5" NeedGoods="2131,120|2132,75" AdvancedEffect="6" SkillID="12305" ChangeHunJing="360" />
+  <HorseAdvanced ID="156" HorseID="990015" Name="Heo Rừng" Level="6" NeedGoods="2131,150|2132,90|2133,10" AdvancedEffect="7.8" SkillID="12306" ChangeHunJing="400" />
+  <HorseAdvanced ID="157" HorseID="990015" Name="Heo Rừng" Level="7" NeedGoods="2131,180|2132,105|2133,30" AdvancedEffect="9.6" SkillID="12307" ChangeHunJing="440" />
+  <HorseAdvanced ID="158" HorseID="990015" Name="Heo Rừng" Level="8" NeedGoods="2131,210|2132,120|2133,60" AdvancedEffect="11.4" SkillID="12308" ChangeHunJing="480" />
+  <HorseAdvanced ID="159" HorseID="990015" Name="Heo Rừng" Level="9" NeedGoods="2131,240|2132,135|2133,75" AdvancedEffect="13.2" SkillID="12309" ChangeHunJing="520" />
+  <HorseAdvanced ID="160" HorseID="990015" Name="Heo Rừng" Level="10" NeedGoods="2131,270|2132,150|2133,90" AdvancedEffect="15" SkillID="12310" ChangeHunJing="560" />
+  <HorseAdvanced ID="161" HorseID="990016" Name="Rùa Dung Nham" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="12401" ChangeHunJing="200" />
+  <HorseAdvanced ID="162" HorseID="990016" Name="Rùa Dung Nham" Level="2" NeedGoods="2131,30" AdvancedEffect="1.5" SkillID="12402" ChangeHunJing="240" />
+  <HorseAdvanced ID="163" HorseID="990016" Name="Rùa Dung Nham" Level="3" NeedGoods="2131,60" AdvancedEffect="3" SkillID="12403" ChangeHunJing="280" />
+  <HorseAdvanced ID="164" HorseID="990016" Name="Rùa Dung Nham" Level="4" NeedGoods="2131,90" AdvancedEffect="4.5" SkillID="12404" ChangeHunJing="320" />
+  <HorseAdvanced ID="165" HorseID="990016" Name="Rùa Dung Nham" Level="5" NeedGoods="2131,120|2132,75" AdvancedEffect="6" SkillID="12405" ChangeHunJing="360" />
+  <HorseAdvanced ID="166" HorseID="990016" Name="Rùa Dung Nham" Level="6" NeedGoods="2131,150|2132,90|2133,10" AdvancedEffect="7.8" SkillID="12406" ChangeHunJing="400" />
+  <HorseAdvanced ID="167" HorseID="990016" Name="Rùa Dung Nham" Level="7" NeedGoods="2131,180|2132,105|2133,30" AdvancedEffect="9.6" SkillID="12407" ChangeHunJing="440" />
+  <HorseAdvanced ID="168" HorseID="990016" Name="Rùa Dung Nham" Level="8" NeedGoods="2131,210|2132,120|2133,60" AdvancedEffect="11.4" SkillID="12408" ChangeHunJing="480" />
+  <HorseAdvanced ID="169" HorseID="990016" Name="Rùa Dung Nham" Level="9" NeedGoods="2131,240|2132,135|2133,75" AdvancedEffect="13.2" SkillID="12409" ChangeHunJing="520" />
+  <HorseAdvanced ID="170" HorseID="990016" Name="Rùa Dung Nham" Level="10" NeedGoods="2131,270|2132,150|2133,90" AdvancedEffect="15" SkillID="12410" ChangeHunJing="560" />
+  <HorseAdvanced ID="171" HorseID="990017" Name="Bạch Hổ" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="12203" ChangeHunJing="80" />
+  <HorseAdvanced ID="172" HorseID="990017" Name="Bạch Hổ" Level="2" NeedGoods="2131,20" AdvancedEffect="1.5" SkillID="12204" ChangeHunJing="96" />
+  <HorseAdvanced ID="173" HorseID="990017" Name="Bạch Hổ" Level="3" NeedGoods="2131,40" AdvancedEffect="3" SkillID="12205" ChangeHunJing="112" />
+  <HorseAdvanced ID="174" HorseID="990017" Name="Bạch Hổ" Level="4" NeedGoods="2131,60" AdvancedEffect="4.5" SkillID="12206" ChangeHunJing="128" />
+  <HorseAdvanced ID="175" HorseID="990017" Name="Bạch Hổ" Level="5" NeedGoods="2131,80|2132,50" AdvancedEffect="6" SkillID="12207" ChangeHunJing="144" />
+  <HorseAdvanced ID="176" HorseID="990017" Name="Bạch Hổ" Level="6" NeedGoods="2131,100|2132,60" AdvancedEffect="7.8" SkillID="12208" ChangeHunJing="160" />
+  <HorseAdvanced ID="177" HorseID="990017" Name="Bạch Hổ" Level="7" NeedGoods="2131,120|2132,70" AdvancedEffect="9.6" SkillID="12209" ChangeHunJing="176" />
+  <HorseAdvanced ID="178" HorseID="990017" Name="Bạch Hổ" Level="8" NeedGoods="2131,140|2132,80|2133,40" AdvancedEffect="11.4" SkillID="12210" ChangeHunJing="192" />
+  <HorseAdvanced ID="179" HorseID="990017" Name="Bạch Hổ" Level="9" NeedGoods="2131,160|2132,90|2133,50" AdvancedEffect="13.2" SkillID="12211" ChangeHunJing="208" />
+  <HorseAdvanced ID="180" HorseID="990017" Name="Bạch Hổ" Level="10" NeedGoods="2131,180|2132,100|2133,60" AdvancedEffect="15" SkillID="12212" ChangeHunJing="224" />
+  <HorseAdvanced ID="181" HorseID="990018" Name="Gấu Chiến" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="12001" ChangeHunJing="30" />
+  <HorseAdvanced ID="182" HorseID="990018" Name="Gấu Chiến" Level="2" NeedGoods="2131,10" AdvancedEffect="0.5" SkillID="12002" ChangeHunJing="36" />
+  <HorseAdvanced ID="183" HorseID="990018" Name="Gấu Chiến" Level="3" NeedGoods="2131,20" AdvancedEffect="1" SkillID="12003" ChangeHunJing="42" />
+  <HorseAdvanced ID="184" HorseID="990018" Name="Gấu Chiến" Level="4" NeedGoods="2131,30" AdvancedEffect="1.5" SkillID="12004" ChangeHunJing="48" />
+  <HorseAdvanced ID="185" HorseID="990018" Name="Gấu Chiến" Level="5" NeedGoods="2131,40|2132,25" AdvancedEffect="2" SkillID="12005" ChangeHunJing="54" />
+  <HorseAdvanced ID="186" HorseID="990018" Name="Gấu Chiến" Level="6" NeedGoods="2131,50|2132,30" AdvancedEffect="2.6" SkillID="12006" ChangeHunJing="60" />
+  <HorseAdvanced ID="187" HorseID="990018" Name="Gấu Chiến" Level="7" NeedGoods="2131,60|2132,35" AdvancedEffect="3.2" SkillID="12007" ChangeHunJing="66" />
+  <HorseAdvanced ID="188" HorseID="990018" Name="Gấu Chiến" Level="8" NeedGoods="2131,70|2132,40|2133,20" AdvancedEffect="3.8" SkillID="12008" ChangeHunJing="72" />
+  <HorseAdvanced ID="189" HorseID="990018" Name="Gấu Chiến" Level="9" NeedGoods="2131,80|2132,45|2133,25" AdvancedEffect="4.4" SkillID="12009" ChangeHunJing="78" />
+  <HorseAdvanced ID="190" HorseID="990018" Name="Gấu Chiến" Level="10" NeedGoods="2131,90|2132,50|2133,30" AdvancedEffect="5" SkillID="12010" ChangeHunJing="84" />
+  <HorseAdvanced ID="191" HorseID="990019" Name="Bọ Sư Tử" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="12101" ChangeHunJing="50" />
+  <HorseAdvanced ID="192" HorseID="990019" Name="Bọ Sư Tử" Level="2" NeedGoods="2131,20" AdvancedEffect="1" SkillID="12102" ChangeHunJing="60" />
+  <HorseAdvanced ID="193" HorseID="990019" Name="Bọ Sư Tử" Level="3" NeedGoods="2131,40" AdvancedEffect="2" SkillID="12103" ChangeHunJing="70" />
+  <HorseAdvanced ID="194" HorseID="990019" Name="Bọ Sư Tử" Level="4" NeedGoods="2131,60" AdvancedEffect="3" SkillID="12104" ChangeHunJing="80" />
+  <HorseAdvanced ID="195" HorseID="990019" Name="Bọ Sư Tử" Level="5" NeedGoods="2131,80|2132,50" AdvancedEffect="4" SkillID="12105" ChangeHunJing="90" />
+  <HorseAdvanced ID="196" HorseID="990019" Name="Bọ Sư Tử" Level="6" NeedGoods="2131,100|2132,60" AdvancedEffect="5.2" SkillID="12106" ChangeHunJing="100" />
+  <HorseAdvanced ID="197" HorseID="990019" Name="Bọ Sư Tử" Level="7" NeedGoods="2131,120|2132,70" AdvancedEffect="6.4" SkillID="12107" ChangeHunJing="110" />
+  <HorseAdvanced ID="198" HorseID="990019" Name="Bọ Sư Tử" Level="8" NeedGoods="2131,140|2132,80|2133,40" AdvancedEffect="7.6" SkillID="12108" ChangeHunJing="120" />
+  <HorseAdvanced ID="199" HorseID="990019" Name="Bọ Sư Tử" Level="9" NeedGoods="2131,160|2132,90|2133,50" AdvancedEffect="8.8" SkillID="12109" ChangeHunJing="130" />
+  <HorseAdvanced ID="200" HorseID="990019" Name="Bọ Sư Tử" Level="10" NeedGoods="2131,180|2132,100|2133,60" AdvancedEffect="10" SkillID="12110" ChangeHunJing="140" />
+  <HorseAdvanced ID="201" HorseID="990020" Name="U Phẫn Tử Ô" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="12701" ChangeHunJing="250" />
+  <HorseAdvanced ID="202" HorseID="990020" Name="U Phẫn Tử Ô" Level="2" NeedGoods="2131,30" AdvancedEffect="1.5" SkillID="12702" ChangeHunJing="300" />
+  <HorseAdvanced ID="203" HorseID="990020" Name="U Phẫn Tử Ô" Level="3" NeedGoods="2131,60" AdvancedEffect="3" SkillID="12703" ChangeHunJing="350" />
+  <HorseAdvanced ID="204" HorseID="990020" Name="U Phẫn Tử Ô" Level="4" NeedGoods="2131,90" AdvancedEffect="4.5" SkillID="12704" ChangeHunJing="400" />
+  <HorseAdvanced ID="205" HorseID="990020" Name="U Phẫn Tử Ô" Level="5" NeedGoods="2131,120|2132,75" AdvancedEffect="6" SkillID="12705" ChangeHunJing="450" />
+  <HorseAdvanced ID="206" HorseID="990020" Name="U Phẫn Tử Ô" Level="6" NeedGoods="2131,150|2132,90|2133,10" AdvancedEffect="7.8" SkillID="12706" ChangeHunJing="500" />
+  <HorseAdvanced ID="207" HorseID="990020" Name="U Phẫn Tử Ô" Level="7" NeedGoods="2131,180|2132,105|2133,30" AdvancedEffect="9.6" SkillID="12707" ChangeHunJing="550" />
+  <HorseAdvanced ID="208" HorseID="990020" Name="U Phẫn Tử Ô" Level="8" NeedGoods="2131,210|2132,120|2133,60" AdvancedEffect="11.4" SkillID="12708" ChangeHunJing="600" />
+  <HorseAdvanced ID="209" HorseID="990020" Name="U Phẫn Tử Ô" Level="9" NeedGoods="2131,240|2132,135|2133,75" AdvancedEffect="13.2" SkillID="12709" ChangeHunJing="650" />
+  <HorseAdvanced ID="210" HorseID="990020" Name="U Phẫn Tử Ô" Level="10" NeedGoods="2131,270|2132,150|2133,90" AdvancedEffect="15" SkillID="12710" ChangeHunJing="700" />
+  <HorseAdvanced ID="211" HorseID="990021" Name="Diệt Thế Hắc Diễm Long" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="12801" ChangeHunJing="200" />
+  <HorseAdvanced ID="212" HorseID="990021" Name="Diệt Thế Hắc Diễm Long" Level="2" NeedGoods="2131,30" AdvancedEffect="1.5" SkillID="12802" ChangeHunJing="240" />
+  <HorseAdvanced ID="213" HorseID="990021" Name="Diệt Thế Hắc Diễm Long" Level="3" NeedGoods="2131,60" AdvancedEffect="3" SkillID="12803" ChangeHunJing="280" />
+  <HorseAdvanced ID="214" HorseID="990021" Name="Diệt Thế Hắc Diễm Long" Level="4" NeedGoods="2131,90" AdvancedEffect="4.5" SkillID="12804" ChangeHunJing="320" />
+  <HorseAdvanced ID="215" HorseID="990021" Name="Diệt Thế Hắc Diễm Long" Level="5" NeedGoods="2131,120|2132,75" AdvancedEffect="6" SkillID="12805" ChangeHunJing="360" />
+  <HorseAdvanced ID="216" HorseID="990021" Name="Diệt Thế Hắc Diễm Long" Level="6" NeedGoods="2131,150|2132,90|2133,10" AdvancedEffect="7.8" SkillID="12806" ChangeHunJing="400" />
+  <HorseAdvanced ID="217" HorseID="990021" Name="Diệt Thế Hắc Diễm Long" Level="7" NeedGoods="2131,180|2132,105|2133,30" AdvancedEffect="9.6" SkillID="12807" ChangeHunJing="440" />
+  <HorseAdvanced ID="218" HorseID="990021" Name="Diệt Thế Hắc Diễm Long" Level="8" NeedGoods="2131,210|2132,120|2133,60" AdvancedEffect="11.4" SkillID="12808" ChangeHunJing="480" />
+  <HorseAdvanced ID="219" HorseID="990021" Name="Diệt Thế Hắc Diễm Long" Level="9" NeedGoods="2131,240|2132,135|2133,75" AdvancedEffect="13.2" SkillID="12809" ChangeHunJing="520" />
+  <HorseAdvanced ID="220" HorseID="990021" Name="Diệt Thế Hắc Diễm Long" Level="10" NeedGoods="2131,270|2132,150|2133,90" AdvancedEffect="15" SkillID="12810" ChangeHunJing="560" />
+  <HorseAdvanced ID="231" HorseID="990023" Name="Đào Lan" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="12203" ChangeHunJing="200" />
+  <HorseAdvanced ID="232" HorseID="990023" Name="Đào Lan" Level="2" NeedGoods="2131,30" AdvancedEffect="1.5" SkillID="12204" ChangeHunJing="240" />
+  <HorseAdvanced ID="233" HorseID="990023" Name="Đào Lan" Level="3" NeedGoods="2131,60" AdvancedEffect="3" SkillID="12205" ChangeHunJing="280" />
+  <HorseAdvanced ID="234" HorseID="990023" Name="Đào Lan" Level="4" NeedGoods="2131,90" AdvancedEffect="4.5" SkillID="12206" ChangeHunJing="320" />
+  <HorseAdvanced ID="235" HorseID="990023" Name="Đào Lan" Level="5" NeedGoods="2131,120|2132,75" AdvancedEffect="6" SkillID="12207" ChangeHunJing="360" />
+  <HorseAdvanced ID="236" HorseID="990023" Name="Đào Lan" Level="6" NeedGoods="2131,150|2132,90|2133,10" AdvancedEffect="7.8" SkillID="12208" ChangeHunJing="400" />
+  <HorseAdvanced ID="237" HorseID="990023" Name="Đào Lan" Level="7" NeedGoods="2131,180|2132,105|2133,30" AdvancedEffect="9.6" SkillID="12209" ChangeHunJing="440" />
+  <HorseAdvanced ID="238" HorseID="990023" Name="Đào Lan" Level="8" NeedGoods="2131,210|2132,120|2133,60" AdvancedEffect="11.4" SkillID="12210" ChangeHunJing="480" />
+  <HorseAdvanced ID="239" HorseID="990023" Name="Đào Lan" Level="9" NeedGoods="2131,240|2132,135|2133,75" AdvancedEffect="13.2" SkillID="12211" ChangeHunJing="520" />
+  <HorseAdvanced ID="240" HorseID="990023" Name="Đào Lan" Level="10" NeedGoods="2131,270|2132,150|2133,90" AdvancedEffect="15" SkillID="12212" ChangeHunJing="560" />
+  <HorseAdvanced ID="241" HorseID="990025" Name="Cực Tốc Nghê Hồng" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="13101" ChangeHunJing="400" />
+  <HorseAdvanced ID="242" HorseID="990025" Name="Cực Tốc Nghê Hồng" Level="2" NeedGoods="2131,45" AdvancedEffect="1.5" SkillID="13102" ChangeHunJing="480" />
+  <HorseAdvanced ID="243" HorseID="990025" Name="Cực Tốc Nghê Hồng" Level="3" NeedGoods="2131,90" AdvancedEffect="3" SkillID="13103" ChangeHunJing="560" />
+  <HorseAdvanced ID="244" HorseID="990025" Name="Cực Tốc Nghê Hồng" Level="4" NeedGoods="2131,135" AdvancedEffect="4.5" SkillID="13104" ChangeHunJing="640" />
+  <HorseAdvanced ID="245" HorseID="990025" Name="Cực Tốc Nghê Hồng" Level="5" NeedGoods="2131,180|2132,115" AdvancedEffect="6" SkillID="13105" ChangeHunJing="720" />
+  <HorseAdvanced ID="246" HorseID="990025" Name="Cực Tốc Nghê Hồng" Level="6" NeedGoods="2131,225|2132,135|2133,20" AdvancedEffect="7.8" SkillID="13106" ChangeHunJing="800" />
+  <HorseAdvanced ID="247" HorseID="990025" Name="Cực Tốc Nghê Hồng" Level="7" NeedGoods="2131,270|2132,160|2133,60" AdvancedEffect="9.6" SkillID="13107" ChangeHunJing="880" />
+  <HorseAdvanced ID="248" HorseID="990025" Name="Cực Tốc Nghê Hồng" Level="8" NeedGoods="2131,315|2132,180|2133,120" AdvancedEffect="11.4" SkillID="13108" ChangeHunJing="960" />
+  <HorseAdvanced ID="249" HorseID="990025" Name="Cực Tốc Nghê Hồng" Level="9" NeedGoods="2131,360|2132,200|2133,150" AdvancedEffect="13.2" SkillID="13109" ChangeHunJing="1040" />
+  <HorseAdvanced ID="250" HorseID="990025" Name="Cực Tốc Nghê Hồng" Level="10" NeedGoods="2131,405|2132,225|2133,180" AdvancedEffect="15" SkillID="13110" ChangeHunJing="1120" />
+  <HorseAdvanced ID="251" HorseID="990026" Name="Vịt Cool Ngầu" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="13201" ChangeHunJing="200" />
+  <HorseAdvanced ID="252" HorseID="990026" Name="Vịt Cool Ngầu" Level="2" NeedGoods="2131,30" AdvancedEffect="1.5" SkillID="13202" ChangeHunJing="240" />
+  <HorseAdvanced ID="253" HorseID="990026" Name="Vịt Cool Ngầu" Level="3" NeedGoods="2131,60" AdvancedEffect="3" SkillID="13203" ChangeHunJing="280" />
+  <HorseAdvanced ID="254" HorseID="990026" Name="Vịt Cool Ngầu" Level="4" NeedGoods="2131,90" AdvancedEffect="4.5" SkillID="13204" ChangeHunJing="320" />
+  <HorseAdvanced ID="255" HorseID="990026" Name="Vịt Cool Ngầu" Level="5" NeedGoods="2131,120|2132,75" AdvancedEffect="6" SkillID="13205" ChangeHunJing="360" />
+  <HorseAdvanced ID="256" HorseID="990026" Name="Vịt Cool Ngầu" Level="6" NeedGoods="2131,150|2132,90|2133,10" AdvancedEffect="7.8" SkillID="13206" ChangeHunJing="400" />
+  <HorseAdvanced ID="257" HorseID="990026" Name="Vịt Cool Ngầu" Level="7" NeedGoods="2131,180|2132,105|2133,30" AdvancedEffect="9.6" SkillID="13207" ChangeHunJing="440" />
+  <HorseAdvanced ID="258" HorseID="990026" Name="Vịt Cool Ngầu" Level="8" NeedGoods="2131,210|2132,120|2133,60" AdvancedEffect="11.4" SkillID="13208" ChangeHunJing="480" />
+  <HorseAdvanced ID="259" HorseID="990026" Name="Vịt Cool Ngầu" Level="9" NeedGoods="2131,240|2132,135|2133,75" AdvancedEffect="13.2" SkillID="13209" ChangeHunJing="520" />
+  <HorseAdvanced ID="260" HorseID="990026" Name="Vịt Cool Ngầu" Level="10" NeedGoods="2131,270|2132,150|2133,90" AdvancedEffect="15" SkillID="13210" ChangeHunJing="560" />
+  <HorseAdvanced ID="261" HorseID="990027" Name="Ma Thảm Thần Bí" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="13301" ChangeHunJing="400" />
+  <HorseAdvanced ID="262" HorseID="990027" Name="Ma Thảm Thần Bí" Level="2" NeedGoods="2131,45" AdvancedEffect="1.5" SkillID="13302" ChangeHunJing="480" />
+  <HorseAdvanced ID="263" HorseID="990027" Name="Ma Thảm Thần Bí" Level="3" NeedGoods="2131,90" AdvancedEffect="3" SkillID="13303" ChangeHunJing="560" />
+  <HorseAdvanced ID="264" HorseID="990027" Name="Ma Thảm Thần Bí" Level="4" NeedGoods="2131,135" AdvancedEffect="4.5" SkillID="13304" ChangeHunJing="640" />
+  <HorseAdvanced ID="265" HorseID="990027" Name="Ma Thảm Thần Bí" Level="5" NeedGoods="2131,180|2132,115" AdvancedEffect="6" SkillID="13305" ChangeHunJing="720" />
+  <HorseAdvanced ID="266" HorseID="990027" Name="Ma Thảm Thần Bí" Level="6" NeedGoods="2131,225|2132,135|2133,20" AdvancedEffect="7.8" SkillID="13306" ChangeHunJing="800" />
+  <HorseAdvanced ID="267" HorseID="990027" Name="Ma Thảm Thần Bí" Level="7" NeedGoods="2131,270|2132,160|2133,60" AdvancedEffect="9.6" SkillID="13307" ChangeHunJing="880" />
+  <HorseAdvanced ID="268" HorseID="990027" Name="Ma Thảm Thần Bí" Level="8" NeedGoods="2131,315|2132,180|2133,120" AdvancedEffect="11.4" SkillID="13308" ChangeHunJing="960" />
+  <HorseAdvanced ID="269" HorseID="990027" Name="Ma Thảm Thần Bí" Level="9" NeedGoods="2131,360|2132,200|2133,150" AdvancedEffect="13.2" SkillID="13309" ChangeHunJing="1040" />
+  <HorseAdvanced ID="270" HorseID="990027" Name="Ma Thảm Thần Bí" Level="10" NeedGoods="2131,405|2132,225|2133,180" AdvancedEffect="15" SkillID="13310" ChangeHunJing="1120" />
+  <HorseAdvanced ID="271" HorseID="990028" Name="Chiến binh tinh tinh" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="13401" ChangeHunJing="400" />
+  <HorseAdvanced ID="272" HorseID="990028" Name="Chiến binh tinh tinh" Level="2" NeedGoods="2131,45" AdvancedEffect="1.5" SkillID="13402" ChangeHunJing="480" />
+  <HorseAdvanced ID="273" HorseID="990028" Name="Chiến binh tinh tinh" Level="3" NeedGoods="2131,90" AdvancedEffect="3" SkillID="13403" ChangeHunJing="560" />
+  <HorseAdvanced ID="274" HorseID="990028" Name="Chiến binh tinh tinh" Level="4" NeedGoods="2131,135" AdvancedEffect="4.5" SkillID="13404" ChangeHunJing="640" />
+  <HorseAdvanced ID="275" HorseID="990028" Name="Chiến binh tinh tinh" Level="5" NeedGoods="2131,180|2132,115" AdvancedEffect="6" SkillID="13405" ChangeHunJing="720" />
+  <HorseAdvanced ID="276" HorseID="990028" Name="Chiến binh tinh tinh" Level="6" NeedGoods="2131,225|2132,135|2133,20" AdvancedEffect="7.8" SkillID="13406" ChangeHunJing="800" />
+  <HorseAdvanced ID="277" HorseID="990028" Name="Chiến binh tinh tinh" Level="7" NeedGoods="2131,270|2132,160|2133,60" AdvancedEffect="9.6" SkillID="13407" ChangeHunJing="880" />
+  <HorseAdvanced ID="278" HorseID="990028" Name="Chiến binh tinh tinh" Level="8" NeedGoods="2131,315|2132,180|2133,120" AdvancedEffect="11.4" SkillID="13408" ChangeHunJing="960" />
+  <HorseAdvanced ID="279" HorseID="990028" Name="Chiến binh tinh tinh" Level="9" NeedGoods="2131,360|2132,200|2133,150" AdvancedEffect="13.2" SkillID="13409" ChangeHunJing="1040" />
+  <HorseAdvanced ID="280" HorseID="990028" Name="Chiến binh tinh tinh" Level="10" NeedGoods="2131,405|2132,225|2133,180" AdvancedEffect="15" SkillID="13410" ChangeHunJing="1120" />
+  <HorseAdvanced ID="281" HorseID="990029" Name="梦境白龙" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="13501" ChangeHunJing="400" />
+  <HorseAdvanced ID="282" HorseID="990029" Name="梦境白龙" Level="2" NeedGoods="2131,45" AdvancedEffect="1.5" SkillID="13502" ChangeHunJing="480" />
+  <HorseAdvanced ID="283" HorseID="990029" Name="梦境白龙" Level="3" NeedGoods="2131,90" AdvancedEffect="3" SkillID="13503" ChangeHunJing="560" />
+  <HorseAdvanced ID="284" HorseID="990029" Name="梦境白龙" Level="4" NeedGoods="2131,135" AdvancedEffect="4.5" SkillID="13504" ChangeHunJing="640" />
+  <HorseAdvanced ID="285" HorseID="990029" Name="梦境白龙" Level="5" NeedGoods="2131,180|2132,115" AdvancedEffect="6" SkillID="13505" ChangeHunJing="720" />
+  <HorseAdvanced ID="286" HorseID="990029" Name="梦境白龙" Level="6" NeedGoods="2131,225|2132,135|2133,20" AdvancedEffect="7.8" SkillID="13506" ChangeHunJing="800" />
+  <HorseAdvanced ID="287" HorseID="990029" Name="梦境白龙" Level="7" NeedGoods="2131,270|2132,160|2133,60" AdvancedEffect="9.6" SkillID="13507" ChangeHunJing="880" />
+  <HorseAdvanced ID="288" HorseID="990029" Name="梦境白龙" Level="8" NeedGoods="2131,315|2132,180|2133,120" AdvancedEffect="11.4" SkillID="13508" ChangeHunJing="960" />
+  <HorseAdvanced ID="289" HorseID="990029" Name="梦境白龙" Level="9" NeedGoods="2131,360|2132,200|2133,150" AdvancedEffect="13.2" SkillID="13509" ChangeHunJing="1040" />
+  <HorseAdvanced ID="290" HorseID="990029" Name="梦境白龙" Level="10" NeedGoods="2131,405|2132,225|2133,180" AdvancedEffect="15" SkillID="13510" ChangeHunJing="1120" />
+  <HorseAdvanced ID="291" HorseID="990030" Name="Cá sấu Maniac" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="13601" ChangeHunJing="200" />
+  <HorseAdvanced ID="292" HorseID="990030" Name="Cá sấu Maniac" Level="2" NeedGoods="2131,30" AdvancedEffect="1.5" SkillID="13602" ChangeHunJing="240" />
+  <HorseAdvanced ID="293" HorseID="990030" Name="Cá sấu Maniac" Level="3" NeedGoods="2131,60" AdvancedEffect="3" SkillID="13603" ChangeHunJing="280" />
+  <HorseAdvanced ID="294" HorseID="990030" Name="Cá sấu Maniac" Level="4" NeedGoods="2131,90" AdvancedEffect="4.5" SkillID="13604" ChangeHunJing="320" />
+  <HorseAdvanced ID="295" HorseID="990030" Name="Cá sấu Maniac" Level="5" NeedGoods="2131,120|2132,75" AdvancedEffect="6" SkillID="13605" ChangeHunJing="360" />
+  <HorseAdvanced ID="296" HorseID="990030" Name="Cá sấu Maniac" Level="6" NeedGoods="2131,150|2132,90|2133,10" AdvancedEffect="7.8" SkillID="13606" ChangeHunJing="400" />
+  <HorseAdvanced ID="297" HorseID="990030" Name="Cá sấu Maniac" Level="7" NeedGoods="2131,180|2132,105|2133,30" AdvancedEffect="9.6" SkillID="13607" ChangeHunJing="440" />
+  <HorseAdvanced ID="298" HorseID="990030" Name="Cá sấu Maniac" Level="8" NeedGoods="2131,210|2132,120|2133,60" AdvancedEffect="11.4" SkillID="13608" ChangeHunJing="480" />
+  <HorseAdvanced ID="299" HorseID="990030" Name="Cá sấu Maniac" Level="9" NeedGoods="2131,240|2132,135|2133,75" AdvancedEffect="13.2" SkillID="13609" ChangeHunJing="520" />
+  <HorseAdvanced ID="300" HorseID="990030" Name="Cá sấu Maniac" Level="10" NeedGoods="2131,270|2132,150|2133,90" AdvancedEffect="15" SkillID="13610" ChangeHunJing="560" />
+  <HorseAdvanced ID="301" HorseID="990031" Name="彩虹龙马" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="13701" ChangeHunJing="400" />
+  <HorseAdvanced ID="302" HorseID="990031" Name="彩虹龙马" Level="2" NeedGoods="2131,45" AdvancedEffect="1.5" SkillID="13702" ChangeHunJing="480" />
+  <HorseAdvanced ID="303" HorseID="990031" Name="彩虹龙马" Level="3" NeedGoods="2131,90" AdvancedEffect="3" SkillID="13703" ChangeHunJing="560" />
+  <HorseAdvanced ID="304" HorseID="990031" Name="彩虹龙马" Level="4" NeedGoods="2131,135" AdvancedEffect="4.5" SkillID="13704" ChangeHunJing="640" />
+  <HorseAdvanced ID="305" HorseID="990031" Name="彩虹龙马" Level="5" NeedGoods="2131,180|2132,115" AdvancedEffect="6" SkillID="13705" ChangeHunJing="720" />
+  <HorseAdvanced ID="306" HorseID="990031" Name="彩虹龙马" Level="6" NeedGoods="2131,225|2132,135|2133,20" AdvancedEffect="7.8" SkillID="13706" ChangeHunJing="800" />
+  <HorseAdvanced ID="307" HorseID="990031" Name="彩虹龙马" Level="7" NeedGoods="2131,270|2132,160|2133,60" AdvancedEffect="9.6" SkillID="13707" ChangeHunJing="880" />
+  <HorseAdvanced ID="308" HorseID="990031" Name="彩虹龙马" Level="8" NeedGoods="2131,315|2132,180|2133,120" AdvancedEffect="11.4" SkillID="13708" ChangeHunJing="960" />
+  <HorseAdvanced ID="309" HorseID="990031" Name="彩虹龙马" Level="9" NeedGoods="2131,360|2132,200|2133,150" AdvancedEffect="13.2" SkillID="13709" ChangeHunJing="1040" />
+  <HorseAdvanced ID="310" HorseID="990031" Name="彩虹龙马" Level="10" NeedGoods="2131,405|2132,225|2133,180" AdvancedEffect="15" SkillID="13710" ChangeHunJing="1120" />
+  <HorseAdvanced ID="311" HorseID="990040" Name="梦魇战甲" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="13801" ChangeHunJing="400" />
+  <HorseAdvanced ID="312" HorseID="990040" Name="梦魇战甲" Level="2" NeedGoods="2131,45" AdvancedEffect="1.5" SkillID="13802" ChangeHunJing="480" />
+  <HorseAdvanced ID="313" HorseID="990040" Name="梦魇战甲" Level="3" NeedGoods="2131,90" AdvancedEffect="3" SkillID="13803" ChangeHunJing="560" />
+  <HorseAdvanced ID="314" HorseID="990040" Name="梦魇战甲" Level="4" NeedGoods="2131,135" AdvancedEffect="4.5" SkillID="13804" ChangeHunJing="640" />
+  <HorseAdvanced ID="315" HorseID="990040" Name="梦魇战甲" Level="5" NeedGoods="2131,180|2132,115" AdvancedEffect="6" SkillID="13805" ChangeHunJing="720" />
+  <HorseAdvanced ID="316" HorseID="990040" Name="梦魇战甲" Level="6" NeedGoods="2131,225|2132,135|2133,20" AdvancedEffect="7.8" SkillID="13806" ChangeHunJing="800" />
+  <HorseAdvanced ID="317" HorseID="990040" Name="梦魇战甲" Level="7" NeedGoods="2131,270|2132,160|2133,60" AdvancedEffect="9.6" SkillID="13807" ChangeHunJing="880" />
+  <HorseAdvanced ID="318" HorseID="990040" Name="梦魇战甲" Level="8" NeedGoods="2131,315|2132,180|2133,120" AdvancedEffect="11.4" SkillID="13808" ChangeHunJing="960" />
+  <HorseAdvanced ID="319" HorseID="990040" Name="梦魇战甲" Level="9" NeedGoods="2131,360|2132,200|2133,150" AdvancedEffect="13.2" SkillID="13809" ChangeHunJing="1040" />
+  <HorseAdvanced ID="320" HorseID="990040" Name="梦魇战甲" Level="10" NeedGoods="2131,405|2132,225|2133,180" AdvancedEffect="15" SkillID="13810" ChangeHunJing="1120" />
+  <HorseAdvanced ID="321" HorseID="990033" Name="大地魔龙" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="13811" ChangeHunJing="200" />
+  <HorseAdvanced ID="322" HorseID="990033" Name="大地魔龙" Level="2" NeedGoods="2131,30" AdvancedEffect="1.5" SkillID="13812" ChangeHunJing="240" />
+  <HorseAdvanced ID="323" HorseID="990033" Name="大地魔龙" Level="3" NeedGoods="2131,60" AdvancedEffect="3" SkillID="13813" ChangeHunJing="280" />
+  <HorseAdvanced ID="324" HorseID="990033" Name="大地魔龙" Level="4" NeedGoods="2131,90" AdvancedEffect="4.5" SkillID="13814" ChangeHunJing="320" />
+  <HorseAdvanced ID="325" HorseID="990033" Name="大地魔龙" Level="5" NeedGoods="2131,120|2132,75" AdvancedEffect="6" SkillID="13815" ChangeHunJing="360" />
+  <HorseAdvanced ID="326" HorseID="990033" Name="大地魔龙" Level="6" NeedGoods="2131,150|2132,90|2133,10" AdvancedEffect="7.8" SkillID="13816" ChangeHunJing="400" />
+  <HorseAdvanced ID="327" HorseID="990033" Name="大地魔龙" Level="7" NeedGoods="2131,180|2132,105|2133,30" AdvancedEffect="9.6" SkillID="13817" ChangeHunJing="440" />
+  <HorseAdvanced ID="328" HorseID="990033" Name="大地魔龙" Level="8" NeedGoods="2131,210|2132,120|2133,60" AdvancedEffect="11.4" SkillID="13818" ChangeHunJing="480" />
+  <HorseAdvanced ID="329" HorseID="990033" Name="大地魔龙" Level="9" NeedGoods="2131,240|2132,135|2133,75" AdvancedEffect="13.2" SkillID="13819" ChangeHunJing="520" />
+  <HorseAdvanced ID="330" HorseID="990033" Name="大地魔龙" Level="10" NeedGoods="2131,270|2132,150|2133,90" AdvancedEffect="15" SkillID="13820" ChangeHunJing="560" />
+  <HorseAdvanced ID="331" HorseID="990034" Name="爆炎魔龙" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="13821" ChangeHunJing="400" />
+  <HorseAdvanced ID="332" HorseID="990034" Name="爆炎魔龙" Level="2" NeedGoods="2131,45" AdvancedEffect="1.5" SkillID="13822" ChangeHunJing="480" />
+  <HorseAdvanced ID="333" HorseID="990034" Name="爆炎魔龙" Level="3" NeedGoods="2131,90" AdvancedEffect="3" SkillID="13823" ChangeHunJing="560" />
+  <HorseAdvanced ID="334" HorseID="990034" Name="爆炎魔龙" Level="4" NeedGoods="2131,135" AdvancedEffect="4.5" SkillID="13824" ChangeHunJing="640" />
+  <HorseAdvanced ID="335" HorseID="990034" Name="爆炎魔龙" Level="5" NeedGoods="2131,180|2132,115" AdvancedEffect="6" SkillID="13825" ChangeHunJing="720" />
+  <HorseAdvanced ID="336" HorseID="990034" Name="爆炎魔龙" Level="6" NeedGoods="2131,225|2132,135|2133,20" AdvancedEffect="7.8" SkillID="13826" ChangeHunJing="800" />
+  <HorseAdvanced ID="337" HorseID="990034" Name="爆炎魔龙" Level="7" NeedGoods="2131,270|2132,160|2133,60" AdvancedEffect="9.6" SkillID="13827" ChangeHunJing="880" />
+  <HorseAdvanced ID="338" HorseID="990034" Name="爆炎魔龙" Level="8" NeedGoods="2131,315|2132,180|2133,120" AdvancedEffect="11.4" SkillID="13828" ChangeHunJing="960" />
+  <HorseAdvanced ID="339" HorseID="990034" Name="爆炎魔龙" Level="9" NeedGoods="2131,360|2132,200|2133,150" AdvancedEffect="13.2" SkillID="13829" ChangeHunJing="1040" />
+  <HorseAdvanced ID="340" HorseID="990034" Name="爆炎魔龙" Level="10" NeedGoods="2131,405|2132,225|2133,180" AdvancedEffect="15" SkillID="13830" ChangeHunJing="1120" />
+  <HorseAdvanced ID="341" HorseID="990037" Name="白金飞鱼" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="13831" ChangeHunJing="400" />
+  <HorseAdvanced ID="342" HorseID="990037" Name="白金飞鱼" Level="2" NeedGoods="2131,45" AdvancedEffect="1.5" SkillID="13832" ChangeHunJing="480" />
+  <HorseAdvanced ID="343" HorseID="990037" Name="白金飞鱼" Level="3" NeedGoods="2131,90" AdvancedEffect="3" SkillID="13833" ChangeHunJing="560" />
+  <HorseAdvanced ID="344" HorseID="990037" Name="白金飞鱼" Level="4" NeedGoods="2131,135" AdvancedEffect="4.5" SkillID="13834" ChangeHunJing="640" />
+  <HorseAdvanced ID="345" HorseID="990037" Name="白金飞鱼" Level="5" NeedGoods="2131,180|2132,115" AdvancedEffect="6" SkillID="13835" ChangeHunJing="720" />
+  <HorseAdvanced ID="346" HorseID="990037" Name="白金飞鱼" Level="6" NeedGoods="2131,225|2132,135|2133,20" AdvancedEffect="7.8" SkillID="13836" ChangeHunJing="800" />
+  <HorseAdvanced ID="347" HorseID="990037" Name="白金飞鱼" Level="7" NeedGoods="2131,270|2132,160|2133,60" AdvancedEffect="9.6" SkillID="13837" ChangeHunJing="880" />
+  <HorseAdvanced ID="348" HorseID="990037" Name="白金飞鱼" Level="8" NeedGoods="2131,315|2132,180|2133,120" AdvancedEffect="11.4" SkillID="13838" ChangeHunJing="960" />
+  <HorseAdvanced ID="349" HorseID="990037" Name="白金飞鱼" Level="9" NeedGoods="2131,360|2132,200|2133,150" AdvancedEffect="13.2" SkillID="13839" ChangeHunJing="1040" />
+  <HorseAdvanced ID="350" HorseID="990037" Name="白金飞鱼" Level="10" NeedGoods="2131,405|2132,225|2133,180" AdvancedEffect="15" SkillID="13840" ChangeHunJing="1120" />
+  <HorseAdvanced ID="361" HorseID="990039" Name="守护巨龙" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="13851" ChangeHunJing="400" />
+  <HorseAdvanced ID="362" HorseID="990039" Name="守护巨龙" Level="2" NeedGoods="2131,45" AdvancedEffect="1.5" SkillID="13852" ChangeHunJing="480" />
+  <HorseAdvanced ID="363" HorseID="990039" Name="守护巨龙" Level="3" NeedGoods="2131,90" AdvancedEffect="3" SkillID="13853" ChangeHunJing="560" />
+  <HorseAdvanced ID="364" HorseID="990039" Name="守护巨龙" Level="4" NeedGoods="2131,135" AdvancedEffect="4.5" SkillID="13854" ChangeHunJing="640" />
+  <HorseAdvanced ID="365" HorseID="990039" Name="守护巨龙" Level="5" NeedGoods="2131,180|2132,115" AdvancedEffect="6" SkillID="13855" ChangeHunJing="720" />
+  <HorseAdvanced ID="366" HorseID="990039" Name="守护巨龙" Level="6" NeedGoods="2131,225|2132,135|2133,20" AdvancedEffect="7.8" SkillID="13856" ChangeHunJing="800" />
+  <HorseAdvanced ID="367" HorseID="990039" Name="守护巨龙" Level="7" NeedGoods="2131,270|2132,160|2133,60" AdvancedEffect="9.6" SkillID="13857" ChangeHunJing="880" />
+  <HorseAdvanced ID="368" HorseID="990039" Name="守护巨龙" Level="8" NeedGoods="2131,315|2132,180|2133,120" AdvancedEffect="11.4" SkillID="13858" ChangeHunJing="960" />
+  <HorseAdvanced ID="369" HorseID="990039" Name="守护巨龙" Level="9" NeedGoods="2131,360|2132,200|2133,150" AdvancedEffect="13.2" SkillID="13859" ChangeHunJing="1040" />
+  <HorseAdvanced ID="370" HorseID="990039" Name="守护巨龙" Level="10" NeedGoods="2131,405|2132,225|2133,180" AdvancedEffect="15" SkillID="13860" ChangeHunJing="1120" />
+  <HorseAdvanced ID="391" HorseID="990041" Name="星空梦想鲸" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="13851" ChangeHunJing="400" />
+  <HorseAdvanced ID="392" HorseID="990041" Name="星空梦想鲸" Level="2" NeedGoods="2131,45" AdvancedEffect="1.5" SkillID="13852" ChangeHunJing="480" />
+  <HorseAdvanced ID="393" HorseID="990041" Name="星空梦想鲸" Level="3" NeedGoods="2131,90" AdvancedEffect="3" SkillID="13853" ChangeHunJing="560" />
+  <HorseAdvanced ID="394" HorseID="990041" Name="星空梦想鲸" Level="4" NeedGoods="2131,135" AdvancedEffect="4.5" SkillID="13854" ChangeHunJing="640" />
+  <HorseAdvanced ID="395" HorseID="990041" Name="星空梦想鲸" Level="5" NeedGoods="2131,180|2132,115" AdvancedEffect="6" SkillID="13855" ChangeHunJing="720" />
+  <HorseAdvanced ID="396" HorseID="990041" Name="星空梦想鲸" Level="6" NeedGoods="2131,225|2132,135|2133,20" AdvancedEffect="7.8" SkillID="13856" ChangeHunJing="800" />
+  <HorseAdvanced ID="397" HorseID="990041" Name="星空梦想鲸" Level="7" NeedGoods="2131,270|2132,160|2133,60" AdvancedEffect="9.6" SkillID="13857" ChangeHunJing="880" />
+  <HorseAdvanced ID="398" HorseID="990041" Name="星空梦想鲸" Level="8" NeedGoods="2131,315|2132,180|2133,120" AdvancedEffect="11.4" SkillID="13858" ChangeHunJing="960" />
+  <HorseAdvanced ID="399" HorseID="990041" Name="星空梦想鲸" Level="9" NeedGoods="2131,360|2132,200|2133,150" AdvancedEffect="13.2" SkillID="13859" ChangeHunJing="1040" />
+  <HorseAdvanced ID="400" HorseID="990041" Name="星空梦想鲸" Level="10" NeedGoods="2131,405|2132,225|2133,180" AdvancedEffect="15" SkillID="13860" ChangeHunJing="1120" />
+  <HorseAdvanced ID="401" HorseID="990035" Name="金甲爆炎龙" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="13871" ChangeHunJing="400" />
+  <HorseAdvanced ID="402" HorseID="990035" Name="金甲爆炎龙" Level="2" NeedGoods="2131,45" AdvancedEffect="1.5" SkillID="13872" ChangeHunJing="480" />
+  <HorseAdvanced ID="403" HorseID="990035" Name="金甲爆炎龙" Level="3" NeedGoods="2131,90" AdvancedEffect="3" SkillID="13873" ChangeHunJing="560" />
+  <HorseAdvanced ID="404" HorseID="990035" Name="金甲爆炎龙" Level="4" NeedGoods="2131,135" AdvancedEffect="4.5" SkillID="13874" ChangeHunJing="640" />
+  <HorseAdvanced ID="405" HorseID="990035" Name="金甲爆炎龙" Level="5" NeedGoods="2131,180|2132,115" AdvancedEffect="6" SkillID="13875" ChangeHunJing="720" />
+  <HorseAdvanced ID="406" HorseID="990035" Name="金甲爆炎龙" Level="6" NeedGoods="2131,225|2132,135|2133,20" AdvancedEffect="7.8" SkillID="13876" ChangeHunJing="800" />
+  <HorseAdvanced ID="407" HorseID="990035" Name="金甲爆炎龙" Level="7" NeedGoods="2131,270|2132,160|2133,60" AdvancedEffect="9.6" SkillID="13877" ChangeHunJing="880" />
+  <HorseAdvanced ID="408" HorseID="990035" Name="金甲爆炎龙" Level="8" NeedGoods="2131,315|2132,180|2133,120" AdvancedEffect="11.4" SkillID="13878" ChangeHunJing="960" />
+  <HorseAdvanced ID="409" HorseID="990035" Name="金甲爆炎龙" Level="9" NeedGoods="2131,360|2132,200|2133,150" AdvancedEffect="13.2" SkillID="13879" ChangeHunJing="1040" />
+  <HorseAdvanced ID="410" HorseID="990035" Name="金甲爆炎龙" Level="10" NeedGoods="2131,405|2132,225|2133,180" AdvancedEffect="15" SkillID="13880" ChangeHunJing="1120" />
+  <HorseAdvanced ID="411" HorseID="990042" Name="九尾灵狐" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="13881" ChangeHunJing="400" />
+  <HorseAdvanced ID="412" HorseID="990042" Name="九尾灵狐" Level="2" NeedGoods="2131,45" AdvancedEffect="1.5" SkillID="13882" ChangeHunJing="480" />
+  <HorseAdvanced ID="413" HorseID="990042" Name="九尾灵狐" Level="3" NeedGoods="2131,90" AdvancedEffect="3" SkillID="13883" ChangeHunJing="560" />
+  <HorseAdvanced ID="414" HorseID="990042" Name="九尾灵狐" Level="4" NeedGoods="2131,135" AdvancedEffect="4.5" SkillID="13884" ChangeHunJing="640" />
+  <HorseAdvanced ID="415" HorseID="990042" Name="九尾灵狐" Level="5" NeedGoods="2131,180|2132,115" AdvancedEffect="6" SkillID="13885" ChangeHunJing="720" />
+  <HorseAdvanced ID="416" HorseID="990042" Name="九尾灵狐" Level="6" NeedGoods="2131,225|2132,135|2133,20" AdvancedEffect="7.8" SkillID="13886" ChangeHunJing="800" />
+  <HorseAdvanced ID="417" HorseID="990042" Name="九尾灵狐" Level="7" NeedGoods="2131,270|2132,160|2133,60" AdvancedEffect="9.6" SkillID="13887" ChangeHunJing="880" />
+  <HorseAdvanced ID="418" HorseID="990042" Name="九尾灵狐" Level="8" NeedGoods="2131,315|2132,180|2133,120" AdvancedEffect="11.4" SkillID="13888" ChangeHunJing="960" />
+  <HorseAdvanced ID="419" HorseID="990042" Name="九尾灵狐" Level="9" NeedGoods="2131,360|2132,200|2133,150" AdvancedEffect="13.2" SkillID="13889" ChangeHunJing="1040" />
+  <HorseAdvanced ID="420" HorseID="990042" Name="九尾灵狐" Level="10" NeedGoods="2131,405|2132,225|2133,180" AdvancedEffect="15" SkillID="13890" ChangeHunJing="1120" />
+  <HorseAdvanced ID="421" HorseID="990043" Name="洛神" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="13891" ChangeHunJing="400" />
+  <HorseAdvanced ID="422" HorseID="990043" Name="洛神" Level="2" NeedGoods="2131,45" AdvancedEffect="1.5" SkillID="13892" ChangeHunJing="480" />
+  <HorseAdvanced ID="423" HorseID="990043" Name="洛神" Level="3" NeedGoods="2131,90" AdvancedEffect="3" SkillID="13893" ChangeHunJing="560" />
+  <HorseAdvanced ID="424" HorseID="990043" Name="洛神" Level="4" NeedGoods="2131,135" AdvancedEffect="4.5" SkillID="13894" ChangeHunJing="640" />
+  <HorseAdvanced ID="425" HorseID="990043" Name="洛神" Level="5" NeedGoods="2131,180|2132,115" AdvancedEffect="6" SkillID="13895" ChangeHunJing="720" />
+  <HorseAdvanced ID="426" HorseID="990043" Name="洛神" Level="6" NeedGoods="2131,225|2132,135|2133,20" AdvancedEffect="7.8" SkillID="13896" ChangeHunJing="800" />
+  <HorseAdvanced ID="427" HorseID="990043" Name="洛神" Level="7" NeedGoods="2131,270|2132,160|2133,60" AdvancedEffect="9.6" SkillID="13897" ChangeHunJing="880" />
+  <HorseAdvanced ID="428" HorseID="990043" Name="洛神" Level="8" NeedGoods="2131,315|2132,180|2133,120" AdvancedEffect="11.4" SkillID="13898" ChangeHunJing="960" />
+  <HorseAdvanced ID="429" HorseID="990043" Name="洛神" Level="9" NeedGoods="2131,360|2132,200|2133,150" AdvancedEffect="13.2" SkillID="13899" ChangeHunJing="1040" />
+  <HorseAdvanced ID="430" HorseID="990043" Name="洛神" Level="10" NeedGoods="2131,405|2132,225|2133,180" AdvancedEffect="15" SkillID="13900" ChangeHunJing="1120" />
+  <HorseAdvanced ID="431" HorseID="990044" Name="冰河巨象" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="13901" ChangeHunJing="1200" />
+  <HorseAdvanced ID="432" HorseID="990044" Name="冰河巨象" Level="2" NeedGoods="2131,45" AdvancedEffect="1.5" SkillID="13902" ChangeHunJing="1280" />
+  <HorseAdvanced ID="433" HorseID="990044" Name="冰河巨象" Level="3" NeedGoods="2131,90" AdvancedEffect="3" SkillID="13903" ChangeHunJing="1360" />
+  <HorseAdvanced ID="434" HorseID="990044" Name="冰河巨象" Level="4" NeedGoods="2131,135" AdvancedEffect="4.5" SkillID="13904" ChangeHunJing="1440" />
+  <HorseAdvanced ID="435" HorseID="990044" Name="冰河巨象" Level="5" NeedGoods="2131,180|2132,115" AdvancedEffect="6" SkillID="13905" ChangeHunJing="1520" />
+  <HorseAdvanced ID="436" HorseID="990044" Name="冰河巨象" Level="6" NeedGoods="2131,225|2132,135|2133,20" AdvancedEffect="7.8" SkillID="13906" ChangeHunJing="1600" />
+  <HorseAdvanced ID="437" HorseID="990044" Name="冰河巨象" Level="7" NeedGoods="2131,270|2132,160|2133,60" AdvancedEffect="9.6" SkillID="13907" ChangeHunJing="1680" />
+  <HorseAdvanced ID="438" HorseID="990044" Name="冰河巨象" Level="8" NeedGoods="2131,315|2132,180|2133,120" AdvancedEffect="11.4" SkillID="13908" ChangeHunJing="1760" />
+  <HorseAdvanced ID="439" HorseID="990044" Name="冰河巨象" Level="9" NeedGoods="2131,360|2132,200|2133,150" AdvancedEffect="13.2" SkillID="13909" ChangeHunJing="1840" />
+  <HorseAdvanced ID="440" HorseID="990044" Name="冰河巨象" Level="10" NeedGoods="2131,405|2132,225|2133,180" AdvancedEffect="15" SkillID="13910" ChangeHunJing="1920" />
+  <HorseAdvanced ID="441" HorseID="990045" Name="赤火蚁" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="13911" ChangeHunJing="400" />
+  <HorseAdvanced ID="442" HorseID="990045" Name="赤火蚁" Level="2" NeedGoods="2131,45" AdvancedEffect="1.5" SkillID="13912" ChangeHunJing="480" />
+  <HorseAdvanced ID="443" HorseID="990045" Name="赤火蚁" Level="3" NeedGoods="2131,90" AdvancedEffect="3" SkillID="13913" ChangeHunJing="560" />
+  <HorseAdvanced ID="444" HorseID="990045" Name="赤火蚁" Level="4" NeedGoods="2131,135" AdvancedEffect="4.5" SkillID="13914" ChangeHunJing="640" />
+  <HorseAdvanced ID="445" HorseID="990045" Name="赤火蚁" Level="5" NeedGoods="2131,180|2132,115" AdvancedEffect="6" SkillID="13915" ChangeHunJing="720" />
+  <HorseAdvanced ID="446" HorseID="990045" Name="赤火蚁" Level="6" NeedGoods="2131,225|2132,135|2133,20" AdvancedEffect="7.8" SkillID="13916" ChangeHunJing="800" />
+  <HorseAdvanced ID="447" HorseID="990045" Name="赤火蚁" Level="7" NeedGoods="2131,270|2132,160|2133,60" AdvancedEffect="9.6" SkillID="13917" ChangeHunJing="880" />
+  <HorseAdvanced ID="448" HorseID="990045" Name="赤火蚁" Level="8" NeedGoods="2131,315|2132,180|2133,120" AdvancedEffect="11.4" SkillID="13918" ChangeHunJing="960" />
+  <HorseAdvanced ID="449" HorseID="990045" Name="赤火蚁" Level="9" NeedGoods="2131,360|2132,200|2133,150" AdvancedEffect="13.2" SkillID="13919" ChangeHunJing="1040" />
+  <HorseAdvanced ID="450" HorseID="990045" Name="赤火蚁" Level="10" NeedGoods="2131,405|2132,225|2133,180" AdvancedEffect="15" SkillID="13920" ChangeHunJing="1120" />
+  <HorseAdvanced ID="451" HorseID="990046" Name="天马翱翔" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="13921" ChangeHunJing="400" />
+  <HorseAdvanced ID="452" HorseID="990046" Name="天马翱翔" Level="2" NeedGoods="2131,45" AdvancedEffect="1.5" SkillID="13922" ChangeHunJing="480" />
+  <HorseAdvanced ID="453" HorseID="990046" Name="天马翱翔" Level="3" NeedGoods="2131,90" AdvancedEffect="3" SkillID="13923" ChangeHunJing="560" />
+  <HorseAdvanced ID="454" HorseID="990046" Name="天马翱翔" Level="4" NeedGoods="2131,135" AdvancedEffect="4.5" SkillID="13924" ChangeHunJing="640" />
+  <HorseAdvanced ID="455" HorseID="990046" Name="天马翱翔" Level="5" NeedGoods="2131,180|2132,115" AdvancedEffect="6" SkillID="13925" ChangeHunJing="720" />
+  <HorseAdvanced ID="456" HorseID="990046" Name="天马翱翔" Level="6" NeedGoods="2131,225|2132,135|2133,20" AdvancedEffect="7.8" SkillID="13926" ChangeHunJing="800" />
+  <HorseAdvanced ID="457" HorseID="990046" Name="天马翱翔" Level="7" NeedGoods="2131,270|2132,160|2133,60" AdvancedEffect="9.6" SkillID="13927" ChangeHunJing="880" />
+  <HorseAdvanced ID="458" HorseID="990046" Name="天马翱翔" Level="8" NeedGoods="2131,315|2132,180|2133,120" AdvancedEffect="11.4" SkillID="13928" ChangeHunJing="960" />
+  <HorseAdvanced ID="459" HorseID="990046" Name="天马翱翔" Level="9" NeedGoods="2131,360|2132,200|2133,150" AdvancedEffect="13.2" SkillID="13929" ChangeHunJing="1040" />
+  <HorseAdvanced ID="460" HorseID="990046" Name="天马翱翔" Level="10" NeedGoods="2131,405|2132,225|2133,180" AdvancedEffect="15" SkillID="13930" ChangeHunJing="1120" />
+  <HorseAdvanced ID="10000" HorseID="70000001" Name="Sói Địa Ngục" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="12001" ChangeHunJing="200" />
+  <HorseAdvanced ID="10001" HorseID="70000001" Name="Sói Địa Ngục" Level="2" NeedGoods="2131,30" AdvancedEffect="1.5" SkillID="12002" ChangeHunJing="240" />
+  <HorseAdvanced ID="10002" HorseID="70000001" Name="Sói Địa Ngục" Level="3" NeedGoods="2131,60" AdvancedEffect="3" SkillID="12003" ChangeHunJing="280" />
+  <HorseAdvanced ID="10003" HorseID="70000001" Name="Sói Địa Ngục" Level="4" NeedGoods="2131,90" AdvancedEffect="4.5" SkillID="12004" ChangeHunJing="320" />
+  <HorseAdvanced ID="10004" HorseID="70000001" Name="Sói Địa Ngục" Level="5" NeedGoods="2131,120|2132,75" AdvancedEffect="6" SkillID="12005" ChangeHunJing="360" />
+  <HorseAdvanced ID="10005" HorseID="70000001" Name="Sói Địa Ngục" Level="6" NeedGoods="2131,150|2132,90|2133,10" AdvancedEffect="7.8" SkillID="12006" ChangeHunJing="400" />
+  <HorseAdvanced ID="10006" HorseID="70000001" Name="Sói Địa Ngục" Level="7" NeedGoods="2131,180|2132,105|2133,30" AdvancedEffect="9.6" SkillID="12007" ChangeHunJing="440" />
+  <HorseAdvanced ID="10007" HorseID="70000001" Name="Sói Địa Ngục" Level="8" NeedGoods="2131,210|2132,120|2133,60" AdvancedEffect="11.4" SkillID="12008" ChangeHunJing="480" />
+  <HorseAdvanced ID="10008" HorseID="70000001" Name="Sói Địa Ngục" Level="9" NeedGoods="2131,240|2132,135|2133,75" AdvancedEffect="13.2" SkillID="12009" ChangeHunJing="520" />
+  <HorseAdvanced ID="10009" HorseID="70000001" Name="Sói Địa Ngục" Level="10" NeedGoods="2131,270|2132,150|2133,90" AdvancedEffect="15" SkillID="12010" ChangeHunJing="560" />
+  <HorseAdvanced ID="10010" HorseID="70000002" Name="Rồng Đông Phương Thần Bí" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="12601" ChangeHunJing="200" />
+  <HorseAdvanced ID="10011" HorseID="70000002" Name="Rồng Đông Phương Thần Bí" Level="2" NeedGoods="2131,30" AdvancedEffect="1.5" SkillID="12602" ChangeHunJing="240" />
+  <HorseAdvanced ID="10012" HorseID="70000002" Name="Rồng Đông Phương Thần Bí" Level="3" NeedGoods="2131,60" AdvancedEffect="3" SkillID="12603" ChangeHunJing="280" />
+  <HorseAdvanced ID="10013" HorseID="70000002" Name="Rồng Đông Phương Thần Bí" Level="4" NeedGoods="2131,90" AdvancedEffect="4.5" SkillID="12604" ChangeHunJing="320" />
+  <HorseAdvanced ID="10014" HorseID="70000002" Name="Rồng Đông Phương Thần Bí" Level="5" NeedGoods="2131,120|2132,75" AdvancedEffect="6" SkillID="12605" ChangeHunJing="360" />
+  <HorseAdvanced ID="10015" HorseID="70000002" Name="Rồng Đông Phương Thần Bí" Level="6" NeedGoods="2131,150|2132,90|2133,10" AdvancedEffect="7.8" SkillID="12606" ChangeHunJing="400" />
+  <HorseAdvanced ID="10016" HorseID="70000002" Name="Rồng Đông Phương Thần Bí" Level="7" NeedGoods="2131,180|2132,105|2133,30" AdvancedEffect="9.6" SkillID="12607" ChangeHunJing="440" />
+  <HorseAdvanced ID="10017" HorseID="70000002" Name="Rồng Đông Phương Thần Bí" Level="8" NeedGoods="2131,210|2132,120|2133,60" AdvancedEffect="11.4" SkillID="12608" ChangeHunJing="480" />
+  <HorseAdvanced ID="10018" HorseID="70000002" Name="Rồng Đông Phương Thần Bí" Level="9" NeedGoods="2131,240|2132,135|2133,75" AdvancedEffect="13.2" SkillID="12609" ChangeHunJing="520" />
+  <HorseAdvanced ID="10019" HorseID="70000002" Name="Rồng Đông Phương Thần Bí" Level="10" NeedGoods="2131,270|2132,150|2133,90" AdvancedEffect="15" SkillID="12610" ChangeHunJing="560" />
+  <HorseAdvanced ID="10020" HorseID="70000003" Name="Thú Cưỡi Mộng Yểm" Level="1" NeedGoods="0" AdvancedEffect="0" SkillID="12401" ChangeHunJing="200" />
+  <HorseAdvanced ID="10021" HorseID="70000003" Name="Thú Cưỡi Mộng Yểm" Level="2" NeedGoods="2131,30" AdvancedEffect="1.5" SkillID="12402" ChangeHunJing="240" />
+  <HorseAdvanced ID="10022" HorseID="70000003" Name="Thú Cưỡi Mộng Yểm" Level="3" NeedGoods="2131,60" AdvancedEffect="3" SkillID="12403" ChangeHunJing="280" />
+  <HorseAdvanced ID="10023" HorseID="70000003" Name="Thú Cưỡi Mộng Yểm" Level="4" NeedGoods="2131,90" AdvancedEffect="4.5" SkillID="12404" ChangeHunJing="320" />
+  <HorseAdvanced ID="10024" HorseID="70000003" Name="Thú Cưỡi Mộng Yểm" Level="5" NeedGoods="2131,120|2132,75" AdvancedEffect="6" SkillID="12405" ChangeHunJing="360" />
+  <HorseAdvanced ID="10025" HorseID="70000003" Name="Thú Cưỡi Mộng Yểm" Level="6" NeedGoods="2131,150|2132,90|2133,10" AdvancedEffect="7.8" SkillID="12406" ChangeHunJing="400" />
+  <HorseAdvanced ID="10026" HorseID="70000003" Name="Thú Cưỡi Mộng Yểm" Level="7" NeedGoods="2131,180|2132,105|2133,30" AdvancedEffect="9.6" SkillID="12407" ChangeHunJing="440" />
+  <HorseAdvanced ID="10027" HorseID="70000003" Name="Thú Cưỡi Mộng Yểm" Level="8" NeedGoods="2131,210|2132,120|2133,60" AdvancedEffect="11.4" SkillID="12408" ChangeHunJing="480" />
+  <HorseAdvanced ID="10028" HorseID="70000003" Name="Thú Cưỡi Mộng Yểm" Level="9" NeedGoods="2131,240|2132,135|2133,75" AdvancedEffect="13.2" SkillID="12409" ChangeHunJing="520" />
+  <HorseAdvanced ID="10029" HorseID="70000003" Name="Thú Cưỡi Mộng Yểm" Level="10" NeedGoods="2131,270|2132,150|2133,90" AdvancedEffect="15" SkillID="12410" ChangeHunJing="560" />
+</Config>

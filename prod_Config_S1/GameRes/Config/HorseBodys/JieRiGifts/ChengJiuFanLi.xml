@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="56"  FromDate="2017-06-03 00:00:00" ToDate="2017-06-09 23:59:59" AwardStartDate="2017-06-03 00:00:00"  AwardEndDate="2017-06-09 23:59:59" />
+  <GiftList Description="Trong event, danh hiệu thành tựu đạt mức chỉ định nhận quà lớn!">
+    <Award ID="1" ChengJiuLevel="7" GoodsOne="5031,1,1,0,0,0,0|5088,20,1,0,0,0,0|50160,1,1,0,0,0,0|50020,2,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="2" ChengJiuLevel="8" GoodsOne="5031,2,1,0,0,0,0|5088,20,1,0,0,0,0|50160,1,1,0,0,0,0|50020,2,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="3" ChengJiuLevel="9" GoodsOne="5031,3,1,0,0,0,0|5088,30,1,0,0,0,0|50161,1,1,0,0,0,0|50020,3,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="4" ChengJiuLevel="10" GoodsOne="5031,4,1,0,0,0,0|5088,30,1,0,0,0,0|50161,1,1,0,0,0,0|50020,3,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="5" ChengJiuLevel="11" GoodsOne="5031,5,1,0,0,0,0|5088,40,1,0,0,0,0|50162,1,1,0,0,0,0|50020,4,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="6" ChengJiuLevel="12" GoodsOne="5031,6,1,0,0,0,0|5088,40,1,0,0,0,0|50162,1,1,0,0,0,0|50020,4,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+  </GiftList>
+</Config>

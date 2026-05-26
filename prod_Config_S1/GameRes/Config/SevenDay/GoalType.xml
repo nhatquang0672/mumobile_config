@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Config>
+  <GoalType TypeID="1" Name="Lv" Day="1" />
+  <GoalType TypeID="2" Name="Ma Băng" Day="1" />
+  <GoalType TypeID="3" Name="Đấu Trường" Day="2" />
+  <GoalType TypeID="4" Name="Trang Bị " Day="2" />
+  <GoalType TypeID="5" Name="Phó Bản" Day="3" />
+  <GoalType TypeID="6" Name="Hợp Thành" Day="3" />
+  <GoalType TypeID="7" Name="Ngọc Chúc Phúc" Day="4" />
+  <GoalType TypeID="8" Name="Cường Hoá" Day="4" />
+  <GoalType TypeID="9" Name="Ngọc Sinh Mệnh" Day="5" />
+  <GoalType TypeID="10" Name="Gia Cố" Day="5" />
+  <GoalType TypeID="11" Name="Đá Thần Ưng" Day="6" />
+  <GoalType TypeID="12" Name="Cánh" Day="6" />
+  <GoalType TypeID="13" Name="Đồ Giám" Day="7" />
+  <GoalType TypeID="14" Name="Tăng Cấp" Day="7" />
+</Config>

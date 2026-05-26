@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <ShengHenMingKe ID="1" EquipSuit="10" NeedGoods="2142,20|2143,30" NeedMoney="1,100|40,222" />
+  <ShengHenMingKe ID="2" EquipSuit="11" NeedGoods="2142,20|2143,31" NeedMoney="1,100|40,223" />
+  <ShengHenMingKe ID="3" EquipSuit="12" NeedGoods="2142,20|2143,32" NeedMoney="1,100|40,224" />
+  <ShengHenMingKe ID="4" EquipSuit="13" NeedGoods="2142,20|2143,33" NeedMoney="1,100|40,225" />
+  <ShengHenMingKe ID="5" EquipSuit="14" NeedGoods="2142,20|2143,34" NeedMoney="1,100|40,226" />
+  <ShengHenMingKe ID="6" EquipSuit="15" NeedGoods="2142,20|2143,35" NeedMoney="1,100|40,227" />
+</Config>

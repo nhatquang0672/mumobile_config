@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <EscapeActivityRules ID="1" Name="Bản đồ Ma Giới Đại Tháo Sát" MapCode="97004" TimePoints="1,21:30:00-22:00:00|4,21:30:00-22:00:00" BattleSignSecs="60" SignCondition="5,1" MatchTeamNum="3" EnterBattleNum="2" PrepareSecs="60" SafeSecs="60" ClearRolesSecs="60" FanaticismStartNum="3" BattleEndTime="720" RankRefreshTime="180" RewardView="2016|2017|63257|63260" />
+</Config>

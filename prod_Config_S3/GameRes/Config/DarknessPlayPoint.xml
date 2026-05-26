@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <DarknessPlayPoint ID="1" MapId="97008" MapTeamPoint="5100,4500" MapTeamRange="20" />
+  <DarknessPlayPoint ID="2" MapId="97008" MapTeamPoint="5100,4500" MapTeamRange="20" />
+  <DarknessPlayPoint ID="3" MapId="97008" MapTeamPoint="5100,4500" MapTeamRange="20" />
+</Config>

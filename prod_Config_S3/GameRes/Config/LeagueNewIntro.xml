@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Quy tắc" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Mỗi T2, T3{17e43e}20:30-21:00{dac7ae}，Mỗi quý có 8 lượt" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, Cần báo danh Ngôi Sao Tìm Năng, ngừng báo danh mỗi 30p trước mỗi lượt thi, mỗi mùa thi {17e43e}chỉ cần báo danh 1 lần{dac7ae}, mùa thu bắt đầu hoặc giữa chừng có thể báo danh" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, Cuộc thi Ngôi Sao Tìm Năng {17e43e}phối chiến đấu ngẫu nhiên{dac7ae}, 2 Guild có tích điểm giống nhau có tỉ lệ gặp nhau cao" Bold="0" />
+  <HelpIntro ID="5" Intro="{fac60d}Quy tắc xếp hạng" Bold="1" />
+  <HelpIntro ID="6" Intro="{dac7ae}1, Mỗi trận căn cứ vào thắng thua, hoàn cảnh chiến trận mà nhận được {17e43e}tích điểm XH nhất định" Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae}2, Căn cứ vào {17e43e}tích điểm XH mà{dac7ae}xếp hạng" Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae}3, Top 8 cuối cùng của cuộc thi lần đầu , toàn bộ sẽ {17e43e} đượt lọt vào vòng thi Liên Minh Hoàng Kim Cao kỳ sau" Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae}4, Các giải Nhất Nhì của các kỳ sau sẽ tự động {17e43e}lọt vào vòng thi Liên Minh Hoàng Kim Cao kỳ sau" Bold="0" />
+  <HelpIntro ID="10" Intro="{dac7ae}5, Giải đấu kết thúc có thể nhận {17e43e}quà mùa giải" Bold="0" />
+</Config>

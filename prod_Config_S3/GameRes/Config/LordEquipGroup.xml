@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <LordEquipGroup EquipGroupID="1" EquipID="3000101,3000102,3000103,3000104,3000105,3000106,3000107" GetGoods="8601,10" AttributeNum="1" EnchantmentCost="8601,5" LockingCost="8602,1" />
+  <LordEquipGroup EquipGroupID="2" EquipID="3000111,3000112,3000113,3000114,3000115,3000116,3000117" GetGoods="8601,20" AttributeNum="2" EnchantmentCost="8601,5" LockingCost="8602,1" />
+  <LordEquipGroup EquipGroupID="3" EquipID="3000121,3000122,3000123,3000124,3000125,3000126,3000127" GetGoods="8601,30" AttributeNum="3" EnchantmentCost="8601,5" LockingCost="8602,1" />
+  <LordEquipGroup EquipGroupID="4" EquipID="3000201,3000202,3000203,3000204,3000205,3000206,3000207" GetGoods="8601,40" AttributeNum="1" EnchantmentCost="8601,5" LockingCost="8602,1" />
+  <LordEquipGroup EquipGroupID="5" EquipID="3000211,3000212,3000213,3000214,3000215,3000216,3000217" GetGoods="8601,50" AttributeNum="2" EnchantmentCost="8601,5" LockingCost="8602,1" />
+  <LordEquipGroup EquipGroupID="6" EquipID="3000221,3000222,3000223,3000224,3000225,3000226,3000227" GetGoods="8601,60" AttributeNum="3" EnchantmentCost="8601,5" LockingCost="8602,1" />
+  <LordEquipGroup EquipGroupID="7" EquipID="3000301,3000302,3000303,3000304,3000305,3000306,3000307" GetGoods="8601,70" AttributeNum="1" EnchantmentCost="8601,5" LockingCost="8602,1" />
+  <LordEquipGroup EquipGroupID="8" EquipID="3000311,3000312,3000313,3000314,3000315,3000316,3000317" GetGoods="8601,80" AttributeNum="2" EnchantmentCost="8601,5" LockingCost="8602,1" />
+  <LordEquipGroup EquipGroupID="9" EquipID="3000321,3000322,3000323,3000324,3000325,3000326,3000327" GetGoods="8601,90" AttributeNum="3" EnchantmentCost="8601,5" LockingCost="8602,1" />
+  <LordEquipGroup EquipGroupID="10" EquipID="3000401,3000402,3000403,3000404,3000405,3000406,3000407" GetGoods="8601,100" AttributeNum="1" EnchantmentCost="8601,5" LockingCost="8602,1" />
+  <LordEquipGroup EquipGroupID="11" EquipID="3000411,3000412,3000413,3000414,3000415,3000416,3000417" GetGoods="8601,110" AttributeNum="2" EnchantmentCost="8601,5" LockingCost="8602,1" />
+  <LordEquipGroup EquipGroupID="12" EquipID="3000421,3000422,3000423,3000424,3000425,3000426,3000427" GetGoods="8601,120" AttributeNum="3" EnchantmentCost="8601,5" LockingCost="8602,1" />
+  <LordEquipGroup EquipGroupID="13" EquipID="3000501,3000502,3000503,3000504,3000505,3000506,3000507" GetGoods="8601,130" AttributeNum="1" EnchantmentCost="8601,5" LockingCost="8602,1" />
+  <LordEquipGroup EquipGroupID="14" EquipID="3000511,3000512,3000513,3000514,3000515,3000516,3000517" GetGoods="8601,140" AttributeNum="2" EnchantmentCost="8601,5" LockingCost="8602,1" />
+  <LordEquipGroup EquipGroupID="15" EquipID="3000521,3000522,3000523,3000524,3000525,3000526,3000527" GetGoods="8601,150" AttributeNum="3" EnchantmentCost="8601,5" LockingCost="8602,1" />
+  <LordEquipGroup EquipGroupID="16" EquipID="3000601,3000602,3000603,3000604,3000605,3000606,3000607" GetGoods="8601,160" AttributeNum="1" EnchantmentCost="8601,5" LockingCost="8602,1" />
+  <LordEquipGroup EquipGroupID="17" EquipID="3000611,3000612,3000613,3000614,3000615,3000616,3000617" GetGoods="8601,170" AttributeNum="2" EnchantmentCost="8601,5" LockingCost="8602,1" />
+  <LordEquipGroup EquipGroupID="18" EquipID="3000621,3000622,3000623,3000624,3000625,3000626,3000627" GetGoods="8601,180" AttributeNum="3" EnchantmentCost="8601,5" LockingCost="8602,1" />
+</Config>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <fenZhengPaiHang ID="1" ZuiDaPaiMing="1" ZuiXiaoPaiMing="1" Goods="8301,300,1,0,0,0,0" />
+  <fenZhengPaiHang ID="2" ZuiDaPaiMing="2" ZuiXiaoPaiMing="2" Goods="8301,275,1,0,0,0,0" />
+  <fenZhengPaiHang ID="3" ZuiDaPaiMing="3" ZuiXiaoPaiMing="3" Goods="8301,250,1,0,0,0,0" />
+  <fenZhengPaiHang ID="4" ZuiDaPaiMing="4" ZuiXiaoPaiMing="5" Goods="8301,225,1,0,0,0,0" />
+  <fenZhengPaiHang ID="5" ZuiDaPaiMing="6" ZuiXiaoPaiMing="10" Goods="8301,200,1,0,0,0,0" />
+  <fenZhengPaiHang ID="6" ZuiDaPaiMing="11" ZuiXiaoPaiMing="20" Goods="8301,175,1,0,0,0,0" />
+  <fenZhengPaiHang ID="7" ZuiDaPaiMing="21" ZuiXiaoPaiMing="50" Goods="8301,150,1,0,0,0,0" />
+  <fenZhengPaiHang ID="8" ZuiDaPaiMing="51" ZuiXiaoPaiMing="100" Goods="8301,120,1,0,0,0,0" />
+  <fenZhengPaiHang ID="9" ZuiDaPaiMing="101" ZuiXiaoPaiMing="200" Goods="8301,90,1,0,0,0,0" />
+  <fenZhengPaiHang ID="10" ZuiDaPaiMing="201" ZuiXiaoPaiMing="-1" Goods="8301,75,1,0,0,0,0" />
+</Config>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <EveryDayActivity ActivityID="1000" Name="Hoàn trả cấp" GoalType="5" GoalNum="4,1" GoodsOne="50160,2,1,0,0,0,0|2030,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1001" Name="Hoàn trả cấp" GoalType="5" GoalNum="5,1" GoodsOne="50160,2,1,0,0,0,0|5050,60,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1002" Name="Hoàn trả cấp" GoalType="5" GoalNum="5,1" GoodsOne="50160,2,1,0,0,0,0|5088,60,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1003" Name="Hoàn trả cấp" GoalType="5" GoalNum="6,1" GoodsOne="50160,3,1,0,0,0,0|5120,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1004" Name="Hoàn trả cấp" GoalType="5" GoalNum="6,1" GoodsOne="50160,3,1,0,0,0,0|5200,90,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1005" Name="Hoàn trả cấp" GoalType="5" GoalNum="7,1" GoodsOne="50160,3,1,0,0,0,0|5110,50,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1006" Name="Hoàn trả cấp" GoalType="5" GoalNum="7,1" GoodsOne="50160,3,1,0,0,0,0|5271,3,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1007" Name="Hoàn trả cấp" GoalType="5" GoalNum="8,1" GoodsOne="50160,4,1,0,0,0,0|5251,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1008" Name="Hoàn trả cấp" GoalType="5" GoalNum="8,1" GoodsOne="50160,4,1,0,0,0,0|5171,60,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1009" Name="Hoàn trả cấp" GoalType="5" GoalNum="9,1" GoodsOne="50160,4,1,0,0,0,0|5251,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1010" Name="Hoàn trả cấp" GoalType="5" GoalNum="9,1" GoodsOne="50160,4,1,0,0,0,0|5171,90,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1011" Name="Hoàn trả cấp" GoalType="5" GoalNum="10,1" GoodsOne="50160,5,1,0,0,0,0|5220,40,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1012" Name="Hoàn trả cấp" GoalType="5" GoalNum="10,1" GoodsOne="50160,5,1,0,0,0,0|63120,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1013" Name="Hoàn trả cấp" GoalType="5" GoalNum="11,1" GoodsOne="50160,5,1,0,0,0,0|5220,40,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1014" Name="Hoàn trả cấp" GoalType="5" GoalNum="11,1" GoodsOne="50160,5,1,0,0,0,0|63120,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1100" Name="Hoàn trả cánh" GoalType="6" GoalNum="4,0" GoodsOne="50160,2,1,0,0,0,0|2017,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1101" Name="Hoàn trả cánh" GoalType="6" GoalNum="5,0" GoodsOne="50160,2,1,0,0,0,0|2017,40,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1102" Name="Hoàn trả cánh" GoalType="6" GoalNum="6,0" GoodsOne="50160,3,1,0,0,0,0|2017,50,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1103" Name="Hoàn trả cánh" GoalType="6" GoalNum="7,0" GoodsOne="50160,3,1,0,0,0,0|2017,60,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1104" Name="Hoàn trả cánh" GoalType="6" GoalNum="8,0" GoodsOne="50160,4,1,0,0,0,0|2017,70,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1105" Name="Hoàn trả cánh" GoalType="6" GoalNum="9,0" GoodsOne="50160,4,1,0,0,0,0|2017,80,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1106" Name="Hoàn trả cánh" GoalType="6" GoalNum="10,0" GoodsOne="50160,5,1,0,0,0,0|2017,90,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1107" Name="Hoàn trả cánh" GoalType="6" GoalNum="11,0" GoodsOne="50160,5,1,0,0,0,0|2017,100,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1200" Name="Hoàn trả thành tựu" GoalType="8" GoalNum="5" GoodsOne="50160,2,1,0,0,0,0|5031,2,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1201" Name="Hoàn trả thành tựu" GoalType="8" GoalNum="6" GoodsOne="50160,2,1,0,0,0,0|5031,3,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1202" Name="Hoàn trả thành tựu" GoalType="8" GoalNum="7" GoodsOne="50160,3,1,0,0,0,0|5031,4,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1203" Name="Hoàn trả thành tựu" GoalType="8" GoalNum="8" GoodsOne="50160,3,1,0,0,0,0|5031,5,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1204" Name="Hoàn trả thành tựu" GoalType="8" GoalNum="8" GoodsOne="50160,4,1,0,0,0,0|5031,6,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1205" Name="Hoàn trả thành tựu" GoalType="8" GoalNum="9" GoodsOne="50160,4,1,0,0,0,0|5031,7,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1206" Name="Hoàn trả thành tựu" GoalType="8" GoalNum="9" GoodsOne="50160,5,1,0,0,0,0|5031,8,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1207" Name="Hoàn trả thành tựu" GoalType="8" GoalNum="10" GoodsOne="50160,5,1,0,0,0,0|5031,9,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1208" Name="Hoàn trả thành tựu" GoalType="8" GoalNum="10" GoodsOne="50160,5,1,0,0,0,0|5031,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1209" Name="Hoàn trả thành tựu" GoalType="8" GoalNum="11" GoodsOne="50160,5,1,0,0,0,0|5031,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1300" Name="Hoàn trả quân hàm" GoalType="9" GoalNum="5" GoodsOne="50160,2,1,0,0,0,0|5041,2,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1301" Name="Hoàn trả quân hàm" GoalType="9" GoalNum="6" GoodsOne="50160,2,1,0,0,0,0|5041,3,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1302" Name="Hoàn trả quân hàm" GoalType="9" GoalNum="7" GoodsOne="50160,3,1,0,0,0,0|5041,4,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1303" Name="Hoàn trả quân hàm" GoalType="9" GoalNum="8" GoodsOne="50160,3,1,0,0,0,0|5041,5,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1304" Name="Hoàn trả quân hàm" GoalType="9" GoalNum="8" GoodsOne="50160,4,1,0,0,0,0|5041,6,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1305" Name="Hoàn trả quân hàm" GoalType="9" GoalNum="9" GoodsOne="50160,4,1,0,0,0,0|5041,7,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1306" Name="Hoàn trả quân hàm" GoalType="9" GoalNum="9" GoodsOne="50160,5,1,0,0,0,0|5041,8,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1307" Name="Hoàn trả quân hàm" GoalType="9" GoalNum="10" GoodsOne="50160,5,1,0,0,0,0|5041,9,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1308" Name="Hoàn trả quân hàm" GoalType="9" GoalNum="10" GoodsOne="50160,5,1,0,0,0,0|5041,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1309" Name="Hoàn trả quân hàm" GoalType="9" GoalNum="11" GoodsOne="50160,5,1,0,0,0,0|5041,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1400" Name="Hoàn trả Merlin" GoalType="10" GoalNum="4,0" GoodsOne="50160,2,1,0,0,0,0|2101,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1401" Name="Hoàn trả Merlin" GoalType="10" GoalNum="5,0" GoodsOne="50160,2,1,0,0,0,0|2101,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1402" Name="Hoàn trả Merlin" GoalType="10" GoalNum="6,0" GoodsOne="50160,2,1,0,0,0,0|2101,40,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1403" Name="Hoàn trả Merlin" GoalType="10" GoalNum="7,0" GoodsOne="50160,3,1,0,0,0,0|2101,50,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1404" Name="Hoàn trả Merlin" GoalType="10" GoalNum="8,0" GoodsOne="50160,3,1,0,0,0,0|2101,60,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1405" Name="Hoàn trả Merlin" GoalType="10" GoalNum="9,0" GoodsOne="50160,3,1,0,0,0,0|2101,70,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1406" Name="Hoàn trả Merlin" GoalType="10" GoalNum="10,0" GoodsOne="50160,4,1,0,0,0,0|2101,80,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1407" Name="Hoàn trả Merlin" GoalType="10" GoalNum="11,0" GoodsOne="50160,4,1,0,0,0,0|2101,90,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1408" Name="Hoàn trả Merlin" GoalType="10" GoalNum="12,0" GoodsOne="50160,4,1,0,0,0,0|2101,100,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1409" Name="Hoàn trả Merlin" GoalType="10" GoalNum="13,0" GoodsOne="50160,4,1,0,0,0,0|2101,110,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1410" Name="Hoàn trả Merlin" GoalType="10" GoalNum="14,0" GoodsOne="50160,5,1,0,0,0,0|2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1411" Name="Hoàn trả Merlin" GoalType="10" GoalNum="15,0" GoodsOne="50160,5,1,0,0,0,0|2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1412" Name="Hoàn trả Merlin" GoalType="10" GoalNum="16,0" GoodsOne="50160,5,1,0,0,0,0|2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1413" Name="Hoàn trả Merlin" GoalType="10" GoalNum="17,0" GoodsOne="50160,5,1,0,0,0,0|2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1414" Name="Hoàn trả Merlin" GoalType="10" GoalNum="18,0" GoodsOne="50160,5,1,0,0,0,0|2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1415" Name="Hoàn trả Merlin" GoalType="10" GoalNum="19,0" GoodsOne="50160,5,1,0,0,0,0|2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1416" Name="Hoàn trả Merlin" GoalType="10" GoalNum="20,0" GoodsOne="50160,5,1,0,0,0,0|2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1500" Name="Hoàn trả thánh vật" GoalType="11" GoalNum="120" GoodsOne="50160,2,1,0,0,0,0|7050,80,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1501" Name="Hoàn trả thánh vật" GoalType="11" GoalNum="130" GoodsOne="50160,3,1,0,0,0,0|7050,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1502" Name="Hoàn trả thánh vật" GoalType="11" GoalNum="140" GoodsOne="50160,3,1,0,0,0,0|7050,160,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1503" Name="Hoàn trả thánh vật" GoalType="11" GoalNum="150" GoodsOne="50160,4,1,0,0,0,0|7050,200,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1504" Name="Hoàn trả thánh vật" GoalType="11" GoalNum="160" GoodsOne="50160,4,1,0,0,0,0|7050,240,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1505" Name="Hoàn trả thánh vật" GoalType="11" GoalNum="170" GoodsOne="50160,5,1,0,0,0,0|7050,280,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1506" Name="Hoàn trả thánh vật" GoalType="11" GoalNum="175" GoodsOne="50160,5,1,0,0,0,0|7050,320,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1600" Name="Phúc lợi nhẫn cưới" GoalType="12" GoalNum="5,0" GoodsOne="50160,2,1,0,0,0,0|5141,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1601" Name="Phúc lợi nhẫn cưới" GoalType="12" GoalNum="6,0" GoodsOne="50160,3,1,0,0,0,0|5141,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1602" Name="Phúc lợi nhẫn cưới" GoalType="12" GoalNum="7,0" GoodsOne="50160,3,1,0,0,0,0|5141,40,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1603" Name="Phúc lợi nhẫn cưới" GoalType="12" GoalNum="8,0" GoodsOne="50160,4,1,0,0,0,0|5141,50,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1604" Name="Phúc lợi nhẫn cưới" GoalType="12" GoalNum="9,0" GoodsOne="50160,4,1,0,0,0,0|5141,60,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1605" Name="Phúc lợi nhẫn cưới" GoalType="12" GoalNum="10,0" GoodsOne="50160,5,1,0,0,0,0|5141,70,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1700" Name="Hoàn trả thủ hộ thần" GoalType="13" GoalNum="5,0" GoodsOne="50160,2,1,0,0,0,0|5160,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1701" Name="Hoàn trả thủ hộ thần" GoalType="13" GoalNum="6,0" GoodsOne="50160,3,1,0,0,0,0|5160,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1702" Name="Hoàn trả thủ hộ thần" GoalType="13" GoalNum="7,0" GoodsOne="50160,3,1,0,0,0,0|5160,40,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1703" Name="Hoàn trả thủ hộ thần" GoalType="13" GoalNum="8,0" GoodsOne="50160,4,1,0,0,0,0|5160,50,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1704" Name="Hoàn trả thủ hộ thần" GoalType="13" GoalNum="9,0" GoodsOne="50160,4,1,0,0,0,0|5160,60,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1705" Name="Hoàn trả thủ hộ thần" GoalType="13" GoalNum="10,0" GoodsOne="50160,5,1,0,0,0,0|5160,70,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="2000" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5180,1,1,0,0,0,0|5313,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2001" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5181,1,1,0,0,0,0|5313,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2002" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5181,1,1,0,0,0,0|5313,11,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2003" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5181,1,1,0,0,0,0|5313,12,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2004" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5181,1,1,0,0,0,0|5313,13,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2005" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5182,1,1,0,0,0,0|5313,14,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2006" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5182,1,1,0,0,0,0|5313,15,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2007" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5182,1,1,0,0,0,0|5313,16,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2008" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5182,1,1,0,0,0,0|5313,17,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2009" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5183,1,1,0,0,0,0|5313,18,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2010" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5183,1,1,0,0,0,0|5313,19,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2011" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5183,1,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2012" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5183,1,1,0,0,0,0|5313,21,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2013" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="4041,1,1,0,0,0,0|5313,22,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2014" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="4041,1,1,0,0,0,0|5313,22,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2015" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2005,6,1,0,0,0,0|5313,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2016" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2017,30,1,0,0,0,0|5313,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2017" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2017,40,1,0,0,0,0|5313,12,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2018" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2017,50,1,0,0,0,0|5313,14,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2019" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2017,60,1,0,0,0,0|5313,16,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2020" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2017,70,1,0,0,0,0|5313,18,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2021" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2017,80,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2022" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2017,90,1,0,0,0,0|5313,22,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2023" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2017,100,1,0,0,0,0|5313,24,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2024" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2005,6,1,0,0,0,0|5313,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2025" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5031,2,1,0,0,0,0|5313,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2026" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5031,3,1,0,0,0,0|5313,12,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2027" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5031,4,1,0,0,0,0|5313,14,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2028" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5031,5,1,0,0,0,0|5313,16,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2029" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5031,6,1,0,0,0,0|5313,18,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2030" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5031,7,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2031" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5031,8,1,0,0,0,0|5313,22,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2032" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5031,9,1,0,0,0,0|5313,24,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2033" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5031,10,1,0,0,0,0|5313,26,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2034" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5031,10,1,0,0,0,0|5313,26,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2035" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2005,6,1,0,0,0,0|5313,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2036" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5041,2,1,0,0,0,0|5313,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2037" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5041,3,1,0,0,0,0|5313,12,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2038" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5041,4,1,0,0,0,0|5313,14,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2039" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5041,5,1,0,0,0,0|5313,16,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2040" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5041,6,1,0,0,0,0|5313,18,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2041" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5041,7,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2042" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5041,8,1,0,0,0,0|5313,22,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2043" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5041,9,1,0,0,0,0|5313,24,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2044" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5041,10,1,0,0,0,0|5313,26,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2045" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5041,10,1,0,0,0,0|5313,26,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2046" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2005,6,1,0,0,0,0|5313,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2047" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2101,20,1,0,0,0,0|5313,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2048" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2101,30,1,0,0,0,0|5313,11,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2049" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2101,40,1,0,0,0,0|5313,12,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2050" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2101,50,1,0,0,0,0|5313,13,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2051" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2101,60,1,0,0,0,0|5313,14,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2052" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2101,70,1,0,0,0,0|5313,15,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2053" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2101,80,1,0,0,0,0|5313,16,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2054" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2101,90,1,0,0,0,0|5313,17,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2055" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2101,100,1,0,0,0,0|5313,18,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2056" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2101,110,1,0,0,0,0|5313,19,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2057" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2058" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2059" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2060" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2061" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2062" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2063" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2064" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2005,6,1,0,0,0,0|5313,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2065" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="7050,80,1,0,0,0,0|5313,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2066" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="7050,120,1,0,0,0,0|5313,12,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2067" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="7050,160,1,0,0,0,0|5313,14,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2068" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="7050,200,1,0,0,0,0|5313,16,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2069" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="7050,240,1,0,0,0,0|5313,18,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2070" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="7050,280,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2071" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="7050,320,1,0,0,0,0|5313,22,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2072" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2005,6,1,0,0,0,0|5313,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2073" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5141,20,1,0,0,0,0|5313,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2074" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5141,30,1,0,0,0,0|5313,12,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2075" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5141,40,1,0,0,0,0|5313,14,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2076" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5141,50,1,0,0,0,0|5313,16,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2077" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5141,60,1,0,0,0,0|5313,18,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2078" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5141,70,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2079" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2005,6,1,0,0,0,0|5313,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2080" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5160,20,1,0,0,0,0|5313,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2081" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5160,30,1,0,0,0,0|5313,12,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2082" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5160,40,1,0,0,0,0|5313,14,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2083" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5160,50,1,0,0,0,0|5313,16,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2084" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5160,60,1,0,0,0,0|5313,18,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2085" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="5160,70,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2086" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2005,6,1,0,0,0,0|5313,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2087" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2005,2,1,0,0,0,0|5313,12,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2088" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2005,3,1,0,0,0,0|5313,15,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2089" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2005,4,1,0,0,0,0|5313,18,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2090" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2005,5,1,0,0,0,0|5313,21,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2091" Name="Đổi nạp" GoalType="2" GoalNum="-1" GoodsOne="2005,6,1,0,0,0,0|5313,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3000" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2030,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|600" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3001" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5050,60,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|600" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3002" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5088,60,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|800" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3003" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5120,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|900" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3004" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5200,90,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|900" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3005" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5110,50,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3006" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5271,3,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1200" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3007" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5251,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1200" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3008" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5171,60,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1200" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3009" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5251,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1800" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3010" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5171,90,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1800" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3011" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5220,40,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3012" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="63120,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3013" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5220,40,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3014" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="63120,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|3000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3015" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="63120,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|3000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3016" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2017,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|600" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3017" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2017,40,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|800" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3018" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2017,50,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3019" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2017,60,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1200" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3020" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2017,70,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3021" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2017,80,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1600" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3022" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2017,90,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1800" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3023" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2017,100,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3024" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2017,100,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3025" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5031,2,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3026" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5031,3,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|600" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3027" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5031,4,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|800" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3028" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5031,5,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3029" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5031,6,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1200" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3030" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5031,7,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3031" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5031,8,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1600" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3032" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5031,9,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1800" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3033" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5031,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3034" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5031,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3035" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5031,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3036" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5041,2,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3037" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5041,3,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|600" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3038" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5041,4,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|800" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3039" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5041,5,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3040" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5041,6,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1200" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3041" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5041,7,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3042" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5041,8,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1600" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3043" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5041,9,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1800" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3044" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5041,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3045" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5041,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3046" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5041,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3047" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2101,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3048" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2101,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|600" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3049" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2101,40,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|800" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3050" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2101,50,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3051" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2101,60,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1200" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3052" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2101,70,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3053" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2101,80,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1600" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3054" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2101,90,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1800" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3055" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2101,100,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3056" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2101,110,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2200" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3057" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3058" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3059" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3060" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3061" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3062" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3063" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3064" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3065" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="7050,80,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|600" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3066" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="7050,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|900" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3067" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="7050,160,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1200" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3068" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="7050,200,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1500" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3069" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="7050,240,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1800" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3070" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="7050,280,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2100" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3071" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="7050,320,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3072" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="7050,320,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3073" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5141,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|600" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3074" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5141,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|900" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3075" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5141,40,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1200" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3076" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5141,50,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1500" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3077" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5141,60,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1800" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3078" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5141,70,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2100" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3079" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5141,70,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2100" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3080" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5160,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|600" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3081" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5160,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|900" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3082" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5160,40,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1200" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3083" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5160,50,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1500" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3084" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5160,60,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1800" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3085" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5160,70,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2100" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3086" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="5160,70,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2100" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3087" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2005,3,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1200" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3088" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2005,3,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1200" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3089" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2005,4,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1600" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3090" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2005,5,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3091" Name="Tranh mua ngày" GoalType="1" GoalNum="-1" GoodsOne="2005,6,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2400" PurchaseNum="1" />
+</Config>

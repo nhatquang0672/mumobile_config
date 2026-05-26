@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Chổi Phép" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Sách Merlin đạt {00ff33}bậc 10{dac7ae} có thể mở Chổi Phép." Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, Chổi Phép {00ff33}tăng sao{dac7ae}, {00ff33}tăng bậc{dac7ae} sẽ tăng t.tính cơ bản vĩnh viễn." Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, Chổi Phép {00ff33}tăng bậc{dac7ae} còn ảnh hưởng đến t.tính nhận thêm khi thao tác {00ff33}【Bí Ngữ Hạn Giờ】{dac7ae}, bậc Chổi Phép càng cao, t.tính khi thao tác {00ff33}【Bí Ngữ Hạn Giờ】{dac7ae} càng cao, số thuộc tính càng nhiều." Bold="" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, Chổi Phép {00ff33}tăng sao{dac7ae} tốn {ffcc19}【Suối Ma Lực】{dac7ae}, có thể vào Tiệm {00ff33}【Đấu Thiên Thê】{dac7ae} đổi." Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5, Chổi Phép{00ff33} tăng bậc{dac7ae} tốn {ffcc19}【Đai Phép】{dac7ae}, có thể vào Tiệm {00ff33}【Đấu Thiên Thê】{dac7ae} đổi." Bold="0" />
+</Config>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <Type TypeID="dl_android" Title="Continental Android GS-USE">
+    <ChongZhi ID="10000" Show="1" Icon="10000" RMB="480" ZuanShi="360" FirstBindZuanShi="360" productIdMOMO="com.wemomo.game.mu.9" productIdHaiMa="9" />
+    <ChongZhi ID="1" Show="1" Icon="1" RMB="180" ZuanShi="180" FirstBindZuanShi="180" productIdMOMO="com.wemomo.game.mu.1" productIdHaiMa="1" />
+    <ChongZhi ID="2" Show="1" Icon="2" RMB="450" ZuanShi="450" FirstBindZuanShi="450" productIdMOMO="com.wemomo.game.mu.2" productIdHaiMa="2" />
+    <ChongZhi ID="3" Show="1" Icon="3" RMB="900" ZuanShi="900" FirstBindZuanShi="900" productIdMOMO="com.wemomo.game.mu.3" productIdHaiMa="3" />
+    <ChongZhi ID="4" Show="1" Icon="4" RMB="1800" ZuanShi="1800" FirstBindZuanShi="1800" productIdMOMO="com.wemomo.game.mu.4" productIdHaiMa="4" />
+    <ChongZhi ID="5" Show="1" Icon="5" RMB="2700" ZuanShi="2700" FirstBindZuanShi="2700" productIdMOMO="com.wemomo.game.mu.5" productIdHaiMa="5" />
+    <ChongZhi ID="6" Show="1" Icon="6" RMB="4500" ZuanShi="4500" FirstBindZuanShi="4500" productIdMOMO="com.wemomo.game.mu.6" productIdHaiMa="6" />
+    <ChongZhi ID="7" Show="1" Icon="7" RMB="6300" ZuanShi="6300" FirstBindZuanShi="6300" productIdMOMO="com.wemomo.game.mu.7" productIdHaiMa="7" />
+    <ChongZhi ID="8" Show="1" Icon="8" RMB="9000" ZuanShi="9000" FirstBindZuanShi="9000" productIdMOMO="com.wemomo.game.mu.8" productIdHaiMa="8" />
+  </Type>
+  <Type TypeID="dl_app" Title="Thailand">
+    <ChongZhi ID="10000" Icon="10000" Show="1" MeiYuan="3.99" RMB="480" ZuanShi="480" FirstBindZuanShi="480" productId="858_0_8_480"       productIdAn="858_8_480"/>
+    <ChongZhi ID="1" Icon="1" Show="1" MeiYuan="1.99" RMB="240" ZuanShi="240" FirstBindZuanShi="240" productId="858_0_1_120"       productIdAn="858_1_120"/>
+    <ChongZhi ID="2" Icon="2" Show="1" MeiYuan="2.99" RMB="360" ZuanShi="360" FirstBindZuanShi="360" productId="858_0_2_360"   productIdAn="858_2_360"/>
+    <ChongZhi ID="3" Icon="3" Show="1" MeiYuan="4.99" RMB="600" ZuanShi="600" FirstBindZuanShi="600" productId="858_0_3_600"   productIdAn="858_3_600" />
+    <ChongZhi ID="4" Icon="4" Show="1" MeiYuan="9.99" RMB="1200" ZuanShi="1200" FirstBindZuanShi="1200" productId="858_0_4_1200"   productIdAn="858_4_1200"/>
+    <ChongZhi ID="5" Icon="5" Show="1" MeiYuan="19.99" RMB="2400" ZuanShi="2400" FirstBindZuanShi="2400" productId="858_0_5_2400" productIdAn="858_5_2400"/>
+    <ChongZhi ID="6" Icon="6" Show="1" MeiYuan="49.99" RMB="6000" ZuanShi="6000" FirstBindZuanShi="6000" productId="858_0_6_6000" productIdAn="858_6_6000"/>
+    <ChongZhi ID="7" Icon="7" Show="1" MeiYuan="99.99" RMB="12000" ZuanShi="12000" FirstBindZuanShi="12000" productId="858_0_7_12000" productIdAn="858_7_12000"/>
+  </Type>
+  <Type TypeID="dl_yueyu" Title="Continental Jailbreak">
+    <ChongZhi ID="10000" Show="1" Icon="10000" RMB="480" ZuanShi="300" FirstBindZuanShi="0" productIdMOMO="com.wemomo.game.mu.9" productIdHaiMa="9" />
+    <ChongZhi ID="11" Show="1" Icon="1" RMB="6" ZuanShi="60" FirstBindZuanShi="60" productIdMOMO="com.wemomo.game.mu.1" productIdHaiMa="1" />
+    <ChongZhi ID="12" Show="0" Icon="-1" RMB="18" ZuanShi="180" FirstBindZuanShi="0" productIdMOMO="" productIdHaiMa="12" />
+    <ChongZhi ID="2" Show="1" Icon="2" RMB="30" ZuanShi="300" FirstBindZuanShi="300" productIdMOMO="com.wemomo.game.mu.2" productIdHaiMa="2" />
+    <ChongZhi ID="14" Show="1" Icon="3" RMB="68" ZuanShi="680" FirstBindZuanShi="680" productIdMOMO="com.wemomo.game.mu.3" productIdHaiMa="3" />
+    <ChongZhi ID="15" Show="0" Icon="-1" RMB="98" ZuanShi="980" FirstBindZuanShi="0" productIdMOMO="" productIdHaiMa="15" />
+    <ChongZhi ID="16" Show="1" Icon="4" RMB="128" ZuanShi="1280" FirstBindZuanShi="1280" productIdMOMO="com.wemomo.game.mu.4" productIdHaiMa="4" />
+    <ChongZhi ID="17" Show="0" Icon="-1" RMB="188" ZuanShi="1880" FirstBindZuanShi="0" productIdMOMO="" productIdHaiMa="17" />
+    <ChongZhi ID="18" Show="0" Icon="-1" RMB="258" ZuanShi="2580" FirstBindZuanShi="0" productIdMOMO="" productIdHaiMa="18" />
+    <ChongZhi ID="19" Show="1" Icon="5" RMB="328" ZuanShi="3280" FirstBindZuanShi="3280" productIdMOMO="com.wemomo.game.mu.5" productIdHaiMa="5" />
+    <ChongZhi ID="20" Show="1" Icon="6" RMB="648" ZuanShi="6480" FirstBindZuanShi="6480" productIdMOMO="com.wemomo.game.mu.6" productIdHaiMa="6" />
+    <ChongZhi ID="21" Show="1" Icon="7" RMB="1248" ZuanShi="12480" FirstBindZuanShi="12480" productIdMOMO="com.wemomo.game.mu.7" productIdHaiMa="7" />
+    <ChongZhi ID="22" Show="1" Icon="8" RMB="2998" ZuanShi="29980" FirstBindZuanShi="29980" productIdMOMO="com.wemomo.game.mu.8" productIdHaiMa="8" />
+  </Type>
+  <Type TypeID="dl_app_qjfuli" Title="Continental Apple - Miracle Welfare Edition">
+    <ChongZhi ID="10000" Show="1" Icon="3" RMB="480" ZuanShi="300" FirstBindZuanShi="0" productId="com.king.qj.diamond450" />
+    <ChongZhi ID="11" Show="1" Icon="1" RMB="6" ZuanShi="60" FirstBindZuanShi="60" productId="com.king.qj.diamond60" />
+    <ChongZhi ID="12" Show="1" Icon="2" RMB="18" ZuanShi="180" FirstBindZuanShi="180" productId="com.king.qj.diamond180" />
+    <ChongZhi ID="2" Show="1" Icon="3" RMB="30" ZuanShi="300" FirstBindZuanShi="300" productId="com.king.qj.diamond300" />
+    <ChongZhi ID="14" Show="1" Icon="4" RMB="68" ZuanShi="680" FirstBindZuanShi="680" productId="com.king.qj.diamond680" />
+    <ChongZhi ID="15" Show="1" Icon="5" RMB="98" ZuanShi="980" FirstBindZuanShi="980" productId="com.king.qj.diamond980" />
+    <ChongZhi ID="16" Show="1" Icon="6" RMB="128" ZuanShi="1280" FirstBindZuanShi="1280" productId="com.king.qj.diamond1280" />
+    <ChongZhi ID="17" Show="1" Icon="7" RMB="188" ZuanShi="1880" FirstBindZuanShi="1880" productId="com.king.qj.diamond1880" />
+    <ChongZhi ID="18" Show="1" Icon="8" RMB="258" ZuanShi="2580" FirstBindZuanShi="2580" productId="com.king.qj.diamond2580" />
+    <ChongZhi ID="19" Show="1" Icon="9" RMB="328" ZuanShi="3280" FirstBindZuanShi="3280" productId="com.king.qj.diamond3280" />
+    <ChongZhi ID="20" Show="1" Icon="9" RMB="648" ZuanShi="6480" FirstBindZuanShi="6480" productId="com.king.qj.diamond6480" />
+    <ChongZhi ID="23" Show="-1" Icon="-1" RMB="1" ZuanShi="10" FirstBindZuanShi="0" productId="com.king.qj.diamond10" />
+  </Type>
+  <Type TypeID="dl_app_qmqjfuli" Title="Continental Apple - Miracle Welfare Edition For All">
+    <ChongZhi ID="10000" Show="1" Icon="3" RMB="480" ZuanShi="300" FirstBindZuanShi="0" productId="com.tmsk.qmqj.diamond450" />
+    <ChongZhi ID="11" Show="1" Icon="1" RMB="6" ZuanShi="60" FirstBindZuanShi="60" productId="com.tmsk.qmqj.diamond60" />
+    <ChongZhi ID="12" Show="1" Icon="2" RMB="18" ZuanShi="180" FirstBindZuanShi="180" productId="com.tmsk.qmqj.diamond180" />
+    <ChongZhi ID="2" Show="1" Icon="3" RMB="30" ZuanShi="300" FirstBindZuanShi="300" productId="com.tmsk.qmqj.diamond300" />
+    <ChongZhi ID="14" Show="1" Icon="4" RMB="68" ZuanShi="680" FirstBindZuanShi="680" productId="com.tmsk.qmqj.diamond680" />
+    <ChongZhi ID="15" Show="1" Icon="5" RMB="98" ZuanShi="980" FirstBindZuanShi="980" productId="com.tmsk.qmqj.diamond980" />
+    <ChongZhi ID="16" Show="1" Icon="6" RMB="128" ZuanShi="1280" FirstBindZuanShi="1280" productId="com.tmsk.qmqj.diamond1280" />
+    <ChongZhi ID="17" Show="1" Icon="7" RMB="188" ZuanShi="1880" FirstBindZuanShi="1880" productId="com.tmsk.qmqj.diamond1880" />
+    <ChongZhi ID="18" Show="1" Icon="8" RMB="258" ZuanShi="2580" FirstBindZuanShi="2580" productId="com.tmsk.qmqj.diamond2580" />
+    <ChongZhi ID="19" Show="1" Icon="9" RMB="328" ZuanShi="3280" FirstBindZuanShi="3280" productId="com.tmsk.qmqj.diamond3280" />
+    <ChongZhi ID="20" Show="1" Icon="9" RMB="648" ZuanShi="6480" FirstBindZuanShi="6480" productId="com.tmsk.qmqj.diamond6480" />
+    <ChongZhi ID="23" Show="-1" Icon="-1" RMB="1" ZuanShi="10" FirstBindZuanShi="0" productId="com.tmsk.qmqj.diamond10" />
+  </Type>
+</config>

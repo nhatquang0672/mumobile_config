@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Bạn bè" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Thêm 1 người bạn bất kỳ, kích hoạt độ thân mật, độ thân mật ban đầu là {17e43e}0{dac7ae}. " Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, Độ thân mật hai bên đạt {3681f3}180{dac7ae}, có thể chọn quan hệ bạn bè{dac7ae}. " Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, Hai bên phải thêm nhau làm bạn, khi bạn bè online cùng tổ đội hoặc vào Chiến Đội cùng khiêu chiến phó bản thắng 1 lần hoặc chiến thắng hoạt động Chiến Đội, thoát giữa chừng hoặc khiêu chiến thất bại sẽ không nhận được độ thân mật{dac7ae}. " Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, Quan hệ bạn bè và số người:{dac7ae}" Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}        Bạn Thân{17e43e}3{dac7ae}Người{dac7ae}" Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae}        Bạn Gái{17e43e}3{dac7ae}Người{dac7ae}" Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae}        Bè Lũ{17e43e}3{dac7ae}Người{dac7ae}" Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae}        Anh Em{17e43e}3{dac7ae}Người{dac7ae}" Bold="0" />
+  <HelpIntro ID="10" Intro="{dac7ae}5, Khi số lượng bạn bè đã tối đa, sẽ không thể gửi lời mời{dac7ae}. " Bold="0" />
+  <HelpIntro ID="11" Intro="{dac7ae}6, Thông tin lời mời kết bạn sẽ làm mới vào 24:00 mỗi ngày, lời mời đang chờ sẽ tự động chuyển sang trạng thái có thể mời lại{dac7ae}. " Bold="0" />
+  <HelpIntro ID="12" Intro="{dac7ae}7, Sau khi đã xác nhận quan hệ, phải hủy quan hệ mới có thể thiết lập quan hệ mới. Sau khi hủy quan hệ, trong 7 ngày sẽ không thể thiết lập lại quan hệ với người đó, đồng thời độ thân mật sẽ không bị xóa{dac7ae}. " Bold="0" />
+  <HelpIntro ID="13" Intro="{dac7ae}8, Sau khi hủy kết bạn, sẽ tự động hủy quan hệ bạn bè với người đó. Khi hủy kết bạn và thêm người đó vào danh sách đen, {17e43e}độ thân mật{dac7ae} của 2 bên cũng sẽ bị {3681f3}xóa{dac7ae}. " Bold="0" />
+  <HelpIntro ID="14" Intro="{dac7ae}9, Mỗi người chơi chỉ được chọn 1 người bạn để thiết lập quan hệ đặc biệt{dac7ae}. " Bold="0" />
+  <HelpIntro ID="15" Intro="{dac7ae}10, {17e43e}BUFF{dac7ae} bạn: phải cùng bạn bè tổ đội hoặc vào Chiến Đội và online, {17e43e}BUFF{dac7ae} này sẽ hiệu quả, khi một bên hủy quan hệ, {17e43e}Buff{dac7ae} sẽ vô hiệu{dac7ae}. " Bold="0" />
+  <HelpIntro ID="16" Intro="{dac7ae}11, Vòng Tình Bạn: Lỗ Vòng Tình Bạn thông qua tiêu hao Ấn Tình Bạn có thể tăng cấp lỗ, trong lỗ có thể thêm bạn bè bình thường hoặc bạn bè có quan hệ bạn bè, thuộc tính bạn bè bình thường trở thành {3681f3}105%{dac7ae}, thuộc tính bạn bè có quan hệ bạn bè trở thành {3681f3}120%{dac7ae}, nếu trong Vòng Tình Bạn có bạn bè có quan hệ bạn bè, sau khi bị đối phương hủy kết bạn, thì quan hệ trong lỗ Vòng Tình Bạn sẽ trở thành bạn bè bình thường{dac7ae}. " Bold="0" />
+</Config>

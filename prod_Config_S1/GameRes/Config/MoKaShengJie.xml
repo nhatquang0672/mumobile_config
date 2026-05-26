@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <MoKaShengJie ID="1" Type="1" GoodsID="24001" ShengJieAdd="10" />
+  <MoKaShengJie ID="2" Type="1" GoodsID="24002" ShengJieAdd="60" />
+  <MoKaShengJie ID="3" Type="1" GoodsID="24003" ShengJieAdd="200" />
+  <MoKaShengJie ID="4" Type="2" GoodsID="24004" ShengJieAdd="10" />
+  <MoKaShengJie ID="5" Type="2" GoodsID="24005" ShengJieAdd="60" />
+  <MoKaShengJie ID="6" Type="2" GoodsID="24006" ShengJieAdd="200" />
+  <MoKaShengJie ID="7" Type="3" GoodsID="24007" ShengJieAdd="10" />
+  <MoKaShengJie ID="8" Type="3" GoodsID="24008" ShengJieAdd="60" />
+  <MoKaShengJie ID="9" Type="3" GoodsID="24009" ShengJieAdd="200" />
+  <MoKaShengJie ID="10" Type="4" GoodsID="24010" ShengJieAdd="10" />
+  <MoKaShengJie ID="11" Type="4" GoodsID="24011" ShengJieAdd="60" />
+  <MoKaShengJie ID="12" Type="4" GoodsID="24012" ShengJieAdd="200" />
+</config>

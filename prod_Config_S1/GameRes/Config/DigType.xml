@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <QiFuType ID="1" Name="1-4转未调整" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Goods="1005005,-1,0,0,1,235|1015005,-1,0,0,1,235|1025405,-1,0,0,1,235|8011,-1,0,0,0,0|8002,-1,0,0,0,0|8003,-1,0,0,0,0" />
+</Config>

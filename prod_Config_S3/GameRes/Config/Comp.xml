@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Comp CompID="1" CompName="Giáo Đoàn Thần Thánh" MapCode="93000" MonstersID="9652015" JiaoTuanBirth="10350|6850|10" MengJunBirth="5050|3050|10" XieHuiBirth="3450|7350|10" MaxPlayer="500" MoBai="142" />
+  <Comp CompID="2" CompName="Đồng Minh Tự Do" MapCode="93001" MonstersID="9652015" JiaoTuanBirth="3450|7350|10" MengJunBirth="10350|6850|10" XieHuiBirth="5050|3050|10" MaxPlayer="500" MoBai="143" />
+  <Comp CompID="3" CompName="Hiệp Hội Mộng Mơ" MapCode="93002" MonstersID="9652015" JiaoTuanBirth="5050|3050|10" MengJunBirth="3450|7350|10" XieHuiBirth="10350|6850|10" MaxPlayer="500" MoBai="144" />
+</Config>

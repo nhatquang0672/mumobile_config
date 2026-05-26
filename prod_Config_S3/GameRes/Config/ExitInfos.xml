@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Exit ID="1" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" TestID="1980" Txt="Nhắc nhở: Khiêu chiến phó bản EXP nhận lượng lớn EXP!" />
+  <Exit ID="2" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" TestID="2031" Txt="Nhắc nhở: Khiêu chiến phó bản vàng nhận lượng lớn Vàng!" />
+  <Exit ID="3" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" TestID="1280" Txt="Nhắc nhở: Phó bản ngày là cách nhận trang bị chủ yếu!" />
+  <Exit ID="4" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" TestID="2110" Txt="Nhắc nhở: Mỗi ngày có thể vào Chiến Trường Cổ EXP x8, xác suất rơi x8!" />
+  <Exit ID="5" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" TestID="2210" Txt="Nhắc nhở: Tháp Quỷ là cách nhận Lông Vũ, Ngọn Lửa Chim Thần chủ yếu" />
+  <Exit ID="6" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" TestID="1521" Txt="Nhắc nhở: Hoàn thành nhiệm vụ ngày nhận lượng lớn EXP!" />
+  <Exit ID="7" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" TestID="1521" Txt="Nhắc nhở: Nhân vật rời mạng tự động bắt đầu thiền, nhớ nhận EXP và Tinh Hồn!" />
+  <Exit ID="8" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" TestID="1801" Txt="Nhắc nhở: Khiêu chiến Đấu Trường nhận Danh Vọng, dùng để kích hoạt quân hàm!" />
+  <Exit ID="9" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="0" MaxLevel="19" TestID="" Txt="Nhắc nhở: Mỗi ngày online 40 phút nhận đạo cụ quý!" />
+  <Exit ID="10" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="0" MaxLevel="19" TestID="" Txt="Nhắc nhở: Mỗi ngày chia sẻ game nhận Ngọc quý!" />
+</Config>

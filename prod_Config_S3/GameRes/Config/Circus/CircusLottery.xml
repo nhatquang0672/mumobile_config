@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <CircusLottery ID="1" LotteryID="10" Goods="5603,50,1,0,0,0,0" Limit="-1" Right="80" LotteryImage="" />
+  <CircusLottery ID="2" LotteryID="10" Goods="5603,50,1,0,0,0,0" Limit="-1" Right="80" LotteryImage="" />
+  <CircusLottery ID="3" LotteryID="10" Goods="5603,50,1,0,0,0,0" Limit="-1" Right="80" LotteryImage="" />
+  <CircusLottery ID="4" LotteryID="10" Goods="5603,50,1,0,0,0,0" Limit="-1" Right="30" LotteryImage="" />
+  <CircusLottery ID="5" LotteryID="10" Goods="5603,50,1,0,0,0,0" Limit="-1" Right="40" LotteryImage="" />
+  <CircusLottery ID="6" LotteryID="10" Goods="5603,50,1,0,0,0,0" Limit="-1" Right="20" LotteryImage="" />
+  <CircusLottery ID="7" LotteryID="10" Goods="5603,100,1,0,0,0,0" Limit="-1" Right="30" LotteryImage="" />
+  <CircusLottery ID="8" LotteryID="10" Goods="5603,200,1,0,0,0,0" Limit="3" Right="60" LotteryImage="" />
+  <CircusLottery ID="9" LotteryID="10" Goods="5603,400,1,0,0,0,0" Limit="5" Right="30" LotteryImage="" />
+  <CircusLottery ID="10" LotteryID="10" Goods="13004111,1,1,0,0,0,0" Limit="7" Right="10" LotteryImage="" />
+  <CircusLottery ID="11" LotteryID="20" Goods="5603,200,1,0,0,0,0" Limit="-1" Right="80" LotteryImage="" />
+  <CircusLottery ID="12" LotteryID="20" Goods="5603,300,1,0,0,0,0" Limit="-1" Right="80" LotteryImage="" />
+  <CircusLottery ID="13" LotteryID="20" Goods="5603,500,1,0,0,0,0" Limit="-1" Right="80" LotteryImage="" />
+  <CircusLottery ID="14" LotteryID="20" Goods="5603,1000,1,0,0,0,0" Limit="-1" Right="40" LotteryImage="" />
+  <CircusLottery ID="15" LotteryID="20" Goods="5604,100,1,0,0,0,0" Limit="5" Right="30" LotteryImage="" />
+  <CircusLottery ID="16" LotteryID="20" Goods="63558,10,1,0,0,0,0" Limit="-1" Right="20" LotteryImage="" />
+  <CircusLottery ID="17" LotteryID="20" Goods="63558,10,1,0,0,0,0" Limit="-1" Right="30" LotteryImage="" />
+  <CircusLottery ID="18" LotteryID="20" Goods="63558,10,1,0,0,0,0" Limit="5" Right="60" LotteryImage="" />
+  <CircusLottery ID="19" LotteryID="20" Goods="63558,20,1,0,0,0,0" Limit="5" Right="30" LotteryImage="" />
+  <CircusLottery ID="20" LotteryID="20" Goods="63558,50,1,0,0,0,0" Limit="7" Right="10" LotteryImage="" />
+  <CircusLottery ID="21" LotteryID="30" Goods="5603,1000,1,0,0,0,0" Limit="-1" Right="80" LotteryImage="" />
+  <CircusLottery ID="22" LotteryID="30" Goods="5603,1000,1,0,0,0,0" Limit="-1" Right="80" LotteryImage="" />
+  <CircusLottery ID="23" LotteryID="30" Goods="5603,1000,1,0,0,0,0" Limit="-1" Right="80" LotteryImage="" />
+  <CircusLottery ID="24" LotteryID="30" Goods="5604,100,1,0,0,0,0" Limit="-1" Right="30" LotteryImage="" />
+  <CircusLottery ID="25" LotteryID="30" Goods="5604,100,1,0,0,0,0" Limit="5" Right="40" LotteryImage="" />
+  <CircusLottery ID="26" LotteryID="30" Goods="5604,200,1,0,0,0,0" Limit="6" Right="20" LotteryImage="" />
+  <CircusLottery ID="27" LotteryID="30" Goods="13004105,1,1,0,0,0,0" Limit="-1" Right="30" LotteryImage="" />
+  <CircusLottery ID="28" LotteryID="30" Goods="13004105,2,1,0,0,0,0" Limit="4" Right="60" LotteryImage="" />
+  <CircusLottery ID="29" LotteryID="30" Goods="13004105,2,1,0,0,0,0" Limit="5" Right="30" LotteryImage="" />
+  <CircusLottery ID="30" LotteryID="30" Goods="63724,1,1,0,0,0,0" Limit="7" Right="10" LotteryImage="" />
+</config>

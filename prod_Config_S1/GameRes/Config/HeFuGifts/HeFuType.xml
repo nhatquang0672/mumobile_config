@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Type ID="20" Name="Đăng nhập" PeiZhi="HeFuLiBao.xml"/>
+  <Type ID="21" Name="Tích lũy" PeiZhi="HeFuDengLu.xml "/>
+  <Type ID="23" Name="Ưu đãi nạp" PeiZhi="HeFuFanLi.xml"/>
+  <Type ID="24" Name="Chiến Trường" PeiZhi="PKJiangLi.xml "/>
+  <Type ID="26" Name="Chiến BOSS" PeiZhi="HeFuBOSS.xml "/>
+  <Type ID="27" Name="Roland Tranh Bá" PeiZhi="HeFuLuoLan.xml"/>
+  <Type ID="25" Name="Chiến Thần" PeiZhi="HeFuZhanChang.xml"/>
+  <Type ID="22" Name="Tranh mua" PeiZhi="HeFuXianGou.xml"/>
+</Config>

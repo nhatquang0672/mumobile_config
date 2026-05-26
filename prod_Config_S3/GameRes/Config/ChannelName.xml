@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ChannelName ID="1" Channel="cs" Name="天马测试" PTID="1" PTName="苹果" FangChenMiOpen="0" BindPhoneOpen="0" Recruit="official.png" Share="0" />
+  <ChannelName ID="2" Channel="test" Name="天马研发" PTID="1" PTName="苹果" FangChenMiOpen="0" BindPhoneOpen="0" Recruit="official.png" Share="0" />
+  <ChannelName ID="3" Channel="cp" Name="天马策划" PTID="1" PTName="苹果" FangChenMiOpen="0" BindPhoneOpen="0" Recruit="official.png" Share="0" />
+  <ChannelName ID="4" Channel="cs" Name="天马测试" PTID="2" PTName="越狱" FangChenMiOpen="0" BindPhoneOpen="0" Recruit="official.png" Share="0" />
+  <ChannelName ID="5" Channel="test" Name="天马研发" PTID="2" PTName="越狱" FangChenMiOpen="0" BindPhoneOpen="0" Recruit="official.png" Share="0" />
+  <ChannelName ID="6" Channel="cp" Name="天马策划" PTID="2" PTName="越狱" FangChenMiOpen="0" BindPhoneOpen="0" Recruit="official.png" Share="0" />
+  <ChannelName ID="7" Channel="cs" Name="天马测试" PTID="3" PTName="安卓" FangChenMiOpen="0" BindPhoneOpen="0" Recruit="official.png" Share="0" />
+  <ChannelName ID="8" Channel="test" Name="天马研发" PTID="3" PTName="安卓" FangChenMiOpen="0" BindPhoneOpen="0" Recruit="official.png" Share="0" />
+  <ChannelName ID="9" Channel="cp" Name="天马策划" PTID="3" PTName="安卓" FangChenMiOpen="0" BindPhoneOpen="0" Recruit="official.png" Share="0" />
+  <ChannelName ID="10" Channel="YN" Name="越南" PTID="1" PTName="苹果" FangChenMiOpen="0" BindPhoneOpen="0" Recruit="official.png" Share="0" />
+  <ChannelName ID="11" Channel="YN" Name="越南" PTID="2" PTName="越狱" FangChenMiOpen="0" BindPhoneOpen="0" Recruit="official.png" Share="0" />
+  <ChannelName ID="12" Channel="YN" Name="越南" PTID="3" PTName="安卓" FangChenMiOpen="0" BindPhoneOpen="0" Recruit="official.png" Share="0" />
+</Config>

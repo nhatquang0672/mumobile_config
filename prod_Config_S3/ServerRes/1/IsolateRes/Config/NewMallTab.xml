@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Mall>
+    <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+    <Tab ID="1000" Name="Thông Dụng" />
+    <Tab ID="2000" Name="Thời Trang" />
+    <Tab ID="3000" Name="Thú Cưỡi" />
+  </Mall>
+</Config>

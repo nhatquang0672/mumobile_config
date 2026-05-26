@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <Item ID="100" Type="100" Name="Nhện" MonsterID="100" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,120" NeedGoods="70000,5" GLMonsterID="100" />
+  <Item ID="101" Type="100" Name="Rồng Con" MonsterID="101" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,12-16|Mdefense,12-16" NeedGoods="70001,5" GLMonsterID="101" />
+  <Item ID="102" Type="100" Name="Bò" MonsterID="102" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,19-24|Mattack,19-24" NeedGoods="70002,5" GLMonsterID="102" />
+  <Item ID="103" Type="100" Name="Chó Săn" MonsterID="103" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,20" NeedGoods="70003,5" GLMonsterID="103" />
+  <Item ID="104" Type="100" Name="Bò Đực" MonsterID="104" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,120" NeedGoods="70004,5" GLMonsterID="104" />
+  <Item ID="105" Type="100" Name="Phù Thủy" MonsterID="105" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,12-16|Mdefense,12-16" NeedGoods="70005,5" GLMonsterID="105" />
+  <Item ID="106" Type="100" Name="Khổng Lồ" MonsterID="106" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Dodge,20" NeedGoods="70006,5" GLMonsterID="106" />
+  <Item ID="107" Type="100" Name="Cốt Binh" MonsterID="107" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,120" NeedGoods="70007,5" GLMonsterID="107" />
+  <Item ID="108" Type="100" Name="Cốt Vua" MonsterID="190" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,44-56|Mattack,44-56" NeedGoods="70090,10" GLMonsterID="190" />
+  <Item ID="200" Type="200" Name="Goblin Nhỏ" MonsterID="200" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,19-24|Mdefense,19-24" NeedGoods="70100,10" GLMonsterID="200" />
+  <Item ID="201" Type="200" Name="Bọ Cạp" MonsterID="201" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,30" NeedGoods="70101,10" GLMonsterID="201" />
+  <Item ID="202" Type="200" Name="Goblin Lớn" MonsterID="202" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,180" NeedGoods="70102,10" GLMonsterID="202" />
+  <Item ID="203" Type="200" Name="Bọ Khổng Lồ" MonsterID="203" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,19-24|Mdefense,19-24" NeedGoods="70103,10" GLMonsterID="203" />
+  <Item ID="204" Type="200" Name="Thợ Săn" MonsterID="204" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,28-36|Mattack,28-36" NeedGoods="70104,10" GLMonsterID="204" />
+  <Item ID="205" Type="200" Name="Quỷ Rừng" MonsterID="205" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Dodge,30" NeedGoods="70105,10" GLMonsterID="205" />
+  <Item ID="206" Type="200" Name="Yakun" MonsterID="206" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,180" NeedGoods="70106,10" GLMonsterID="206" />
+  <Item ID="207" Type="200" Name="Khổng Lồ Đá" MonsterID="207" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,19-24|Mdefense,19-24" NeedGoods="70107,10" GLMonsterID="207" />
+  <Item ID="208" Type="200" Name="Yakun Ma Vương" MonsterID="290" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,67-84|Mattack,67-84" NeedGoods="70190,20" GLMonsterID="290" />
+  <Item ID="300" Type="300" Name="Bọ Tuyết" MonsterID="300" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,38-48|Mattack,38-48" NeedGoods="70200,15" GLMonsterID="300" />
+  <Item ID="301" Type="300" Name="Quỷ Băng" MonsterID="301" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,25-32|Mdefense,25-32" NeedGoods="70201,15" GLMonsterID="301" />
+  <Item ID="302" Type="300" Name="Quỷ Xanh" MonsterID="302" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,240" NeedGoods="70202,15" GLMonsterID="302" />
+  <Item ID="303" Type="300" Name="Sát Thủ" MonsterID="303" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,40" NeedGoods="70203,15" GLMonsterID="303" />
+  <Item ID="304" Type="300" Name="Bigfoot" MonsterID="304" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,25-32|Mdefense,25-32" NeedGoods="70204,15" GLMonsterID="304" />
+  <Item ID="305" Type="300" Name="Bigfoot King" MonsterID="305" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Dodge,40" NeedGoods="70205,15" GLMonsterID="305" />
+  <Item ID="306" Type="300" Name="Nữ Hoàng Băng" MonsterID="390" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,89-112|Mattack,89-112" NeedGoods="70290,30" GLMonsterID="390" />
+  <Item ID="400" Type="400" Name="Trùng Độc" MonsterID="401" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,300" NeedGoods="70300,25" GLMonsterID="401" />
+  <Item ID="401" Type="400" Name="Khổng Lồ Một Mắt" MonsterID="402" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,48-60|Mattack,48-60" NeedGoods="70301,25" GLMonsterID="402" />
+  <Item ID="402" Type="400" Name="Bóng Ma" MonsterID="403" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,50" NeedGoods="70302,25" GLMonsterID="403" />
+  <Item ID="403" Type="400" Name="Cốt Xạ Thủ" MonsterID="404" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,300" NeedGoods="70303,25" GLMonsterID="404" />
+  <Item ID="404" Type="400" Name="Chó Săn Địa Ngục" MonsterID="405" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,32-40|Mdefense,32-40" NeedGoods="70304,25" GLMonsterID="405" />
+  <Item ID="405" Type="400" Name="Nhện Địa Ngục" MonsterID="406" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Dodge,50" NeedGoods="70305,25" GLMonsterID="406" />
+  <Item ID="406" Type="400" Name="Cốt Chiến Binh" MonsterID="407" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,48-60|Mattack,48-60" NeedGoods="70306,25" GLMonsterID="407" />
+  <Item ID="407" Type="400" Name="Phù Thủy Sét" MonsterID="408" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,300" NeedGoods="70307,25" GLMonsterID="408" />
+  <Item ID="408" Type="400" Name="Bò Chiến Độc" MonsterID="409" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,32-40|Mdefense,32-40" NeedGoods="70308,25" GLMonsterID="409" />
+  <Item ID="409" Type="400" Name="Kỵ Sĩ Bóng Tối" MonsterID="410" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,300" NeedGoods="70309,25" GLMonsterID="410" />
+  <Item ID="410" Type="400" Name="Quỷ Gorgon" MonsterID="490" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,112-140|Mattack,112-140" NeedGoods="70390,40" GLMonsterID="490" />
+  <Item ID="500" Type="500" Name="Quỷ Mị" MonsterID="500" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,60" NeedGoods="70400,40" GLMonsterID="500" />
+  <Item ID="501" Type="500" Name="Quỷ Mị Độc" MonsterID="501" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,38-48|Mdefense,38-48" NeedGoods="70401,40" GLMonsterID="501" />
+  <Item ID="502" Type="500" Name="Pháp Sư Bị Nguyền Rủa" MonsterID="502" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,360" NeedGoods="70402,40" GLMonsterID="502" />
+  <Item ID="503" Type="500" Name="Ngưu Vương" MonsterID="503" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,57-72|Mattack,57-72" NeedGoods="70403,40" GLMonsterID="503" />
+  <Item ID="504" Type="500" Name="Ác Quỷ" MonsterID="504" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,38-48|Mdefense,38-48" NeedGoods="70404,40" GLMonsterID="504" />
+  <Item ID="505" Type="500" Name="Kiếm Sĩ Tử Thần" MonsterID="505" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Dodge,60" NeedGoods="70405,40" GLMonsterID="505" />
+  <Item ID="506" Type="500" Name="Quỷ Vương Balrog" MonsterID="590" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,134-168|Mattack,134-168" NeedGoods="70490,60" GLMonsterID="590" />
+  <Item ID="600" Type="600" Name="Cá Mặt Quỷ Nhỏ" MonsterID="600" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,70" NeedGoods="70500,60" GLMonsterID="600" />
+  <Item ID="601" Type="600" Name="Nhân Ngư" MonsterID="601" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,420" NeedGoods="70501,60" GLMonsterID="601" />
+  <Item ID="602" Type="600" Name="Hải Quái" MonsterID="602" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,44-56|Mdefense,44-56" NeedGoods="70502,60" GLMonsterID="602" />
+  <Item ID="603" Type="600" Name="Cá Mặt Quỷ Lớn" MonsterID="603" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,67-84|Mattack,67-84" NeedGoods="70503,60" GLMonsterID="603" />
+  <Item ID="604" Type="600" Name="Ngân Cung Hải Quái" MonsterID="604" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Dodge,70" NeedGoods="70504,60" GLMonsterID="604" />
+  <Item ID="605" Type="600" Name="Vua Phù Thủy" MonsterID="605" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,420" NeedGoods="70505,60" GLMonsterID="605" />
+  <Item ID="606" Type="600" Name="Quỷ Biển Hydra" MonsterID="690" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,156-196|Mattack,156-196" NeedGoods="70590,90" GLMonsterID="690" />
+  <Item ID="700" Type="700" Name="Quỷ Vây Kiếm" MonsterID="700" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,51-64|Mdefense,51-64" NeedGoods="70600,90" GLMonsterID="700" />
+  <Item ID="701" Type="700" Name="Sói Nanh Máu" MonsterID="701" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,80" NeedGoods="70601,90" GLMonsterID="701" />
+  <Item ID="702" Type="700" Name="Thiết Luân Chiến Binh" MonsterID="702" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,480" NeedGoods="70602,90" GLMonsterID="702" />
+  <Item ID="703" Type="700" Name="Kỵ Sĩ Hủy Diệt" MonsterID="703" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,51-64|Mdefense,51-64" NeedGoods="70603,90" GLMonsterID="703" />
+  <Item ID="704" Type="700" Name="Hắc Diệm Quỷ" MonsterID="704" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Dodge,80" NeedGoods="70604,90" GLMonsterID="704" />
+  <Item ID="705" Type="700" Name="Quỷ Vương Zaikan" MonsterID="791" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,179-224|Mattack,179-224" NeedGoods="70690,120" GLMonsterID="791" />
+  <Item ID="800" Type="800" Name="Chim Gọi Hồn" MonsterID="800" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,540" NeedGoods="70700,120" GLMonsterID="800" />
+  <Item ID="801" Type="800" Name="Ác linh" MonsterID="801" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,57-72|Mdefense,57-72" NeedGoods="70701,120" GLMonsterID="801" />
+  <Item ID="802" Type="800" Name="Nữ Hoàng Bão Tố" MonsterID="802" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,90" NeedGoods="70702,120" GLMonsterID="802" />
+  <Item ID="803" Type="800" Name="Rồng Xanh" MonsterID="803" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,86-108|Mattack,86-108" NeedGoods="70703,120" GLMonsterID="803" />
+  <Item ID="804" Type="800" Name="Thanh Thiên Tướng" MonsterID="804" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,540" NeedGoods="70704,120" GLMonsterID="804" />
+  <Item ID="805" Type="800" Name="Hắc Kỵ Sĩ" MonsterID="805" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,57-72|Mdefense,57-72" NeedGoods="70705,120" GLMonsterID="805" />
+  <Item ID="806" Type="800" Name="Rồng Đỏ" MonsterID="806" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Dodge,90" NeedGoods="70706,120" GLMonsterID="806" />
+  <Item ID="807" Type="800" Name="Thiên Ma Phoenix" MonsterID="890" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,201-252|Mattack,201-252" NeedGoods="70790,160" GLMonsterID="890" />
+  <Item ID="900" Type="900" Name="Ma Cây" MonsterID="901" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,600" NeedGoods="70800,150" GLMonsterID="901" />
+  <Item ID="901" Type="900" Name="Quái Nhân" MonsterID="902" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,64-80|Mdefense,64-80" NeedGoods="70801,150" GLMonsterID="902" />
+  <Item ID="902" Type="900" Name="Thích Khách" MonsterID="903" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Dodge,100" NeedGoods="70802,150" GLMonsterID="903" />
+  <Item ID="903" Type="900" Name="Quỷ Cây" MonsterID="904" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,96-120|Mattack,96-120" NeedGoods="70803,150" GLMonsterID="904" />
+  <Item ID="904" Type="900" Name="Nữ Phù Thủy" MonsterID="905" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,100" NeedGoods="70804,150" GLMonsterID="905" />
+  <Item ID="905" Type="900" Name="Thuật Sư Rừng Sâu" MonsterID="990" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,224-280|Mattack,224-280" NeedGoods="70890,200" GLMonsterID="990" />
+  <Item ID="1000" Type="1000" Name="Sói Sừng Kiếm" MonsterID="1001" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,70-88|Mdefense,70-88" NeedGoods="70900,200" GLMonsterID="1001" />
+  <Item ID="1001" Type="1000" Name="Kim Giáp Thú" MonsterID="1002" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,660" NeedGoods="70901,200" GLMonsterID="1002" />
+  <Item ID="1002" Type="1000" Name="Dã Thú Nhân" MonsterID="1003" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,110" NeedGoods="70902,200" GLMonsterID="1003" />
+  <Item ID="1003" Type="1000" Name="Sát Thủ Băng" MonsterID="1004" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,70-88|Mdefense,70-88" NeedGoods="70903,200" GLMonsterID="1004" />
+  <Item ID="1004" Type="1000" Name="Khổng Lồ Điên Cuồng" MonsterID="1005" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,660" NeedGoods="70904,200" GLMonsterID="1005" />
+  <Item ID="1005" Type="1000" Name="Đao Phủ" MonsterID="1006" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Dodge,110" NeedGoods="70905,200" GLMonsterID="1006" />
+  <Item ID="1006" Type="1000" Name="Tàn Tích Vương" MonsterID="1090" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,246-308|Mattack,246-308" NeedGoods="70990,300" GLMonsterID="1090" />
+  <Item ID="1100" Type="1100" Name="Cuồng Quỷ" MonsterID="2001" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,720" NeedGoods="71000,200" GLMonsterID="2001" />
+  <Item ID="1101" Type="1100" Name="Thợ Săn Song Kiếm" MonsterID="2002" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,76-96|Mdefense,76-96" NeedGoods="71001,200" GLMonsterID="2002" />
+  <Item ID="1102" Type="1100" Name="Độc Bước Quỷ" MonsterID="2003" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Dodge,120" NeedGoods="71002,200" GLMonsterID="2003" />
+  <Item ID="1103" Type="1100" Name="Ma Pháp Sư" MonsterID="2004" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,115-144|Mattack,115-144" NeedGoods="71003,200" GLMonsterID="2004" />
+  <Item ID="1104" Type="1100" Name="Thiền Thần Hỗn Loạn" MonsterID="2005" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,120" NeedGoods="71004,200" GLMonsterID="2005" />
+  <Item ID="1105" Type="1100" Name="Thù Hận Quỷ" MonsterID="2090" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,268-336|Mattack,268-336" NeedGoods="71090,300" GLMonsterID="2090" />
+  <Item ID="1200" Type="1200" Name="Chó Săn Tuyết" MonsterID="3001" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,1140" NeedGoods="72000,200" GLMonsterID="3001" />
+  <Item ID="1201" Type="1200" Name="Voi Tuyết" MonsterID="3002" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,121-152|Mdefense,121-152" NeedGoods="72001,200" GLMonsterID="3002" />
+  <Item ID="1202" Type="1200" Name="Cự Ma Tuyết" MonsterID="3003" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,1140" NeedGoods="72002,200" GLMonsterID="3003" />
+  <Item ID="1203" Type="1200" Name="Ma Nhện Băng" MonsterID="3004" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,121-152|Mdefense,121-152" NeedGoods="72003,200" GLMonsterID="3004" />
+  <Item ID="1204" Type="1200" Name="Băng Kiếm Hồn" MonsterID="3005" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,130|Dodge,130" NeedGoods="72004,200" GLMonsterID="3005" />
+  <Item ID="1205" Type="1200" Name="Nhện Băng Khổng Lồ" MonsterID="3090" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,416-520|Mattack,416-520" NeedGoods="72090,300" GLMonsterID="3090" />
+  <Item ID="1300" Type="1300" Name="Quái Ma Cây" MonsterID="4001" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,1140" NeedGoods="72100,200" GLMonsterID="4001" />
+  <Item ID="1301" Type="1300" Name="Quái Cây Độc" MonsterID="4002" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,121-152|Mdefense,121-152" NeedGoods="72101,200" GLMonsterID="4002" />
+  <Item ID="1302" Type="1300" Name="Yêu Cây Tàn Nhẫn" MonsterID="4003" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,1140" NeedGoods="72102,200" GLMonsterID="4003" />
+  <Item ID="1303" Type="1300" Name="Quái Vật Bóng Đêm" MonsterID="4004" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,121-152|Mdefense,121-152" NeedGoods="72103,200" GLMonsterID="4004" />
+  <Item ID="1304" Type="1300" Name="Kỵ Sĩ Bóng Đêm" MonsterID="4005" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,140|Dodge,140" NeedGoods="72104,200" GLMonsterID="4005" />
+  <Item ID="1305" Type="1300" Name="Chiến Binh Bóng Đêm" MonsterID="4006" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,1140" NeedGoods="72105,200" GLMonsterID="4006" />
+  <Item ID="1306" Type="1300" Name="Khổng Lồ Sét" MonsterID="4007" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,121-152|Mdefense,121-152" NeedGoods="72106,200" GLMonsterID="4007" />
+  <Item ID="1307" Type="1300" Name="Khổng Lồ Ma" MonsterID="4008" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,1140" NeedGoods="72107,200" GLMonsterID="4008" />
+  <Item ID="1308" Type="1300" Name="Khổng Lồ Lửa" MonsterID="4009" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,121-152|Mdefense,121-152" NeedGoods="72108,200" GLMonsterID="4009" />
+  <Item ID="1309" Type="1300" Name="Thuyền Trưởng Ma" MonsterID="4090" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,448-560|Mattack,448-560" NeedGoods="72190,300" GLMonsterID="4090" />
+  <Item ID="1400" Type="1400" Name="Bọ Cạp Kịch Độc" MonsterID="5001" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,1140" NeedGoods="72200,200" GLMonsterID="5001" />
+  <Item ID="1401" Type="1400" Name="Bọ Cạp Xương Trắng" MonsterID="5002" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,121-152|Mdefense,121-152" NeedGoods="72201,200" GLMonsterID="5002" />
+  <Item ID="1402" Type="1400" Name="Vượn Đen Một Mắt" MonsterID="5003" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,140|Dodge,140" NeedGoods="72202,200" GLMonsterID="5003" />
+  <Item ID="1403" Type="1400" Name="Vượn Đen Bốn Tay" MonsterID="5004" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,1140" NeedGoods="72203,200" GLMonsterID="5004" />
+  <Item ID="1404" Type="1400" Name="Chiến Binh Giáp Vàng" MonsterID="5005" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,121-152|Mdefense,121-152" NeedGoods="72204,200" GLMonsterID="5005" />
+  <Item ID="1405" Type="1400" Name="Nữ Vương Ong" MonsterID="5006" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,140|Dodge,140" NeedGoods="72205,200" GLMonsterID="5006" />
+  <Item ID="1406" Type="1400" Name="Khổng Lồ Đá Ma" MonsterID="5007" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,1140" NeedGoods="72206,200" GLMonsterID="5007" />
+  <Item ID="1407" Type="1400" Name="Khổng Lồ Đá Quỷ" MonsterID="5008" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,121-152|Mdefense,121-152" NeedGoods="72207,200" GLMonsterID="5008" />
+  <Item ID="1408" Type="1400" Name="Vua Trùng Tộc" MonsterID="5090" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,448-560|Mattack,448-560" NeedGoods="72290,300" GLMonsterID="5090" />
+  <Item ID="1500" Type="1500" Name="Thỏ Kỳ Dị" MonsterID="6001" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,1140" NeedGoods="72300,200" GLMonsterID="6001" />
+  <Item ID="1501" Type="1500" Name="Nhện Ô Nhiễm" MonsterID="6002" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,121-152|Mdefense,121-152" NeedGoods="72301,200" GLMonsterID="6002" />
+  <Item ID="1502" Type="1500" Name="Thỏ Điên" MonsterID="6003" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,140|Dodge,140" NeedGoods="72302,200" GLMonsterID="6003" />
+  <Item ID="1503" Type="1500" Name="Người Sói" MonsterID="6004" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,1140" NeedGoods="72303,200" GLMonsterID="6004" />
+  <Item ID="1504" Type="1500" Name="Pháp Sư Bị Nguyền Rủa" MonsterID="6005" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,121-152|Mdefense,121-152" NeedGoods="72304,200" GLMonsterID="6005" />
+  <Item ID="1505" Type="1500" Name="Người Cây Tổ Vật" MonsterID="6006" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,140|Dodge,140" NeedGoods="72305,200" GLMonsterID="6006" />
+  <Item ID="1506" Type="1500" Name="Gấu Xám" MonsterID="6007" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,1140" NeedGoods="72306,200" GLMonsterID="6007" />
+  <Item ID="1507" Type="1500" Name="Gấu Xám Tàn Bạo" MonsterID="6008" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,121-152|Mdefense,121-152" NeedGoods="72307,200" GLMonsterID="6008" />
+  <Item ID="1508" Type="1500" Name="Bigfoot Bão Tố" MonsterID="6090" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,448-560|Mattack,448-560" NeedGoods="72390,300" GLMonsterID="6090" />
+  <Item ID="1600" Type="1600" Name="Gemini Perry" MonsterID="7001" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,1140" NeedGoods="72400,200" GLMonsterID="7001" />
+  <Item ID="1601" Type="1600" Name="Quái Vật Nguyên Tố" MonsterID="7002" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,121-152|Mdefense,121-152" NeedGoods="72401,200" GLMonsterID="7002" />
+  <Item ID="1602" Type="1600" Name="Chiến Binh Nguyên Tố" MonsterID="7003" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,140|Dodge,140" NeedGoods="72402,200" GLMonsterID="7003" />
+  <Item ID="1603" Type="1600" Name="Gemini Perry Viễn Cổ" MonsterID="7004" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,1140" NeedGoods="72403,200" GLMonsterID="7004" />
+  <Item ID="1604" Type="1600" Name="Quái Vật Nguyên Tố Viễn Cổ" MonsterID="7005" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,121-152|Mdefense,121-152" NeedGoods="72404,200" GLMonsterID="7005" />
+  <Item ID="1605" Type="1600" Name="Chiến Binh Nguyên Tố Viễn Cổ" MonsterID="7006" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,140|Dodge,140" NeedGoods="72405,200" GLMonsterID="7006" />
+  <Item ID="1606" Type="1600" Name="Sinves" MonsterID="7090" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,448-560|Mattack,448-560" NeedGoods="72490,300" GLMonsterID="7090" />
+  <Item ID="1700" Type="1700" Name="Voi Vạn Ác" MonsterID="8001" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,1140" NeedGoods="72500,200" GLMonsterID="8001" />
+  <Item ID="1701" Type="1700" Name="Chiến Binh Cuồng Phong" MonsterID="8002" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,121-152|Mdefense,121-152" NeedGoods="72501,200" GLMonsterID="8002" />
+  <Item ID="1702" Type="1700" Name="Pháp Sư Vong Linh" MonsterID="8003" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,140|Dodge,140" NeedGoods="72502,200" GLMonsterID="8003" />
+  <Item ID="1703" Type="1700" Name="Voi Vạn Ác Viễn Cổ" MonsterID="8004" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,1140" NeedGoods="72503,200" GLMonsterID="8004" />
+  <Item ID="1704" Type="1700" Name="Chiến Binh Cuồng Phong Viễn Cổ" MonsterID="8005" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,121-152|Mdefense,121-152" NeedGoods="72504,200" GLMonsterID="8005" />
+  <Item ID="1705" Type="1700" Name="Pháp Sư Vong Linh Viễn Cổ" MonsterID="8006" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,140|Dodge,140" NeedGoods="72505,200" GLMonsterID="8006" />
+  <Item ID="1706" Type="1700" Name="Noam" MonsterID="8090" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,448-560|Mattack,448-560" NeedGoods="72590,300" GLMonsterID="8090" />
+  <Item ID="1800" Type="1800" Name="Sư Điên" MonsterID="9001" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,1140" NeedGoods="72600,200" GLMonsterID="9001" />
+  <Item ID="1801" Type="1800" Name="Sư Quỷ" MonsterID="9002" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,121-152|Mdefense,121-152" NeedGoods="72601,200" GLMonsterID="9002" />
+  <Item ID="1802" Type="1800" Name="Hộ Pháp" MonsterID="9003" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,140|Dodge,140" NeedGoods="72602,200" GLMonsterID="9003" />
+  <Item ID="1803" Type="1800" Name="Sư Điên Viễn Cổ" MonsterID="9004" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,1140" NeedGoods="72603,200" GLMonsterID="9004" />
+  <Item ID="1804" Type="1800" Name="Sư Quỷ Viễn Cổ" MonsterID="9005" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,121-152|Mdefense,121-152" NeedGoods="72604,200" GLMonsterID="9005" />
+  <Item ID="1805" Type="1800" Name="Hộ Pháp Viễn Cổ" MonsterID="9006" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,140|Dodge,140" NeedGoods="72605,200" GLMonsterID="9006" />
+  <Item ID="1806" Type="1800" Name="Silas" MonsterID="9090" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,448-560|Mattack,448-560" NeedGoods="72690,300" GLMonsterID="9090" />
+  <Item ID="1900" Type="1900" Name="Cua Mắt Ma" MonsterID="10001" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,1140" NeedGoods="72700,200" GLMonsterID="10001" />
+  <Item ID="1901" Type="1900" Name="Cua Ma" MonsterID="10002" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,121-152|Mdefense,121-152" NeedGoods="72701,200" GLMonsterID="10002" />
+  <Item ID="1902" Type="1900" Name="Sứ Đồ Cửu Xà" MonsterID="10003" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,140|Dodge,140" NeedGoods="72702,200" GLMonsterID="10003" />
+  <Item ID="1903" Type="1900" Name="Quỷ Nuốt Mây" MonsterID="10004" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,1140" NeedGoods="72703,200" GLMonsterID="10004" />
+  <Item ID="1904" Type="1900" Name="Ác Linh Nước" MonsterID="10005" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,121-152|Mdefense,121-152" NeedGoods="72704,200" GLMonsterID="10005" />
+  <Item ID="1905" Type="1900" Name="Thị Nữ Ma" MonsterID="10006" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,140|Dodge,140" NeedGoods="72705,200" GLMonsterID="10006" />
+  <Item ID="1906" Type="1900" Name="Nữ Quỷ Quyến Rũ" MonsterID="10090" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,448-560|Mattack,448-560" NeedGoods="72790,300" GLMonsterID="10090" />
+  <Item ID="2000" Type="2000" Name="Hỏa Nhung Phi Dăng" MonsterID="11001" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,1140" NeedGoods="72800,200" GLMonsterID="11001" />
+  <Item ID="2001" Type="2000" Name="Liệt Hóa Yêu" MonsterID="11002" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,121-152|Mdefense,121-152" NeedGoods="72801,200" GLMonsterID="11002" />
+  <Item ID="2002" Type="2000" Name="Mèo Bí Cảnh" MonsterID="11003" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,140|Dodge,140" NeedGoods="72802,200" GLMonsterID="11003" />
+  <Item ID="2003" Type="2000" Name="Khỉ Phá Phách" MonsterID="11004" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,1140" NeedGoods="72803,200" GLMonsterID="11004" />
+  <Item ID="2004" Type="2000" Name="Nguồn Năng Linh Thạch" MonsterID="11005" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,121-152|Mdefense,121-152" NeedGoods="72804,200" GLMonsterID="11005" />
+  <Item ID="2006" Type="2000" Name="Tiên Nữ Di Tích" MonsterID="11090" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,448-560|Mattack,448-560" NeedGoods="72890,300" GLMonsterID="11090" />
+  <Item ID="2100" Type="2100" Name="Hộ Vệ Paracas" MonsterID="12001" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,1280" NeedGoods="72900,300" GLMonsterID="12001" />
+  <Item ID="2101" Type="2100" Name="Thủ Hộ Bass" MonsterID="12002" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,166-208|Mdefense,166-208" NeedGoods="72901,300" GLMonsterID="12002" />
+  <Item ID="2102" Type="2100" Name="Kẻ Hầu Basquiat" MonsterID="12003" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,160|Dodge,160" NeedGoods="72902,300" GLMonsterID="12003" />
+  <Item ID="2103" Type="2100" Name="Thủ Hộ Paracas" MonsterID="12004" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,1280" NeedGoods="72903,300" GLMonsterID="12004" />
+  <Item ID="2104" Type="2100" Name="Kẻ Hầu Bass" MonsterID="12005" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,166-208|Mdefense,166-208" NeedGoods="72904,300" GLMonsterID="12005" />
+  <Item ID="2105" Type="2100" Name="Hộ Vệ Basquiat" MonsterID="12006" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,160|Dodge,160" NeedGoods="72905,300" GLMonsterID="12006" />
+  <Item ID="2106" Type="2100" Name="Knicks" MonsterID="12090" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,480-600|Mattack,480-600" NeedGoods="72990,400" GLMonsterID="12090" />
+  <Item ID="2200" Type="2200" Name="Người Cổ Thụ" MonsterID="13001" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,1420" NeedGoods="73000,300" GLMonsterID="13001" />
+  <Item ID="2201" Type="2200" Name="Người Đầm Lầy" MonsterID="13002" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,211-264|Mdefense,211-264" NeedGoods="73001,300" GLMonsterID="13002" />
+  <Item ID="2202" Type="2200" Name="Người Nuốt Bóng Tối" MonsterID="13003" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,170|Dodge,170" NeedGoods="73002,300" GLMonsterID="13003" />
+  <Item ID="2203" Type="2200" Name="Trâu Quỷ" MonsterID="13004" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="MaxLifeV,1420" NeedGoods="73003,300" GLMonsterID="13004" />
+  <Item ID="2204" Type="2200" Name="Tinh Linh Biến Dị" MonsterID="13005" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Defense,211-264|Mdefense,211-264" NeedGoods="73004,300" GLMonsterID="13005" />
+  <Item ID="2205" Type="2200" Name="Quái Đầm Lầy" MonsterID="13006" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="HitV,170|Dodge,170" NeedGoods="73005,300" GLMonsterID="13006" />
+  <Item ID="2206" Type="2200" Name="Hydra" MonsterID="13090" Description="Diệt quái tương ứng được nhận hồn tương ứng" ShuXing="Attack,544-680|Mattack,544-680" NeedGoods="73090,400" GLMonsterID="13090" />
+</config>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <CompNotice ID="1" Intro="Vệ sĩ phát hiện #1 lẻn vào #0" Type="1" Goal="1" CDTime="30" Range="0" CompMapOpen="0|1|1" OriginalMapOpen="0|0" />
+  <CompNotice ID="2" Intro="#1 đang trộm Pha Lê Thế Lực #0" Type="2" Goal="1" CDTime="10" Range="0" CompMapOpen="0|1|1" OriginalMapOpen="0|0" />
+  <CompNotice ID="3" Intro="#1 đang ở trong map thế lực của mình đại khai sát giới #0" Type="3" Goal="5" CDTime="10" Range="0" CompMapOpen="0|1|1" OriginalMapOpen="0|0" />
+  <CompNotice ID="4" Intro="#1 diệt lãnh chúa #2 mọi người hãy đến hỗ trợ #0" Type="4" Goal="1" CDTime="20" Range="0" CompMapOpen="0|1|1" OriginalMapOpen="0|0" />
+  <CompNotice ID="5" Intro="#1 đang đánh BOSS Thế Lực của phe ta #0" Type="5" Goal="1" CDTime="10" Range="0" CompMapOpen="0|1|1" OriginalMapOpen="0|0" />
+  <CompNotice ID="6" Intro="#1 đã diệt Lãnh Chúa Thế Lực của địch #2" Type="6" Goal="1" CDTime="20" Range="0" CompMapOpen="0|1|1" OriginalMapOpen="0|0" />
+  <CompNotice ID="7" Intro="#1 BOSS Thế Lực đã bị diệt #0" Type="7" Goal="1" CDTime="1" Range="1" CompMapOpen="0|1|1" OriginalMapOpen="1|1" />
+</Config>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Info Active="false" Title="GlobalExpMultiplierModule" Desciption="Global Exp Multiplier Type: Monster or Map or Task 	Value: MonsterIds or MapIds or TaskIds or -1 means not limited to ids 	Multiplier: 1-1000" />
+  <Config>
+    <ExpBost Type="Task" Value="-1" Multiplier="2" Description="SystemTask reward exp multiplier" />
+    <ExpBost Type="Monster" Value="-1" Multiplier="2" Description="All monster exp multiplier" />
+    <ExpBost Type="Map" Value="-1" Multiplier="10" Description="All map exp multiplier" />
+  </Config>
+</Module>

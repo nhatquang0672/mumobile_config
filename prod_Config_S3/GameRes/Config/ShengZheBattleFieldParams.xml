@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <ShengZheBattleFieldParams ID="1" SignOpenTime="20:15" SignCloseTime="21:15" OpenDay="4,5" SeasonTime="4" SeasonOpenTime="2026-03-27" GameTime="600" MatchingCount="1,5|6,10|11,15|16,19" MatchingTime="90" Players="8" ReadyTime="3" Bag="32,64" Goal="1000" RebornTime="10" RebornBuffID="4000001,5" RebornPrice="100" SettlementTime="30" Ticket="2150,1,1,0,0,0,0" Times="20" InitialEquip="4001001,1,1,0,0,0,0|4002001,1,1,0,0,0,0|4003001,1,1,0,0,0,0|4004001,1,1,0,0,0,0|4004001,1,1,0,0,0,0|4006001,1,1,0,0,0,0|4007001,1,1,0,0,0,0|4008001,1,1,0,0,0,0" GameMap="99900" DropTime="20" KillScore="50" AutoXianJi="10" SpecialTitle="41" JiTanBuff="4000002,5" AddAttackScore="0.01" />
+</Config>

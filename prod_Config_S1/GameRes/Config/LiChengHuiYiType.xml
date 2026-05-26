@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <LiChengHuiYiType ID="1" Type="1" Name="阴影&#xA;降临" IsOpen="1" />
+  <LiChengHuiYiType ID="2" Type="2" Name="震撼&#xA;事件" IsOpen="0" />
+  <LiChengHuiYiType ID="3" Type="3" Name="敬请&#xA;期待" IsOpen="0" />
+  <LiChengHuiYiType ID="4" Type="4" Name="敬请&#xA;期待" IsOpen="0" />
+</config>

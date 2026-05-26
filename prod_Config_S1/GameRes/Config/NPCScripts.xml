@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Scripts>
+    <Script ID="1" Title="Rời【Bản Đồ Phe】" ExecMagic="GOTO_LAST_MAP" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Script ID="2" Title="Tham gia【Phe Chiến】" ExecMagic="GOTO_BATTLEMAP" MinZhuanSheng="0" MinLevel="50" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Script ID="10" Title="Rời phó bản" ExecMagic="GOTO_LAST_MAP" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Script ID="11" Title="Vào tầng kế" ExecMagic="GOTO_NEXTMAP" MinZhuanSheng="0" MinLevel="1" MaxLevel="300" SexCondition="-1" OccupCondition="-1" FilterID="1" TimeLimits="" />
+    <Script ID="12" Title="Nhận thưởng" ExecMagic="GET_AWARD" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="2" TimeLimits="" />
+    <Script ID="20" Title="Đến Đại Lục Dũng Giả" ExecMagic="GOTO_MAP(1)" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Script ID="100" Title="Vào Huyết Pháo Đài" ExecMagic="GOTO_BLOODCASTLE" MinZhuanSheng="0" MinLevel="45" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Script ID="300" Title="Vào Quảng Trường Ác Ma" ExecMagic="GOTO_DAIMONSQUARE" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Script ID="400" Title="Vua PK" ExecMagic="GOTO_ARENABATTLEMAP" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Script ID="500" Title="Thiên Sứ Thần Điện" ExecMagic="GOTO_ANGELTEMPLE" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Script ID="600" Title="Nhà Boos" ExecMagic="GOTO_BOOSZHIJIA" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Script ID="700" Title="Đền Vàng" ExecMagic="GOTO_HUANGJINSHENGDIAN" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Script ID="800" Title="Vào Chiến Trường Cổ" ExecMagic="GOTO_GUMUMAP" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Script ID="1000" Title="Giao Vũ Khí Đại Thiên Sứ" ExecMagic="GET_AWARD_BLOODCASTLE" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+    <Script ID="2000" Title="Vào Ảo Cảnh Pha Lê" ExecMagic="GOTO_MAP(12000)" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="400" SexCondition="-1" OccupCondition="-1" FilterID="0" TimeLimits="" />
+  </Scripts>
+</Config>

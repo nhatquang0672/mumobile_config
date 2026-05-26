@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <MoKaType ID="1" Type="1" Name="赤星" Model="1214" IsOpen="1" Picture="moka_1" TeXiaoName="moka_1.unity3d" />
+  <MoKaType ID="2" Type="2" Name="虚空" Model="1215" IsOpen="1" Picture="moka_2" TeXiaoName="moka_2.unity3d" />
+  <MoKaType ID="3" Type="3" Name="萌芽" Model="1216" IsOpen="1" Picture="moka_3" TeXiaoName="moka_3.unity3d" />
+  <MoKaType ID="4" Type="4" Name="黯灭" Model="1217" IsOpen="1" Picture="moka_4" TeXiaoName="moka_4.unity3d" />
+</config>

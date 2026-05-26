@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <XingBeiConfig ID="1" MapID="100000" TianFa="100" TianFaAdd="30,1" FuBenTimes="9" NeedGoods="23001,2,5,9" NeedGoodsAdd="1,2,2,2,2,2,2,2,2" GoodsPrice="10" />
+</config>

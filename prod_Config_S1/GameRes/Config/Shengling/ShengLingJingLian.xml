@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <ShengLingJingLian ID="1" Rank="1" Level="0" NeedGoods="2151,1" Prop="WaterAttack,1000|WaterPenetration,0.1|WaterEnhance,0.1" />
+  <ShengLingJingLian ID="2" Rank="1" Level="1" NeedGoods="2151,2" Prop="WaterAttack,2000|WaterPenetration,0.2|WaterEnhance,0.2" />
+  <ShengLingJingLian ID="3" Rank="1" Level="2" NeedGoods="2151,3" Prop="WaterAttack,3000|WaterPenetration,0.3|WaterEnhance,0.3" />
+  <ShengLingJingLian ID="4" Rank="1" Level="3" NeedGoods="2151,4|2152,2" Prop="WaterAttack,4000|WaterPenetration,0.4|WaterEnhance,0.4" />
+  <ShengLingJingLian ID="5" Rank="1" Level="4" NeedGoods="2151,4|2152,3" Prop="WaterAttack,5000|WaterPenetration,0.5|WaterEnhance,0.5" />
+  <ShengLingJingLian ID="6" Rank="1" Level="5" NeedGoods="2151,4|2152,4" Prop="WaterAttack,6000|WaterPenetration,0.6|WaterEnhance,0.6" />
+  <ShengLingJingLian ID="7" Rank="1" Level="6" NeedGoods="2151,4|2152,5" Prop="WaterAttack,7000|WaterPenetration,0.7|WaterEnhance,0.7" />
+  <ShengLingJingLian ID="8" Rank="1" Level="7" NeedGoods="2151,4|2152,6" Prop="WaterAttack,8000|WaterPenetration,0.8|WaterEnhance,0.8" />
+  <ShengLingJingLian ID="9" Rank="1" Level="8" NeedGoods="2151,4|2152,7" Prop="WaterAttack,9000|WaterPenetration,0.9|WaterEnhance,0.9" />
+  <ShengLingJingLian ID="10" Rank="1" Level="9" NeedGoods="2151,4|2152,8" Prop="WaterAttack,10000|WaterPenetration,1|WaterEnhance,1" />
+  <ShengLingJingLian ID="11" Rank="1" Level="10" NeedGoods="" Prop="WaterAttack,11000|WaterPenetration,1.1|WaterEnhance,1.1" />
+  <ShengLingJingLian ID="12" Rank="2" Level="0" NeedGoods="2151,1" Prop="FireAttack,1000|FirePenetration,0.1|FireEnhance,0.1" />
+  <ShengLingJingLian ID="13" Rank="2" Level="1" NeedGoods="2151,2" Prop="FireAttack,2000|FirePenetration,0.2|FireEnhance,0.2" />
+  <ShengLingJingLian ID="14" Rank="2" Level="2" NeedGoods="2151,3" Prop="FireAttack,3000|FirePenetration,0.3|FireEnhance,0.3" />
+  <ShengLingJingLian ID="15" Rank="2" Level="3" NeedGoods="2151,4|2152,2" Prop="FireAttack,4000|FirePenetration,0.4|FireEnhance,0.4" />
+  <ShengLingJingLian ID="16" Rank="2" Level="4" NeedGoods="2151,4|2152,3" Prop="FireAttack,5000|FirePenetration,0.5|FireEnhance,0.5" />
+  <ShengLingJingLian ID="17" Rank="2" Level="5" NeedGoods="2151,4|2152,4" Prop="FireAttack,6000|FirePenetration,0.6|FireEnhance,0.6" />
+  <ShengLingJingLian ID="18" Rank="2" Level="6" NeedGoods="2151,4|2152,5" Prop="FireAttack,7000|FirePenetration,0.7|FireEnhance,0.7" />
+  <ShengLingJingLian ID="19" Rank="2" Level="7" NeedGoods="2151,4|2152,6" Prop="FireAttack,8000|FirePenetration,0.8|FireEnhance,0.8" />
+  <ShengLingJingLian ID="20" Rank="2" Level="8" NeedGoods="2151,4|2152,7" Prop="FireAttack,9000|FirePenetration,0.9|FireEnhance,0.9" />
+  <ShengLingJingLian ID="21" Rank="2" Level="9" NeedGoods="2151,4|2152,8" Prop="FireAttack,10000|FirePenetration,1|FireEnhance,1" />
+  <ShengLingJingLian ID="22" Rank="2" Level="10" NeedGoods="" Prop="FireAttack,11000|FirePenetration,1.1|FireEnhance,1.1" />
+  <ShengLingJingLian ID="23" Rank="3" Level="0" NeedGoods="2151,1" Prop="LightningAttack,1000|LightningPenetration,0.1|LightningEnhance,0.1" />
+  <ShengLingJingLian ID="24" Rank="3" Level="1" NeedGoods="2151,2" Prop="LightningAttack,2000|LightningPenetration,0.2|LightningEnhance,0.2" />
+  <ShengLingJingLian ID="25" Rank="3" Level="2" NeedGoods="2151,3" Prop="LightningAttack,3000|LightningPenetration,0.3|LightningEnhance,0.3" />
+  <ShengLingJingLian ID="26" Rank="3" Level="3" NeedGoods="2151,4|2152,2" Prop="LightningAttack,4000|LightningPenetration,0.4|LightningEnhance,0.4" />
+  <ShengLingJingLian ID="27" Rank="3" Level="4" NeedGoods="2151,4|2152,3" Prop="LightningAttack,5000|LightningPenetration,0.5|LightningEnhance,0.5" />
+  <ShengLingJingLian ID="28" Rank="3" Level="5" NeedGoods="2151,4|2152,4" Prop="LightningAttack,6000|LightningPenetration,0.6|LightningEnhance,0.6" />
+  <ShengLingJingLian ID="29" Rank="3" Level="6" NeedGoods="2151,4|2152,5" Prop="LightningAttack,7000|LightningPenetration,0.7|LightningEnhance,0.7" />
+  <ShengLingJingLian ID="30" Rank="3" Level="7" NeedGoods="2151,4|2152,6" Prop="LightningAttack,8000|LightningPenetration,0.8|LightningEnhance,0.8" />
+  <ShengLingJingLian ID="31" Rank="3" Level="8" NeedGoods="2151,4|2152,7" Prop="LightningAttack,9000|LightningPenetration,0.9|LightningEnhance,0.9" />
+  <ShengLingJingLian ID="32" Rank="3" Level="9" NeedGoods="2151,4|2152,8" Prop="LightningAttack,10000|LightningPenetration,1|LightningEnhance,1" />
+  <ShengLingJingLian ID="33" Rank="3" Level="10" NeedGoods="" Prop="LightningAttack,11000|LightningPenetration,1.1|LightningEnhance,1.1" />
+  <ShengLingJingLian ID="34" Rank="4" Level="0" NeedGoods="2151,1" Prop="SoilAttack,1000|SoilPenetration,0.1|SoilEnhance,0.1" />
+  <ShengLingJingLian ID="35" Rank="4" Level="1" NeedGoods="2151,2" Prop="SoilAttack,2000|SoilPenetration,0.2|SoilEnhance,0.2" />
+  <ShengLingJingLian ID="36" Rank="4" Level="2" NeedGoods="2151,3" Prop="SoilAttack,3000|SoilPenetration,0.3|SoilEnhance,0.3" />
+  <ShengLingJingLian ID="37" Rank="4" Level="3" NeedGoods="2151,4|2152,2" Prop="SoilAttack,4000|SoilPenetration,0.4|SoilEnhance,0.4" />
+  <ShengLingJingLian ID="38" Rank="4" Level="4" NeedGoods="2151,4|2152,3" Prop="SoilAttack,5000|SoilPenetration,0.5|SoilEnhance,0.5" />
+  <ShengLingJingLian ID="39" Rank="4" Level="5" NeedGoods="2151,4|2152,4" Prop="SoilAttack,6000|SoilPenetration,0.6|SoilEnhance,0.6" />
+  <ShengLingJingLian ID="40" Rank="4" Level="6" NeedGoods="2151,4|2152,5" Prop="SoilAttack,7000|SoilPenetration,0.7|SoilEnhance,0.7" />
+  <ShengLingJingLian ID="41" Rank="4" Level="7" NeedGoods="2151,4|2152,6" Prop="SoilAttack,8000|SoilPenetration,0.8|SoilEnhance,0.8" />
+  <ShengLingJingLian ID="42" Rank="4" Level="8" NeedGoods="2151,4|2152,7" Prop="SoilAttack,9000|SoilPenetration,0.9|SoilEnhance,0.9" />
+  <ShengLingJingLian ID="43" Rank="4" Level="9" NeedGoods="2151,4|2152,8" Prop="SoilAttack,10000|SoilPenetration,1|SoilEnhance,1" />
+  <ShengLingJingLian ID="44" Rank="4" Level="10" NeedGoods="" Prop="SoilAttack,11000|SoilPenetration,1.1|SoilEnhance,1.1" />
+</config>

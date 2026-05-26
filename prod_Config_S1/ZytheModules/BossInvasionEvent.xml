@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Info Active="false" Title="BossInvasionEvent" Desciption="Custom Boss Invasion Event!" />
+  <Invasion ID="1" Enable="1" DaysOfWeek="Sunday" Time="20:00:00" SpawnCount="3" IntervalMinutes="0|5|5" Notice="[Zythe] Custom Boss Invasion at Lorencia Graveyard">
+    <Map MapNumber="1" MapName="Lorencia">
+      <Spawn WaveNumber="1" MonsterIDs="4000001|4000004|4000007" Count="2" CoordinateStart="189:90" CoordinateEnd="196:97" />
+      <Spawn WaveNumber="2" MonsterIDs="4000002|4000005|4000008" Count="3" CoordinateStart="189:90" CoordinateEnd="196:97" />
+      <Spawn WaveNumber="3" MonsterIDs="4000003|4000006|4000009" Count="5" CoordinateStart="189:90" CoordinateEnd="196:97" />
+      <Spawn WaveNumber="1" MonsterIDs="9090" Count="1" CoordinateStart="177:92" CoordinateEnd="180:95" />
+      <Spawn WaveNumber="2" MonsterIDs="10090" Count="1" CoordinateStart="177:92" CoordinateEnd="180:95" />
+      <Spawn WaveNumber="3" MonsterIDs="11090" Count="1" CoordinateStart="177:92" CoordinateEnd="180:95" />
+      <Spawn WaveNumber="1" MonsterIDs="190|290|390|490" Count="1" CoordinateStart="151:60" CoordinateEnd="179:161" />
+      <Spawn WaveNumber="2" MonsterIDs="590|690|791|890|990" Count="1" CoordinateStart="151:60" CoordinateEnd="179:161" />
+      <Spawn WaveNumber="3" MonsterIDs="1090,2090|3090|4090|5090|6090|7090|8090|9090" Count="1" CoordinateStart="151:60" CoordinateEnd="179:161" />
+    </Map>
+  </Invasion>
+</Module>

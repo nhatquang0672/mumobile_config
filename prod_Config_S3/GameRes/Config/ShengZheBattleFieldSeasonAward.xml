@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <ShengZheBattleFieldSeasonAward ID="1" Ranking="1,1" Award="2001,4,1,0,0,0,0|2003,4,1,0,0,0,0" MinScore="2000" />
+  <ShengZheBattleFieldSeasonAward ID="2" Ranking="2,2" Award="2001,3,1,0,0,0,0|2003,3,1,0,0,0,0" MinScore="1000" />
+  <ShengZheBattleFieldSeasonAward ID="3" Ranking="3,5" Award="2001,2,1,0,0,0,0|2003,2,1,0,0,0,0" MinScore="100" />
+  <ShengZheBattleFieldSeasonAward ID="4" Ranking="6,10" Award="2001,1,1,0,0,0,0|2003,1,1,0,0,0,0" MinScore="100" />
+  <ShengZheBattleFieldSeasonAward ID="5" Ranking="11,100" Award="2001,1,1,0,0,0,0" MinScore="100" />
+  <ShengZheBattleFieldSeasonAward ID="6" Ranking="101,500000" Award="2003,1,1,0,0,0,0" MinScore="100" />
+</Config>

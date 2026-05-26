@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="41" FromDate="2026-04-04 00:00:00" ToDate="2036-04-18 23:59:59" AwardStartDate="2026-04-04 00:00:00" AwardEndDate="2036-04-18 23:59:59" />
+  <GiftList Description="Trong thời gian event, tham gia trong các thời gian sau sẽ nhận được lợi ích gấp bội!">
+    <!--天使神殿奖励-->
+    <JieRiDuoBei ID="1" Name="Thưởng Điện Thiên Sứ" TypeID="1" Depict="Thưởng event Điện Thiên Sứx" Multiplying="2" Effective="0" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="1002" />
+    <!--阵营战奖励-->
+    <JieRiDuoBei ID="2" Name="Thưởng Trận Doanh Chiến" TypeID="2" Depict="Thưởng event Trận Doanh Chiếnx" Multiplying="2" Effective="1" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="1001" />
+    <!--PK之王奖励-->
+    <JieRiDuoBei ID="3" Name="Thưởng Vua PK" TypeID="3" Depict="Thưởng Vua PK x" Multiplying="2" Effective="0" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="105" />
+    <!--古战场时间-->
+    <JieRiDuoBei ID="4" Name="Thời gian Chiến Trường Cổ" TypeID="4" Depict="Thời gian mỗi ngày vào Chiến Trường Cổ x" Multiplying="2" Effective="0" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="1000" />
+    <!--组队副本奖励-->
+    <JieRiDuoBei ID="5" Name="Thưởng Phó Bản Tổ Đội" TypeID="5" Depict="Thưởng vượt ải Phó Bản Tổ Đội x" Multiplying="2" Effective="1" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="407" />
+    <!--转换次数-->
+    <JieRiDuoBei ID="6" Name="Số lần Chuyển Đổi" TypeID="6" Depict="Số lần Chuyển Đổix" Multiplying="2" Effective="0" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="1320" />
+    <!--转换获得奖励-->
+    <JieRiDuoBei ID="7" Name="Chuyển Đổi nhận quà" TypeID="9" Depict="Chuyển Đổi nhận quàx" Multiplying="2" Effective="0" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="1320" />
+    <!--雕像膜拜次数-->
+    <JieRiDuoBei ID="8" Name="Số lần Quỳ Bái Tượng Đài" TypeID="12" Depict="Số lần Quỳ Bái Tượng Đàix" Multiplying="2" Effective="1" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="1310" />
+    <!--合成果实概率-->
+    <JieRiDuoBei ID="9" Name="Tỷ lệ hợp thành Quả" TypeID="13" Depict="Tỷ lệ thành công hợp thành Quả x" Multiplying="2" Effective="0" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="203" />
+    <!--祈福获取积分-->
+    <JieRiDuoBei ID="10" Name="Chúc phúc đạt được tích điểm" TypeID="10" Depict="Chúc phúc đạt được tích điểmx" Multiplying="2" Effective="1" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="400" />
+  </GiftList>
+</Config>

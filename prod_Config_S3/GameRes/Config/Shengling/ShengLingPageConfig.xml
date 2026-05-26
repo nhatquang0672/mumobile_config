@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <ShengLingPageConfig ID="1" Page="精炼" NeedLevel="0" LinkID="109" />
+  <ShengLingPageConfig ID="2" Page="升品" NeedLevel="1" LinkID="110" />
+  <ShengLingPageConfig ID="3" Page="雕纹" NeedLevel="4" LinkID="111" />
+  <ShengLingPageConfig ID="4" Page="突破" NeedLevel="7" LinkID="112" />
+</config>

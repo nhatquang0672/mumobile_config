@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <MoKaSkillUnlock ID="1" Type="1" SkillNum="1" UnlockLev="1" SkillName="健体" SkillIcon="120001" />
+  <MoKaSkillUnlock ID="2" Type="1" SkillNum="2" UnlockLev="50" SkillName="恢复" SkillIcon="121001" />
+  <MoKaSkillUnlock ID="3" Type="1" SkillNum="3" UnlockLev="120" SkillName="祝福" SkillIcon="122001" />
+  <MoKaSkillUnlock ID="4" Type="1" SkillNum="4" UnlockLev="200" SkillName="逆转" SkillIcon="123001" />
+  <MoKaSkillUnlock ID="5" Type="2" SkillNum="1" UnlockLev="1" SkillName="御守" SkillIcon="124001" />
+  <MoKaSkillUnlock ID="6" Type="2" SkillNum="2" UnlockLev="50" SkillName="坚守" SkillIcon="125001" />
+  <MoKaSkillUnlock ID="7" Type="2" SkillNum="3" UnlockLev="120" SkillName="反制" SkillIcon="126001" />
+  <MoKaSkillUnlock ID="8" Type="2" SkillNum="4" UnlockLev="200" SkillName="不灭" SkillIcon="127001" />
+  <MoKaSkillUnlock ID="9" Type="3" SkillNum="1" UnlockLev="1" SkillName="狂暴" SkillIcon="128001" />
+  <MoKaSkillUnlock ID="10" Type="3" SkillNum="2" UnlockLev="50" SkillName="精通" SkillIcon="129001" />
+  <MoKaSkillUnlock ID="11" Type="3" SkillNum="3" UnlockLev="120" SkillName="利刃" SkillIcon="130001" />
+  <MoKaSkillUnlock ID="12" Type="3" SkillNum="4" UnlockLev="200" SkillName="震慑" SkillIcon="131001" />
+  <MoKaSkillUnlock ID="13" Type="4" SkillNum="1" UnlockLev="1" SkillName="暴伤" SkillIcon="132001" />
+  <MoKaSkillUnlock ID="14" Type="4" SkillNum="2" UnlockLev="50" SkillName="好武" SkillIcon="135001" />
+  <MoKaSkillUnlock ID="15" Type="4" SkillNum="3" UnlockLev="120" SkillName="愤怒" SkillIcon="133001" />
+  <MoKaSkillUnlock ID="16" Type="4" SkillNum="4" UnlockLev="200" SkillName="破灭" SkillIcon="134001" />
+</config>

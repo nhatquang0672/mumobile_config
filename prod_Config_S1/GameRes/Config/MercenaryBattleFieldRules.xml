@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <MercenaryBattleFieldRules ID="1" Intro="Miêu tả:" Bold="1" Type="5" />
+  <MercenaryBattleFieldRules ID="2" Intro="{dac7ae}1,{fac60d} Khai mở event: {dac7ae}Chiến Trường Dụng Binh là hệ thống tái sinh chiến đấu cá nhân liên server, trong thời gian event có 3 lần cơ hội vào chiến trường.{dac7ae}" Bold="0" Type="5" />
+  <MercenaryBattleFieldRules ID="3" Intro="{dac7ae}2,{fac60d}Chiến Trường Vòng Quang: {dac7ae}Trong Chiến Trường Dụng Binh sát thương của người chơi bị chịu áp chế, sát thương Dụng Binh được tăng mạnh.{dac7ae}" Bold="0" Type="5" />
+  <MercenaryBattleFieldRules ID="4" Intro="{dac7ae}3,{fac60d}Chiến Trường Di Tích{dac7ae}: mỗi tầng đều có 1 quái vật di tích, quái vật sẽ nhận {fac60d}Buff Dị Thương{dac7ae} tái sinh trong thời gian nhất định, trong thời gian Buff Dị Thương có thể tạo sát thương lớn đến quái vật. Sát thương các thành viên cùng Guild sẽ được tích lũy, Guild có sát thương cao nhất trong chiến trường đợt này sẽ có thể nhận thắng lợi. {dac7ae}" Bold="0" Type="5" />
+  <MercenaryBattleFieldRules ID="5" Intro="{dac7ae}4,{fac60d}Thưởng event: {dac7ae}Căn cứ sát thương người chơi tạo ra để tiến hành xếp hạng, thưởng sẽ tiến hành phát căn cứ vào thứ hạng BXH.{dac7ae}" Bold="0" Type="5" />
+</Config>

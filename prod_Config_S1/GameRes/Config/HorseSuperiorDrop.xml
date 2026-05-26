@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HorseSuperiorDrop ID="100" Name="独角兽" CommonSuperiorRate="0,0|1,0.2|2,0.3|3,0.5" CommonSuperiorBank="1,3,5" SeniorSuperiorRate="0,0|1,0.5|2,0.48|3,0.02" SeniorSuperiorBank="2,4,6" />
+  <HorseSuperiorDrop ID="101" Name="彩云兽" CommonSuperiorRate="0,0|1,0.2|2,0.3|3,0.5" CommonSuperiorBank="7,9,10" SeniorSuperiorRate="0,0|1,0.4|2,0.3|3,0.26|4,0.04" SeniorSuperiorBank="8,11,12,13" />
+  <HorseSuperiorDrop ID="102" Name="黑王马、白虎" CommonSuperiorRate="0,0|1,0.2|2,0.3|3,0.5" CommonSuperiorBank="7,8,9" SeniorSuperiorRate="0,0|1,0.4|2,0.3|3,0.26|4,0.04" SeniorSuperiorBank="11,14,15,16" />
+  <HorseSuperiorDrop ID="103" Name="炎狼兽、铁甲犀牛、魔蝎" CommonSuperiorRate="0,0|1,0|2,0|3,0.2|4,0.3|5,0.5" CommonSuperiorBank="17,18,19,20,21" SeniorSuperiorRate="0,0|1,0.3|2,0.3|3,0.2|4,0.14|5,0.06" SeniorSuperiorBank="22,23,24,25,26" />
+  <HorseSuperiorDrop ID="104" Name="韩国特殊" CommonSuperiorRate="0,0|1,0|2,0|3,0.2|4,0.3|5,0.5" CommonSuperiorBank="27,28,29,30,31" SeniorSuperiorRate="0,0|1,0.3|2,0.3|3,0.2|4,0.14|5,0.06" SeniorSuperiorBank="32,33,34,35,36" />
+  <HorseSuperiorDrop ID="105" Name="火凤凰" CommonSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" CommonSuperiorBank="27,28,29,30,31" SeniorSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" SeniorSuperiorBank="32,33,34,35,36" />
+  <HorseSuperiorDrop ID="106" Name="幽焚紫乌" CommonSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" CommonSuperiorBank="27,32,33,35,36" SeniorSuperiorRate="0,0|1,0|2,0|3,0.5|4,0.3|5,0.2" SeniorSuperiorBank="37,38,39,40,41" />
+  <HorseSuperiorDrop ID="107" Name="灭世黑炎龙" CommonSuperiorRate="0,0|1,0|2,0|3,0|4,0.6|5,0.4" CommonSuperiorBank="27,30,32,33,36" SeniorSuperiorRate="0,0|1,0.3|2,0.3|3,0.2|4,0.14|5,0.06" SeniorSuperiorBank="35,37,39,40,41" />
+  <HorseSuperiorDrop ID="108" Name="幽灵狼" CommonSuperiorRate="0,0|1,0|2,0.2|3,0.2|4,0.3|5,0.3" CommonSuperiorBank="27,31,32,33,34" SeniorSuperiorRate="0,0|1,0.3|2,0.3|3,0.2|4,0.14|5,0.06" SeniorSuperiorBank="35,38,39,41,42" />
+  <HorseSuperiorDrop ID="109" Name="十属幽焚紫乌" CommonSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" CommonSuperiorBank="27,32,33,35,36" SeniorSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" SeniorSuperiorBank="37,38,39,40,41" />
+  <HorseSuperiorDrop ID="110" Name="十属灭世黑炎龙" CommonSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" CommonSuperiorBank="27,30,32,33,36" SeniorSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" SeniorSuperiorBank="35,37,39,40,41" />
+  <HorseSuperiorDrop ID="111" Name="涛澜" CommonSuperiorRate="0,0|1,0|2,0.2|3,0.2|4,0.3|5,0.3" CommonSuperiorBank="27,31,32,33,34" SeniorSuperiorRate="0,0|1,0.3|2,0.3|3,0.2|4,0.14|5,0.06" SeniorSuperiorBank="35,38,39,41,42" />
+  <HorseSuperiorDrop ID="112" Name="极速霓虹" CommonSuperiorRate="0,0|1,0|2,0|3,0|4,0.5|5,0.5" CommonSuperiorBank="27,28,33,35,36" SeniorSuperiorRate="0,0|1,0.3|2,0.3|3,0.2|4,0.14|5,0.06" SeniorSuperiorBank="32,37,38,39,40" />
+  <HorseSuperiorDrop ID="113" Name="十属极速霓虹" CommonSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" CommonSuperiorBank="27,28,33,35,36" SeniorSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" SeniorSuperiorBank="32,37,38,39,40" />
+  <HorseSuperiorDrop ID="114" Name="街头酷鸭" CommonSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" CommonSuperiorBank="27,28,29,30,33" SeniorSuperiorRate="0,0|1,0.1|2,0.3|3,0.4|4,0.14|5,0.06" SeniorSuperiorBank="32,35,36,37,38" />
+  <HorseSuperiorDrop ID="115" Name="神秘魔毯" CommonSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" CommonSuperiorBank="27,28,29,30,33" SeniorSuperiorRate="0,0|1,0|2,0.2|3,0.2|4,0.5|5,0.1" SeniorSuperiorBank="32,35,36,37,38" />
+  <HorseSuperiorDrop ID="116" Name="十属神秘魔毯" CommonSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" CommonSuperiorBank="27,28,29,30,33" SeniorSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" SeniorSuperiorBank="32,35,36,37,38" />
+  <HorseSuperiorDrop ID="117" Name="十属街头酷鸭" CommonSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" CommonSuperiorBank="27,28,29,30,33" SeniorSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" SeniorSuperiorBank="32,35,36,37,38" />
+  <HorseSuperiorDrop ID="100000" Name="地狱狼王" CommonSuperiorRate="0,0|1,0|2,0|3,0.2|4,0.3|5,0.5" CommonSuperiorBank="27,28,29,30,31" SeniorSuperiorRate="0,0|1,0.3|2,0.3|3,0.2|4,0.14|5,0.06" SeniorSuperiorBank="32,33,34,35,36" />
+  <HorseSuperiorDrop ID="100001" Name="神秘东方龙" CommonSuperiorRate="0,0|1,0|2,0|3,0|4,0.6|5,0.4" CommonSuperiorBank="27,30,32,33,36" SeniorSuperiorRate="0,0|1,0.5|2,0.2|3,0.1|4,0.14|5,0.06" SeniorSuperiorBank="35,37,39,40,41" />
+  <HorseSuperiorDrop ID="100002" Name="梦魇战骑" CommonSuperiorRate="0,0|1,0|2,0|3,0|4,0.6|5,0.4" CommonSuperiorBank="27,28,29,30,31" SeniorSuperiorRate="0,0|1,0.5|2,0.2|3,0.1|4,0.14|5,0.06" SeniorSuperiorBank="32,33,34,35,36" />
+  <HorseSuperiorDrop ID="100003" Name="7-10属炎狼兽、铁甲犀牛、魔蝎" CommonSuperiorRate="0,0|1,0|2,0|3,0|4,0.5|5,0.5" CommonSuperiorBank="17,18,19,20,21" SeniorSuperiorRate="0,0|1,0|2,0|3,0.6|4,0.3|5,0.1" SeniorSuperiorBank="22,23,24,25,26" />
+  <HorseSuperiorDrop ID="100004" Name="十属地狱狼王" CommonSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" CommonSuperiorBank="27,28,29,30,31" SeniorSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" SeniorSuperiorBank="32,33,34,35,36" />
+  <HorseSuperiorDrop ID="100005" Name="十属神秘东方龙" CommonSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" CommonSuperiorBank="27,30,32,33,36" SeniorSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" SeniorSuperiorBank="35,37,39,40,41" />
+  <HorseSuperiorDrop ID="100006" Name="5-10属幽焚紫乌" CommonSuperiorRate="0,0|1,0|2,0.4|3,0.4|4,0.1|5,0.1" CommonSuperiorBank="27,32,33,35,36" SeniorSuperiorRate="0,0|1,0|2,0|3,0.7|4,0.2|5,0.1" SeniorSuperiorBank="37,38,39,40,41" />
+  <HorseSuperiorDrop ID="100007" Name="10属幽焚紫乌" CommonSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" CommonSuperiorBank="27,32,33,35,36" SeniorSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" SeniorSuperiorBank="37,38,39,40,41" />
+  <HorseSuperiorDrop ID="100008" Name="5-10属灭世黑炎龙" CommonSuperiorRate="0,0|1,0|2,0.4|3,0.4|4,0.1|5,0.1" CommonSuperiorBank="27,30,32,33,36" SeniorSuperiorRate="0,0|1,0|2,0|3,0.7|4,0.2|5,0.1" SeniorSuperiorBank="35,37,39,40,41" />
+  <HorseSuperiorDrop ID="100009" Name="5-10属神秘东方龙" CommonSuperiorRate="0,0|1,0|2,0.4|3,0.4|4,0.1|5,0.1" CommonSuperiorBank="27,30,32,33,36" SeniorSuperiorRate="0,0|1,0|2,0|3,0.7|4,0.2|5,0.1" SeniorSuperiorBank="35,37,39,40,41" />
+  <HorseSuperiorDrop ID="100010" Name="5-10属涛澜" CommonSuperiorRate="0,0|1,0|2,0.4|3,0.4|4,0.1|5,0.1" CommonSuperiorBank="27,31,32,33,34" SeniorSuperiorRate="0,0|1,0|2,0|3,0.7|4,0.2|5,0.1" SeniorSuperiorBank="35,38,39,41,42" />
+  <HorseSuperiorDrop ID="100011" Name="8-10属涛澜" CommonSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" CommonSuperiorBank="27,31,32,33,34" SeniorSuperiorRate="0,0|1,0|2,0|3,0.7|4,0.2|5,0.1" SeniorSuperiorBank="35,38,39,41,42" />
+  <HorseSuperiorDrop ID="100012" Name="10属涛澜" CommonSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" CommonSuperiorBank="27,31,32,33,34" SeniorSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" SeniorSuperiorBank="35,38,39,41,42" />
+  <HorseSuperiorDrop ID="100013" Name="10属炎狼兽、铁甲犀牛、魔蝎" CommonSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" CommonSuperiorBank="17,18,19,20,21" SeniorSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" SeniorSuperiorBank="22,23,24,25,26" />
+  <HorseSuperiorDrop ID="100014" Name="五到十属猩际战士" CommonSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" CommonSuperiorBank="27,28,29,30,33" SeniorSuperiorRate="0,0|1,0.3|2,0.3|3,0.2|4,0.1|5,0.1" SeniorSuperiorBank="32,35,36,37,38" />
+  <HorseSuperiorDrop ID="120" Name="梦境白龙" CommonSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" CommonSuperiorBank="27,28,29,30,33" SeniorSuperiorRate="0,0|1,0|2,0.3|3,0.4|4,0.2|5,0.1" SeniorSuperiorBank="32,35,36,37,38" />
+  <HorseSuperiorDrop ID="121" Name="十属梦境白龙" CommonSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" CommonSuperiorBank="27,28,29,30,33" SeniorSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" SeniorSuperiorBank="32,35,36,37,38" />
+  <HorseSuperiorDrop ID="100015" Name="5-10属鳄鱼" CommonSuperiorRate="0,0|1,0|2,0.4|3,0.4|4,0.1|5,0.1" CommonSuperiorBank="28,30,32,33,36" SeniorSuperiorRate="0,0|1,0|2,0|3,0.7|4,0.2|5,0.1" SeniorSuperiorBank="35,37,38,39,40" />
+  <HorseSuperiorDrop ID="100016" Name="十属鳄鱼" CommonSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" CommonSuperiorBank="28,30,32,33,36" SeniorSuperiorRate="0,0|1,0|2,0|3,0|4,0|5,1" SeniorSuperiorBank="35,37,38,39,40" />
+</Config>

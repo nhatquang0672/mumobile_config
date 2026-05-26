@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HuoDongList>
+  <HuoDong ID="200000" Name="Thi Đấu Đội" Preview="200000" RewardExplain="1,4|4,5" GLXml="TeamBattle.xml" />
+  <HuoDong ID="200001" Name="Tranh Bá Đội" Preview="200001" RewardExplain="1,4|4,5" GLXml="TeamMatch.xml" />
+  <HuoDong ID="200002" Name="Đoạt Bảo Ma Vực" Preview="200002" RewardExplain="1,4|4,5" GLXml="ZorkActivityRules.xml" />
+  <HuoDong ID="200003" Name="Ma Giới Đại Tháo Sát" Preview="200003" RewardExplain="1,4|4,5" GLXml="EscapeActivityRules.xml" />
+  <HuoDong ID="200004" Name="Săn Bắt Đào Vong" Preview="200004" RewardExplain="1,4|4,5" GLXml="HuntingActivityRules.xml" />
+  <HuoDong ID="200005" Name="Vùng Thần Phạt" Preview="200005" RewardExplain="1,4|4,5" GLXml="TrialFieldSet.xml" />
+  <HuoDong ID="200006" Name="Thiên Thần Chiến" Preview="200006" RewardExplain="1,4|4,5" GLXml="GodStriveActivitySet.xml" />
+  <HuoDong ID="200007" Name="Động Hắc Ám" Preview="200007" RewardExplain="1,4|4,5" GLXml="DarknessActivityRules.xml" />
+</HuoDongList>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <EveryDayActivityType TypeID="1" Name="Cấp Chuyển Sinh" OpenLevel="0|1" CloseLevel="100|100" />
+  <EveryDayActivityType TypeID="2" Name="Cánh" OpenLevel="2|1" CloseLevel="100|100" />
+  <EveryDayActivityType TypeID="3" Name="Thành Tựu" OpenLevel="2|1" CloseLevel="100|100" />
+  <EveryDayActivityType TypeID="5" Name="Quân Hàm" OpenLevel="3|1" CloseLevel="100|100" />
+  <EveryDayActivityType TypeID="6" Name="Sách Merlin" OpenLevel="5|1" CloseLevel="100|100" />
+  <EveryDayActivityType TypeID="7" Name="Cấp Thánh Vật" OpenLevel="5|1" CloseLevel="100|100" />
+  <EveryDayActivityType TypeID="8" Name="Nhẫn Cưới" OpenLevel="3|1" CloseLevel="100|100" />
+  <EveryDayActivityType TypeID="9" Name="Thần Bảo Vệ" OpenLevel="3|1" CloseLevel="100|100" />
+  <EveryDayActivityType TypeID="10" Name="Nạp" OpenLevel="2|1" CloseLevel="100|100" />
+</Config>

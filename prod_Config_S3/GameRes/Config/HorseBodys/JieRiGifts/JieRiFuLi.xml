@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="66" FromDate="2022-11-09 00:00:00" ToDate="2022-11-14 23:59:59" AwardStartDate="2022-11-09 00:00:00" AwardEndDate="2022-11-14 23:59:59" />
+  <GiftList Description="Trong thời gian event, mở ra tính năng phúc lợi ngoài!">
+    <JieRiDuoBei ID="1" Name="Tinh Linh Vui Vẻ" TypeID="1" Depict="Bắt Tinh Linh nhận Tinh Linh đặc biệt" Button="1" Function="1" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="1430" />
+    <!--魂石辅助功能Button控制开启，Function控制功能，格式：功能,货币；功能1额外获得魂石精华、功能2减少消耗、功能3提高成功率、功能4锁定不变色，货币：魔晶、星魂、成就、声望、钻石-->
+    <JieRiDuoBei ID="2" Name="Bổ Trợ Hồn Thạch" TypeID="2" Depict="Mở chức năng bổ trợ Hồn Thạch" Button="0" Function="3,1" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="1420" />
+    <JieRiDuoBei ID="3" Name="Cầu Phúc Vui Vẻ" TypeID="3" Depict="Cầu Phúc nhận quà đặc biệt thêm" Button="0" Function="1" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="400" />
+    <JieRiDuoBei ID="4" Name="Mở Cường Hóa +20" TypeID="4" Depict="Cường hóa tăng đến +20" Button="1" Function="1" AwardStartDate="0:00:00" AwardEndDate="23:59:59" Link="200" />
+  </GiftList>
+</Config>

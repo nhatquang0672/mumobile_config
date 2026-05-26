@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <Announcement ID="1" OpenTime="2022-03-27 00:00:00,2027-04-10 23:59:59" ActivityTime="2022-03-27 00:00:00,2027-04-10 23:59:59" Link="50016" OpenID="998" />
+  <Announcement ID="2" OpenTime="2022-03-27 00:00:00,2027-04-10 23:59:59" ActivityTime="2022-03-27 00:00:00,2027-04-10 23:59:59" Link="50023" OpenID="999" />
+</Config>

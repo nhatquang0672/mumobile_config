@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Trong sự kiện, mỗi ngày mở thưởng {17e43e}1 lần" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, Số có thể {17e43e}mua trùng lặp, {dac7ae}tương ứng 10, 100, 1000, 10000" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, 5 chữ số mở giống nhau sẽ nhận thưởng hạng {17e43e}1" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, 4 chữ số mở giống nhau sẽ nhận thưởng hạng {17e43e}2" Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5, 3 chữ số mở giống nhau sẽ nhận thưởng hạng {17e43e}3" Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae}6, Giải 1 sẽ nhận {17e43e}50% tổng thưởng ÷ số người trúng giải 1" Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae}7, Giải 2 sẽ nhận {17e43e}30% tổng thưởng ÷ số người trúng giải 2" Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae}8, Giải 3 sẽ nhận {17e43e}20% tổng thưởng ÷ số người trúng giải 3" Bold="0" />
+</Config>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ShiJianChuFa ID="1" NeedGoods="2600000" GoodsName="Bảo Đồ Cánh (Sơ)" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="19" MaxLevel="100" ShiJianGaiLv="2,0.001|5,0.999" />
+  <ShiJianChuFa ID="2" NeedGoods="2600001" GoodsName="Bảo Đồ Cánh (Trung)" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="19" MaxLevel="100" ShiJianGaiLv="1,0.003|2,0.003|4,0.994" />
+  <ShiJianChuFa ID="3" NeedGoods="2600002" GoodsName="Bảo Đồ Cánh (Cao)" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="19" MaxLevel="100" ShiJianGaiLv="1,0.01|2,0.01|3,0.98" />
+  <ShiJianChuFa ID="4" NeedGoods="2600003" GoodsName="Bảo Đồ Vật Tư (Sơ)" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="19" MaxLevel="100" ShiJianGaiLv="7,0.001|10,0.999" />
+  <ShiJianChuFa ID="5" NeedGoods="2600004" GoodsName="Bảo Đồ Vật Tư (Trung)" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="19" MaxLevel="100" ShiJianGaiLv="6,0.003|7,0.003|9,0.994" />
+  <ShiJianChuFa ID="6" NeedGoods="2600005" GoodsName="Bảo Đồ Vật Tư (Cao)" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="19" MaxLevel="100" ShiJianGaiLv="6,0.01|7,0.01|11,0.01|12,0.01|8,0.96" />
+  <ShiJianChuFa ID="7" NeedGoods="2600006" GoodsName="Bảo Đồ T.Bị (Sơ)" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="19" MaxLevel="100" ShiJianGaiLv="14,0.001|15,0.001|10,0.998" />
+  <ShiJianChuFa ID="8" NeedGoods="2600007" GoodsName="Bảo Đồ T.Bị (Trung)" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="19" MaxLevel="100" ShiJianGaiLv="13,0.003|14,0.003|15,0.003|9,0.991" />
+  <ShiJianChuFa ID="9" NeedGoods="2600008" GoodsName="Bảo Đồ T.Bị (Cao)" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="19" MaxLevel="100" ShiJianGaiLv="13,0.01|14,0.01|15,0.01|8,0.97" />
+</Config>

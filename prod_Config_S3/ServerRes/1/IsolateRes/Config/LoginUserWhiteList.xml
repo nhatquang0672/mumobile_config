@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <WhiteList ID="1" Name="越南测试1" UserID="YN2940039" PinTai="APP" />
+  <WhiteList ID="2" Name="越南测试2" UserID="YN2631861" PinTai="APP" />
+  <WhiteList ID="3" Name="越南测试3" UserID="YN5867535" PinTai="APP" />
+  <WhiteList ID="4" Name="越南测试4" UserID="YN4396805" PinTai="APP" />
+  <WhiteList ID="5" Name="越南测试5" UserID="YN13305715" PinTai="APP" />
+  <WhiteList ID="6" Name="越南测试6" UserID="YN10130359" PinTai="APP" />
+  <WhiteList ID="7" Name="越南测试7" UserID="YN9415795" PinTai="APP" />
+  <WhiteList ID="8" Name="越南测试8" UserID="YN9434669" PinTai="APP" />
+  <WhiteList ID="9" Name="越南测试9" UserID="YN9437595" PinTai="APP" />
+  <WhiteList ID="10" Name="越南测试10" UserID="YN9456965" PinTai="APP" />
+  <WhiteList ID="11" Name="越南测试11" UserID="YN9491471" PinTai="APP" />
+  <WhiteList ID="12" Name="越南测试12" UserID="YN9491571" PinTai="APP" />
+  <WhiteList ID="13" Name="越南测试13" UserID="YN9493521" PinTai="APP" />
+  <WhiteList ID="14" Name="越南测试14" UserID="YN9493605" PinTai="APP" />
+  <WhiteList ID="15" Name="越南测试15" UserID="YN9493709" PinTai="APP" />
+  <WhiteList ID="16" Name="越南测试16" UserID="YN9494279" PinTai="APP" />
+  <WhiteList ID="17" Name="越南测试17" UserID="YN9495437" PinTai="APP" />
+  <WhiteList ID="18" Name="越南测试18" UserID="YN9495457" PinTai="APP" />
+  <WhiteList ID="19" Name="越南测试19" UserID="YN9496147" PinTai="APP" />
+  <WhiteList ID="20" Name="越南测试20" UserID="YN9496569" PinTai="APP" />
+  <WhiteList ID="21" Name="越南测试21" UserID="YN5729029" PinTai="APP" />
+  <WhiteList ID="22" Name="越南测试22" UserID="YN5730727" PinTai="APP" />
+  <WhiteList ID="23" Name="越南测试23" UserID="YN16273485" PinTai="APP" />
+  <WhiteList ID="24" Name="越南测试24" UserID="YN16273523" PinTai="APP" />
+  <WhiteList ID="25" Name="越南测试25" UserID="YN16280567" PinTai="APP" />
+  <WhiteList ID="26" Name="越南测试26" UserID="YN16280667" PinTai="APP" />
+  <WhiteList ID="27" Name="越南测试27" UserID="YN16280689" PinTai="APP" />
+  <WhiteList ID="28" Name="越南测试28" UserID="YN17443629" PinTai="APP" />
+  <WhiteList ID="29" Name="越南测试29" UserID="YN21651369" PinTai="APP" />
+  <WhiteList ID="29" Name="越南测试29" UserID="YN196498634" PinTai="APP" />
+
+</config>

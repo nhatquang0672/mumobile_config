@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <LiChengHuiYi ID="1" Type="1" Name="序章·神启" ShowType="1" NextShowType="-1" ShowPicType="1" ShowPic="4.png.qj" ShowDes="{dac7ae}女神安吉拉降下神启，梦幻骑士降临抵御强敌，神圣护盾成为了我们最可靠的防御手段{fac60d}当黑暗降临{fac60d}" Goods="23001,1,1,0,0,0,0|23002,1,1,0,0,0,0" OpenTime="" />
+  <LiChengHuiYi ID="2" Type="1" Name="一章·烽烟" ShowType="1" NextShowType="-1" ShowPicType="1" ShowPic="5.png.qj" ShowDes="{dac7ae}大陆陷入危机，我们需要老兵的帮助{fac60d}当世界重归混沌{fac60d}" Goods="23002,1,1,0,0,0,0" OpenTime="" />
+  <LiChengHuiYi ID="3" Type="1" Name="二章·深渊" ShowType="1" NextShowType="-1" ShowPicType="1" ShowPic="7.png.qj" ShowDes="{dac7ae}亚特兰蒂斯沦陷，深渊·海魔希特拉肆虐，留给我们的时间不多了{fac60d}当世界千疮百孔{fac60d}" Goods="23003,1,1,0,0,0,0" OpenTime="" />
+  <LiChengHuiYi ID="4" Type="1" Name="三章·冰封" ShowType="1" NextShowType="-1" ShowPicType="1" ShowPic="10.png.qj" ShowDes="{dac7ae}冰风谷蠢蠢欲动，黑暗力量的辐射继续扩大，大陆能撑到最后的时刻么？{fac60d}我们别无选择{fac60d}" Goods="23005,1,1,0,0,0,0" OpenTime="" />
+  <LiChengHuiYi ID="5" Type="1" Name="四章·冰后" ShowType="2" NextShowType="-1" ShowPicType="1" ShowPic="11.png.qj" ShowDes="{dac7ae}随着深渊·海魔希特拉的溃败，深渊·冰后又带来了阴影{fac60d}起来把，站起来反抗吧！{fac60d}" Goods="23006,1,1,0,0,0,0" OpenTime="" />
+</config>

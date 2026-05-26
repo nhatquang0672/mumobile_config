@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <ZhanLingMaster ID="1" Rank="1" Level="1" NeedLevel="1" Num="6" Prop="AddAttackInjure,1000" Des="雕文大师描述1-测试" />
+  <ZhanLingMaster ID="2" Rank="1" Level="2" NeedLevel="2" Num="6" Prop="AddAttackInjure,2000" Des="雕文大师描述2-测试" />
+  <ZhanLingMaster ID="3" Rank="1" Level="3" NeedLevel="3" Num="6" Prop="AddAttackInjure,3000" Des="雕文大师描述3-测试" />
+  <ZhanLingMaster ID="4" Rank="2" Level="1" NeedLevel="1" Num="6" Prop="DamageThorn,1000" Des="雕文大师描述4-测试" />
+  <ZhanLingMaster ID="5" Rank="2" Level="2" NeedLevel="2" Num="6" Prop="DamageThorn,2000" Des="雕文大师描述5-测试" />
+  <ZhanLingMaster ID="6" Rank="2" Level="3" NeedLevel="3" Num="6" Prop="DamageThorn,3000" Des="雕文大师描述6-测试" />
+  <ZhanLingMaster ID="7" Rank="3" Level="1" NeedLevel="1" Num="6" Prop="DecreaseInjureValue,1000" Des="雕文大师描述7-测试" />
+  <ZhanLingMaster ID="8" Rank="3" Level="2" NeedLevel="2" Num="6" Prop="DecreaseInjureValue,2000" Des="雕文大师描述8-测试" />
+  <ZhanLingMaster ID="9" Rank="3" Level="3" NeedLevel="3" Num="6" Prop="DecreaseInjureValue,3000" Des="雕文大师描述9-测试" />
+  <ZhanLingMaster ID="10" Rank="4" Level="1" NeedLevel="1" Num="6" Prop="LifeSteal,1000" Des="雕文大师描述10-测试" />
+  <ZhanLingMaster ID="11" Rank="4" Level="2" NeedLevel="2" Num="6" Prop="LifeSteal,2000" Des="雕文大师描述11-测试" />
+  <ZhanLingMaster ID="12" Rank="4" Level="3" NeedLevel="3" Num="6" Prop="LifeSteal,3000" Des="雕文大师描述12-测试" />
+  <ZhanLingMaster ID="13" Rank="4" Level="4" NeedLevel="4" Num="6" Prop="AddAttackInjure,1000" Des="雕文大师描述1-测试" />
+  <ZhanLingMaster ID="14" Rank="4" Level="5" NeedLevel="5" Num="6" Prop="AddAttackInjure,2000" Des="雕文大师描述2-测试" />
+  <ZhanLingMaster ID="15" Rank="4" Level="6" NeedLevel="6" Num="6" Prop="AddAttackInjure,3000" Des="雕文大师描述3-测试" />
+  <ZhanLingMaster ID="16" Rank="4" Level="7" NeedLevel="7" Num="6" Prop="AddAttackInjure,1000" Des="雕文大师描述1-测试" />
+  <ZhanLingMaster ID="17" Rank="4" Level="8" NeedLevel="8" Num="6" Prop="AddAttackInjure,2000" Des="雕文大师描述2-测试" />
+  <ZhanLingMaster ID="18" Rank="4" Level="9" NeedLevel="9" Num="6" Prop="AddAttackInjure,3000" Des="雕文大师描述3-测试" />
+</config>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ShenYuAttributeSuit ID="1" ShenYuAttributeName="Rực Rỡ-" AttributeType="1" TwoAttributes="HolyDefense,1500" FourAttributes="HolyDefense,1500|MaxLifeV,15000" FiveAttributes="HolyDefense,7500|MaxLifeV,7500|HolyPenetratePercent,0.05" />
+  <ShenYuAttributeSuit ID="2" ShenYuAttributeName="Lụi Tàn-" AttributeType="2" TwoAttributes="ShadowDefense,1500" FourAttributes="ShadowDefense,1500|MaxLifeV,15000" FiveAttributes="ShadowDefense,7500|MaxLifeV,7500|ShadowPenetratePercent,0.05" />
+  <ShenYuAttributeSuit ID="3" ShenYuAttributeName="Bảo Vệ-" AttributeType="3" TwoAttributes="NatureDefense,1500" FourAttributes="NatureDefense,1500|MaxLifeV,15000" FiveAttributes="NatureDefense,7500|MaxLifeV,7500|NaturePenetratePercent,0.05" />
+  <ShenYuAttributeSuit ID="4" ShenYuAttributeName="Trừng Trị-" AttributeType="4" TwoAttributes="ChaosDefense,1500" FourAttributes="ChaosDefense,1500|MaxLifeV,15000" FiveAttributes="ChaosDefense,7500|MaxLifeV,7500|ChaosPenetratePercent,0.05" />
+  <ShenYuAttributeSuit ID="5" ShenYuAttributeName="Kết Cục-" AttributeType="5" TwoAttributes="IncubusDefense,1500" FourAttributes="IncubusDefense,1500|MaxLifeV,15000" FiveAttributes="IncubusDefense,7500|MaxLifeV,7500|IncubusPenetratePercent,0.05" />
+</Config>

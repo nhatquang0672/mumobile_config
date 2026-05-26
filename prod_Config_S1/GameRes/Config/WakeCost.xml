@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <WakeCost ID="1" CostID="101" WakeNeedGoods="31001,56" WakeNeedMoney="" LevLimit="20" StarLimit="1" UpGrateNeedGoods="35000,4" UpGrateNeedMoney="" UpGrateTimes="100" />
+  <WakeCost ID="2" CostID="102" WakeNeedGoods="31001,168" WakeNeedMoney="" LevLimit="50" StarLimit="2" UpGrateNeedGoods="35000,4" UpGrateNeedMoney="" UpGrateTimes="100" />
+  <WakeCost ID="3" CostID="103" WakeNeedGoods="31001,336" WakeNeedMoney="" LevLimit="80" StarLimit="3" UpGrateNeedGoods="35000,14" UpGrateNeedMoney="" UpGrateTimes="100" />
+  <WakeCost ID="4" CostID="104" WakeNeedGoods="31001,699" WakeNeedMoney="" LevLimit="120" StarLimit="4" UpGrateNeedGoods="35000,27" UpGrateNeedMoney="" UpGrateTimes="100" />
+  <WakeCost ID="5" CostID="201" WakeNeedGoods="31001,56|31002,14" WakeNeedMoney="" LevLimit="20" StarLimit="1" UpGrateNeedGoods="35000,9" UpGrateNeedMoney="" UpGrateTimes="100" />
+  <WakeCost ID="6" CostID="202" WakeNeedGoods="31001,168|31002,42" WakeNeedMoney="" LevLimit="50" StarLimit="2" UpGrateNeedGoods="35000,9" UpGrateNeedMoney="" UpGrateTimes="100" />
+  <WakeCost ID="7" CostID="203" WakeNeedGoods="31001,336|31002,84" WakeNeedMoney="" LevLimit="80" StarLimit="3" UpGrateNeedGoods="35000,27" UpGrateNeedMoney="" UpGrateTimes="100" />
+  <WakeCost ID="8" CostID="204" WakeNeedGoods="31001,699|31002,175" WakeNeedMoney="" LevLimit="120" StarLimit="4" UpGrateNeedGoods="35000,54" UpGrateNeedMoney="" UpGrateTimes="100" />
+  <WakeCost ID="9" CostID="205" WakeNeedGoods="31001,1538|31002,385" WakeNeedMoney="" LevLimit="160" StarLimit="5" UpGrateNeedGoods="35000,112" UpGrateNeedMoney="" UpGrateTimes="100" />
+  <WakeCost ID="10" CostID="301" WakeNeedGoods="31001,56|31002,14|31003,2" WakeNeedMoney="" LevLimit="20" StarLimit="1" UpGrateNeedGoods="35000,15" UpGrateNeedMoney="" UpGrateTimes="100" />
+  <WakeCost ID="11" CostID="302" WakeNeedGoods="31001,168|31002,42|31003,6" WakeNeedMoney="" LevLimit="50" StarLimit="2" UpGrateNeedGoods="35000,15" UpGrateNeedMoney="" UpGrateTimes="100" />
+  <WakeCost ID="12" CostID="303" WakeNeedGoods="31001,336|31002,84|31003,12" WakeNeedMoney="" LevLimit="80" StarLimit="3" UpGrateNeedGoods="35000,45" UpGrateNeedMoney="" UpGrateTimes="100" />
+  <WakeCost ID="13" CostID="304" WakeNeedGoods="31001,699|31002,175|31003,24" WakeNeedMoney="" LevLimit="120" StarLimit="4" UpGrateNeedGoods="35000,90" UpGrateNeedMoney="" UpGrateTimes="100" />
+  <WakeCost ID="14" CostID="305" WakeNeedGoods="31001,1538|31002,385|31003,52" WakeNeedMoney="" LevLimit="160" StarLimit="5" UpGrateNeedGoods="35000,186" UpGrateNeedMoney="" UpGrateTimes="100" />
+  <WakeCost ID="15" CostID="306" WakeNeedGoods="31001,1538|31002,385|31003,53" WakeNeedMoney="" LevLimit="200" StarLimit="5" UpGrateNeedGoods="35000,410" UpGrateNeedMoney="" UpGrateTimes="100" />
+</Config>

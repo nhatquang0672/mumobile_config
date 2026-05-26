@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MeiRiBiZuoTab>
+  <MeiRiBiZuo ID="1" Name="EXP"/>
+  <MeiRiBiZuo ID="2" Name="Vàng khóa" />
+  <MeiRiBiZuo ID="3" Name="Ma Băng" />
+  <MeiRiBiZuo ID="4" Name="Trang bị" />
+  <MeiRiBiZuo ID="5" Name="Ngọc"/>
+  <MeiRiBiZuo ID="6" Name="Cánh"/>
+  <MeiRiBiZuo ID="7" Name="Thành tựu" />
+  <MeiRiBiZuo ID="8" Name="Danh vọng" />
+  <MeiRiBiZuo ID="9" Name="KC Khóa"/>
+  <MeiRiBiZuo ID="10" Name="Bụi NTố"/>
+</MeiRiBiZuoTab> 

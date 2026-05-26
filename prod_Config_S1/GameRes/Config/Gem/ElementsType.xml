@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ElementsType ElementsType="1" Name="Hoả"  />
+  <ElementsType ElementsType="2" Name="Thuỷ"  />
+  <ElementsType ElementsType="3" Name="Lôi"  />
+  <ElementsType ElementsType="4" Name="Thổ"  />
+  <ElementsType ElementsType="5" Name="Băng"  />
+  <ElementsType ElementsType="6" Name="Phong"  />
+</Config>

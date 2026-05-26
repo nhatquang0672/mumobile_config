@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Info Active="true" Title="GameFeatureSettings" Desciption="Game Features Config" />
+  <Config>
+    <Feature Type="Talent" Data="AutoFix=true; MaxPoints=50;"  Description="Talent system configuration to fix talent negative points bug" />
+  </Config>
+</Module>

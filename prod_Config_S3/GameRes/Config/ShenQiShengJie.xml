@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <ShenQiShengJie ID="1" Type="1" GoodsID="23001" ShengJieAdd="10" />
+  <ShenQiShengJie ID="2" Type="1" GoodsID="23002" ShengJieAdd="60" />
+  <ShenQiShengJie ID="3" Type="1" GoodsID="23003" ShengJieAdd="200" />
+  <ShenQiShengJie ID="4" Type="2" GoodsID="23004" ShengJieAdd="10" />
+  <ShenQiShengJie ID="5" Type="2" GoodsID="23005" ShengJieAdd="60" />
+  <ShenQiShengJie ID="6" Type="2" GoodsID="23006" ShengJieAdd="200" />
+  <ShenQiShengJie ID="7" Type="3" GoodsID="23007" ShengJieAdd="10" />
+  <ShenQiShengJie ID="8" Type="3" GoodsID="23008" ShengJieAdd="60" />
+  <ShenQiShengJie ID="9" Type="3" GoodsID="23009" ShengJieAdd="200" />
+  <ShenQiShengJie ID="10" Type="4" GoodsID="23010" ShengJieAdd="10" />
+  <ShenQiShengJie ID="11" Type="4" GoodsID="23011" ShengJieAdd="60" />
+  <ShenQiShengJie ID="12" Type="4" GoodsID="23012" ShengJieAdd="200" />
+</Config>

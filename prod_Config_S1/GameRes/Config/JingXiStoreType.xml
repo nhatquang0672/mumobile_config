@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <JingXiStoreType ID="1" StoreType="1" NeedVipLv="0" TypeName="1级商城" IsOpen="1" />
+  <JingXiStoreType ID="2" StoreType="2" NeedVipLv="9" TypeName="2级商城" IsOpen="1" />
+  <JingXiStoreType ID="3" StoreType="3" NeedVipLv="12" TypeName="3级商城" IsOpen="1" />
+</Config>

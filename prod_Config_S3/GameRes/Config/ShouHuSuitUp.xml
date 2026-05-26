@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <ShouHuSuitUp ID="1" NeedGoods="2032,0" Model="201" />
+  <ShouHuSuitUp ID="2" NeedGoods="2032,20" Model="202" />
+  <ShouHuSuitUp ID="3" NeedGoods="2032,50" Model="203" />
+  <ShouHuSuitUp ID="4" NeedGoods="2032,160" Model="204" />
+  <ShouHuSuitUp ID="5" NeedGoods="2032,320" Model="205" />
+  <ShouHuSuitUp ID="6" NeedGoods="2032,480" Model="206" />
+  <ShouHuSuitUp ID="7" NeedGoods="2032,600" Model="207" />
+  <ShouHuSuitUp ID="8" NeedGoods="2032,660" Model="208" />
+  <ShouHuSuitUp ID="9" NeedGoods="2032,720" Model="209" />
+  <ShouHuSuitUp ID="10" NeedGoods="2032,780" Model="210" />
+  <ShouHuSuitUp ID="11" NeedGoods="2032,840|2040,1000" Model="210" />
+  <ShouHuSuitUp ID="12" NeedGoods="2032,900|2040,1200" Model="210" />
+  <ShouHuSuitUp ID="13" NeedGoods="2032,960|2040,1400" Model="210" />
+  <ShouHuSuitUp ID="14" NeedGoods="2032,1020|2040,1600" Model="210" />
+  <ShouHuSuitUp ID="15" NeedGoods="2032,1080|2040,1800" Model="210" />
+</Config>

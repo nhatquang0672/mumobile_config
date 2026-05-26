@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <BlackBox ID="1" TotalTimes="0" PoolType="1" />
+  <BlackBox ID="2" TotalTimes="20" PoolType="2" />
+  <BlackBox ID="3" TotalTimes="40" PoolType="3" />
+</Config>

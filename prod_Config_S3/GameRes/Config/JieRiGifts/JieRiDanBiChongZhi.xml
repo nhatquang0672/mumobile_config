@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="69" FromDate="2022-11-09 00:00:00" ToDate="2022-11-14 23:59:59" AwardStartDate="2022-11-09 00:00:00" AwardEndDate="2022-11-14 23:59:59" />
+  <GiftList Description="Trong thời gian event, nạp đạt mốc yêu cầu sẽ nhận thưởng">
+    <Award ID="1" MinYuanBao="240" MaxYuanBao="359" SinglePurchase="3" GoodsOne="30152782,2,1,0,0,0,0|23010,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="2" MinYuanBao="360" MaxYuanBao="599" SinglePurchase="10" GoodsOne="63289,20,1,0,0,0,0|23010,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="3" MinYuanBao="600" MaxYuanBao="1199" SinglePurchase="10" GoodsOne="63354,12,1,0,0,0,0|23010,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="4" MinYuanBao="1200" MaxYuanBao="-1" SinglePurchase="5" GoodsOne="63236,4,1,0,0,0,0|23010,20,1,0,0,0,0|23001,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+  </GiftList>
+</Config>

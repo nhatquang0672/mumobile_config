@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+  <Monsters>
+    <Monster ID="1" Code="9951001" X="15200" Y="4400" Radius="1" Num="0" Timeslot="10800" PursuitRadius="500" BirthType="7" TimePoints="" BirthRate="0" />
+    <Monster ID="2" Code="9951002" X="12400" Y="5000" Radius="1" Num="0" Timeslot="10800" PursuitRadius="500" BirthType="7" TimePoints="" BirthRate="0" />
+    <Monster ID="3" Code="9951003" X="9100" Y="5900" Radius="1" Num="0" Timeslot="10800" PursuitRadius="500" BirthType="7" TimePoints="" BirthRate="0" />
+    <Monster ID="4" Code="9951004" X="10100" Y="7700" Radius="1" Num="0" Timeslot="10800" PursuitRadius="500" BirthType="7" TimePoints="" BirthRate="0" />
+    <Monster ID="5" Code="9951005" X="7900" Y="10700" Radius="1" Num="0" Timeslot="10800" PursuitRadius="500" BirthType="7" TimePoints="" BirthRate="0" />
+    <Monster ID="6" Code="9951006" X="5500" Y="9000" Radius="1" Num="0" Timeslot="10800" PursuitRadius="500" BirthType="7" TimePoints="" BirthRate="0" />
+    <Monster ID="7" Code="9951007" X="5400" Y="11400" Radius="1" Num="0" Timeslot="10800" PursuitRadius="500" BirthType="7" TimePoints="" BirthRate="0" />
+    <Monster ID="8" Code="9951008" X="5500" Y="13000" Radius="1" Num="0" Timeslot="10800" PursuitRadius="500" BirthType="7" TimePoints="" BirthRate="0" />
+    <Monster ID="9" Code="9951009" X="9700" Y="12300" Radius="1" Num="0" Timeslot="10800" PursuitRadius="500" BirthType="7" TimePoints="" BirthRate="0" />
+    <Monster ID="10" Code="9951010" X="9500" Y="10000" Radius="1" Num="0" Timeslot="10800" PursuitRadius="500" BirthType="7" TimePoints="" BirthRate="0" />
+    <Monster ID="11" Code="9951011" X="12000" Y="9100" Radius="1" Num="0" Timeslot="10800" PursuitRadius="500" BirthType="7" TimePoints="" BirthRate="0" />	
+    <Monster ID="12" Code="9951012" X="14300" Y="9300" Radius="1" Num="0" Timeslot="10800" PursuitRadius="500" BirthType="7" TimePoints="" BirthRate="0" />
+    <Monster ID="13" Code="9951013" X="12400" Y="11100" Radius="1" Num="0" Timeslot="10800" PursuitRadius="500" BirthType="7" TimePoints="" BirthRate="0" />
+  </Monsters>
+</Map>

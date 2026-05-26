@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <TeHuiHuoDongZhiGou ID="1" ZhiGouID="1000000" TitlePic="wenzi.png" TitleName="坐骑特惠" ShowGoods="1050000,1,1,0,0,0,0" ShowGoodsID="-1" IsRole="0" ShowGoodsPos="-155,-213,0" ShowGoodsSize="1,1,1" ShowGoodsRot="0,0,0" ShowLeftPic="tehui_3.png" ShowTips="wenzi2.png" ActivityTime="2022-03-04 00:00:00,2027-03-04 23:59:59" />
+  <TeHuiHuoDongZhiGou ID="2" ZhiGouID="1000001" TitlePic="wenzi.png" TitleName="称号特惠" ShowGoods="2090030,1,1,0,0,0,0" ShowGoodsID="-1" IsRole="0" ShowGoodsPos="-155,-213,0" ShowGoodsSize="1,1,1" ShowGoodsRot="0,0,0" ShowLeftPic="tehui_3.png" ShowTips="wenzi2.png" ActivityTime="2022-03-05 00:00:00,2027-03-05 23:59:59" />
+  <TeHuiHuoDongZhiGou ID="3" ZhiGouID="1000002" TitlePic="wenzi.png" TitleName="时装特惠" ShowGoods="1050000,1,1,0,0,0,0" ShowGoodsID="-1" IsRole="0" ShowGoodsPos="-155,-213,0" ShowGoodsSize="1,1,1" ShowGoodsRot="0,0,0" ShowLeftPic="tehui_3.png" ShowTips="wenzi2.png" ActivityTime="2022-03-06 00:00:00,2027-03-06 23:59:59" />
+  <TeHuiHuoDongZhiGou ID="4" ZhiGouID="1000003" TitlePic="wenzi.png" TitleName="脚印特惠" ShowGoods="2090030,1,1,0,0,0,0" ShowGoodsID="1050002" IsRole="1" ShowGoodsPos="-155,-213,0" ShowGoodsSize="1,1,1" ShowGoodsRot="0,0,0" ShowLeftPic="tehui_3.png" ShowTips="wenzi2.png" ActivityTime="2022-03-07 00:00:00,2027-03-07 23:59:59" />
+</config>

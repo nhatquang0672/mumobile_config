@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="25" />
+  <GiftList Title="Chiến Gộp Server" Description="Trong 5 ngày sau khi liên thông server, Guild liên tiếp 3 ngày chiếm vương thành sẽ nhận thưởng hậu hĩnh!">
+  <Award GoodsIDs="1304000,1,0,0,0,0|35006,1,0,0,1,0|50004,1,0,0,1,0|31025,1,0,0,1,0|30063,1,0,0,1,0" />
+  </GiftList>
+</Config>

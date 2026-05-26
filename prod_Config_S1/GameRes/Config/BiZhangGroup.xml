@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <BiZhangGroup id="1" NeedBiZhang="30001,30002,30003" JiBanPro="ElementAttackInjurePercent,0.03" JiBanName="Lạc Sơn Chi Lôi" WakeJiBanPro="ElementAttackInjurePercent,0.05" WakeJiBanName="Giác Tỉnh.Lạc Sơn Chi Lôi" />
+  <BiZhangGroup id="2" NeedBiZhang="30004,30005,30006,30007,30008,30009" JiBanPro="ElementPenetration,0.05" JiBanName="Thần Phong Tích Tà" WakeJiBanPro="ElementInjurePercent,0.1" WakeJiBanName="Giác Tỉnh.Thần Phong Tích Tà" />
+  <BiZhangGroup id="3" NeedBiZhang="30010,30011,30012,30013,30014,30015" JiBanPro="ElementPenetration,0.1" JiBanName="Thiên Mệnh Lôi Tiêu" WakeJiBanPro="ElementInjurePercent,0.2" WakeJiBanName="Giác Tỉnh.Thiên Mệnh Lôi Tiêu" />
+</Config>

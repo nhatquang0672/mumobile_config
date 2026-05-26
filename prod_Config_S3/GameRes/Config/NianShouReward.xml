@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <NianShouReward ID="1" TotalDamage="2000" Reward="38000,5,1,0,0,0,0" />
+  <NianShouReward ID="2" TotalDamage="5000" Reward="38000,10,1,0,0,0,0" />
+  <NianShouReward ID="3" TotalDamage="10000" Reward="38000,15,1,0,0,0,0" />
+  <NianShouReward ID="4" TotalDamage="30000" Reward="38000,20,1,0,0,0,0" />
+  <NianShouReward ID="5" TotalDamage="50000" Reward="38000,25,1,0,0,0,0" />
+</Config>

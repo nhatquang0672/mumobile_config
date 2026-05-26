@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <TreasureCompassAward ID="1" GoodsID="2016,100,1,0,0,0,0" Weight="10" GoodsShow="-1" ModelSize="-1" ModelPos="-1" />
+  <TreasureCompassAward ID="2" GoodsID="1035002,1,1,0,0,0,0" Weight="10" GoodsShow="1" ModelSize="0.8" ModelPos="20,50" />
+  <TreasureCompassAward ID="3" GoodsID="1031013,1,1,0,0,0,0" Weight="10" GoodsShow="1" ModelSize="0.8" ModelPos="20,50" />
+  <TreasureCompassAward ID="4" GoodsID="1033060,1,1,0,0,0,0" Weight="10" GoodsShow="1" ModelSize="0.8" ModelPos="20,50" />
+  <TreasureCompassAward ID="5" GoodsID="990021,1,1,0,0,0,0" Weight="20" GoodsShow="1" ModelSize="0.8" ModelPos="20,50" />
+  <TreasureCompassAward ID="6" GoodsID="63576,1,1,0,0,0,0" Weight="50" GoodsShow="1" ModelSize="0.8" ModelPos="20,50" />
+  <TreasureCompassAward ID="7" GoodsID="63579,99,1,0,0,0,0" Weight="20" GoodsShow="1" ModelSize="0.8" ModelPos="20,50" />
+  <TreasureCompassAward ID="8" GoodsID="64014,50,1,0,0,0,0" Weight="10" GoodsShow="1" ModelSize="0.8" ModelPos="20,50" />
+  <TreasureCompassAward ID="9" GoodsID="1050000,1,1,0,0,0,0" Weight="60" GoodsShow="1" ModelSize="0.8" ModelPos="20,50" />
+  <TreasureCompassAward ID="10" GoodsID="2090030,1,1,0,0,0,0" Weight="100" GoodsShow="1" ModelSize="0.8" ModelPos="20,50" />
+</Config>

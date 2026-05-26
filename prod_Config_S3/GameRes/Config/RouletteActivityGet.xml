@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <RouletteActivityGet ID="1" ZhiGouID="50009" ZhiGouName="Tranh Mua Quyển SK" />
+  <RouletteActivityGet ID="2" ZhiGouID="50010" ZhiGouName="Tranh Mua Quyển SK" />
+  <RouletteActivityGet ID="3" ZhiGouID="50011" ZhiGouName="Tranh Mua Quyển SK" />
+  <RouletteActivityGet ID="4" ZhiGouID="50012" ZhiGouName="Tranh Mua Quyển SK" />
+</Config>

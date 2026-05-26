@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <DarknessDanList ID="0" RankValue="400" WinRankValue="50" LoseRankValue="50" WinRankReward="64024,60,1,0,0,0,0" LoseRankReward="64024,40,1,0,0,0,0" FirstWinRankReward="64024,300,1,0,0,0,0" />
+  <DarknessDanList ID="1" RankValue="300" WinRankValue="50" LoseRankValue="40" WinRankReward="64024,60,1,0,0,0,0" LoseRankReward="64024,40,1,0,0,0,0" FirstWinRankReward="64024,300,1,0,0,0,0" />
+  <DarknessDanList ID="2" RankValue="200" WinRankValue="50" LoseRankValue="30" WinRankReward="64024,60,1,0,0,0,0" LoseRankReward="64024,40,1,0,0,0,0" FirstWinRankReward="64024,300,1,0,0,0,0" />
+  <DarknessDanList ID="3" RankValue="100" WinRankValue="50" LoseRankValue="20" WinRankReward="64024,60,1,0,0,0,0" LoseRankReward="64024,40,1,0,0,0,0" FirstWinRankReward="64024,300,1,0,0,0,0" />
+  <DarknessDanList ID="4" RankValue="0" WinRankValue="50" LoseRankValue="0" WinRankReward="64024,60,1,0,0,0,0" LoseRankReward="64024,40,1,0,0,0,0" FirstWinRankReward="64024,300,1,0,0,0,0" />
+</Config>

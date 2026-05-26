@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Mall>
+    <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+    <Goods ID="100010" GoodsID="4000" Property="0,0,0,0" TabID="1000" Ico="0" Price="40,80" SinglePurchase="7" FullPurchase="-1" Description="Nhân vật sau khi chết, sử dụng Linh Thạch này sẽ có thể hồi sinh tại chỗ đầy HP" PubStartTime="" PubEndTime="" ZheKou="6" />
+    <Goods ID="100020" GoodsID="4001" Property="0,0,0,0" TabID="1000" Ico="0" Price="40,80" SinglePurchase="-1" FullPurchase="-1" Description="Sau khi sử dụng sẽ tăng 500 điểm thuộc tính năng lượng, duy trì 1 giờ" PubStartTime="" PubEndTime="" ZheKou="5" />
+    <Goods ID="100030" GoodsID="4002" Property="0,0,0,0" TabID="1000" Ico="0" Price="40,80" SinglePurchase="5" FullPurchase="-1" Description="Sau khi sử dụng sẽ tăng 500 điểm thuộc tính nhạy cảm, duy trì 1 giờ" PubStartTime="" PubEndTime="" ZheKou="3" />
+    <Goods ID="100040" GoodsID="4003" Property="0,0,0,0" TabID="1000" Ico="0" Price="40,455" SinglePurchase="-1" FullPurchase="-1" Description="Sau khi sử dụng sẽ tăng 500 điểm thuộc tính thể lực, duy trì 1 giờ" PubStartTime="" PubEndTime="" ZheKou="7" />
+    <Goods ID="100050" GoodsID="4004" Property="0,0,0,0" TabID="1000" Ico="0" Price="40,100" SinglePurchase="4" FullPurchase="-1" Description="Sau khi sử dụng sẽ tăng 500 điểm thuộc tính trí lực, duy trì 1 giờ" PubStartTime="" PubEndTime="" ZheKou="-1" />
+    <Goods ID="100060" GoodsID="4005" Property="0,0,0,0" TabID="1000" Ico="0" Price="40,90" SinglePurchase="-1" FullPurchase="-1" Description="Sau khi sử dụng tăng 20% hiệu quả nhất kích hoàn mỹ, duy trì 1 giờ" PubStartTime="" PubEndTime="" ZheKou="-1" />
+    <Goods ID="100070" GoodsID="4006" Property="0,0,0,0" TabID="1000" Ico="0" Price="40,99999" SinglePurchase="-1" FullPurchase="-1" Description="Sau khi sử dụng tăng 20% hiệu quả nhất kích may mắn, duy trì 1 giờ" PubStartTime="" PubEndTime="" ZheKou="1" />
+    <Goods ID="200010" GoodsID="63147" Property="0,0,0,0" TabID="2000" Ico="0" Price="40,80" SinglePurchase="7" FullPurchase="-1" Description="Nhân vật sau khi chết, sử dụng Linh Thạch này sẽ có thể hồi sinh tại chỗ đầy HP" PubStartTime="" PubEndTime="" ZheKou="6" />
+    <Goods ID="200020" GoodsID="63024" Property="0,0,0,0" TabID="2000" Ico="0" Price="40,80" SinglePurchase="-1" FullPurchase="-1" Description="Sau khi sử dụng sẽ tăng 500 điểm thuộc tính năng lượng, duy trì 2 giờ" PubStartTime="" PubEndTime="" ZheKou="5" />
+    <Goods ID="200030" GoodsID="63025" Property="0,0,0,0" TabID="2000" Ico="0" Price="40,80" SinglePurchase="5" FullPurchase="-1" Description="Sau khi sử dụng sẽ tăng 500 điểm thuộc tính nhạy cảm, duy trì 2 giờ" PubStartTime="" PubEndTime="" ZheKou="3" />
+    <Goods ID="200040" GoodsID="63026" Property="0,0,0,0" TabID="2000" Ico="0" Price="40,455" SinglePurchase="-1" FullPurchase="-1" Description="Sau khi sử dụng sẽ tăng 500 điểm thuộc tính thể lực, duy trì 2 giờ" PubStartTime="" PubEndTime="" ZheKou="7" />
+    <Goods ID="200050" GoodsID="63027" Property="0,0,0,0" TabID="2000" Ico="0" Price="40,100" SinglePurchase="4" FullPurchase="-1" Description="Sau khi sử dụng sẽ tăng 500 điểm thuộc tính trí lực, duy trì 2 giờ" PubStartTime="" PubEndTime="" ZheKou="-1" />
+    <Goods ID="300010" GoodsID="990010" Property="0,0,0,0" TabID="3000" Ico="0" Price="40,90" SinglePurchase="-1" FullPurchase="-1" Description="Sau khi sử dụng tăng 20% hiệu quả nhất kích hoàn mỹ, duy trì 2 giờ" PubStartTime="" PubEndTime="" ZheKou="-1" />
+    <Goods ID="300020" GoodsID="990011" Property="0,0,0,0" TabID="3000" Ico="0" Price="40,99999" SinglePurchase="-1" FullPurchase="-1" Description="Sau khi sử dụng tăng 20% hiệu quả nhất kích may mắn, duy trì 2 giờ" PubStartTime="" PubEndTime="" ZheKou="1" />
+    <Goods ID="300030" GoodsID="990012" Property="0,0,0,0" TabID="3000" Ico="0" Price="40,100" SinglePurchase="4" FullPurchase="-1" Description="Nhân vật sau khi chết, sử dụng Linh Thạch này sẽ có thể hồi sinh tại chỗ đầy HP" PubStartTime="" PubEndTime="" ZheKou="6" />
+    <Goods ID="300040" GoodsID="990013" Property="0,0,0,0" TabID="3000" Ico="0" Price="40,90" SinglePurchase="-1" FullPurchase="-1" Description="Sau khi sử dụng sẽ tăng 500 điểm thuộc tính năng lượng, duy trì 3 giờ" PubStartTime="" PubEndTime="" ZheKou="5" />
+    <Goods ID="300050" GoodsID="990014" Property="0,0,0,0" TabID="3000" Ico="0" Price="40,99999" SinglePurchase="-1" FullPurchase="-1" Description="Sau khi sử dụng sẽ tăng 500 điểm thuộc tính nhạy cảm, duy trì 3 giờ" PubStartTime="" PubEndTime="" ZheKou="3" />
+  </Mall>
+</Config>

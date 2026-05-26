@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <GuardHolyMark ID="0" GuardHolyMarkName="Tín Ngưỡng" GuardHolyIconName="xinyang_2.png.qj" GuardHolyMarkStar="3000" GuardHolyMarkAttributeUpVaule="0.07" GuardHolyMarkAttributeDec="Thuộc tính cơ bản các hệ của Phù Dụng Binh tăng 7%" />
+  <GuardHolyMark ID="1" GuardHolyMarkName="Cường Giả" GuardHolyIconName="qiangzhe_2.png.qj" GuardHolyMarkStar="9000" GuardHolyMarkAttributeUpVaule="0.17" GuardHolyMarkAttributeDec="Thuộc tính cơ bản các hệ của Phù Dụng Binh tăng 17%" />
+  <GuardHolyMark ID="2" GuardHolyMarkName="Trí Giả" GuardHolyIconName="zhizhe_2.png.qj" GuardHolyMarkStar="25000" GuardHolyMarkAttributeUpVaule="0.35" GuardHolyMarkAttributeDec="Thuộc tính cơ bản các hệ của Phù Dụng Binh tăng 35%" />
+</Config>

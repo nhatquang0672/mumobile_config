@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <HongBaoTime ID="1" Stage="1" AwardLib="1" OpenTime="2022-04-01 20:00:00" Countdown="10" />
+  <HongBaoTime ID="2" Stage="1" AwardLib="1" OpenTime="2022-04-01 20:30:00" Countdown="10" />
+  <HongBaoTime ID="3" Stage="1" AwardLib="1" OpenTime="2022-04-01 21:00:00" Countdown="10" />
+  <HongBaoTime ID="4" Stage="2" AwardLib="2" OpenTime="2022-04-02 00:00:00" Countdown="5" />
+  <HongBaoTime ID="5" Stage="2" AwardLib="2" OpenTime="2022-04-02 00:10:00" Countdown="5" />
+  <HongBaoTime ID="6" Stage="2" AwardLib="2" OpenTime="2022-04-02 00:20:00" Countdown="5" />
+  <HongBaoTime ID="7" Stage="1" AwardLib="1" OpenTime="2022-04-02 12:00:00" Countdown="60" />
+  <HongBaoTime ID="8" Stage="1" AwardLib="1" OpenTime="2022-04-02 20:00:00" Countdown="60" />
+  <HongBaoTime ID="9" Stage="3" AwardLib="3" OpenTime="2022-04-02 12:00:00" Countdown="60" />
+  <HongBaoTime ID="10" Stage="3" AwardLib="3" OpenTime="2022-04-02 20:00:00" Countdown="60" />
+  <HongBaoTime ID="11" Stage="3" AwardLib="3" OpenTime="2022-04-02 12:00:00" Countdown="60" />
+  <HongBaoTime ID="12" Stage="3" AwardLib="3" OpenTime="2022-04-02 20:00:00" Countdown="60" />
+</Config>

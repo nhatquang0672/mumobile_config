@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <ShengYinTaoZhuang ID="1" Name="Nộ Huyết Bạo" LeiXing="1" TaoZhuangShuXingTwo="MaxLifeV,100000" TaoZhuangShuXingFour="AddAttack,20000|AddDefense,10000" TaoZhuangShuXingSix="MaxLifePercent,0.2|AddAttackInjurePercent,0.15|LifeSteal,2000" />
+  <ShengYinTaoZhuang ID="2" Name="Lôi Đình Diệt Thế" LeiXing="2" TaoZhuangShuXingTwo="MaxLifeV,100000" TaoZhuangShuXingFour="AddAttack,20000|AddDefense,10000" TaoZhuangShuXingSix="MaxLifePercent,0.2|AddAttackInjurePercent,0.15|LifeSteal,2000" />
+  <ShengYinTaoZhuang ID="3" Name="Dạ U Minh" LeiXing="3" TaoZhuangShuXingTwo="MaxLifeV,100000" TaoZhuangShuXingFour="AddAttack,20000|AddDefense,10000" TaoZhuangShuXingSix="MaxLifePercent,0.2|AddAttackInjurePercent,0.15|LifeSteal,2000" />
+</Config>

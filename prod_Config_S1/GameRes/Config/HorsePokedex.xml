@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HorsePokedex ID="1" Name="Thú Độc Giác" ModRate="1" HorseGoods="990000" PokedexAttribute="AddAttack,10000|AddDefense,4000|MaxLifeV,30000" SuperiorAttributeID="100" HorseSpeed="1" SkillID="12001" />
+  <HorsePokedex ID="2" Name="Thú Mây Màu" ModRate="1" HorseGoods="990001" PokedexAttribute="AddAttack,11000|AddDefense,4400|MaxLifeV,33000" SuperiorAttributeID="101" HorseSpeed="1" SkillID="12101" />
+  <HorsePokedex ID="3" Name="Ngựa Hắc Ngọc" ModRate="1" HorseGoods="990002" PokedexAttribute="AddAttack,13200|AddDefense,3520|MaxLifeV,26400" SuperiorAttributeID="102" HorseSpeed="1" SkillID="12201" />
+  <HorsePokedex ID="4" Name="Sói Lửa" ModRate="1" HorseGoods="990003" PokedexAttribute="AddAttack,9600|AddDefense,5760|MaxLifeV,43200" SuperiorAttributeID="103" HorseSpeed="1" SkillID="12301" />
+  <HorsePokedex ID="5" Name="Tê Giác Thép" ModRate="1" HorseGoods="990004" PokedexAttribute="AddAttack,12000|AddDefense,4800|MaxLifeV,36000" SuperiorAttributeID="103" HorseSpeed="1" SkillID="12401" />
+  <HorsePokedex ID="6" Name="Bò Cạp Ma" ModRate="1" HorseGoods="990005" PokedexAttribute="AddAttack,14400|AddDefense,3840|MaxLifeV,28800" SuperiorAttributeID="103" HorseSpeed="1" SkillID="12501" />
+  <HorsePokedex ID="7" Name="火凤凰" ModRate="1" HorseGoods="990008" PokedexAttribute="AddAttack,15840|AddDefense,4224|MaxLifeV,31680" SuperiorAttributeID="105" HorseSpeed="1" SkillID="12601" />
+  <HorsePokedex ID="8" Name="Bạch Hổ" ModRate="1.2" HorseGoods="990017" PokedexAttribute="AddAttack,13800|AddDefense,3680|MaxLifeV,27600" SuperiorAttributeID="102" HorseSpeed="1" SkillID="12203" />
+  <HorsePokedex ID="9" Name="Sói Địa Ngục" ModRate="1" HorseGoods="70000001" PokedexAttribute="AddAttack,15840|AddDefense,4224|MaxLifeV,31680" SuperiorAttributeID="100000" HorseSpeed="1" SkillID="12001" />
+  <HorsePokedex ID="10" Name="Diệt Thế Hắc Diễm Long" ModRate="1" HorseGoods="990021" PokedexAttribute="AddAttack,14820|AddDefense,3952|MaxLifeV,29640" SuperiorAttributeID="107" HorseSpeed="1" SkillID="12801" />
+  <HorsePokedex ID="11" Name="Rồng Đông Phương Thần Bí" ModRate="1" HorseGoods="70000002" PokedexAttribute="AddAttack,17320|AddDefense,4224|MaxLifeV,31680" SuperiorAttributeID="100001" HorseSpeed="1" SkillID="12601" />
+  <HorsePokedex ID="12" Name="Thú Cưỡi Mộng Yểm" ModRate="1" HorseGoods="70000003" PokedexAttribute="AddAttack,17280|AddDefense,4608|MaxLifeV,34560" SuperiorAttributeID="100002" HorseSpeed="1" SkillID="12401" />
+  <HorsePokedex ID="13" Name="U Phẫn Tử Ô" ModRate="1" HorseGoods="990020" PokedexAttribute="AddAttack,15840|AddDefense,4224|MaxLifeV,31680" SuperiorAttributeID="106" HorseSpeed="1" SkillID="12701" />
+  <HorsePokedex ID="14" Name="Đào Lan" ModRate="1" HorseGoods="990023" PokedexAttribute="AddAttack,18800|AddDefense,4680|MaxLifeV,31680" SuperiorAttributeID="100010" HorseSpeed="1" SkillID="12203" />
+  <HorsePokedex ID="15" Name="Cực Tốc Nghê Hồng" ModRate="1" HorseGoods="990025" PokedexAttribute="AddAttack,19800|AddDefense,5280|MaxLifeV,39600" SuperiorAttributeID="112" HorseSpeed="1" SkillID="13101" />
+  <HorsePokedex ID="16" Name="Vịt Cool Ngầu" ModRate="1" HorseGoods="990026" PokedexAttribute="AddAttack,13800|AddDefense,3680|MaxLifeV,27600" SuperiorAttributeID="114" HorseSpeed="1" SkillID="13201" />
+  <HorsePokedex ID="17" Name="Ma Thảm Thần Bí" ModRate="1" HorseGoods="990027" PokedexAttribute="AddAttack,16824|AddDefense,4488|MaxLifeV,33660" SuperiorAttributeID="115" HorseSpeed="1" SkillID="13301" />
+  <HorsePokedex ID="18" Name="猩际战士" ModRate="1" HorseGoods="990028" PokedexAttribute="AddAttack,21871|AddDefense,4264|MaxLifeV,31977" SuperiorAttributeID="118" HorseSpeed="1" SkillID="13401" />
+  <HorsePokedex ID="19" Name="Mộng Cảnh Bạch Long" ModRate="1" HorseGoods="990029" PokedexAttribute="AddAttack,23760|AddDefense,6336|MaxLifeV,47520" SuperiorAttributeID="100014" HorseSpeed="1" SkillID="13501" />
+  <HorsePokedex ID="20" Name="Cá sấu Maniac" ModRate="1" HorseGoods="990030" PokedexAttribute="AddAttack,14078|AddDefense,3754|MaxLifeV,28157" SuperiorAttributeID="100016" HorseSpeed="1" SkillID="13601" />
+
+</Config>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ZorkActivityRules ID="1" Name="Ma Vực Đoạt Bảo" MapCode="97002" TimePoints="2,21:30:00-22:00:00|5,21:30:00-22:00:00" BattleSignSecs="120" SignCondition="1|2" MaxEnterNum="3" PrepareSecs="30" FightingSecs="420" ClearRolesSecs="30" SeasonFightDay="4" />
+</Config>
