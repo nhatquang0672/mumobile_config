@@ -1,0 +1,6 @@
+TextAsset Base
+	string m_Name = "Auction"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Auction ID="1" Name="Kim Đoàn Thần Điện Thiên Sứ" List="2" Time="10" OriginPrice="500" UnitPrice="50" MaxPrice="10000" SuccessTitle="Đấu giá thành công" SuccessIntro="Thưởng tham gia Kim Đoàn Thần Điện Thiên Sứ {0}, trong Đấu Giá Kim Đoàn giúp bạn dành được {1}KC" FailTitle="Đấu giá thất bại" FailIntro="Đấu giá Thần Điện Thiên Sứ bạn tham gia thất bại {0}, vì bạn là người chơi có sát thương cao nhất nên phần thưởng thuộc về mình bạn" />
+</Config>"

@@ -1,0 +1,3 @@
+TextAsset Base
+	string m_Name = "BaiduUserList"
+	string m_Script = ""

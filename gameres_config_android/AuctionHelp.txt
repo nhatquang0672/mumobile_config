@@ -1,0 +1,14 @@
+TextAsset Base
+	string m_Name = "AuctionHelp"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Quy tắc Đấu Giá Kim Đoàn" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Đạo cụ sản sinh trong event sẽ tự động đặt vào {17e43e}Đấu Giá Kim Đoàn{-}" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, Cuộc đấu sẽ dưới hình thức thu tiền trước, khi có người ra giá cao hơn, phí sẽ tự động gửi trả lại qua Thư" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, Sử dụng {17e43e}Một Mức Giá {-} có thể trực tiếp mua đạo cụ về" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, Sau khi hoàn tất, số KC đấu giá sẽ được {17e43e}chia phát{-} cho người chơi tham gia hoạt động (thưởng sẽ dựa vào tình trạng hoạt động)" Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5, Nếu số KC đấu giá thấp hơn số người tham gia (số KC chia cho mỗi người thấp hơn 1), thì sẽ không có phần thưởng" Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae}6, Nếu không ai đấu giá, sẽ không có thưởng" Bold="0" />
+  <HelpIntro ID="8" Intro="{fac60d}Thưởng Kim Đoàn Miếu Thiên Thần" Bold="1" />
+  <HelpIntro ID="9" Intro="{dac7ae}1, Sau khi Boss bị kích sát sẽ tăng thêm đạo cụ vào Đấu Giá Kim Đoàn" Bold="0" />
+</Config>"

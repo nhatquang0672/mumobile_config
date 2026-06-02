@@ -1,0 +1,15 @@
+TextAsset Base
+	string m_Name = "CrystalMonster"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <CrystalAward MonsterID="4000000" Name="Tinh Thể Phép Thuật·Tiểu" GatherTime="5" ExpAward="5760" XingHunAward="1000" BindZuanShiAward="" BindJinBiAward="" MoJingAward="2500" />
+  <CrystalAward MonsterID="4000001" Name="Tinh Thể Phép Thuật·Trung" GatherTime="10" ExpAward="11520" XingHunAward="2000" BindZuanShiAward="" BindJinBiAward="" MoJingAward="5000" />
+  <CrystalAward MonsterID="4000002" Name="Tinh Thể Phép Thuật·Đại" GatherTime="15" ExpAward="23040" XingHunAward="4000" BindZuanShiAward="" BindJinBiAward="" MoJingAward="10000" />
+  <CrystalAward MonsterID="4000003" Name="Tinh Thể Kì Diệu·Tiểu" GatherTime="5" ExpAward="5760" XingHunAward="1000" BindZuanShiAward="5" BindJinBiAward="" MoJingAward="" />
+  <CrystalAward MonsterID="4000004" Name="Tinh Thể Kì Diệu·Trung" GatherTime="10" ExpAward="11520" XingHunAward="2000" BindZuanShiAward="10" BindJinBiAward="" MoJingAward="" />
+  <CrystalAward MonsterID="4000005" Name="Tinh Thể Kì Diệu·Đại" GatherTime="15" ExpAward="23040" XingHunAward="4000" BindZuanShiAward="20" BindJinBiAward="" MoJingAward="" />
+  <CrystalAward MonsterID="4000006" Name="Tinh Thể Tâm Linh·Tiểu" GatherTime="5" ExpAward="5760" XingHunAward="1000" BindZuanShiAward="" BindJinBiAward="25000" MoJingAward="" />
+  <CrystalAward MonsterID="4000007" Name="Tinh Thể Tâm Linh·Trung" GatherTime="10" ExpAward="11520" XingHunAward="2000" BindZuanShiAward="" BindJinBiAward="50000" MoJingAward="" />
+  <CrystalAward MonsterID="4000008" Name="Tinh Thể Tâm Linh·Đại" GatherTime="15" ExpAward="23040" XingHunAward="4000" BindZuanShiAward="" BindJinBiAward="100000" MoJingAward="" />
+  <CrystalAward MonsterID="4000009" Name="Tinh Thể Cực Đại" GatherTime="30" ExpAward="46080" XingHunAward="4000" BindZuanShiAward="40" BindJinBiAward="100000" MoJingAward="10000" />
+</Config>"

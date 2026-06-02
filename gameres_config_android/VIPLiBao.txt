@@ -1,0 +1,9 @@
+TextAsset Base
+	string m_Name = "VIPLiBao"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="22" />
+  <GiftList Title="Tri Ân VIP" Description="Trong thời gian event, chỉ cần bạn là VIP sẽ nhận thưởng lớn. Hấp dẫn lớn, không thể bỏ qua!">
+  <Award GoodsIDs="110020,1,0,0,1,0|35004,1,0,0,1,0|31025,1,0,0,1,0|31020,1,0,0,1,0|30061,1,0,0,1,0" />
+  </GiftList>
+</Config>"

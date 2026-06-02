@@ -1,0 +1,9 @@
+TextAsset Base
+	string m_Name = "JieRiLiBao"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="9" FromDate="2022-11-01 00:00:00" ToDate="2022-11-07 23:59:59" AwardStartDate="2022-11-01 00:00:00" AwardEndDate="2022-11-07 23:59:59" />
+  <GiftList Description="Kỷ Niệm 7 năm Vui Vẻ">
+    <Award GoodsOne="23001,10,1,0,0,0,0|23004,10,1,0,0,0,0|23007,10,1,0,0,0,0|1035378,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+  </GiftList>
+</Config>"

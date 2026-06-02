@@ -1,0 +1,6 @@
+TextAsset Base
+	string m_Name = "StarWeapon"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <StarWeapon ID="1" Name="Thiên Tinh Giáp" Model="TianXing.unity3d" StarWeaponType="1" StarNum="6" StarPos="12,12|15,15|25,25|50,50|100,100|200,200" />
+</Config>"

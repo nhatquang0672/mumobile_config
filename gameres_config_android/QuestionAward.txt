@@ -1,0 +1,14 @@
+TextAsset Base
+	string m_Name = "QuestionAward"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <QuestionAward ID="1" Name="Quà hạng 1" BeginNum="1" EngNum="1" GoodsOne="50153,40,1,0,0,0,0|63064,8,1,0,0,0,0|5120,40,1,0,0,0,0|5171,40,1,0,0,0,0" MinScore="5" />
+  <QuestionAward ID="2" Name="Quà hạng 2" BeginNum="2" EngNum="2" GoodsOne="50153,30,1,0,0,0,0|63064,6,1,0,0,0,0|5120,30,1,0,0,0,0|5171,30,1,0,0,0,0" MinScore="5" />
+  <QuestionAward ID="3" Name="Quà hạng 3" BeginNum="3" EngNum="3" GoodsOne="50153,25,1,0,0,0,0|63064,4,1,0,0,0,0|5120,25,1,0,0,0,0|5171,25,1,0,0,0,0" MinScore="5" />
+  <QuestionAward ID="4" Name="Quà hạng 4-5" BeginNum="4" EngNum="5" GoodsOne="50153,20,1,0,0,0,0|63064,3,1,0,0,0,0|5120,20,1,0,0,0,0|5171,20,1,0,0,0,0" MinScore="5" />
+  <QuestionAward ID="5" Name="Quà hạng 6-10" BeginNum="6" EngNum="10" GoodsOne="50153,16,1,0,0,0,0|63064,3,1,0,0,0,0|5120,16,1,0,0,0,0|5171,16,1,0,0,0,0" MinScore="5" />
+  <QuestionAward ID="6" Name="Quà hạng 11-20" BeginNum="11" EngNum="20" GoodsOne="50153,12,1,0,0,0,0|63064,2,1,0,0,0,0|5120,12,1,0,0,0,0|5171,12,1,0,0,0,0" MinScore="5" />
+  <QuestionAward ID="7" Name="Quà hạng 21-50" BeginNum="21" EngNum="50" GoodsOne="50153,10,1,0,0,0,0|63064,2,1,0,0,0,0|5120,10,1,0,0,0,0|5171,10,1,0,0,0,0" MinScore="5" />
+  <QuestionAward ID="8" Name="Quà hạng 51-100" BeginNum="51" EngNum="100" GoodsOne="50153,8,1,0,0,0,0|63064,2,1,0,0,0,0|5120,8,1,0,0,0,0|5171,8,1,0,0,0,0" MinScore="5" />
+  <QuestionAward ID="9" Name="Quà hạng 100 trở xuống" BeginNum="101" EngNum="-1" GoodsOne="50153,6,1,0,0,0,0|63064,1,1,0,0,0,0|5120,6,1,0,0,0,0|5171,6,1,0,0,0,0" MinScore="5" />
+</Config>"

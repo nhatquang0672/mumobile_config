@@ -1,0 +1,10 @@
+TextAsset Base
+	string m_Name = "XingBeiEvent"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <XingBeiEvent ID="1" EventType="1" EventShowPic="" EventPic="Tên ảnh 01" EventTitle="Tổng kết xếp hạng" EventDec="{dac7ae}wwwwwwwwwwwwwwwwwwwwww{fac60d}sssssss{fac60d}" IsGoing="Chuyển id" />
+  <XingBeiEvent ID="2" EventType="1" EventShowPic="" EventPic="Tên ảnh 02" EventTitle="Làm mới lên kệ" EventDec="{dac7ae}Cửa hàng đã cập nhật" IsGoing="Chuyển id" />
+  <XingBeiEvent ID="3" EventType="1" EventShowPic="" EventPic="Tên ảnh 03" EventTitle="PB Tinh Bi" EventDec="{dac7ae}PB đã mở rồi" IsGoing="-1" />
+  <XingBeiEvent ID="4" EventType="2" EventShowPic="1.png" EventPic="Tên ảnh 04" EventTitle="Đổi Hạn Giờ" EventDec="{dac7ae}Đổi gkd" IsGoing="Chuyển id" />
+  <XingBeiEvent ID="5" EventType="2" EventShowPic="2.png" EventPic="Tên ảnh 05" EventTitle="Làm mới đổi" EventDec="{dac7ae}Đổi đã cập nhật rồi" IsGoing="Chuyển id" />
+</config>"

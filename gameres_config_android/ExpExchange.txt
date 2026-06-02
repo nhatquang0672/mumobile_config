@@ -1,0 +1,7 @@
+TextAsset Base
+	string m_Name = "ExpExchange"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ExpExchange GoodsID="2131" WakeExp="10" />
+  <ExpExchange GoodsID="2132" WakeExp="20" />
+</Config>"

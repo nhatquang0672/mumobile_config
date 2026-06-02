@@ -1,0 +1,14 @@
+TextAsset Base
+	string m_Name = "CrusadeGroup"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <CrusadeGroup ID="10001" GroupID="1" ServerNumber="1" ZoneNumber="1,22|25|50|55|59,65|183|185,186|188,189|192" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10002" GroupID="1" ServerNumber="23" ZoneNumber="23,24|26,39|42|49|51,54|56,58|68,69|73|102|107|109,110|115,116|118|121,122|124,125|135" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10003" GroupID="1" ServerNumber="40" ZoneNumber="40,41|43,48|66,67|70,72|74,101|103,106|108" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10004" GroupID="1" ServerNumber="111" ZoneNumber="111,114|117|119,120|123|126,130|136,137|142|155,160|169,172|176,182|187|193" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10005" GroupID="1" ServerNumber="131" ZoneNumber="131,134|138,141|143,154|161,168|173,175|184" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10006" GroupID="1" ServerNumber="190" ZoneNumber="190,191|194,219|220,224" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="10007" GroupID="1" ServerNumber="225" ZoneNumber="225,228" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="20001" GroupID="2" ServerNumber="951" ZoneNumber="951" PingTai="APP" OpenTime="2016-01-01" />
+  <CrusadeGroup ID="20002" GroupID="2" ServerNumber="953" ZoneNumber="953" PingTai="APP" OpenTime="2016-01-01" />
+</Config>"

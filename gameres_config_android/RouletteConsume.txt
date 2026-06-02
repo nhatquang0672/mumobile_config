@@ -1,0 +1,12 @@
+TextAsset Base
+	string m_Name = "RouletteConsume"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <RouletteConsume ID="1" Stars="0" Consume="6" GoodsID="39003" />
+  <RouletteConsume ID="2" Stars="1" Consume="9" GoodsID="39003" />
+  <RouletteConsume ID="3" Stars="2" Consume="18" GoodsID="39003" />
+  <RouletteConsume ID="4" Stars="3" Consume="50" GoodsID="39003" />
+  <RouletteConsume ID="5" Stars="4" Consume="150" GoodsID="39003" />
+  <RouletteConsume ID="6" Stars="5" Consume="500" GoodsID="39003" />
+  <RouletteConsume ID="7" Stars="6" Consume="900" GoodsID="39003" />
+</Config>"

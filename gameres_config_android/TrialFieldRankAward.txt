@@ -1,0 +1,20 @@
+TextAsset Base
+	string m_Name = "TrialFieldRankAward"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <TrialFieldRankAward ID="1" StarRank="1" EndRank="1" Award="64024,20000,1,0,0,0,0|50400,30,1,0,0,0,0|711579,1,1,0,0,0,0" ScoreGet="1000" />
+  <TrialFieldRankAward ID="2" StarRank="2" EndRank="2" Award="64024,18000,1,0,0,0,0|50400,28,1,0,0,0,0" ScoreGet="900" />
+  <TrialFieldRankAward ID="3" StarRank="3" EndRank="3" Award="64024,17000,1,0,0,0,0|50400,27,1,0,0,0,0" ScoreGet="800" />
+  <TrialFieldRankAward ID="4" StarRank="4" EndRank="4" Award="64024,16000,1,0,0,0,0|50400,26,1,0,0,0,0" ScoreGet="700" />
+  <TrialFieldRankAward ID="5" StarRank="5" EndRank="5" Award="64024,14000,1,0,0,0,0|50400,25,1,0,0,0,0" ScoreGet="600" />
+  <TrialFieldRankAward ID="6" StarRank="6" EndRank="6" Award="64024,13000,1,0,0,0,0|50400,24,1,0,0,0,0" ScoreGet="500" />
+  <TrialFieldRankAward ID="7" StarRank="7" EndRank="7" Award="64024,12000,1,0,0,0,0|50400,23,1,0,0,0,0" ScoreGet="450" />
+  <TrialFieldRankAward ID="8" StarRank="8" EndRank="8" Award="64024,11000,1,0,0,0,0|50400,22,1,0,0,0,0" ScoreGet="400" />
+  <TrialFieldRankAward ID="9" StarRank="9" EndRank="9" Award="64024,10000,1,0,0,0,0|50400,20,1,0,0,0,0" ScoreGet="350" />
+  <TrialFieldRankAward ID="10" StarRank="10" EndRank="10" Award="64024,8000,1,0,0,0,0|50400,18,1,0,0,0,0" ScoreGet="300" />
+  <TrialFieldRankAward ID="11" StarRank="11" EndRank="20" Award="64024,6000,1,0,0,0,0|50400,15,1,0,0,0,0" ScoreGet="250" />
+  <TrialFieldRankAward ID="12" StarRank="21" EndRank="50" Award="64024,5000,1,0,0,0,0|50400,10,1,0,0,0,0" ScoreGet="200" />
+  <TrialFieldRankAward ID="13" StarRank="51" EndRank="100" Award="64024,4000,1,0,0,0,0|50400,8,1,0,0,0,0" ScoreGet="150" />
+  <TrialFieldRankAward ID="14" StarRank="101" EndRank="200" Award="64024,2000,1,0,0,0,0|50400,5,1,0,0,0,0" ScoreGet="100" />
+  <TrialFieldRankAward ID="15" StarRank="201" EndRank="-1" Award="64024,1000,1,0,0,0,0|50400,2,1,0,0,0,0" ScoreGet="50" />
+</Config>"

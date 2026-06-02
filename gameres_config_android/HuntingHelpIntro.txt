@@ -1,0 +1,14 @@
+TextAsset Base
+	string m_Name = "HuntingHelpIntro"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Săn Bắt Đào Vong" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Do đội trưởng Chiến Đội báo danh, đội trưởng phải đạt Tái Sinh lv{17e43e}3{-}, và Chiến Đội có ít nhất {17e43e}1{-} thành viên Tái Sinh Lv{17e43e}2{-} mới có thể báo danh tham gia hoạt động{dac7ae}." Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, Hoạt động mở vào {17e43e}21:30-22:00{-} thứ 3, thứ 6 hằng tuần{dac7ae}." Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, Khi hoạt động mở, cá nhân tích lũy thắng 10 trận sẽ được thưởng trang sức{dac7ae}." Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, Mỗi trận thắng có thể tăng Điểm Chiến Đội, thua sẽ bị trừ Điểm Chiến Đội{dac7ae}." Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5, Khi vòng đấu kết thúc, căn cứ theo Điểm Chiến Đội để xếp hạng nhận thưởng xếp hạng Chiến Đội và thưởng đánh giá Chiến Đội{dac7ae}." Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae}6, Kết thúc CD vào chiến trường, sẽ xuất hiện 1 con mồi, sau khi tiêu diệt con mồi, người diệt sẽ trở thành con mồi và bỏ chạy, các thành viên Chiến Đội sẽ bảo vệ người đó, thành viên trở thành con mồi sống sót sau {17e43e}40{-}s, thì Chiến Đội giành chiến thắng{dac7ae}." Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae}7, Khi trận chiến kết thúc, nếu không có thành viên nào trở thành con mồi và sống sót 40 giây, thì toàn đội khiêu chiến thất bại{dac7ae}." Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae}8, Khi thành viên trở thành con mồi bị Chiến Đội khác tiêu diệt thì có thể hồi sinh, người diệt trở thành con mồi mới, thời gian sống sót sẽ được làm mới{dac7ae}." Bold="0" />
+</Config>"

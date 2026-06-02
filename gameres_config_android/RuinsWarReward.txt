@@ -1,0 +1,16 @@
+TextAsset Base
+	string m_Name = "RuinsWarReward"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <RuinsWarReward ID="1" RankingHigh="1" RankingLow="1" Reward="8302,250,1,0,0,0,0|50014,50,1,0,0,0,0" />
+  <RuinsWarReward ID="2" RankingHigh="2" RankingLow="2" Reward="8302,200,1,0,0,0,0|50014,40,1,0,0,0,0" />
+  <RuinsWarReward ID="3" RankingHigh="3" RankingLow="3" Reward="8302,180,1,0,0,0,0|50014,36,1,0,0,0,0" />
+  <RuinsWarReward ID="4" RankingHigh="4" RankingLow="4" Reward="8302,160,1,0,0,0,0|50014,32,1,0,0,0,0" />
+  <RuinsWarReward ID="5" RankingHigh="5" RankingLow="12" Reward="8302,140,1,0,0,0,0|50014,28,1,0,0,0,0" />
+  <RuinsWarReward ID="6" RankingHigh="13" RankingLow="36" Reward="8302,120,1,0,0,0,0|50014,24,1,0,0,0,0" />
+  <RuinsWarReward ID="7" RankingHigh="37" RankingLow="72" Reward="8302,90,1,0,0,0,0|50014,18,1,0,0,0,0" />
+  <RuinsWarReward ID="8" RankingHigh="73" RankingLow="108" Reward="8302,80,1,0,0,0,0|50014,16,1,0,0,0,0" />
+  <RuinsWarReward ID="9" RankingHigh="109" RankingLow="216" Reward="8302,70,1,0,0,0,0|50014,14,1,0,0,0,0" />
+  <RuinsWarReward ID="10" RankingHigh="217" RankingLow="520" Reward="8302,60,1,0,0,0,0|50014,12,1,0,0,0,0" />
+  <RuinsWarReward ID="11" RankingHigh="521" RankingLow="-1" Reward="8302,50,1,0,0,0,0|50014,10,1,0,0,0,0" />
+</Config>"

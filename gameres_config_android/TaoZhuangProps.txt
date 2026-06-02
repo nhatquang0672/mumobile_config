@@ -1,0 +1,526 @@
+TextAsset Base
+	string m_Name = "TaoZhuangProps"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <TaoZhuang ID="1100" Name="Sức Mạnh Moussa" GoodsID="1000111,1000011,1000211,1000311,1000411" Multi="0" TaoZhuangProps="2,Mdefense,4800-6000|3,Attack,4800-6000|4,MaxLifeV,12000|5,Defense,4800-6000" />
+  <TaoZhuang ID="1200" Name="Trí Tuệ Farah " GoodsID="1010111,1010011,1010211,1010311,1010411" Multi="0" TaoZhuangProps="2,Mdefense,4800-6000|3,Mattack,4800-6000|4,MaxLifeV,12000|5,Defense,4800-6000" />
+  <TaoZhuang ID="1300" Name="Nhạy Bén Asda " GoodsID="1020111,1020011,1020211,1020311,1020411" Multi="0" TaoZhuangProps="2,Mdefense,4800-6000|3,Attack,4800-6000|4,MaxLifeV,12000|5,Defense,4800-6000" />
+  <TaoZhuang ID="1400" Name="Sức mạnh Kevin" GoodsID="1030011,1030111,1030211,1030311,1030411" Multi="0" TaoZhuangProps="2,Mdefense,4800-6000|3,Attack,4800-6000|4,MaxLifeV,12000|5,Defense,4800-6000" />
+  <TaoZhuang ID="1500" Name="Trí tuệ Kevin" GoodsID="1040011,1040111,1040211,1040311,1040411" Multi="0" TaoZhuangProps="2,Mdefense,4800-6000|3,Mattack,4800-6000|4,MaxLifeV,12000|5,Defense,4800-6000" />
+  <TaoZhuang ID="1600" Name="Trí tuệ của Karoon" GoodsID="1050011,1050111,1050211,1050311,1050411" Multi="0" TaoZhuangProps="2,Mdefense,4800-6000|3,Mattack,4800-6000|4,MaxLifeV,12000|5,Defense,4800-6000" />
+  <TaoZhuang ID="1700" Name="Trí tuệ của Dany" GoodsID="1060011,1060111,1060211,1060311,1060411" Multi="0" TaoZhuangProps="2,Mdefense,4800-6000|3,Mattack,4800-6000|4,MaxLifeV,12000|5,Defense,4800-6000" />
+  <TaoZhuang ID="1800" Name="Sự kiên trì của Kuya" GoodsID="1070011,1070111,1070211,1070311,1070411" Multi="0" TaoZhuangProps="2,Mdefense,4800-6000|3,Attack,4800-6000|4,MaxLifeV,12000|5,Defense,4800-6000" />
+  <TaoZhuang ID="2100" Name="Nhiệt Tình Laya" GoodsID="1000611,1000511" Multi="1" TaoZhuangProps="2,LifeSteal,90|2,MaxLifeV,12000|3,AddAttack,3000" />
+  <TaoZhuang ID="2200" Name="Nhiệt Tình Laya" GoodsID="1010611,1010511" Multi="1" TaoZhuangProps="2,LifeSteal,90|2,MaxLifeV,12000|3,AddAttack,3000" />
+  <TaoZhuang ID="2300" Name="Nhiệt Tình Laya" GoodsID="1020611,1020511" Multi="1" TaoZhuangProps="2,LifeSteal,90|2,MaxLifeV,12000|3,AddAttack,3000" />
+  <TaoZhuang ID="2400" Name="Nhiệt Tình Laya" GoodsID="1030611,1030511" Multi="1" TaoZhuangProps="2,LifeSteal,90|2,MaxLifeV,12000|3,AddAttack,3000" />
+  <TaoZhuang ID="2500" Name="Nhiệt Tình Laya" GoodsID="1040611,1040511" Multi="1" TaoZhuangProps="2,LifeSteal,90|2,MaxLifeV,12000|3,AddAttack,3000" />
+  <TaoZhuang ID="2600" Name="Nhiệt tình của Laya" GoodsID="1050611,1050511" Multi="1" TaoZhuangProps="2,LifeSteal,90|2,MaxLifeV,12000|3,AddAttack,3000" />
+  <TaoZhuang ID="2700" Name="Nhiệt tình của Laiya" GoodsID="1060611,1060511" Multi="1" TaoZhuangProps="2,LifeSteal,90|2,MaxLifeV,12000|3,AddAttack,3000" />
+  <TaoZhuang ID="2800" Name="Niềm đam mê của Laiya" GoodsID="1070611,1070511" Multi="1" TaoZhuangProps="2,LifeSteal,90|2,MaxLifeV,12000|3,AddAttack,3000" />
+  <TaoZhuang ID="1101" Name="Chiến Linh Vẫy Gọi" GoodsID="1000112,1000012,1000212,1000312,1000412" Multi="0" TaoZhuangProps="2,MaxLifeV,18000|3,Defense,7200-9000|4,Mdefense,7200-9000|5,Attack,7200-9000" />
+  <TaoZhuang ID="1201" Name="Thủ Vệ Màn Đêm" GoodsID="1010112,1010012,1010212,1010312,1010412" Multi="0" TaoZhuangProps="2,MaxLifeV,18000|3,Defense,7200-9000|4,Mdefense,7200-9000|5,Mattack,7200-9000" />
+  <TaoZhuang ID="1301" Name="Giấc mơ của Angela" GoodsID="1020112,1020012,1020212,1020312,1020412" Multi="0" TaoZhuangProps="2,MaxLifeV,18000|3,Defense,7200-9000|4,Mdefense,7200-9000|5,Attack,7200-9000" />
+  <TaoZhuang ID="1401" Name="Sức Mạnh Passy" GoodsID="1030012,1030112,1030212,1030312,1030412" Multi="0" TaoZhuangProps="2,MaxLifeV,18000|3,Defense,7200-9000|4,Mdefense,7200-9000|5,Attack,7200-9000" />
+  <TaoZhuang ID="1501" Name="Ma Lực Passy" GoodsID="1040012,1040112,1040212,1040312,1040412" Multi="0" TaoZhuangProps="2,MaxLifeV,18000|3,Defense,7200-9000|4,Mdefense,7200-9000|5,Mattack,7200-9000" />
+  <TaoZhuang ID="1601" Name="Mộng cảnh của Anna" GoodsID="1050012,1050112,1050212,1050312,1050412" Multi="0" TaoZhuangProps="2,MaxLifeV,18000|3,Defense,7200-9000|4,Mdefense,7200-9000|5,Mattack,7200-9000" />
+  <TaoZhuang ID="1701" Name="Giấc mơ của Irina " GoodsID="1060012,1060112,1060212,1060312,1060412" Multi="0" TaoZhuangProps="2,MaxLifeV,18000|3,Defense,7200-9000|4,Mdefense,7200-9000|5,Mattack,7200-9000" />
+  <TaoZhuang ID="1801" Name="Ký ức của Milton" GoodsID="1070012,1070112,1070212,1070312,1070412" Multi="0" TaoZhuangProps="2,MaxLifeV,18000|3,Defense,7200-9000|4,Mdefense,7200-9000|5,Attack,7200-9000" />
+  <TaoZhuang ID="2101" Name="Hiến Dâng Chư Thần" GoodsID="1000612,1000512" Multi="1" TaoZhuangProps="2,AddAttack,4500|2,MaxLifeV,18000|3,LifeSteal,135" />
+  <TaoZhuang ID="2201" Name="Hiến Dâng Chư Thần" GoodsID="1010612,1010512" Multi="1" TaoZhuangProps="2,AddAttack,4500|2,MaxLifeV,18000|3,LifeSteal,135" />
+  <TaoZhuang ID="2301" Name="Hiến Dâng Chư Thần" GoodsID="1020612,1020512" Multi="1" TaoZhuangProps="2,AddAttack,4500|2,MaxLifeV,18000|3,LifeSteal,135" />
+  <TaoZhuang ID="2401" Name="Hiến Dâng Chư Thần" GoodsID="1030612,1030512" Multi="1" TaoZhuangProps="2,AddAttack,4500|2,MaxLifeV,18000|3,LifeSteal,135" />
+  <TaoZhuang ID="2501" Name="Hiến Dâng Chư Thần" GoodsID="1040612,1040512" Multi="1" TaoZhuangProps="2,AddAttack,4500|2,MaxLifeV,18000|3,LifeSteal,135" />
+  <TaoZhuang ID="2601" Name="Cống hiến của Chư Thần" GoodsID="1050612,1050512" Multi="1" TaoZhuangProps="2,AddAttack,4500|2,MaxLifeV,18000|3,LifeSteal,135" />
+  <TaoZhuang ID="2701" Name="Hiến tế chư thần" GoodsID="1060612,1060512" Multi="1" TaoZhuangProps="2,AddAttack,4500|2,MaxLifeV,18000|3,LifeSteal,135" />
+  <TaoZhuang ID="2801" Name="Cống hiến của Chư Thần" GoodsID="1070612,1070512" Multi="1" TaoZhuangProps="2,AddAttack,4500|2,MaxLifeV,18000|3,LifeSteal,135" />
+  <TaoZhuang ID="1102" Name="Caesar Phản Kích" GoodsID="1000113,1000013,1000213,1000313,1000413" Multi="0" TaoZhuangProps="2,Mdefense,9600-12000|3,Attack,9600-12000|4,MaxLifeV,24000|5,Defense,9600-12000" />
+  <TaoZhuang ID="1202" Name="Lửa Howard" GoodsID="1010113,1010013,1010213,1010313,1010413" Multi="0" TaoZhuangProps="2,Mdefense,9600-12000|3,Mattack,9600-12000|4,MaxLifeV,24000|5,Defense,9600-12000" />
+  <TaoZhuang ID="1302" Name="Sino Thủ Hộ" GoodsID="1020113,1020013,1020213,1020313,1020413" Multi="0" TaoZhuangProps="2,Mdefense,9600-12000|3,Attack,9600-12000|4,MaxLifeV,24000|5,Defense,9600-12000" />
+  <TaoZhuang ID="1402" Name="Abel Hoang Dã" GoodsID="1030013,1030113,1030213,1030313,1030413" Multi="0" TaoZhuangProps="2,Mdefense,9600-12000|3,Attack,9600-12000|4,MaxLifeV,24000|5,Defense,9600-12000" />
+  <TaoZhuang ID="1502" Name="Aaron Túc Trí" GoodsID="1040013,1040113,1040213,1040313,1040413" Multi="0" TaoZhuangProps="2,Mdefense,9600-12000|3,Mattack,9600-12000|4,MaxLifeV,24000|5,Defense,9600-12000" />
+  <TaoZhuang ID="1602" Name="Dema Triệu Hồi" GoodsID="1050013,1050113,1050213,1050313,1050413" Multi="0" TaoZhuangProps="2,Mdefense,9600-12000|3,Mattack,9600-12000|4,MaxLifeV,24000|5,Defense,9600-12000" />
+  <TaoZhuang ID="1702" Name="Trí tuệ của Denise" GoodsID="1060013,1060113,1060213,1060313,1060413" Multi="0" TaoZhuangProps="2,Mdefense,9600-12000|3,Mattack,9600-12000|4,MaxLifeV,24000|5,Defense,9600-12000" />
+  <TaoZhuang ID="1802" Name="Sự kiên trì của Oles" GoodsID="1070013,1070113,1070213,1070313,1070413" Multi="0" TaoZhuangProps="2,Mdefense,9600-12000|3,Attack,9600-12000|4,MaxLifeV,24000|5,Defense,9600-12000" />
+
+  <TaoZhuang ID="2702" Name="Chúc Phúc Tinh Linh" GoodsID="1060613,1060513" Multi="1" TaoZhuangProps="2,LifeSteal,270|2,MaxLifeV,24000|3,AddAttack,6000" />
+  <TaoZhuang ID="2802" Name="Lời chúc phúc của Tinh Linh" GoodsID="1070613,1070513" Multi="1" TaoZhuangProps="2,LifeSteal,270|2,MaxLifeV,24000|3,AddAttack,6000" />
+  <!--  <TaoZhuang ID="3300" Name="Thủ Hộ Hủy Diệt" GoodsID="980007,980107,980207" Multi="0" TaoZhuangProps="2,MaxLifeV,30000|2,Defense,12000-15000|2,Mdefense,12000-15000|3,AddAttack,13500|3,MaxLifePercent,0.08" />
+  <TaoZhuang ID="3400" Name="Phá Hoại Hủy Diệt" GoodsID="980307,980407,980507" Multi="0" TaoZhuangProps="2,AddAttack,13500|2,MaxLifeV,30000|3,ElementInjurePercent,0.04|3,AddAttackInjurePercent,0.04" />
+  <TaoZhuang ID="3500" Name="Thủ Hộ Thiên Nộ" GoodsID="980008,980108,980208" Multi="0" TaoZhuangProps="2,MaxLifeV,36000|2,Defense,14400-18000|2,Mdefense,14400-18000|3,AddAttack,16200|3,MaxLifePercent,0.08" />
+  <TaoZhuang ID="3600" Name="Phá Hoại Thiên Nộ" GoodsID="980308,980408,980508" Multi="0" TaoZhuangProps="2,AddAttack,16200|2,MaxLifeV,36000|3,ElementInjurePercent,0.04|3,AddAttackInjurePercent,0.04" />
+  <TaoZhuang ID="4300" Name="Thủ Hộ Hủy Diệt" GoodsID="3100008,3100108,3100208" Multi="0" TaoZhuangProps="2,MaxLifeV,36000|2,Defense,14400-18000|2,Mdefense,14400-18000|3,AddAttack,16200|3,MaxLifePercent,0.08" />
+  <TaoZhuang ID="4400" Name="Phá Hoại Hủy Diệt" GoodsID="3100308,3100408,3100508" Multi="0" TaoZhuangProps="2,AddAttack,16200|2,MaxLifeV,36000|3,ElementInjurePercent,0.04|3,AddAttackInjurePercent,0.04" />-->
+  <TaoZhuang ID="1103" Name="Cầu nguyện của Zemalia " GoodsID="1000114,1000014,1000214,1000314,1000414" Multi="0" TaoZhuangProps="2,MaxLifeV,36000|3,Defense,14400-18000|4,Mdefense,14400-18000|5,Attack,14400-18000" />
+  <TaoZhuang ID="1203" Name="Nộ của Sandra" GoodsID="1010114,1010014,1010214,1010314,1010414" Multi="0" TaoZhuangProps="2,MaxLifeV,36000|3,Defense,14400-18000|4,Mdefense,14400-18000|5,Mattack,14400-18000" />
+  <TaoZhuang ID="1303" Name="Phản kích của Dipa " GoodsID="1020114,1020014,1020214,1020314,1020414" Multi="0" TaoZhuangProps="2,MaxLifeV,36000|3,Defense,14400-18000|4,Mdefense,14400-18000|5,Attack,14400-18000" />
+  <TaoZhuang ID="1403" Name="Cuồng nhiệt của Zemalia " GoodsID="1030014,1030114,1030214,1030314,1030414" Multi="0" TaoZhuangProps="2,MaxLifeV,36000|3,Defense,14400-18000|4,Mdefense,14400-18000|5,Attack,14400-18000" />
+  <TaoZhuang ID="1503" Name="Trầm mặc của Zemalia " GoodsID="1040014,1040114,1040214,1040314,1040414" Multi="0" TaoZhuangProps="2,MaxLifeV,36000|3,Defense,14400-18000|4,Mdefense,14400-18000|5,Mattack,14400-18000" />
+  <TaoZhuang ID="1603" Name="Thủ hộ của Lambourne " GoodsID="1050014,1050114,1050214,1050314,1050414" Multi="0" TaoZhuangProps="2,MaxLifeV,36000|3,Defense,14400-18000|4,Mdefense,14400-18000|5,Mattack,14400-18000" />
+
+
+  <!--
+  <TaoZhuang ID="1104" Name="Lời nguyền của Canon " GoodsID="1000115,1000015,1000215,1000315,1000415" Multi="0" TaoZhuangProps="2,Mdefense,19200-24000|3,Attack,19200-24000|4,MaxLifeV,48000|5,Defense,19200-24000" />
+  <TaoZhuang ID="1204" Name="Kiên thủ của kẻ săn bắt" GoodsID="1010115,1010015,1010215,1010315,1010415" Multi="0" TaoZhuangProps="2,Mdefense,19200-24000|3,Mattack,19200-24000|4,MaxLifeV,48000|5,Defense,19200-24000" />
+  <TaoZhuang ID="1304" Name="Thủ hộ của kẻ kinh ngữ" GoodsID="1020115,1020015,1020215,1020315,1020415" Multi="0" TaoZhuangProps="2,Mdefense,19200-24000|3,Attack,19200-24000|4,MaxLifeV,48000|5,Defense,19200-24000" />
+  <TaoZhuang ID="1404" Name="Tiếng rống của Rexia" GoodsID="1030015,1030115,1030215,1030315,1030415" Multi="0" TaoZhuangProps="2,Mdefense,19200-24000|3,Attack,19200-24000|4,MaxLifeV,48000|5,Defense,19200-24000" />
+  <TaoZhuang ID="1504" Name="Cầu nguyện của Rexia" GoodsID="1040015,1040115,1040215,1040315,1040415" Multi="0" TaoZhuangProps="2,Mdefense,19200-24000|3,Mattack,19200-24000|4,MaxLifeV,48000|5,Defense,19200-24000" />
+  <TaoZhuang ID="1604" Name="Cố chấp của Shafei" GoodsID="1050015,1050115,1050215,1050315,1050415" Multi="0" TaoZhuangProps="2,Mdefense,19200-24000|3,Mattack,19200-24000|4,MaxLifeV,48000|5,Defense,19200-24000" />
+  <TaoZhuang ID="1704" Name="Trí tuệ của Lucky " GoodsID="1060015,1060115,1060215,1060315,1060415" Multi="0" TaoZhuangProps="2,Mdefense,19200-24000|3,Mattack,19200-24000|4,MaxLifeV,48000|5,Defense,19200-24000" />
+  <TaoZhuang ID="1804" Name="Phước lành của Loren" GoodsID="1070015,1070115,1070215,1070315,1070415" Multi="0" TaoZhuangProps="2,Mdefense,19200-24000|3,Attack,19200-24000|4,MaxLifeV,48000|5,Defense,19200-24000" />-->
+
+
+  <TaoZhuang ID="3102" Name="Chúc Phúc Tinh Linh" GoodsID="1000613,1000513" Multi="1" TaoZhuangProps="2,LifeSteal,250|2,MaxLifeV,25000|3,AddAttack,6000" />
+  <TaoZhuang ID="3202" Name="Chúc Phúc Tinh Linh" GoodsID="1010613,1010513" Multi="1" TaoZhuangProps="2,LifeSteal,250|2,MaxLifeV,25000|3,AddAttack,6000" />
+  <TaoZhuang ID="3302" Name="Chúc Phúc Tinh Linh" GoodsID="1020613,1020513" Multi="1" TaoZhuangProps="2,LifeSteal,250|2,MaxLifeV,25000|3,AddAttack,6000" />
+  <TaoZhuang ID="3402" Name="Chúc Phúc Tinh Linh" GoodsID="1030613,1030513" Multi="1" TaoZhuangProps="2,LifeSteal,250|2,MaxLifeV,25000|3,AddAttack,6000" />
+  <TaoZhuang ID="3502" Name="Chúc Phúc Tinh Linh" GoodsID="1040613,1040513" Multi="1" TaoZhuangProps="2,LifeSteal,250|2,MaxLifeV,25000|3,AddAttack,6000" />
+  <TaoZhuang ID="3602" Name="Chúc Phúc Tinh Linh" GoodsID="1050613,1050513" Multi="1" TaoZhuangProps="2,LifeSteal,250|2,MaxLifeV,25000|3,AddAttack,6000" />
+  
+  <!--nhan day chuyen 14-->
+  <TaoZhuang ID="3103" Name="Lời nguyền của Canon" GoodsID="1000514,1000614" Multi="1" TaoZhuangProps="2,LifeSteal,500|2,MaxLifeV,50000|3,AddAttack,15000" />
+  <TaoZhuang ID="3203" Name="Lời nguyền của Canon" GoodsID="1010514,1010614" Multi="1" TaoZhuangProps="2,LifeSteal,500|2,MaxLifeV,50000|3,AddAttack,15000" />
+  <TaoZhuang ID="3303" Name="Lời nguyền của Canon" GoodsID="1020514,1020614" Multi="1" TaoZhuangProps="2,LifeSteal,500|2,MaxLifeV,50000|3,AddAttack,15000" />
+  <TaoZhuang ID="3403" Name="Lời nguyền của Canon" GoodsID="1030514,1030614" Multi="1" TaoZhuangProps="2,LifeSteal,500|2,MaxLifeV,50000|3,AddAttack,15000" />
+  <TaoZhuang ID="3503" Name="Lời nguyền của Canon" GoodsID="1040514,1040614" Multi="1" TaoZhuangProps="2,LifeSteal,500|2,MaxLifeV,50000|3,AddAttack,15000" />
+  <TaoZhuang ID="3603" Name="Lời nguyền của Canon" GoodsID="1050514,1050614" Multi="1" TaoZhuangProps="2,LifeSteal,500|2,MaxLifeV,50000|3,AddAttack,15000" />
+  <TaoZhuang ID="3703" Name="Lời nguyền của Canon" GoodsID="1060614,1060514" Multi="1" TaoZhuangProps="2,LifeSteal,500|2,MaxLifeV,50000|3,AddAttack,15000" />
+  <TaoZhuang ID="3803" Name="Lời nguyền của Canon" GoodsID="1070614,1070514" Multi="1" TaoZhuangProps="2,LifeSteal,500|2,MaxLifeV,50000|3,AddAttack,15000" />
+  <!--nhan day chuyen 14-->  
+<!--  
+  <TaoZhuang ID="3703" Name="Cầu nguyện của Nữ thần sinh mệnh" GoodsID="1060614,1060514" Multi="1" TaoZhuangProps="2,AddAttack,15000|2,MaxLifeV,50000|3,LifeSteal,500" />
+  <TaoZhuang ID="3803" Name="Lời cầu nguyện của nữ thần sự sống" GoodsID="1070614,1070514" Multi="1" TaoZhuangProps="2,AddAttack,15000|2,MaxLifeV,50000|3,LifeSteal,500" />-->
+
+  
+  <!--nhan day chuyen 15-->
+  <TaoZhuang ID="3104" Name="Lời khẩn cầu của kẻ thù" GoodsID="1000515,1000615" Multi="1" TaoZhuangProps="2,LifeSteal,750|2,MaxLifeV,75000|3,AddAttack,30000" />
+  <TaoZhuang ID="3204" Name="Lời khẩn cầu của kẻ thù" GoodsID="1010515,1010615" Multi="1" TaoZhuangProps="2,LifeSteal,750|2,MaxLifeV,75000|3,AddAttack,30000" />
+  <TaoZhuang ID="3304" Name="Lời khẩn cầu của kẻ thù" GoodsID="1020515,1020615" Multi="1" TaoZhuangProps="2,LifeSteal,750|2,MaxLifeV,75000|3,AddAttack,30000" />
+  <TaoZhuang ID="3404" Name="Lời khẩn cầu của kẻ thù" GoodsID="1030515,1030615" Multi="1" TaoZhuangProps="2,LifeSteal,750|2,MaxLifeV,75000|3,AddAttack,30000" />
+  <TaoZhuang ID="3504" Name="Lời khẩn cầu của kẻ thù" GoodsID="1040515,1040615" Multi="1" TaoZhuangProps="2,LifeSteal,750|2,MaxLifeV,75000|3,AddAttack,30000" />
+  <TaoZhuang ID="3604" Name="Lời khẩn cầu của kẻ thù" GoodsID="1050515,1050615" Multi="1" TaoZhuangProps="2,LifeSteal,750|2,MaxLifeV,75000|3,AddAttack,30000" />
+  <TaoZhuang ID="3704" Name="Lời khẩn cầu của kẻ thù" GoodsID="1060615,1060515" Multi="1" TaoZhuangProps="2,LifeSteal,540|2,MaxLifeV,48000|3,AddAttack,12000" />
+  <TaoZhuang ID="3804" Name="Lời khẩn cầu của kẻ thù" GoodsID="1070615,1070515" Multi="1" TaoZhuangProps="2,LifeSteal,540|2,MaxLifeV,48000|3,AddAttack,12000" />
+  
+  <!--nhan day chuyen 15-->
+  
+   <!--nhan day chuyen 16-->
+  <TaoZhuang ID="3105" Name="Hy Vọng Của Thế Giới" GoodsID="1000516,1000616" Multi="1" TaoZhuangProps="2,LifeSteal,1000|2,MaxLifeV,100000|3,AddAttack,45000" />
+  <TaoZhuang ID="3205" Name="Hy Vọng Của Thế Giới" GoodsID="1010516,1010616" Multi="1" TaoZhuangProps="2,LifeSteal,1000|2,MaxLifeV,100000|3,AddAttack,45000" />
+  <TaoZhuang ID="3305" Name="Hy Vọng Của Thế Giới" GoodsID="1020516,1020616" Multi="1" TaoZhuangProps="2,LifeSteal,1000|2,MaxLifeV,100000|3,AddAttack,45000" />
+  <TaoZhuang ID="3405" Name="Hy Vọng Của Thế Giới" GoodsID="1030516,1030616" Multi="1" TaoZhuangProps="2,LifeSteal,1000|2,MaxLifeV,100000|3,AddAttack,45000" />
+  <TaoZhuang ID="3505" Name="Hy Vọng Của Thế Giới" GoodsID="1040516,1040616" Multi="1" TaoZhuangProps="2,LifeSteal,1000|2,MaxLifeV,100000|3,AddAttack,45000" />
+  <TaoZhuang ID="3605" Name="Hy Vọng Của Thế Giới" GoodsID="1050516,1050616" Multi="1" TaoZhuangProps="2,LifeSteal,1000|2,MaxLifeV,100000|3,AddAttack,45000" />
+  <TaoZhuang ID="3705" Name="Hy Vọng Của Thế Giới" GoodsID="1060516,1060616" Multi="1" TaoZhuangProps="2,LifeSteal,1000|2,MaxLifeV,100000|3,AddAttack,45000" />
+  <TaoZhuang ID="3805" Name="Hy Vọng Của Thế Giới" GoodsID="1070516,1070616" Multi="1" TaoZhuangProps="2,LifeSteal,1000|2,MaxLifeV,100000|3,AddAttack,45000" />
+  
+  
+  <!--nhan day chuyen 16-->
+  
+   <!--nhan day chuyen 17-->
+  <TaoZhuang ID="3106" Name="Thủ hộ của kẻ kinh ngữ" GoodsID="1000517,1000617" Multi="1" TaoZhuangProps="2,LifeSteal,1250|2,MaxLifeV,125000|3,AddAttack,60000" />
+  <TaoZhuang ID="3206" Name="Thủ hộ của kẻ kinh ngữ" GoodsID="1010517,1010617" Multi="1" TaoZhuangProps="2,LifeSteal,1250|2,MaxLifeV,125000|3,AddAttack,60000" />
+  <TaoZhuang ID="3306" Name="Thủ hộ của kẻ kinh ngữ" GoodsID="1020517,1020617" Multi="1" TaoZhuangProps="2,LifeSteal,1250|2,MaxLifeV,125000|3,AddAttack,60000" />
+  <TaoZhuang ID="3406" Name="Thủ hộ của kẻ kinh ngữ" GoodsID="1030517,1030617" Multi="1" TaoZhuangProps="2,LifeSteal,1250|2,MaxLifeV,125000|3,AddAttack,60000" />
+  <TaoZhuang ID="3506" Name="Thủ hộ của kẻ kinh ngữ" GoodsID="1040517,1040617" Multi="1" TaoZhuangProps="2,LifeSteal,1250|2,MaxLifeV,125000|3,AddAttack,60000" />
+  <TaoZhuang ID="3606" Name="Thủ hộ của kẻ kinh ngữ" GoodsID="1050517,1050617" Multi="1" TaoZhuangProps="2,LifeSteal,1250|2,MaxLifeV,125000|3,AddAttack,60000" />
+  <TaoZhuang ID="3706" Name="Thủ hộ của kẻ kinh ngữ" GoodsID="1060517,1060617" Multi="1" TaoZhuangProps="2,LifeSteal,1250|2,MaxLifeV,125000|3,AddAttack,60000" />
+  <TaoZhuang ID="3806" Name="Thủ hộ của kẻ kinh ngữ" GoodsID="1070517,1070617" Multi="1" TaoZhuangProps="2,LifeSteal,1250|2,MaxLifeV,125000|3,AddAttack,60000" />
+  
+  <!--nhan day chuyen 17--> 
+ 
+  <!--nhan day chuyen 18-->
+  <TaoZhuang ID="3107" Name="Tiếng rống của Rexia" GoodsID="1000518,1000618" Multi="1" TaoZhuangProps="2,LifeSteal,1500|2,MaxLifeV,150000|3,AddAttack,75000" />
+  <TaoZhuang ID="3207" Name="Tiếng rống của Rexia" GoodsID="1010518,1010618" Multi="1" TaoZhuangProps="2,LifeSteal,1500|2,MaxLifeV,150000|3,AddAttack,75000" />
+  <TaoZhuang ID="3307" Name="Tiếng rống của Rexia" GoodsID="1020518,1020618" Multi="1" TaoZhuangProps="2,LifeSteal,1500|2,MaxLifeV,150000|3,AddAttack,75000" />
+  <TaoZhuang ID="3407" Name="Tiếng rống của Rexia" GoodsID="1030518,1030618" Multi="1" TaoZhuangProps="2,LifeSteal,1500|2,MaxLifeV,150000|3,AddAttack,75000" />
+  <TaoZhuang ID="3507" Name="Tiếng rống của Rexia" GoodsID="1040518,1040618" Multi="1" TaoZhuangProps="2,LifeSteal,1500|2,MaxLifeV,150000|3,AddAttack,75000" />
+  <TaoZhuang ID="3607" Name="Tiếng rống của Rexia" GoodsID="1050518,1050618" Multi="1" TaoZhuangProps="2,LifeSteal,1500|2,MaxLifeV,150000|3,AddAttack,75000" />
+  <TaoZhuang ID="3707" Name="Tiếng rống của Rexia" GoodsID="1060518,1060618" Multi="1" TaoZhuangProps="2,LifeSteal,1500|2,MaxLifeV,150000|3,AddAttack,75000" />
+  <TaoZhuang ID="3807" Name="Tiếng rống của Rexia" GoodsID="1070518,1070618" Multi="1" TaoZhuangProps="2,LifeSteal,1500|2,MaxLifeV,150000|3,AddAttack,75000" />
+  
+  
+  <!--nhan day chuyen 18--> 
+  
+  <!--nhan day chuyen 19-->
+  <TaoZhuang ID="3108" Name="Hơi thở của rồng" GoodsID="1000519,1000619" Multi="1" TaoZhuangProps="2,LifeSteal,1750|2,MaxLifeV,175000|3,AddAttack,90000" />
+  <TaoZhuang ID="3208" Name="Hơi thở của rồng" GoodsID="1010519,1010619" Multi="1" TaoZhuangProps="2,LifeSteal,1750|2,MaxLifeV,175000|3,AddAttack,90000" />
+  <TaoZhuang ID="3308" Name="Hơi thở của rồng" GoodsID="1020519,1020619" Multi="1" TaoZhuangProps="2,LifeSteal,1750|2,MaxLifeV,175000|3,AddAttack,90000" />
+  <TaoZhuang ID="3408" Name="Hơi thở của rồng" GoodsID="1030519,1030619" Multi="1" TaoZhuangProps="2,LifeSteal,1750|2,MaxLifeV,175000|3,AddAttack,90000" />
+  <TaoZhuang ID="3508" Name="Hơi thở của rồng" GoodsID="1040519,1040619" Multi="1" TaoZhuangProps="2,LifeSteal,1750|2,MaxLifeV,175000|3,AddAttack,90000" />
+  <TaoZhuang ID="3608" Name="Hơi thở của rồng" GoodsID="1050519,1050619" Multi="1" TaoZhuangProps="2,LifeSteal,1750|2,MaxLifeV,175000|3,AddAttack,90000" />
+  <TaoZhuang ID="3708" Name="Hơi thở của rồng" GoodsID="1060519,1060619" Multi="1" TaoZhuangProps="2,LifeSteal,1750|2,MaxLifeV,175000|3,AddAttack,90000" />
+  <TaoZhuang ID="3808" Name="Hơi thở của rồng" GoodsID="1070519,1070619" Multi="1" TaoZhuangProps="2,LifeSteal,1750|2,MaxLifeV,175000|3,AddAttack,90000" />
+  
+  <!--nhan day chuyen 19-->  
+  
+   <!--nhan day chuyen 20-->
+  <TaoZhuang ID="3109" Name="Cố chấp của Shafei" GoodsID="1000520,1000620" Multi="1" TaoZhuangProps="2,LifeSteal,2250|2,MaxLifeV,225000|3,AddAttack,120000" />
+  <TaoZhuang ID="3209" Name="Cố chấp của Shafei" GoodsID="1010520,1010620" Multi="1" TaoZhuangProps="2,LifeSteal,2250|2,MaxLifeV,225000|3,AddAttack,120000" />
+  <TaoZhuang ID="3309" Name="Cố chấp của Shafei" GoodsID="1020520,1020620" Multi="1" TaoZhuangProps="2,LifeSteal,2250|2,MaxLifeV,225000|3,AddAttack,120000" />
+  <TaoZhuang ID="3409" Name="Cố chấp của Shafei" GoodsID="1030520,1030620" Multi="1" TaoZhuangProps="2,LifeSteal,2250|2,MaxLifeV,225000|3,AddAttack,120000" />
+  <TaoZhuang ID="3509" Name="Cố chấp của Shafei" GoodsID="1040520,1040620" Multi="1" TaoZhuangProps="2,LifeSteal,2250|2,MaxLifeV,225000|3,AddAttack,120000" />
+  <TaoZhuang ID="3609" Name="Cố chấp của Shafei" GoodsID="1050520,1050620" Multi="1" TaoZhuangProps="2,LifeSteal,2250|2,MaxLifeV,225000|3,AddAttack,120000" />
+  <TaoZhuang ID="3709" Name="Cố chấp của Shafei" GoodsID="1060520,1060620" Multi="1" TaoZhuangProps="2,LifeSteal,2250|2,MaxLifeV,225000|3,AddAttack,120000" />
+  <TaoZhuang ID="3809" Name="Cố chấp của Shafei" GoodsID="1070520,1070620" Multi="1" TaoZhuangProps="2,LifeSteal,2250|2,MaxLifeV,225000|3,AddAttack,120000" />
+   
+  <!--nhan day chuyen 20-->
+
+   <!--nhan day chuyen 21-->
+  <TaoZhuang ID="3110" Name="Trí tuệ của Lucky" GoodsID="1000521,1000621" Multi="1" TaoZhuangProps="2,LifeSteal,2750|2,MaxLifeV,275000|3,AddAttack,150000" />
+  <TaoZhuang ID="3210" Name="Trí tuệ của Lucky" GoodsID="1010521,1010621" Multi="1" TaoZhuangProps="2,LifeSteal,2750|2,MaxLifeV,275000|3,AddAttack,150000" />
+  <TaoZhuang ID="3310" Name="Trí tuệ của Lucky" GoodsID="1020521,1020621" Multi="1" TaoZhuangProps="2,LifeSteal,2750|2,MaxLifeV,275000|3,AddAttack,150000" />
+  <TaoZhuang ID="3410" Name="Trí tuệ của Lucky" GoodsID="1030521,1030621" Multi="1" TaoZhuangProps="2,LifeSteal,2750|2,MaxLifeV,275000|3,AddAttack,150000" />
+  <TaoZhuang ID="3510" Name="Trí tuệ của Lucky" GoodsID="1040521,1040621" Multi="1" TaoZhuangProps="2,LifeSteal,2750|2,MaxLifeV,275000|3,AddAttack,150000" />
+  <TaoZhuang ID="3610" Name="Trí tuệ của Lucky" GoodsID="1050521,1050621" Multi="1" TaoZhuangProps="2,LifeSteal,2750|2,MaxLifeV,275000|3,AddAttack,150000" />
+  <TaoZhuang ID="3710" Name="Trí tuệ của Lucky" GoodsID="1060521,1060621" Multi="1" TaoZhuangProps="2,LifeSteal,2750|2,MaxLifeV,275000|3,AddAttack,150000" />
+  <TaoZhuang ID="3810" Name="Trí tuệ của Lucky" GoodsID="1070521,1070621" Multi="1" TaoZhuangProps="2,LifeSteal,2750|2,MaxLifeV,275000|3,AddAttack,150000" />
+
+  <!--nhan day chuyen 21-->
+  
+     <!--nhan day chuyen 22-->
+  <TaoZhuang ID="3111" Name="Phước lành của Noria" GoodsID="1000522,1000622" Multi="1" TaoZhuangProps="2,LifeSteal,3250|2,MaxLifeV,325000|3,AddAttack,180000" />
+  <TaoZhuang ID="3211" Name="Phước lành của Noria" GoodsID="1010522,1010622" Multi="1" TaoZhuangProps="2,LifeSteal,3250|2,MaxLifeV,325000|3,AddAttack,180000" />
+  <TaoZhuang ID="3311" Name="Phước lành của Noria" GoodsID="1020522,1020622" Multi="1" TaoZhuangProps="2,LifeSteal,3250|2,MaxLifeV,325000|3,AddAttack,180000" />
+  <TaoZhuang ID="3411" Name="Phước lành của Noria" GoodsID="1030522,1030622" Multi="1" TaoZhuangProps="2,LifeSteal,3250|2,MaxLifeV,325000|3,AddAttack,180000" />
+  <TaoZhuang ID="3511" Name="Phước lành của Noria" GoodsID="1040522,1040622" Multi="1" TaoZhuangProps="2,LifeSteal,3250|2,MaxLifeV,325000|3,AddAttack,180000" />
+  <TaoZhuang ID="3611" Name="Phước lành của Noria" GoodsID="1050522,1050622" Multi="1" TaoZhuangProps="2,LifeSteal,3250|2,MaxLifeV,325000|3,AddAttack,180000" />
+  <TaoZhuang ID="3711" Name="Phước lành của Noria" GoodsID="1060522,1060622" Multi="1" TaoZhuangProps="2,LifeSteal,3250|2,MaxLifeV,325000|3,AddAttack,180000" />
+  <TaoZhuang ID="3811" Name="Phước lành của Noria" GoodsID="1070522,1070622" Multi="1" TaoZhuangProps="2,LifeSteal,3250|2,MaxLifeV,325000|3,AddAttack,180000" />
+
+  <!--nhan day chuyen 22-->
+  
+     <!--nhan day chuyen 23-->
+  <TaoZhuang ID="3112" Name="Bóng tối trổi dậy" GoodsID="1000523,1000623" Multi="1" TaoZhuangProps="2,LifeSteal,3750|2,MaxLifeV,375000|3,AddAttack,210000" />
+  <TaoZhuang ID="3212" Name="Bóng tối trổi dậy" GoodsID="1010523,1010623" Multi="1" TaoZhuangProps="2,LifeSteal,3750|2,MaxLifeV,375000|3,AddAttack,210000" />
+  <TaoZhuang ID="3312" Name="Bóng tối trổi dậy" GoodsID="1020523,1020623" Multi="1" TaoZhuangProps="2,LifeSteal,3750|2,MaxLifeV,375000|3,AddAttack,210000" />
+  <TaoZhuang ID="3412" Name="Bóng tối trổi dậy" GoodsID="1030523,1030623" Multi="1" TaoZhuangProps="2,LifeSteal,3750|2,MaxLifeV,375000|3,AddAttack,210000" />
+  <TaoZhuang ID="3512" Name="Bóng tối trổi dậy" GoodsID="1040523,1040623" Multi="1" TaoZhuangProps="2,LifeSteal,3750|2,MaxLifeV,375000|3,AddAttack,210000" />
+  <TaoZhuang ID="3612" Name="Bóng tối trổi dậy" GoodsID="1050523,1050623" Multi="1" TaoZhuangProps="2,LifeSteal,3750|2,MaxLifeV,375000|3,AddAttack,210000" />
+  <TaoZhuang ID="3712" Name="Bóng tối trổi dậy" GoodsID="1060523,1060623" Multi="1" TaoZhuangProps="2,LifeSteal,3750|2,MaxLifeV,375000|3,AddAttack,210000" />
+  <TaoZhuang ID="3812" Name="Bóng tối trổi dậy" GoodsID="1070523,1070623" Multi="1" TaoZhuangProps="2,LifeSteal,3750|2,MaxLifeV,375000|3,AddAttack,210000" />
+
+  <!--nhan day chuyen 23-->
+  
+     <!--nhan day chuyen 24-->
+  <TaoZhuang ID="3113" Name="Hạnh phúc của tiên nữ" GoodsID="1000524,1000624" Multi="1" TaoZhuangProps="2,LifeSteal,4250|2,MaxLifeV,425000|3,AddAttack,240000" />
+  <TaoZhuang ID="3213" Name="Hạnh phúc của tiên nữ" GoodsID="1010524,1010624" Multi="1" TaoZhuangProps="2,LifeSteal,4250|2,MaxLifeV,425000|3,AddAttack,240000" />
+  <TaoZhuang ID="3313" Name="Hạnh phúc của tiên nữ" GoodsID="1020524,1020624" Multi="1" TaoZhuangProps="2,LifeSteal,4250|2,MaxLifeV,425000|3,AddAttack,240000" />
+  <TaoZhuang ID="3413" Name="Hạnh phúc của tiên nữ" GoodsID="1030524,1030624" Multi="1" TaoZhuangProps="2,LifeSteal,4250|2,MaxLifeV,425000|3,AddAttack,240000" />
+  <TaoZhuang ID="3513" Name="Hạnh phúc của tiên nữ" GoodsID="1040524,1040624" Multi="1" TaoZhuangProps="2,LifeSteal,4250|2,MaxLifeV,425000|3,AddAttack,240000" />
+  <TaoZhuang ID="3613" Name="Hạnh phúc của tiên nữ" GoodsID="1050524,1050624" Multi="1" TaoZhuangProps="2,LifeSteal,4250|2,MaxLifeV,425000|3,AddAttack,240000" />
+  <TaoZhuang ID="3713" Name="Hạnh phúc của tiên nữ" GoodsID="1060524,1060624" Multi="1" TaoZhuangProps="2,LifeSteal,4250|2,MaxLifeV,425000|3,AddAttack,240000" />
+  <TaoZhuang ID="3813" Name="Hạnh phúc của tiên nữ" GoodsID="1070524,1070624" Multi="1" TaoZhuangProps="2,LifeSteal,4250|2,MaxLifeV,425000|3,AddAttack,240000" />
+
+  <!--nhan day chuyen 24-->
+  
+     <!--nhan day chuyen 25-->
+  <TaoZhuang ID="3114" Name="Cầu nguyện của Nữ thần sinh mệnh" GoodsID="1000525,1000625" Multi="1" TaoZhuangProps="2,LifeSteal,4750|2,MaxLifeV,475000|3,AddAttack,270000" />
+  <TaoZhuang ID="3214" Name="Cầu nguyện của Nữ thần sinh mệnh" GoodsID="1010525,1010625" Multi="1" TaoZhuangProps="2,LifeSteal,4750|2,MaxLifeV,475000|3,AddAttack,270000" />
+  <TaoZhuang ID="3314" Name="Cầu nguyện của Nữ thần sinh mệnh" GoodsID="1020525,1020625" Multi="1" TaoZhuangProps="2,LifeSteal,4750|2,MaxLifeV,475000|3,AddAttack,270000" />
+  <TaoZhuang ID="3414" Name="Cầu nguyện của Nữ thần sinh mệnh" GoodsID="1030525,1030625" Multi="1" TaoZhuangProps="2,LifeSteal,4750|2,MaxLifeV,475000|3,AddAttack,270000" />
+  <TaoZhuang ID="3514" Name="Cầu nguyện của Nữ thần sinh mệnh" GoodsID="1040525,1040625" Multi="1" TaoZhuangProps="2,LifeSteal,4750|2,MaxLifeV,475000|3,AddAttack,270000" />
+  <TaoZhuang ID="3614" Name="Cầu nguyện của Nữ thần sinh mệnh" GoodsID="1050525,1050625" Multi="1" TaoZhuangProps="2,LifeSteal,4750|2,MaxLifeV,475000|3,AddAttack,270000" />
+  <TaoZhuang ID="3714" Name="Cầu nguyện của Nữ thần sinh mệnh" GoodsID="1060525,1060625" Multi="1" TaoZhuangProps="2,LifeSteal,4750|2,MaxLifeV,475000|3,AddAttack,270000" />
+  <TaoZhuang ID="3814" Name="Cầu nguyện của Nữ thần sinh mệnh" GoodsID="1070525,1070625" Multi="1" TaoZhuangProps="2,LifeSteal,4750|2,MaxLifeV,475000|3,AddAttack,270000" />
+
+  <!--nhan day chuyen 25-->
+
+  <!--vu khi 16 dk
+  <TaoZhuang ID="160001" Name="Thực Tại Thần Khí" GoodsID="10005102,1005316" Multi="1" TaoZhuangProps="2,LifeSteal,250|2,MaxLifeV,17500|2,AddAttack,17500|2,ElementInjurePercent,0.012|2,AddAttackInjurePercent,0.012" /> -->
+  
+  <!--khien 16-20dk 
+  <TaoZhuang ID="166001" Name="Thực Tại Thần Khí" GoodsID="1005316,10050102" Multi="1" TaoZhuangProps="2,LifeSteal,250|2,MaxLifeV,17500|2,AddAttack,17500|2,ElementInjurePercent,0.012|2,AddAttackInjurePercent,0.012" />
+  <TaoZhuang ID="176001" Name="Thực Tại Thần Khí" GoodsID="1005317,10050103" Multi="1" TaoZhuangProps="2,LifeSteal,500|2,MaxLifeV,35000|2,AddAttack,35000|2,ElementInjurePercent,0.025|2,AddAttackInjurePercent,0.025" /> 
+  <TaoZhuang ID="186001" Name="Thực Tại Thần Khí" GoodsID="1005318,10050104" Multi="1" TaoZhuangProps="2,LifeSteal,1000|2,MaxLifeV,75000|2,AddAttack,75000|2,ElementInjurePercent,0.05|2,AddAttackInjurePercent,0.05" /> 
+  <TaoZhuang ID="196001" Name="Thực Tại Thần Khí" GoodsID="1005319,10050105" Multi="1" TaoZhuangProps="2,LifeSteal,2000|2,MaxLifeV,150000|2,AddAttack,150000|2,ElementInjurePercent,0.10|2,AddAttackInjurePercent,0.10" /> 
+  <TaoZhuang ID="206001" Name="Thực Tại Thần Khí" GoodsID="1005320,10050106" Multi="1" TaoZhuangProps="2,LifeSteal,4000|2,MaxLifeV,300000|2,AddAttack,300000|2,ElementInjurePercent,0.20|2,AddAttackInjurePercent,0.20" /> 
+  <TaoZhuang ID="216001" Name="Kinh Thế Thần Khí" GoodsID="1005321,10050107" Multi="1" TaoZhuangProps="2,LifeSteal,6000|2,MaxLifeV,450000|2,AddAttack,450000|2,ElementInjurePercent,0.30|2,AddAttackInjurePercent,0.30" />  
+  <TaoZhuang ID="226001" Name="Ngự Không Thần Khí" GoodsID="1005322,10050108" Multi="1" TaoZhuangProps="2,LifeSteal,8000|2,MaxLifeV,600000|2,AddAttack,600000|2,ElementInjurePercent,0.40|2,AddAttackInjurePercent,0.40" />
+  <TaoZhuang ID="236001" Name="Hỗn Thiên Thần Khí" GoodsID="1005323,10050109" Multi="1" TaoZhuangProps="2,LifeSteal,10000|2,MaxLifeV,750000|2,AddAttack,750000|2,ElementInjurePercent,0.50|2,AddAttackInjurePercent,0.50" /> 
+  <TaoZhuang ID="246001" Name="Sồ Phượng Thần Khí" GoodsID="1005324,10050110" Multi="1" TaoZhuangProps="2,LifeSteal,12000|2,MaxLifeV,900000|2,AddAttack,900000|2,ElementInjurePercent,0.60|2,AddAttackInjurePercent,0.60" />  
+  <TaoZhuang ID="256001" Name="Tiềm Long Thần Khí" GoodsID="1005325,10050111" Multi="1" TaoZhuangProps="2,LifeSteal,14000|2,MaxLifeV,1050000|2,AddAttack,1050000|2,ElementInjurePercent,0.70|2,AddAttackInjurePercent,0.70" /> -->
+
+  
+   <!--vu khi 14 15 elf-->
+   <TaoZhuang ID="140002" Name="Nước Mắt Thần Khí" GoodsID="10255100,1022114" Multi="1" TaoZhuangProps="2,LifeSteal,100|2,MaxLifeV,4500|2,AddAttack,4500|2,ElementInjurePercent,0.008|2,AddAttackInjurePercent,0.008" />   
+   <TaoZhuang ID="150002" Name="Thực Tại Thần Khí" GoodsID="10255101,1022115" Multi="1" TaoZhuangProps="2,LifeSteal,200|2,MaxLifeV,9000|2,AddAttack,9000|2,ElementInjurePercent,0.010|2,AddAttackInjurePercent,0.010" />
+ 
+   <!--vu khi 16 elf-->
+  <TaoZhuang ID="160002" Name="Bóng Ma Thần Khí" GoodsID="10255102,1022116" Multi="1" TaoZhuangProps="2,LifeSteal,350|2,MaxLifeV,17500|2,AddAttack,17500|2,ElementInjurePercent,0.012|2,AddAttackInjurePercent,0.012" />
+
+   <!--vu khi 14 15 dk dw mg trí sum thánh đạo sư--> 
+  <TaoZhuang ID="140003" Name="Nước Mắt Thần Khí" GoodsID="10150100,1005314,1015314,10050100,10650100,1065314" Multi="1" TaoZhuangProps="2,LifeSteal,100|2,MaxLifeV,4500|2,AddAttack,4500|2,ElementInjurePercent,0.008|2,AddAttackInjurePercent,0.008" />
+
+  <TaoZhuang ID="150003" Name="Thực Tại Thần Khí" GoodsID="10150101,1005315,1015315,10050101,10650101,1065315" Multi="1" TaoZhuangProps="2,LifeSteal,200|2,MaxLifeV,9000|2,AddAttack,9000|2,ElementInjurePercent,0.010|2,AddAttackInjurePercent,0.010" />
+
+ 
+   <!--vu khi 16 dk dw mg trí sum thánh đạo sư--> 
+  <TaoZhuang ID="160003" Name="Bóng Ma Thần Khí" GoodsID="10150102,1005316,1015316,10050102,10650102,1065316" Multi="1" TaoZhuangProps="2,LifeSteal,350|2,MaxLifeV,17500|2,AddAttack,17500|2,ElementInjurePercent,0.012|2,AddAttackInjurePercent,0.012" />
+
+   <!--vu khi 14 15 16 kỵ sĩ mộng hoang-->
+   <TaoZhuang ID="140004" Name="Nước Mắt Thần Khí" GoodsID="1075314,10750100" Multi="1" TaoZhuangProps="2,LifeSteal,100|2,MaxLifeV,4500|2,AddAttack,4500|2,ElementInjurePercent,0.008|2,AddAttackInjurePercent,0.008" />   
+   <TaoZhuang ID="150004" Name="Thực Tại Thần Khí" GoodsID="1075315,10750101" Multi="1" TaoZhuangProps="2,LifeSteal,200|2,MaxLifeV,9000|2,AddAttack,9000|2,ElementInjurePercent,0.010|2,AddAttackInjurePercent,0.010" />
+   <TaoZhuang ID="160004" Name="Bóng Ma Thần Khí" GoodsID="1075316,10750102" Multi="1" TaoZhuangProps="2,LifeSteal,350|2,MaxLifeV,17500|2,AddAttack,17500|2,ElementInjurePercent,0.012|2,AddAttackInjurePercent,0.012" />
+
+
+   <!--vu khi 17 18 dk
+  <TaoZhuang ID="170001" Name="Ảo Ảnh Thần Khí" GoodsID="10050103,1005317" Multi="1" TaoZhuangProps="2,LifeSteal,500|2,MaxLifeV,35000|2,AddAttack,35000|2,ElementInjurePercent,0.025|2,AddAttackInjurePercent,0.025" />
+  <TaoZhuang ID="180001" Name="Hư Vô Thần Khí" GoodsID="10050104,1005318" Multi="1" TaoZhuangProps="2,LifeSteal,1000|2,MaxLifeV,75000|2,AddAttack,75000|2,ElementInjurePercent,0.05|2,AddAttackInjurePercent,0.05" /> -->
+
+   <!--vu khi 17 18 elf-->
+  <TaoZhuang ID="170002" Name="Ảo Ảnh Thần Khí" GoodsID="10255103,1022117" Multi="1" TaoZhuangProps="2,LifeSteal,500|2,MaxLifeV,35000|2,AddAttack,35000|2,ElementInjurePercent,0.025|2,AddAttackInjurePercent,0.025" />
+  <TaoZhuang ID="180002" Name="Hư Vô Thần Khí" GoodsID="10255104,1022118" Multi="1" TaoZhuangProps="2,LifeSteal,1000|2,MaxLifeV,75000|2,AddAttack,75000|2,ElementInjurePercent,0.05|2,AddAttackInjurePercent,0.05" /> 
+
+    <!--vu khi 17 dk dw mg trí sum thánh đạo sư  --> 
+  <TaoZhuang ID="170003" Name="Ảo Ảnh Thần Khí" GoodsID="10150103,1005317,1015317,10050103,10650103,1065317" Multi="1" TaoZhuangProps="2,LifeSteal,500|2,MaxLifeV,35000|2,AddAttack,35000|2,ElementInjurePercent,0.025|2,AddAttackInjurePercent,0.025" />
+
+    <!--vu khi 18 dk dw mg trí sum thánh đạo sư --> 
+  <TaoZhuang ID="180003" Name="Hư Vô Thần Khí" GoodsID="10150104,1005318,1015318,10050104,10650104,1065318" Multi="1" TaoZhuangProps="2,LifeSteal,1000|2,MaxLifeV,75000|2,AddAttack,75000|2,ElementInjurePercent,0.05|2,AddAttackInjurePercent,0.05" />
+
+   <!--vu khi 17 18 mộng hoang-->
+  <TaoZhuang ID="170004" Name="Ảo Ảnh Thần Khí" GoodsID="1075317,10750103" Multi="1" TaoZhuangProps="2,LifeSteal,500|2,MaxLifeV,35000|2,AddAttack,35000|2,ElementInjurePercent,0.025|2,AddAttackInjurePercent,0.025" />
+  <TaoZhuang ID="180004" Name="Hư Vô Thần Khí" GoodsID="1075318,10750104" Multi="1" TaoZhuangProps="2,LifeSteal,1000|2,MaxLifeV,75000|2,AddAttack,75000|2,ElementInjurePercent,0.05|2,AddAttackInjurePercent,0.05" /> 
+  
+   <!--vu khi 19 20 dk
+  <TaoZhuang ID="190001" Name="Tuyệt Thế Thần Khí" GoodsID="10050105,1005319" Multi="1" TaoZhuangProps="2,LifeSteal,2000|2,MaxLifeV,150000|2,AddAttack,150000|2,ElementInjurePercent,0.10|2,AddAttackInjurePercent,0.10" />
+  <TaoZhuang ID="200001" Name="Lăng Tuyệt Thần Khí" GoodsID="10050106,1005320" Multi="1" TaoZhuangProps="2,LifeSteal,4000|2,MaxLifeV,300000|2,AddAttack,300000|2,ElementInjurePercent,0.20|2,AddAttackInjurePercent,0.20" />-->
+  
+     <!--vu khi 21 22 23 24 25 dk
+  <TaoZhuang ID="210001" Name="Kinh Thế Thần Khí" GoodsID="10050107,1005321" Multi="1" TaoZhuangProps="2,LifeSteal,6000|2,MaxLifeV,450000|2,AddAttack,450000|2,ElementInjurePercent,0.30|2,AddAttackInjurePercent,0.30" /> 
+  <TaoZhuang ID="220001" Name="Ngự Không Thần Khí" GoodsID="10050108,1005322" Multi="1" TaoZhuangProps="2,LifeSteal,8000|2,MaxLifeV,600000|2,AddAttack,600000|2,ElementInjurePercent,0.40|2,AddAttackInjurePercent,0.40" /> 
+  <TaoZhuang ID="230001" Name="Hỗn Thiên Thần Khí" GoodsID="10050109,1005323" Multi="1" TaoZhuangProps="2,LifeSteal,10000|2,MaxLifeV,750000|2,AddAttack,750000|2,ElementInjurePercent,0.50|2,AddAttackInjurePercent,0.50" /> 
+  <TaoZhuang ID="240001" Name="Sồ Phượng Thần Khí" GoodsID="10050110,1005324" Multi="1" TaoZhuangProps="2,LifeSteal,12000|2,MaxLifeV,900000|2,AddAttack,900000|2,ElementInjurePercent,0.60|2,AddAttackInjurePercent,0.60" /> 
+  <TaoZhuang ID="250001" Name="Tiềm Long Thần Khí" GoodsID="10050111,1005325" Multi="1" TaoZhuangProps="2,LifeSteal,14000|2,MaxLifeV,105000|2,AddAttack,105000|2,ElementInjurePercent,0.70|2,AddAttackInjurePercent,0.70" /> -->
+   
+    <!--vu khi 19 20 elf-->
+  <TaoZhuang ID="190002" Name="Tuyệt Thế Thần Khí" GoodsID="10255105,1022119" Multi="1" TaoZhuangProps="2,LifeSteal,2000|2,MaxLifeV,150000|2,AddAttack,150000|2,ElementInjurePercent,0.10|2,AddAttackInjurePercent,0.10" />
+  <TaoZhuang ID="200002" Name="Lăng Tuyệt Thần Khí" GoodsID="10255106,1022120" Multi="1" TaoZhuangProps="2,LifeSteal,4000|2,MaxLifeV,300000|2,AddAttack,300000|2,ElementInjurePercent,0.20|2,AddAttackInjurePercent,0.20" />  
+   <!--vu khi 21 22 23 24 25 elf-->
+  <TaoZhuang ID="210002" Name="Kinh Thế Thần Khí" GoodsID="10255107,1022121" Multi="1" TaoZhuangProps="2,LifeSteal,6000|2,MaxLifeV,450000|2,AddAttack,450000|2,ElementInjurePercent,0.30|2,AddAttackInjurePercent,0.30" /> 
+  <TaoZhuang ID="220002" Name="Ngự Không Thần Khí" GoodsID="10255108,1022122" Multi="1" TaoZhuangProps="2,LifeSteal,8000|2,MaxLifeV,600000|2,AddAttack,600000|2,ElementInjurePercent,0.40|2,AddAttackInjurePercent,0.40" />  
+  <TaoZhuang ID="230002" Name="Hỗn Thiên Thần Khí" GoodsID="10255109,1022123" Multi="1" TaoZhuangProps="2,LifeSteal,10000|2,MaxLifeV,750000|2,AddAttack,750000|2,ElementInjurePercent,0.50|2,AddAttackInjurePercent,0.50" />  
+  <TaoZhuang ID="240002" Name="Sồ Phượng Thần Khí" GoodsID="10255110,1022124" Multi="1" TaoZhuangProps="2,LifeSteal,12000|2,MaxLifeV,900000|2,AddAttack,900000|2,ElementInjurePercent,0.60|2,AddAttackInjurePercent,0.60" />  
+  <TaoZhuang ID="250002" Name="Tiềm Long Thần Khí" GoodsID="10255111,1022125" Multi="1" TaoZhuangProps="2,LifeSteal,14000|2,MaxLifeV,1050000|2,AddAttack,1050000|2,ElementInjurePercent,0.70|2,AddAttackInjurePercent,0.70" /> 
+  
+    <!--vu khi 19 20 dw mg trí sum thánh đạo sư  --> 
+  <TaoZhuang ID="190003" Name="Tuyệt Thế Thần Khí" GoodsID="10150105,1005319,1015319,10050105,10650105,1065319" Multi="1" TaoZhuangProps="2,LifeSteal,2000|2,MaxLifeV,150000|2,AddAttack,150000|2,ElementInjurePercent,0.10|2,AddAttackInjurePercent,0.10" /> 
+  <TaoZhuang ID="200003" Name="Lăng Tuyệt Thần Khí" GoodsID="10150106,1005320,1015320,10050106,10650106,1065320" Multi="1" TaoZhuangProps="2,LifeSteal,4000|2,MaxLifeV,300000|2,AddAttack,300000|2,ElementInjurePercent,0.20|2,AddAttackInjurePercent,0.20" />  
+	<!--vu khi 21 22 23 24 25 dw mg trí sum thánh đạo sư  --> 
+  <TaoZhuang ID="210003" Name="Kinh Thế Thần Khí" GoodsID="10150107,1005321,1015321,10050107,10650107,1065321" Multi="1" TaoZhuangProps="2,LifeSteal,6000|2,MaxLifeV,450000|2,AddAttack,450000|2,ElementInjurePercent,0.30|2,AddAttackInjurePercent,0.30" />  
+  <TaoZhuang ID="220003" Name="Ngự Không Thần Khí" GoodsID="10150108,1005322,1015322,10050108,10650108,1065322" Multi="1" TaoZhuangProps="2,LifeSteal,8000|2,MaxLifeV,600000|2,AddAttack,600000|2,ElementInjurePercent,0.40|2,AddAttackInjurePercent,0.40" />  
+  <TaoZhuang ID="230003" Name="Hỗn Thiên Thần Khí" GoodsID="10150109,1005323,1015323,10050109,10650109,1065323" Multi="1" TaoZhuangProps="2,LifeSteal,10000|2,MaxLifeV,750000|2,AddAttack,750000|2,ElementInjurePercent,0.50|2,AddAttackInjurePercent,0.50" />  
+  <TaoZhuang ID="240003" Name="Sồ Phượng Thần Khí" GoodsID="10150110,1005324,1015324,10050110,10650110,1065324" Multi="1" TaoZhuangProps="2,LifeSteal,12000|2,MaxLifeV,900000|2,AddAttack,900000|2,ElementInjurePercent,0.60|2,AddAttackInjurePercent,0.60" />  
+  <TaoZhuang ID="250003" Name="Tiềm Long Thần Khí" GoodsID="10150111,1005325,1015325,10050111,10650111,1065325" Multi="1" TaoZhuangProps="2,LifeSteal,14000|2,MaxLifeV,1050000|2,AddAttack,1050000|2,ElementInjurePercent,0.70|2,AddAttackInjurePercent,0.70" />  
+
+    <!--vu khi 19 20 mộng hoang-->
+  <TaoZhuang ID="190004" Name="Tuyệt Thế Thần Khí" GoodsID="1075319,10750105" Multi="1" TaoZhuangProps="2,LifeSteal,2000|2,MaxLifeV,150000|2,AddAttack,150000|2,ElementInjurePercent,0.10|2,AddAttackInjurePercent,0.10" />
+  <TaoZhuang ID="200004" Name="Lăng Tuyệt Thần Khí" GoodsID="1075320,10750106" Multi="1" TaoZhuangProps="2,LifeSteal,4000|2,MaxLifeV,300000|2,AddAttack,300000|2,ElementInjurePercent,0.20|2,AddAttackInjurePercent,0.20" />  
+   <!--vu khi 21 22 23 24 25 mộng hoang-->
+  <TaoZhuang ID="210004" Name="Kinh Thế Thần Khí" GoodsID="1075321,10750107" Multi="1" TaoZhuangProps="2,LifeSteal,6000|2,MaxLifeV,450000|2,AddAttack,450000|2,ElementInjurePercent,0.30|2,AddAttackInjurePercent,0.30" /> 
+  <TaoZhuang ID="220004" Name="Ngự Không Thần Khí" GoodsID="1075322,10750108" Multi="1" TaoZhuangProps="2,LifeSteal,8000|2,MaxLifeV,600000|2,AddAttack,600000|2,ElementInjurePercent,0.40|2,AddAttackInjurePercent,0.40" />  
+  <TaoZhuang ID="230004" Name="Hỗn Thiên Thần Khí" GoodsID="1075323,10750109" Multi="1" TaoZhuangProps="2,LifeSteal,10000|2,MaxLifeV,750000|2,AddAttack,750000|2,ElementInjurePercent,0.50|2,AddAttackInjurePercent,0.50" />  
+  <TaoZhuang ID="240004" Name="Sồ Phượng Thần Khí" GoodsID="1075324,10750110" Multi="1" TaoZhuangProps="2,LifeSteal,12000|2,MaxLifeV,900000|2,AddAttack,900000|2,ElementInjurePercent,0.60|2,AddAttackInjurePercent,0.60" />  
+  <TaoZhuang ID="250004" Name="Tiềm Long Thần Khí" GoodsID="1075325,10750111" Multi="1" TaoZhuangProps="2,LifeSteal,14000|2,MaxLifeV,1050000|2,AddAttack,1050000|2,ElementInjurePercent,0.70|2,AddAttackInjurePercent,0.70" /> 
+  
+   <!--đồ thú cấp 8 9 10 11 12--> 
+  <TaoZhuang ID="4300" Name="Thủ Hộ Hủy Diệt" GoodsID="980007,980107,980207" Multi="0" TaoZhuangProps="2,MaxLifeV,30000|2,Defense,12000-15000|2,Mdefense,12000-15000|3,AddAttack,13500|3,MaxLifePercent,0.08" />
+  <TaoZhuang ID="4400" Name="Phá Hoại Hủy Diệt" GoodsID="980307,980407,980507" Multi="0" TaoZhuangProps="2,AddAttack,13500|2,MaxLifeV,30000|3,ElementInjurePercent,0.04|3,AddAttackInjurePercent,0.04" />
+  
+  <TaoZhuang ID="4500" Name="Thủ Hộ Thiên Nộ" GoodsID="980008,980108,980208" Multi="0" TaoZhuangProps="2,MaxLifeV,60000|2,Defense,20000-25000|2,Mdefense,20000-25000|3,AddAttack,27000|3,MaxLifePercent,0.16" />
+  <TaoZhuang ID="4600" Name="Phá Hoại Thiên Nộ" GoodsID="980308,980408,980508" Multi="0" TaoZhuangProps="2,AddAttack,27000|2,MaxLifeV,60000|3,ElementInjurePercent,0.08|3,AddAttackInjurePercent,0.08" />
+
+  <TaoZhuang ID="4700" Name="Thủ Hộ Kinh Thế" GoodsID="980009,980109,980209" Multi="0" TaoZhuangProps="2,MaxLifeV,120000|2,Defense,30000-35000|2,Mdefense,30000-35000|3,AddAttack,54000|3,MaxLifePercent,0.32" />
+  <TaoZhuang ID="4800" Name="Phá Hoại Kinh Thế" GoodsID="980309,980409,980509" Multi="0" TaoZhuangProps="2,AddAttack,54000|2,MaxLifeV,120000|3,ElementInjurePercent,0.16|3,AddAttackInjurePercent,0.16" />
+
+  <TaoZhuang ID="4900" Name="Thủ Hộ Vô Song" GoodsID="980010,980110,980210" Multi="0" TaoZhuangProps="2,MaxLifeV,240000|2,Defense,40000-45000|2,Mdefense,40000-45000|3,AddAttack,108000|3,MaxLifePercent,0.64" />
+  <TaoZhuang ID="5000" Name="Phá Hoại Vô Song" GoodsID="980310,980410,980510" Multi="0" TaoZhuangProps="2,AddAttack,108000|2,MaxLifeV,240000|3,ElementInjurePercent,0.32|3,AddAttackInjurePercent,0.32" />
+
+  <TaoZhuang ID="5100" Name="Thủ Hộ Siêu Phàm" GoodsID="980011,980111,980211" Multi="0" TaoZhuangProps="2,MaxLifeV,480000|2,Defense,50000-60000|2,Mdefense,50000-60000|3,AddAttack,220000|3,MaxLifePercent,1.28" />
+  <TaoZhuang ID="5200" Name="Phá Hoại Siêu Phàm" GoodsID="980311,980411,980511" Multi="0" TaoZhuangProps="2,AddAttack,220000|2,MaxLifeV,480000|3,ElementInjurePercent,0.64|3,AddAttackInjurePercent,0.64" />  
+    <!--đồ thú cấp 8 9 10 11 12-->  
+	
+
+    <!--đồ thú cấp 13 đến 20-->  	
+  <TaoZhuang ID="5300" Name="Thủ Hộ Xuất Trần" GoodsID="980012,980112,980212" Multi="0" TaoZhuangProps="2,MaxLifeV,680000|2,Defense,60000-70000|2,Mdefense,60000-70000|3,AddAttack,320000|3,MaxLifePercent,2.5" />
+  <TaoZhuang ID="5400" Name="Phá Hoại Xuất Trần" GoodsID="980312,980412,980512" Multi="0" TaoZhuangProps="2,AddAttack,320000|2,MaxLifeV,480000|3,ElementInjurePercent,1.5|3,AddAttackInjurePercent,1.5" />  
+ 
+  <TaoZhuang ID="5500" Name="Thủ Hộ Kinh Thắng" GoodsID="980013,980113,980213" Multi="0" TaoZhuangProps="2,MaxLifeV,880000|2,Defense,70000-80000|2,Mdefense,70000-80000|3,AddAttack,520000|3,MaxLifePercent,3.5" />
+  <TaoZhuang ID="5600" Name="Phá Hoại Kinh Thắng" GoodsID="980313,980413,980513" Multi="0" TaoZhuangProps="2,AddAttack,420000|2,MaxLifeV,680000|3,ElementInjurePercent,2.5|3,AddAttackInjurePercent,2.5" />  
+ 
+  <TaoZhuang ID="5700" Name="Thủ Hộ Lãng Vân" GoodsID="980014,980114,980214" Multi="0" TaoZhuangProps="2,MaxLifeV,1080000|2,Defense,80000-90000|2,Mdefense,80000-90000|3,AddAttack,720000|3,MaxLifePercent,4.5" />
+  <TaoZhuang ID="5800" Name="Phá Hoại Lãng Vân" GoodsID="980314,980414,980514" Multi="0" TaoZhuangProps="2,AddAttack,520000|2,MaxLifeV,1080000|3,ElementInjurePercent,3.5|3,AddAttackInjurePercent,3.5" />  
+ 
+  <TaoZhuang ID="5900" Name="Thủ Hộ Ngự Không" GoodsID="980015,980115,980215" Multi="0" TaoZhuangProps="2,MaxLifeV,1280000|2,Defense,90000-100000|2,Mdefense,90000-100000|3,AddAttack,1020000|3,MaxLifePercent,5.5" />
+  <TaoZhuang ID="6000" Name="Phá Hoại Ngự Không" GoodsID="980315,980415,980515" Multi="0" TaoZhuangProps="2,AddAttack,620000|2,MaxLifeV,1280000|3,ElementInjurePercent,4.5|3,AddAttackInjurePercent,4.5" />  
+ 
+  <TaoZhuang ID="6100" Name="Thủ Hộ Tiềm Long" GoodsID="980016,980116,980216" Multi="0" TaoZhuangProps="2,MaxLifeV,1480000|2,Defense,100000-120000|2,Mdefense,100000-120000|3,AddAttack,1420000|3,MaxLifePercent,7.5" />
+  <TaoZhuang ID="6200" Name="Phá Hoại Tiềm Long" GoodsID="980316,980416,980516" Multi="0" TaoZhuangProps="2,AddAttack,820000|2,MaxLifeV,1480000|3,ElementInjurePercent,6.5|3,AddAttackInjurePercent,6.5" />  
+ 
+  <TaoZhuang ID="6300" Name="Thủ Hộ Ngạo Thế" GoodsID="980017,980117,980217" Multi="0" TaoZhuangProps="2,MaxLifeV,1680000|2,Defense,120000-140000|2,Mdefense,120000-140000|3,AddAttack,2020000|3,MaxLifePercent,9.5" />
+  <TaoZhuang ID="6400" Name="Phá Hoại Ngạo Thế" GoodsID="980317,980417,980517" Multi="0" TaoZhuangProps="2,AddAttack,1020000|2,MaxLifeV,1680000|3,ElementInjurePercent,8.5|3,AddAttackInjurePercent,8.5" />  
+ 
+  <TaoZhuang ID="6500" Name="Thủ Hộ Ỷ Thiên" GoodsID="980018,980118,980218" Multi="0" TaoZhuangProps="2,MaxLifeV,1880000|2,Defense,140000-160000|2,Mdefense,140000-160000|3,AddAttack,2820000|3,MaxLifePercent,11.5" />
+  <TaoZhuang ID="6600" Name="Phá Hoại Ỷ Thiên" GoodsID="980318,980418,980518" Multi="0" TaoZhuangProps="2,AddAttack,1220000|2,MaxLifeV,1880000|3,ElementInjurePercent,10.5|3,AddAttackInjurePercent,10.5" />  
+ 
+  <TaoZhuang ID="6700" Name="Thủ Hộ Chí Tôn" GoodsID="980019,980119,980219" Multi="0" TaoZhuangProps="2,MaxLifeV,2080000|2,Defense,160000-180000|2,Mdefense,160000-180000|3,AddAttack,3920000|3,MaxLifePercent,13.5" />
+  <TaoZhuang ID="6800" Name="Phá Hoại Chí Tôn" GoodsID="980319,980419,980519" Multi="0" TaoZhuangProps="2,AddAttack,1420000|2,MaxLifeV,2080000|3,ElementInjurePercent,12.5|3,AddAttackInjurePercent,12.5" />  
+    <!--đồ thú cấp 13 đến 20-->
+
+   <!--đồ pet cấp 8 9 10 11 12--> 
+  <TaoZhuang ID="4301" Name="Thủ Hộ Hủy Diệt" GoodsID="3100008,3100108,3100208" Multi="0" TaoZhuangProps="2,MaxLifeV,30000|2,Defense,12000-15000|2,Mdefense,12000-15000|3,AddAttack,13500|3,MaxLifePercent,0.08" />
+  <TaoZhuang ID="4401" Name="Phá Hoại Hủy Diệt" GoodsID="3100308,3100408,3100508" Multi="0" TaoZhuangProps="2,AddAttack,13500|2,MaxLifeV,30000|3,ElementInjurePercent,0.04|3,AddAttackInjurePercent,0.04" />
+  
+  <TaoZhuang ID="4501" Name="Thủ Hộ Thiên Nộ" GoodsID="3200000,3200100,3200200" Multi="0" TaoZhuangProps="2,MaxLifeV,60000|2,Defense,20000-25000|2,Mdefense,20000-25000|3,AddAttack,27000|3,MaxLifePercent,0.16" />
+  <TaoZhuang ID="4601" Name="Phá Hoại Thiên Nộ" GoodsID="3200300,3300400,3400500" Multi="0" TaoZhuangProps="2,AddAttack,27000|2,MaxLifeV,60000|3,ElementInjurePercent,0.08|3,AddAttackInjurePercent,0.08" />
+
+  <TaoZhuang ID="4701" Name="Thủ Hộ Kinh Thế" GoodsID="3200001,3200101,3200201" Multi="0" TaoZhuangProps="2,MaxLifeV,120000|2,Defense,30000-35000|2,Mdefense,30000-35000|3,AddAttack,54000|3,MaxLifePercent,0.32" />
+  <TaoZhuang ID="4801" Name="Phá Hoại Kinh Thế" GoodsID="3200301,3200401,3200501" Multi="0" TaoZhuangProps="2,AddAttack,54000|2,MaxLifeV,120000|3,ElementInjurePercent,0.16|3,AddAttackInjurePercent,0.16" />
+
+  <TaoZhuang ID="4901" Name="Thủ Hộ Vô Song" GoodsID="3200002,3200102,3200202" Multi="0" TaoZhuangProps="2,MaxLifeV,240000|2,Defense,40000-45000|2,Mdefense,40000-45000|3,AddAttack,108000|3,MaxLifePercent,0.64" />
+  <TaoZhuang ID="5001" Name="Phá Hoại Vô Song" GoodsID="3200302,3200402,3200502" Multi="0" TaoZhuangProps="2,AddAttack,108000|2,MaxLifeV,240000|3,ElementInjurePercent,0.32|3,AddAttackInjurePercent,0.32" />
+
+  <TaoZhuang ID="5101" Name="Thủ Hộ Siêu Phàm" GoodsID="3200003,3200103,3200203" Multi="0" TaoZhuangProps="2,MaxLifeV,480000|2,Defense,50000-60000|2,Mdefense,50000-60000|3,AddAttack,220000|3,MaxLifePercent,1.28" />
+  <TaoZhuang ID="5201" Name="Phá Hoại Siêu Phàm" GoodsID="3200303,3200403,3200503" Multi="0" TaoZhuangProps="2,AddAttack,220000|2,MaxLifeV,480000|3,ElementInjurePercent,0.64|3,AddAttackInjurePercent,0.64" />  
+    <!--đồ pet cấp 8 9 10 11 12-->
+
+    <!--đồ pet cấp 13 đến 20-->  	
+  <TaoZhuang ID="5301" Name="Thủ Hộ Xuất Trần" GoodsID="3200004,3200104,3200204" Multi="0" TaoZhuangProps="2,MaxLifeV,680000|2,Defense,60000-70000|2,Mdefense,60000-70000|3,AddAttack,320000|3,MaxLifePercent,2.5" />
+  <TaoZhuang ID="5401" Name="Phá Hoại Xuất Trần" GoodsID="3200304,3200404,3200504" Multi="0" TaoZhuangProps="2,AddAttack,320000|2,MaxLifeV,480000|3,ElementInjurePercent,1.5|3,AddAttackInjurePercent,1.5" />  
+ 
+  <TaoZhuang ID="5501" Name="Thủ Hộ Kinh Thắng" GoodsID="3200005,3200105,3200205" Multi="0" TaoZhuangProps="2,MaxLifeV,880000|2,Defense,70000-80000|2,Mdefense,70000-80000|3,AddAttack,520000|3,MaxLifePercent,3.5" />
+  <TaoZhuang ID="5601" Name="Phá Hoại Kinh Thắng" GoodsID="3200305,3200405,3200505" Multi="0" TaoZhuangProps="2,AddAttack,420000|2,MaxLifeV,680000|3,ElementInjurePercent,2.5|3,AddAttackInjurePercent,2.5" />  
+ 
+  <TaoZhuang ID="5701" Name="Thủ Hộ Lãng Vân" GoodsID="3200006,3200106,3200206" Multi="0" TaoZhuangProps="2,MaxLifeV,1080000|2,Defense,80000-90000|2,Mdefense,80000-90000|3,AddAttack,720000|3,MaxLifePercent,4.5" />
+  <TaoZhuang ID="5801" Name="Phá Hoại Lãng Vân" GoodsID="3200306,3200406,3200506" Multi="0" TaoZhuangProps="2,AddAttack,520000|2,MaxLifeV,1080000|3,ElementInjurePercent,3.5|3,AddAttackInjurePercent,3.5" />  
+ 
+  <TaoZhuang ID="5901" Name="Thủ Hộ Ngự Không" GoodsID="3200007,3200107,3200207" Multi="0" TaoZhuangProps="2,MaxLifeV,1280000|2,Defense,90000-100000|2,Mdefense,90000-100000|3,AddAttack,1020000|3,MaxLifePercent,5.5" />
+  <TaoZhuang ID="6001" Name="Phá Hoại Ngự Không" GoodsID="3200307,3200407,3200507" Multi="0" TaoZhuangProps="2,AddAttack,620000|2,MaxLifeV,1280000|3,ElementInjurePercent,4.5|3,AddAttackInjurePercent,4.5" />  
+ 
+  <TaoZhuang ID="6101" Name="Thủ Hộ Tiềm Long" GoodsID="3200008,3200108,3200208" Multi="0" TaoZhuangProps="2,MaxLifeV,1480000|2,Defense,100000-120000|2,Mdefense,100000-120000|3,AddAttack,1420000|3,MaxLifePercent,7.5" />
+  <TaoZhuang ID="6201" Name="Phá Hoại Tiềm Long" GoodsID="3200308,3200408,3200508" Multi="0" TaoZhuangProps="2,AddAttack,820000|2,MaxLifeV,1480000|3,ElementInjurePercent,6.5|3,AddAttackInjurePercent,6.5" />  
+ 
+  <TaoZhuang ID="6301" Name="Thủ Hộ Ngạo Thế" GoodsID="3200009,3200109,3200209" Multi="0" TaoZhuangProps="2,MaxLifeV,1680000|2,Defense,120000-140000|2,Mdefense,120000-140000|3,AddAttack,2020000|3,MaxLifePercent,9.5" />
+  <TaoZhuang ID="6401" Name="Phá Hoại Ngạo Thế" GoodsID="3200309,3200409,3200509" Multi="0" TaoZhuangProps="2,AddAttack,1020000|2,MaxLifeV,1680000|3,ElementInjurePercent,8.5|3,AddAttackInjurePercent,8.5" />  
+ 
+  <TaoZhuang ID="6501" Name="Thủ Hộ Ỷ Thiên" GoodsID="3200010,3200110,3200210" Multi="0" TaoZhuangProps="2,MaxLifeV,1880000|2,Defense,140000-160000|2,Mdefense,140000-160000|3,AddAttack,2820000|3,MaxLifePercent,11.5" />
+  <TaoZhuang ID="6601" Name="Phá Hoại Ỷ Thiên" GoodsID="3200310,3200410,3200510" Multi="0" TaoZhuangProps="2,AddAttack,1220000|2,MaxLifeV,1880000|3,ElementInjurePercent,10.5|3,AddAttackInjurePercent,10.5" />  
+ 
+  <TaoZhuang ID="6701" Name="Thủ Hộ Chí Tôn" GoodsID="3200011,3200111,3200211" Multi="0" TaoZhuangProps="2,MaxLifeV,2080000|2,Defense,160000-180000|2,Mdefense,160000-180000|3,AddAttack,3920000|3,MaxLifePercent,13.5" />
+  <TaoZhuang ID="6801" Name="Phá Hoại Chí Tôn" GoodsID="3200311,3200411,3200511" Multi="0" TaoZhuangProps="2,AddAttack,1420000|2,MaxLifeV,2080000|3,ElementInjurePercent,12.5|3,AddAttackInjurePercent,12.5" />  
+    <!--đồ pet cấp 13 đến 20-->
+	
+   <TaoZhuang ID="8103" Name="Thuộc tính bộ bậc 14" GoodsID="1000014,1000114,1000214,1000314,1000414" Multi="0" TaoZhuangProps="2,Mdefense,18000-22000|3,Attack,18000-22000|4,MaxLifeV,32000|5,Defense,18000-22000" />
+   <TaoZhuang ID="8203" Name="Thuộc tính bộ bậc 14" GoodsID="1010014,1010114,1010214,1010314,1010414" Multi="0" TaoZhuangProps="2,Mdefense,18000-22000|3,Mattack,18000-22000|4,MaxLifeV,32000|5,Defense,18000-22000" />
+   <TaoZhuang ID="8303" Name="Thuộc tính bộ bậc 14" GoodsID="1020014,1020114,1020214,1020314,1020414" Multi="0" TaoZhuangProps="2,Mdefense,18000-22000|3,Attack,18000-22000|4,MaxLifeV,32000|5,Defense,18000-22000" />
+   <TaoZhuang ID="8403" Name="Thuộc tính bộ bậc 14" GoodsID="1030014,1030114,1030214,1030314,1030414" Multi="0" TaoZhuangProps="2,Mdefense,18000-22000|3,Attack,18000-22000|4,MaxLifeV,32000|5,Defense,18000-22000" />
+   <TaoZhuang ID="8503" Name="Thuộc tính bộ bậc 14" GoodsID="1040014,1040114,1040214,1040314,1040414" Multi="0" TaoZhuangProps="2,Mdefense,18000-22000|3,Mattack,18000-22000|4,MaxLifeV,32000|5,Defense,18000-22000" />
+   <TaoZhuang ID="8603" Name="Thuộc tính bộ bậc 14" GoodsID="1050014,1050114,1050214,1050314,1050414" Multi="0" TaoZhuangProps="2,Mdefense,18000-22000|3,Mattack,18000-22000|4,MaxLifeV,32000|5,Defense,18000-22000" />
+   <TaoZhuang ID="8703" Name="Thuộc tính bộ bậc 14" GoodsID="1060014,1060114,1060214,1060314,1060414" Multi="0" TaoZhuangProps="2,Mdefense,18000-22000|3,Mattack,18000-22000|4,MaxLifeV,32000|5,Defense,18000-22000" />
+   <TaoZhuang ID="8803" Name="Thuộc tính bộ bậc 14" GoodsID="1070014,1070114,1070214,1070314,1070414" Multi="0" TaoZhuangProps="2,Mdefense,18000-22000|3,Mattack,18000-22000|4,MaxLifeV,32000|5,Defense,18000-22000" />
+   
+   <TaoZhuang ID="8104" Name="Thuộc tính bộ bậc 15" GoodsID="1000115,1000015,1000215,1000315,1000415" Multi="0" TaoZhuangProps="2,Mdefense,34000-42000|3,Attack,34000-42000|4,MaxLifeV,64000|5,Defense,24000-32000" />
+   <TaoZhuang ID="8204" Name="Thuộc tính bộ bậc 15" GoodsID="1010115,1010015,1010215,1010315,1010415" Multi="0" TaoZhuangProps="2,Mdefense,34000-42000|3,Mattack,34000-42000|4,MaxLifeV,64000|5,Defense,24000-32000" />
+   <TaoZhuang ID="8304" Name="Thuộc tính bộ bậc 15" GoodsID="1020115,1020015,1020215,1020315,1020415" Multi="0" TaoZhuangProps="2,Mdefense,34000-42000|3,Attack,34000-42000|4,MaxLifeV,64000|5,Defense,24000-32000" />
+   <TaoZhuang ID="8404" Name="Thuộc tính bộ bậc 15" GoodsID="1030015,1030115,1030215,1030315,1030415" Multi="0" TaoZhuangProps="2,Mdefense,34000-42000|3,Attack,34000-42000|4,MaxLifeV,64000|5,Defense,24000-32000" />
+   <TaoZhuang ID="8504" Name="Thuộc tính bộ bậc 15" GoodsID="1040015,1040115,1040215,1040315,1040415" Multi="0" TaoZhuangProps="2,Mdefense,34000-42000|3,Mattack,34000-42000|4,MaxLifeV,64000|5,Defense,24000-32000" />
+   <TaoZhuang ID="8604" Name="Thuộc tính bộ bậc 15" GoodsID="1050015,1050115,1050215,1050315,1050415" Multi="0" TaoZhuangProps="2,Mdefense,34000-42000|3,Mattack,34000-42000|4,MaxLifeV,64000|5,Defense,24000-32000" />
+   <TaoZhuang ID="8704" Name="Thuộc tính bộ bậc 15" GoodsID="1060015,1060115,1060215,1060315,1060415" Multi="0" TaoZhuangProps="2,Mdefense,34000-42000|3,Mattack,34000-42000|4,MaxLifeV,64000|5,Defense,24000-32000" />
+   <TaoZhuang ID="8804" Name="Thuộc tính bộ bậc 15" GoodsID="1070015,1070115,1070215,1070315,1070415" Multi="0" TaoZhuangProps="2,Mdefense,34000-42000|3,Mattack,34000-42000|4,MaxLifeV,64000|5,Defense,24000-32000" />
+
+   
+   <TaoZhuang ID="161102" Name="Thuộc tính bộ bậc 16" GoodsID="1000016,1000116,1000216,1000316,1000416" Multi="0" TaoZhuangProps="2,Mdefense,70000-86000|3,Attack,70000-86000|4,MaxLifeV,128000|5,Defense,40000-55000" />
+   <TaoZhuang ID="161202" Name="Thuộc tính bộ bậc 16" GoodsID="1010016,1010116,1010216,1010316,1010416" Multi="0" TaoZhuangProps="2,Mdefense,70000-86000|3,Mattack,70000-86000|4,MaxLifeV,128000|5,Defense,40000-55000" />
+   <TaoZhuang ID="161302" Name="Thuộc tính bộ bậc 16" GoodsID="1020016,1020116,1020216,1020316,1020416" Multi="0" TaoZhuangProps="2,Mdefense,70000-86000|3,Attack,70000-86000|4,MaxLifeV,128000|5,Defense,40000-55000" />
+   <TaoZhuang ID="161402" Name="Thuộc tính bộ bậc 16" GoodsID="1030016,1030116,1030216,1030316,1030416" Multi="0" TaoZhuangProps="2,Mdefense,70000-86000|3,Attack,70000-86000|4,MaxLifeV,128000|5,Defense,40000-55000" />
+   <TaoZhuang ID="161502" Name="Thuộc tính bộ bậc 16" GoodsID="1040016,1040116,1040216,1040316,1040416" Multi="0" TaoZhuangProps="2,Mdefense,70000-86000|3,Mattack,70000-86000|4,MaxLifeV,128000|5,Defense,40000-55000" />
+   <TaoZhuang ID="161602" Name="Thuộc tính bộ bậc 16" GoodsID="1050016,1050116,1050216,1050316,1050416" Multi="0" TaoZhuangProps="2,Mdefense,70000-86000|3,Mattack,70000-86000|4,MaxLifeV,128000|5,Defense,40000-55000" />
+   <TaoZhuang ID="161702" Name="Thuộc tính bộ bậc 16" GoodsID="1060016,1060116,1060216,1060316,1060416" Multi="0" TaoZhuangProps="2,Mdefense,70000-86000|3,Mattack,70000-86000|4,MaxLifeV,128000|5,Defense,40000-55000" />
+   <TaoZhuang ID="161802" Name="Thuộc tính bộ bậc 16" GoodsID="1070016,1070116,1070216,1070316,1070416" Multi="0" TaoZhuangProps="2,Mdefense,70000-86000|3,Mattack,70000-86000|4,MaxLifeV,128000|5,Defense,40000-55000" />
+
+   
+   <TaoZhuang ID="171102" Name="Thuộc tính bộ bậc 17" GoodsID="1000017,1000117,1000217,1000317,1000417" Multi="0" TaoZhuangProps="2,Mdefense,140000-172000|3,Attack,140000-172000|4,MaxLifeV,256000|5,Defense,60000-82000" />
+   <TaoZhuang ID="171202" Name="Thuộc tính bộ bậc 17" GoodsID="1010017,1010117,1010217,1010317,1010417" Multi="0" TaoZhuangProps="2,Mdefense,140000-172000|3,Mattack,140000-172000|4,MaxLifeV,256000|5,Defense,60000-82000" />
+   <TaoZhuang ID="171302" Name="Thuộc tính bộ bậc 17" GoodsID="1020017,1020117,1020217,1020317,1020417" Multi="0" TaoZhuangProps="2,Mdefense,140000-172000|3,Attack,140000-172000|4,MaxLifeV,256000|5,Defense,60000-82000" />
+   <TaoZhuang ID="171402" Name="Thuộc tính bộ bậc 17" GoodsID="1030017,1030117,1030217,1030317,1030417" Multi="0" TaoZhuangProps="2,Mdefense,140000-172000|3,Attack,140000-172000|4,MaxLifeV,256000|5,Defense,60000-82000" />
+   <TaoZhuang ID="171502" Name="Thuộc tính bộ bậc 17" GoodsID="1040017,1040117,1040217,1040317,1040417" Multi="0" TaoZhuangProps="2,Mdefense,140000-172000|3,Mattack,140000-172000|4,MaxLifeV,256000|5,Defense,60000-82000" />
+   <TaoZhuang ID="171602" Name="Thuộc tính bộ bậc 17" GoodsID="1050017,1050117,1050217,1050317,1050417" Multi="0" TaoZhuangProps="2,Mdefense,140000-172000|3,Mattack,140000-172000|4,MaxLifeV,256000|5,Defense,60000-82000" />
+   <TaoZhuang ID="171702" Name="Thuộc tính bộ bậc 17" GoodsID="1060017,1060117,1060217,1060317,1060417" Multi="0" TaoZhuangProps="2,Mdefense,140000-172000|3,Mattack,140000-172000|4,MaxLifeV,256000|5,Defense,60000-82000" />
+   <TaoZhuang ID="171802" Name="Thuộc tính bộ bậc 17" GoodsID="1070017,1070117,1070217,1070317,1070417" Multi="0" TaoZhuangProps="2,Mdefense,140000-172000|3,Mattack,140000-172000|4,MaxLifeV,256000|5,Defense,60000-82000" />
+
+
+
+   <TaoZhuang ID="181102" Name="Thuộc tính bộ bậc 18" GoodsID="1000018,1000118,1000218,1000318,1000418" Multi="0" TaoZhuangProps="2,Mdefense,280000-344000|3,Attack,280000-344000|4,MaxLifeV,412000|5,Defense,90000-124000" />
+   <TaoZhuang ID="181202" Name="Thuộc tính bộ bậc 18" GoodsID="1010018,1010118,1010218,1010318,1010418" Multi="0" TaoZhuangProps="2,Mdefense,280000-344000|3,Mattack,280000-344000|4,MaxLifeV,412000|5,Defense,90000-124000" />
+   <TaoZhuang ID="181302" Name="Thuộc tính bộ bậc 18" GoodsID="1020018,1020118,1020218,1020318,1020418" Multi="0" TaoZhuangProps="2,Mdefense,280000-344000|3,Attack,280000-344000|4,MaxLifeV,412000|5,Defense,90000-124000" />
+   <TaoZhuang ID="181402" Name="Thuộc tính bộ bậc 18" GoodsID="1030018,1030118,1030218,1030318,1030418" Multi="0" TaoZhuangProps="2,Mdefense,280000-344000|3,Attack,280000-344000|4,MaxLifeV,412000|5,Defense,90000-124000" />
+   <TaoZhuang ID="181502" Name="Thuộc tính bộ bậc 18" GoodsID="1040018,1040118,1040218,1040318,1040418" Multi="0" TaoZhuangProps="2,Mdefense,280000-344000|3,Mattack,280000-344000|4,MaxLifeV,412000|5,Defense,90000-124000" />
+   <TaoZhuang ID="181602" Name="Thuộc tính bộ bậc 18" GoodsID="1050018,1050118,1050218,1050318,1050418" Multi="0" TaoZhuangProps="2,Mdefense,280000-344000|3,Mattack,280000-344000|4,MaxLifeV,412000|5,Defense,90000-124000" />
+   <TaoZhuang ID="181702" Name="Thuộc tính bộ bậc 18" GoodsID="1060018,1060118,1060218,1060318,1060418" Multi="0" TaoZhuangProps="2,Mdefense,280000-344000|3,Mattack,280000-344000|4,MaxLifeV,412000|5,Defense,90000-124000" />
+   <TaoZhuang ID="181802" Name="Thuộc tính bộ bậc 18" GoodsID="1070018,1070118,1070218,1070318,1070418" Multi="0" TaoZhuangProps="2,Mdefense,280000-344000|3,Mattack,280000-344000|4,MaxLifeV,412000|5,Defense,90000-124000" />
+
+   <TaoZhuang ID="191102" Name="Thuộc tính bộ bậc 19" GoodsID="1000019,1000119,1000219,1000319,1000419" Multi="0" TaoZhuangProps="2,Mdefense,360000-488000|3,Attack,360000-488000|4,MaxLifeV,724000|5,Defense,136000-168800" />
+   <TaoZhuang ID="191202" Name="Thuộc tính bộ bậc 19" GoodsID="1010019,1010119,1010219,1010319,1010419" Multi="0" TaoZhuangProps="2,Mdefense,360000-488000|3,Mattack,360000-488000|4,MaxLifeV,724000|5,Defense,136000-168800" />
+   <TaoZhuang ID="191302" Name="Thuộc tính bộ bậc 19" GoodsID="1020019,1020119,1020219,1020319,1020419" Multi="0" TaoZhuangProps="2,Mdefense,360000-488000|3,Attack,360000-488000|4,MaxLifeV,724000|5,Defense,136000-168800" />
+   <TaoZhuang ID="191402" Name="Thuộc tính bộ bậc 19" GoodsID="1030019,1030119,1030219,1030319,1030419" Multi="0" TaoZhuangProps="2,Mdefense,360000-488000|3,Attack,360000-488000|4,MaxLifeV,724000|5,Defense,136000-168800" />
+   <TaoZhuang ID="191502" Name="Thuộc tính bộ bậc 19" GoodsID="1040019,1040119,1040219,1040319,1040419" Multi="0" TaoZhuangProps="2,Mdefense,360000-488000|3,Mattack,360000-488000|4,MaxLifeV,724000|5,Defense,136000-168800" />
+   <TaoZhuang ID="191602" Name="Thuộc tính bộ bậc 19" GoodsID="1050019,1050119,1050219,1050319,1050419" Multi="0" TaoZhuangProps="2,Mdefense,360000-488000|3,Mattack,360000-488000|4,MaxLifeV,724000|5,Defense,136000-168800" />
+   <TaoZhuang ID="191702" Name="Thuộc tính bộ bậc 19" GoodsID="1060019,1060119,1060219,1060319,1060419" Multi="0" TaoZhuangProps="2,Mdefense,360000-488000|3,Mattack,360000-488000|4,MaxLifeV,724000|5,Defense,136000-168800" />
+   <TaoZhuang ID="191802" Name="Thuộc tính bộ bậc 19" GoodsID="1070019,1070119,1070219,1070319,1070419" Multi="0" TaoZhuangProps="2,Mdefense,360000-488000|3,Mattack,360000-488000|4,MaxLifeV,724000|5,Defense,136000-168800" />
+
+   <TaoZhuang ID="201102" Name="Thuộc tính bộ bậc 20" GoodsID="1000020,1000120,1000220,1000320,1000420" Multi="0" TaoZhuangProps="2,Mdefense,520000-776000|3,Attack,520000-776000|4,MaxLifeV,1024000|5,Defense,190000-246000" />
+   <TaoZhuang ID="201202" Name="Thuộc tính bộ bậc 20" GoodsID="1010020,1010120,1010220,1010320,1010420" Multi="0" TaoZhuangProps="2,Mdefense,520000-776000|3,Mattack,520000-776000|4,MaxLifeV,1024000|5,Defense,190000-246000" />
+   <TaoZhuang ID="201302" Name="Thuộc tính bộ bậc 20" GoodsID="1020020,1020120,1020220,1020320,1020420" Multi="0" TaoZhuangProps="2,Mdefense,520000-776000|3,Attack,520000-776000|4,MaxLifeV,1024000|5,Defense,190000-246000" />
+   <TaoZhuang ID="201402" Name="Thuộc tính bộ bậc 20" GoodsID="1030020,1030120,1030220,1030320,1030420" Multi="0" TaoZhuangProps="2,Mdefense,520000-776000|3,Attack,520000-776000|4,MaxLifeV,1024000|5,Defense,190000-246000" />
+   <TaoZhuang ID="201502" Name="Thuộc tính bộ bậc 20" GoodsID="1040020,1040120,1040220,1040320,1040420" Multi="0" TaoZhuangProps="2,Mdefense,520000-776000|3,Mattack,520000-776000|4,MaxLifeV,1024000|5,Defense,190000-246000" />
+   <TaoZhuang ID="201602" Name="Thuộc tính bộ bậc 20" GoodsID="1050020,1050120,1050220,1050320,1050420" Multi="0" TaoZhuangProps="2,Mdefense,520000-776000|3,Mattack,520000-776000|4,MaxLifeV,1024000|5,Defense,190000-246000" /> 
+   <TaoZhuang ID="201702" Name="Thuộc tính bộ bậc 20" GoodsID="1060020,1060120,1060220,1060320,1060420" Multi="0" TaoZhuangProps="2,Mdefense,520000-776000|3,Mattack,520000-776000|4,MaxLifeV,1024000|5,Defense,190000-246000" /> 
+   <TaoZhuang ID="201802" Name="Thuộc tính bộ bậc 20" GoodsID="1070020,1070120,1070220,1070320,1070420" Multi="0" TaoZhuangProps="2,Mdefense,520000-776000|3,Mattack,520000-776000|4,MaxLifeV,1024000|5,Defense,190000-246000" /> 
+
+   <TaoZhuang ID="211102" Name="Thuộc tính bộ bậc 21" GoodsID="1000021,1000121,1000221,1000321,1000421" Multi="0" TaoZhuangProps="2,Mdefense,820000-1076000|3,Attack,820000-1076000|4,MaxLifeV,1524000|5,Defense,260000-326000" />
+   <TaoZhuang ID="211202" Name="Thuộc tính bộ bậc 21" GoodsID="1010021,1010121,1010221,1010321,1010421" Multi="0" TaoZhuangProps="2,Mdefense,820000-1076000|3,Mattack,820000-1076000|4,MaxLifeV,1524000|5,Defense,260000-326000" />
+   <TaoZhuang ID="211302" Name="Thuộc tính bộ bậc 21" GoodsID="1020021,1020121,1020221,1020321,1020421" Multi="0" TaoZhuangProps="2,Mdefense,820000-1076000|3,Attack,820000-1076000|4,MaxLifeV,1524000|5,Defense,260000-326000" />
+   <TaoZhuang ID="211402" Name="Thuộc tính bộ bậc 21" GoodsID="1030021,1030121,1030221,1030321,1030421" Multi="0" TaoZhuangProps="2,Mdefense,820000-1076000|3,Attack,820000-1076000|4,MaxLifeV,1524000|5,Defense,260000-326000" />
+   <TaoZhuang ID="211502" Name="Thuộc tính bộ bậc 21" GoodsID="1040021,1040121,1040221,1040321,1040421" Multi="0" TaoZhuangProps="2,Mdefense,820000-1076000|3,Mattack,820000-1076000|4,MaxLifeV,1524000|5,Defense,260000-326000" />
+   <TaoZhuang ID="211602" Name="Thuộc tính bộ bậc 21" GoodsID="1050021,1050121,1050221,1050321,1050421" Multi="0" TaoZhuangProps="2,Mdefense,820000-1076000|3,Mattack,820000-1076000|4,MaxLifeV,1524000|5,Defense,260000-326000" />
+   <TaoZhuang ID="211702" Name="Thuộc tính bộ bậc 21" GoodsID="1060021,1060121,1060221,1060321,1060421" Multi="0" TaoZhuangProps="2,Mdefense,820000-1076000|3,Mattack,820000-1076000|4,MaxLifeV,1524000|5,Defense,260000-326000" />
+   <TaoZhuang ID="211802" Name="Thuộc tính bộ bậc 21" GoodsID="1070021,1070121,1070221,1070321,1070421" Multi="0" TaoZhuangProps="2,Mdefense,820000-1076000|3,Mattack,820000-1076000|4,MaxLifeV,1524000|5,Defense,260000-326000" />
+
+   <TaoZhuang ID="221102" Name="Thuộc tính bộ bậc 22" GoodsID="1000022,1000122,1000222,1000322,1000422" Multi="0" TaoZhuangProps="2,Mdefense,1220000-1476000|3,Attack,1220000-1476000|4,MaxLifeV,2096000|5,Defense,360000-436000" />
+   <TaoZhuang ID="221202" Name="Thuộc tính bộ bậc 22" GoodsID="1010022,1010122,1010222,1010322,1010422" Multi="0" TaoZhuangProps="2,Mdefense,1220000-1476000|3,Mattack,1220000-1476000|4,MaxLifeV,2096000|5,Defense,360000-436000" />
+   <TaoZhuang ID="221302" Name="Thuộc tính bộ bậc 22" GoodsID="1020022,1020122,1020222,1020322,1020422" Multi="0" TaoZhuangProps="2,Mdefense,1220000-1476000|3,Attack,1220000-1476000|4,MaxLifeV,2096000|5,Defense,360000-436000" />
+   <TaoZhuang ID="221402" Name="Thuộc tính bộ bậc 22" GoodsID="1030022,1030122,1030222,1030322,1030422" Multi="0" TaoZhuangProps="2,Mdefense,1220000-1476000|3,Attack,1220000-1476000|4,MaxLifeV,2096000|5,Defense,360000-436000" />
+   <TaoZhuang ID="221502" Name="Thuộc tính bộ bậc 22" GoodsID="1040022,1040122,1040222,1040322,1040422" Multi="0" TaoZhuangProps="2,Mdefense,1220000-1476000|3,Mattack,1220000-1476000|4,MaxLifeV,2096000|5,Defense,360000-436000" />
+   <TaoZhuang ID="221602" Name="Thuộc tính bộ bậc 22" GoodsID="1050022,1050122,1050222,1050322,1050422" Multi="0" TaoZhuangProps="2,Mdefense,1220000-1476000|3,Mattack,1220000-1476000|4,MaxLifeV,2096000|5,Defense,360000-436000" /> 
+   <TaoZhuang ID="221702" Name="Thuộc tính bộ bậc 22" GoodsID="1060022,1060122,1060222,1060322,1060422" Multi="0" TaoZhuangProps="2,Mdefense,1220000-1476000|3,Mattack,1220000-1476000|4,MaxLifeV,2096000|5,Defense,360000-436000" /> 
+   <TaoZhuang ID="221802" Name="Thuộc tính bộ bậc 22" GoodsID="1070022,1070122,1070222,1070322,1070422" Multi="0" TaoZhuangProps="2,Mdefense,1220000-1476000|3,Mattack,1220000-1476000|4,MaxLifeV,2096000|5,Defense,360000-436000" /> 
+
+   <TaoZhuang ID="231102" Name="Thuộc tính bộ bậc 23" GoodsID="1000023,1000123,1000223,1000323,1000423" Multi="0" TaoZhuangProps="2,Mdefense,1620000-1876000|3,Attack,1620000-1876000|4,MaxLifeV,2796000|5,Defense,457000-556000" />
+   <TaoZhuang ID="231202" Name="Thuộc tính bộ bậc 23" GoodsID="1010023,1010123,1010223,1010323,1010423" Multi="0" TaoZhuangProps="2,Mdefense,1620000-1876000|3,Mattack,1620000-1876000|4,MaxLifeV,2796000|5,Defense,457000-556000" />
+   <TaoZhuang ID="231302" Name="Thuộc tính bộ bậc 23" GoodsID="1020023,1020123,1020223,1020323,1020423" Multi="0" TaoZhuangProps="2,Mdefense,1620000-1876000|3,Attack,1620000-1876000|4,MaxLifeV,2796000|5,Defense,457000-556000" />
+   <TaoZhuang ID="231402" Name="Thuộc tính bộ bậc 23" GoodsID="1030023,1030123,1030223,1030323,1030423" Multi="0" TaoZhuangProps="2,Mdefense,1620000-1876000|3,Attack,1620000-1876000|4,MaxLifeV,2796000|5,Defense,457000-556000" />
+   <TaoZhuang ID="231502" Name="Thuộc tính bộ bậc 23" GoodsID="1040023,1040123,1040223,1040323,1040423" Multi="0" TaoZhuangProps="2,Mdefense,1620000-1876000|3,Mattack,1620000-1876000|4,MaxLifeV,2796000|5,Defense,457000-556000" />
+   <TaoZhuang ID="231602" Name="Thuộc tính bộ bậc 23" GoodsID="1050023,1050123,1050223,1050323,1050423" Multi="0" TaoZhuangProps="2,Mdefense,1620000-1876000|3,Mattack,1620000-1876000|4,MaxLifeV,2796000|5,Defense,457000-556000" /> 
+   <TaoZhuang ID="231702" Name="Thuộc tính bộ bậc 23" GoodsID="1060023,1060123,1060223,1060323,1060423" Multi="0" TaoZhuangProps="2,Mdefense,1620000-1876000|3,Mattack,1620000-1876000|4,MaxLifeV,2796000|5,Defense,457000-556000" /> 
+   <TaoZhuang ID="231802" Name="Thuộc tính bộ bậc 23" GoodsID="1070023,1070123,1070223,1070323,1070423" Multi="0" TaoZhuangProps="2,Mdefense,1620000-1876000|3,Mattack,1620000-1876000|4,MaxLifeV,2796000|5,Defense,457000-556000" /> 
+
+   <TaoZhuang ID="241102" Name="Thuộc tính bộ bậc 24" GoodsID="1000024,1000124,1000224,1000324,1000424" Multi="0" TaoZhuangProps="2,Mdefense,2120000-2476000|3,Attack,2120000-2476000|4,MaxLifeV,3596000|5,Defense,610000-736000" />
+   <TaoZhuang ID="241202" Name="Thuộc tính bộ bậc 24" GoodsID="1010024,1010124,1010224,1010324,1010424" Multi="0" TaoZhuangProps="2,Mdefense,2120000-2476000|3,Mattack,2120000-2476000|4,MaxLifeV,3596000|5,Defense,610000-736000" />
+   <TaoZhuang ID="241302" Name="Thuộc tính bộ bậc 24" GoodsID="1020024,1020124,1020224,1020324,1020424" Multi="0" TaoZhuangProps="2,Mdefense,2120000-2476000|3,Attack,2120000-2476000|4,MaxLifeV,3596000|5,Defense,610000-736000" />
+   <TaoZhuang ID="241402" Name="Thuộc tính bộ bậc 24" GoodsID="1030024,1030124,1030224,1030324,1030424" Multi="0" TaoZhuangProps="2,Mdefense,2120000-2476000|3,Attack,2120000-2476000|4,MaxLifeV,3596000|5,Defense,610000-736000" />
+   <TaoZhuang ID="241502" Name="Thuộc tính bộ bậc 24" GoodsID="1040024,1040124,1040224,1040324,1040424" Multi="0" TaoZhuangProps="2,Mdefense,2120000-2476000|3,Mattack,2120000-2476000|4,MaxLifeV,3596000|5,Defense,610000-736000" />
+   <TaoZhuang ID="241602" Name="Thuộc tính bộ bậc 24" GoodsID="1050024,1050124,1050224,1050324,1050424" Multi="0" TaoZhuangProps="2,Mdefense,2120000-2476000|3,Mattack,2120000-2476000|4,MaxLifeV,3596000|5,Defense,610000-736000" /> 
+   <TaoZhuang ID="241702" Name="Thuộc tính bộ bậc 24" GoodsID="1060024,1060124,1060224,1060324,1060424" Multi="0" TaoZhuangProps="2,Mdefense,2120000-2476000|3,Mattack,2120000-2476000|4,MaxLifeV,3596000|5,Defense,610000-736000" /> 
+   <TaoZhuang ID="241802" Name="Thuộc tính bộ bậc 24" GoodsID="1070024,1070124,1070224,1070324,1070424" Multi="0" TaoZhuangProps="2,Mdefense,2120000-2476000|3,Mattack,2120000-2476000|4,MaxLifeV,3596000|5,Defense,610000-736000" /> 
+
+   <TaoZhuang ID="251102" Name="Thuộc tính bộ bậc 25" GoodsID="1000025,1000125,1000225,1000325,1000425" Multi="0" TaoZhuangProps="2,Mdefense,2620000-3076000|3,Attack,2620000-3076000|4,MaxLifeV,4596000|5,Defense,800000-1076000" />
+   <TaoZhuang ID="251202" Name="Thuộc tính bộ bậc 25" GoodsID="1010025,1010125,1010225,1010325,1010425" Multi="0" TaoZhuangProps="2,Mdefense,2620000-3076000|3,Mattack,2620000-3076000|4,MaxLifeV,4596000|5,Defense,800000-1076000" />
+   <TaoZhuang ID="251302" Name="Thuộc tính bộ bậc 25" GoodsID="1020025,1020125,1020225,1020325,1020425" Multi="0" TaoZhuangProps="2,Mdefense,2620000-3076000|3,Attack,2620000-3076000|4,MaxLifeV,4596000|5,Defense,800000-1076000" />
+   <TaoZhuang ID="251402" Name="Thuộc tính bộ bậc 25" GoodsID="1030025,1030125,1030225,1030325,1030425" Multi="0" TaoZhuangProps="2,Mdefense,2620000-3076000|3,Attack,2620000-3076000|4,MaxLifeV,4596000|5,Defense,800000-1076000" />
+   <TaoZhuang ID="251502" Name="Thuộc tính bộ bậc 25" GoodsID="1040025,1040125,1040225,1040325,1040425" Multi="0" TaoZhuangProps="2,Mdefense,2620000-3076000|3,Mattack,2620000-3076000|4,MaxLifeV,4596000|5,Defense,800000-1076000" />
+   <TaoZhuang ID="251602" Name="Thuộc tính bộ bậc 25" GoodsID="1050025,1050125,1050225,1050325,1050425" Multi="0" TaoZhuangProps="2,Mdefense,2620000-3076000|3,Mattack,2620000-3076000|4,MaxLifeV,4596000|5,Defense,800000-1076000" /> 
+   <TaoZhuang ID="251702" Name="Thuộc tính bộ bậc 25" GoodsID="1060025,1060125,1060225,1060325,1060425" Multi="0" TaoZhuangProps="2,Mdefense,2620000-3076000|3,Mattack,2620000-3076000|4,MaxLifeV,4596000|5,Defense,800000-1076000" /> 
+   <TaoZhuang ID="251802" Name="Thuộc tính bộ bậc 25" GoodsID="1070025,1070125,1070225,1070325,1070425" Multi="0" TaoZhuangProps="2,Mdefense,2620000-3076000|3,Mattack,2620000-3076000|4,MaxLifeV,4596000|5,Defense,800000-1076000" /> 
+ 
+  
+</Config>"

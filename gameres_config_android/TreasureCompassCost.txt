@@ -1,0 +1,15 @@
+TextAsset Base
+	string m_Name = "TreasureCompassCost"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <TreasureCompassCost ID="1" cost="50" />
+  <TreasureCompassCost ID="2" cost="100" />
+  <TreasureCompassCost ID="3" cost="150" />
+  <TreasureCompassCost ID="4" cost="200" />
+  <TreasureCompassCost ID="5" cost="200" />
+  <TreasureCompassCost ID="6" cost="200" />
+  <TreasureCompassCost ID="7" cost="200" />
+  <TreasureCompassCost ID="8" cost="200" />
+  <TreasureCompassCost ID="9" cost="200" />
+  <TreasureCompassCost ID="10" cost="200" />
+</Config>"

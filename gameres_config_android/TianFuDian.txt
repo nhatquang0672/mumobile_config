@@ -1,0 +1,41 @@
+TextAsset Base
+	string m_Name = "TianFuDian"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <TianFuDian TianFuDian="1" NeedExp="12000000000" NeedLevel="8,01" />
+  <TianFuDian TianFuDian="2" NeedExp="15000000000" NeedLevel="8,40" />
+  <TianFuDian TianFuDian="3" NeedExp="18000000000" NeedLevel="8,80" />
+  <TianFuDian TianFuDian="4" NeedExp="21000000000" NeedLevel="9,01" />
+  <TianFuDian TianFuDian="5" NeedExp="24000000000" NeedLevel="9,40" />
+  <TianFuDian TianFuDian="6" NeedExp="27000000000" NeedLevel="9,80" />
+  <TianFuDian TianFuDian="7" NeedExp="30000000000" NeedLevel="10,01" />
+  <TianFuDian TianFuDian="8" NeedExp="33000000000" NeedLevel="10,40" />
+  <TianFuDian TianFuDian="9" NeedExp="36000000000" NeedLevel="10,80" />
+  <TianFuDian TianFuDian="10" NeedExp="39000000000" NeedLevel="10,90" />
+  <TianFuDian TianFuDian="11" NeedExp="42000000000" NeedLevel="11,01" />
+  <TianFuDian TianFuDian="12" NeedExp="45000000000" NeedLevel="11,10" />
+  <TianFuDian TianFuDian="13" NeedExp="48000000000" NeedLevel="11,20" />
+  <TianFuDian TianFuDian="14" NeedExp="51000000000" NeedLevel="11,30" />
+  <TianFuDian TianFuDian="15" NeedExp="54000000000" NeedLevel="11,40" />
+  <TianFuDian TianFuDian="16" NeedExp="57000000000" NeedLevel="11,50" />
+  <TianFuDian TianFuDian="17" NeedExp="600000000000" NeedLevel="11,60" />
+  <TianFuDian TianFuDian="18" NeedExp="630000000000" NeedLevel="11,70" />
+  <TianFuDian TianFuDian="19" NeedExp="660000000000" NeedLevel="11,80" />
+  <TianFuDian TianFuDian="20" NeedExp="690000000000" NeedLevel="11,90" />
+  <TianFuDian TianFuDian="21" NeedExp="720000000000" NeedLevel="12,01" />
+  <TianFuDian TianFuDian="22" NeedExp="750000000000" NeedLevel="12,10" />
+  <TianFuDian TianFuDian="23" NeedExp="780000000000" NeedLevel="12,20" />
+  <TianFuDian TianFuDian="24" NeedExp="810000000000" NeedLevel="12,30" />
+  <TianFuDian TianFuDian="25" NeedExp="840000000000" NeedLevel="12,40" />
+  <TianFuDian TianFuDian="26" NeedExp="870000000000" NeedLevel="12,50" />
+  <TianFuDian TianFuDian="27" NeedExp="900000000000" NeedLevel="12,60" />
+  <TianFuDian TianFuDian="28" NeedExp="930000000000" NeedLevel="12,70" />
+  <TianFuDian TianFuDian="29" NeedExp="960000000000" NeedLevel="12,80" />
+  <TianFuDian TianFuDian="30" NeedExp="990000000000" NeedLevel="12,90" />
+  <TianFuDian TianFuDian="31" NeedExp="990000000000" NeedLevel="13,01" />
+  <TianFuDian TianFuDian="32" NeedExp="990000000000" NeedLevel="13,20" />
+  <TianFuDian TianFuDian="33" NeedExp="990000000000" NeedLevel="13,40" />
+  <TianFuDian TianFuDian="34" NeedExp="990000000000" NeedLevel="13,60" />
+  <TianFuDian TianFuDian="35" NeedExp="990000000000" NeedLevel="13,80" />
+  <TianFuDian TianFuDian="36" NeedExp="990000000000" NeedLevel="100,100" />
+</Config>"

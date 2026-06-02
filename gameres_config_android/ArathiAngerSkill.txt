@@ -1,0 +1,17 @@
+TextAsset Base
+	string m_Name = "ArathiAngerSkill"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <ArathiAngerSkill ID="1" Goods="2000875" GoodsRefreshWeight="100" MagicQuality="1" Time="30" DecorationID="17048" />
+  <ArathiAngerSkill ID="2" Goods="2000876" GoodsRefreshWeight="200" MagicQuality="2" Time="30" DecorationID="17049" />
+  <ArathiAngerSkill ID="3" Goods="2000877" GoodsRefreshWeight="100" MagicQuality="3" Time="30" DecorationID="17050" />
+  <ArathiAngerSkill ID="4" Goods="2000878" GoodsRefreshWeight="100" MagicQuality="4" Time="30" DecorationID="17051" />
+  <ArathiAngerSkill ID="5" Goods="2000879" GoodsRefreshWeight="100" MagicQuality="1" Time="30" DecorationID="17044" />
+  <ArathiAngerSkill ID="6" Goods="2000880" GoodsRefreshWeight="100" MagicQuality="2" Time="30" DecorationID="17045" />
+  <ArathiAngerSkill ID="7" Goods="2000881" GoodsRefreshWeight="100" MagicQuality="3" Time="30" DecorationID="17046" />
+  <ArathiAngerSkill ID="8" Goods="2000882" GoodsRefreshWeight="100" MagicQuality="4" Time="30" DecorationID="17047" />
+  <ArathiAngerSkill ID="9" Goods="2000883" GoodsRefreshWeight="100" MagicQuality="1" Time="30" DecorationID="17052" />
+  <ArathiAngerSkill ID="10" Goods="2000884" GoodsRefreshWeight="100" MagicQuality="2" Time="30" DecorationID="17053" />
+  <ArathiAngerSkill ID="11" Goods="2000885" GoodsRefreshWeight="100" MagicQuality="3" Time="30" DecorationID="17054" />
+  <ArathiAngerSkill ID="12" Goods="2000886" GoodsRefreshWeight="100" MagicQuality="4" Time="30" DecorationID="17055" />
+</config>"

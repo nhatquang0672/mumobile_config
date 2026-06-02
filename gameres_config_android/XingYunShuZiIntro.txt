@@ -1,0 +1,11 @@
+TextAsset Base
+	string m_Name = "XingYunShuZiIntro"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Số May Mắn" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, HĐ Số May Mắn kéo dài 4 ngày, 3 ngày đầu có thể rút Số May Mắn" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, Tiêu hao đạo cụ nhất định để rút Số May Mắn, mỗi ngày chỉ rút 1 lần, con số nhận được ở mỗi lần là ngẫu nhiên" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, Hàng Số May Mắn sẽ mở lần lượt, phải mở hàng trước xong mới được mở tiếp hàng sau" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, Sau khi rút Số May Mắn ngày thứ 3 hoặc ở ngày thứ 4 của HĐ mới có thể nhận thưởng" Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5, Số lượng thưởng nhận được là tổng số may mắn lắc được trong cả thời gian HĐ" Bold="0" />
+</Config>"

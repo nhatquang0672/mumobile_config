@@ -1,0 +1,16 @@
+TextAsset Base
+	string m_Name = "LegionTasks"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <LegionTasks ID="1001" CompleteType="1" TypeID="5090,6090,7090,8090,9090,10090,11090,12090,13090" NumInterval="18" Name="BOSS Liên SV" Describtion="Kích sát BOSS Liên SV {0} lần" Exp="20000000" ZhanGong="2000" Item="" Score="10000" />
+  <LegionTasks ID="1002" CompleteType="1" TypeID="5009,5010,5011,6009,6010,6011,7007,7008,7009,8007,8008,8009,9007,9008,9009,10007,10008,10009,11006,11007,11008,12007,12008,12009,13007,13008,13009" NumInterval="240" Name="Tinh Anh Liên SV" Describtion="Kích sát Tinh Anh Liên SV {0} lần" Exp="20000000" ZhanGong="2000" Item="" Score="10000" />
+  <LegionTasks ID="1003" CompleteType="3" TypeID="0" NumInterval="500" Name="Chế Bá Ranking" Describtion="Thắng Ranking {0} lần" Exp="20000000" ZhanGong="2000" Item="" Score="10000" />
+  <LegionTasks ID="1004" CompleteType="1" TypeID="9300000,9300001,9300002,9300003,9300008,9300009,9300010,9300011" NumInterval="10000" Name="Lãnh Địa Ma Vật" Describtion="Kích sát quái lãnh địa Quân Đoàn {0} lần" Exp="20000000" ZhanGong="2000" Item="" Score="10000" />
+  <LegionTasks ID="1005" CompleteType="4" TypeID="43" NumInterval="200" Name="Lãnh Địa Thanh Diệt" Describtion="Kích sát người chơi lãnh địa Quân Đoàn {0} lần" Exp="20000000" ZhanGong="2000" Item="" Score="10000" />
+  <LegionTasks ID="1006" CompleteType="5" TypeID="70000,70100,70200,70300" NumInterval="650" Name="Phó Bản Liên SV" Describtion="Hoàn thành phó bản Liên SV {0} lần" Exp="20000000" ZhanGong="2000" Item="" Score="10000" />
+  <LegionTasks ID="1007" CompleteType="1" TypeID="5090,6090,7090,8090,9090,10090,11090,12090,13090" NumInterval="30" Name="BOSS Liên SV （Tiến bậc）" Describtion="Kích sát BOSS Liên SV {0} lần" Exp="20000000" ZhanGong="2000" Item="" Score="10000" />
+  <LegionTasks ID="1008" CompleteType="1" TypeID="5090,6090,7090,8090,9090,10090,11090,12090,13090" NumInterval="42" Name=" BOSS Liên SV （Cuối）" Describtion="Kích sát BOSS Liên SV {0} lần" Exp="20000000" ZhanGong="2000" Item="" Score="10000" />
+  <LegionTasks ID="1009" CompleteType="1" TypeID="5009,5010,5011,6009,6010,6011,7007,7008,7009,8007,8008,8009,9007,9008,9009,10007,10008,10009,11006,11007,11008,12007,12008,12009,13007,13008,13009" NumInterval="360" Name="Tinh Anh Liên SV （Tiến bậc）" Describtion="Kích sát Tinh Anh Liên SV {0} lần" Exp="20000000" ZhanGong="2000" Item="" Score="10000" />
+  <LegionTasks ID="1010" CompleteType="1" TypeID="5090,6090,7090,8090,9090,10090,11090,12090,13090" NumInterval="60" Name="BOSS Liên SV (Cuối)" Describtion="Kích sát BOSS Liên SV {0} lần" Exp="20000000" ZhanGong="2000" Item="" Score="10000" />
+  <LegionTasks ID="1011" CompleteType="1" TypeID="5009,5010,5011,6009,6010,6011,7007,7008,7009,8007,8008,8009,9007,9008,9009,10007,10008,10009,11006,11007,11008,12007,12008,12009,13007,13008,13009" NumInterval="720" Name="Tinh Anh Liên SV (Cuối)" Describtion="Kích sát Tinh Anh Liên SV {0} lần" Exp="20000000" ZhanGong="2000" Item="" Score="10000" />
+</Config>"

@@ -1,0 +1,5 @@
+TextAsset Base
+	string m_Name = "CrossServiceMonsterTime"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+</Config>"

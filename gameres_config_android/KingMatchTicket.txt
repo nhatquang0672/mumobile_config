@@ -1,0 +1,7 @@
+TextAsset Base
+	string m_Name = "KingMatchTicket"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <KingMatchTicket ID="40" Type="1" Price="1000" />
+  <KingMatchTicket ID="5594" Type="2" Price="1" />
+</Config>"

@@ -1,0 +1,6 @@
+TextAsset Base
+	string m_Name = "TreasureCompassGet"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <TreasureCompassGet ID="1" Gift="1,50000|199,200" GiftCost="196,200" LiBaoDec="Mua Gói Vàng, tặng 200 Xu Thám Hiểm, có thể dùng để rút thưởng La Bàn Tầm Bảo" IsGive="0,0" GetLiBaoName="Gói Vàng, Gói Thám Hiểm" />
+</Config>"

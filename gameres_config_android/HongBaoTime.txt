@@ -1,0 +1,17 @@
+TextAsset Base
+	string m_Name = "HongBaoTime"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HongBaoTime ID="1" Stage="1" AwardLib="1" OpenTime="2021-02-11 20:00:00" Countdown="10" />
+  <HongBaoTime ID="2" Stage="1" AwardLib="1" OpenTime="2021-02-11 20:30:00" Countdown="10" />
+  <HongBaoTime ID="3" Stage="1" AwardLib="1" OpenTime="2021-02-11 21:00:00" Countdown="10" />
+  <HongBaoTime ID="4" Stage="2" AwardLib="2" OpenTime="2021-02-12 00:00:00" Countdown="5" />
+  <HongBaoTime ID="5" Stage="2" AwardLib="2" OpenTime="2021-02-12 00:10:00" Countdown="5" />
+  <HongBaoTime ID="6" Stage="2" AwardLib="2" OpenTime="2021-02-12 00:20:00" Countdown="5" />
+  <HongBaoTime ID="7" Stage="1" AwardLib="1" OpenTime="2021-02-12 12:00:00" Countdown="60" />
+  <HongBaoTime ID="8" Stage="1" AwardLib="1" OpenTime="2021-02-12 20:00:00" Countdown="60" />
+  <HongBaoTime ID="9" Stage="3" AwardLib="3" OpenTime="2021-02-13 12:00:00" Countdown="60" />
+  <HongBaoTime ID="10" Stage="3" AwardLib="3" OpenTime="2021-02-13 20:00:00" Countdown="60" />
+  <HongBaoTime ID="11" Stage="3" AwardLib="3" OpenTime="2021-02-14 12:00:00" Countdown="60" />
+  <HongBaoTime ID="12" Stage="3" AwardLib="3" OpenTime="2021-02-14 20:00:00" Countdown="60" />
+</Config>"

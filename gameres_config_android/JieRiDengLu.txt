@@ -1,0 +1,14 @@
+TextAsset Base
+	string m_Name = "JieRiDengLu"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="10" FromDate="2022-11-01 00:00:00" ToDate="2022-11-07 23:59:59" AwardStartDate="2022-11-01 00:00:00" AwardEndDate="2022-11-07 23:59:59" />
+  <GiftList Description="Tích lũy đăng nhập đạt số lượng ngày tương ứng sẽ nhận được quà khủng!">
+    <Award TimeOl="1" GoodsOne="30152583,1,1,0,0,0,0|30151336,1,1,0,0,0,0|23004,10,1,0,0,0,0|32002,1,1,0,0,0,0|51182,40,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award TimeOl="2" GoodsOne="30152583,1,1,0,0,0,0|8609,30,1,0,0,0,0|23004,10,1,0,0,0,0|30151702,1,1,0,0,0,0|51182,100,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award TimeOl="3" GoodsOne="30152583,1,1,0,0,0,0|8609,30,1,0,0,0,0|63265,10,1,0,0,0,0|32002,1,1,0,0,0,0|30152791,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award TimeOl="4" GoodsOne="30152583,1,1,0,0,0,0|8609,30,1,0,0,0,0|23004,10,1,0,0,0,0|32002,2,1,0,0,0,0|30152791,1,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award TimeOl="5" GoodsOne="30152583,1,1,0,0,0,0|30152719,1,1,0,0,0,0|63265,10,1,0,0,0,0|302712791,1,1,0,0,0,0|30152791,2,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award TimeOl="6" GoodsOne="30152583,1,1,0,0,0,0|8609,30,1,0,0,0,0|30151702,1,1,0,0,0,0|1034467,1,1,0,0,0,0|30152791,2,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+  </GiftList>
+</Config>"

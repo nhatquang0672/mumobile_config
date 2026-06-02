@@ -1,0 +1,11 @@
+TextAsset Base
+	string m_Name = "Star"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Star ID="1" Starid="1" StarWeaponType="1" StarName="Thiên Tinh Sinh Mệnh" StarMod="huanjiaxing_effect_lv.unity3d" StarPic="BigStar1.png" StarSmallPic="star6.png" StarPos="-102,133" StarLock="1,100" StarLockPic="chenghao.png" StarLockDec="Sở hữu 100 chiếc Danh Hiệu" StarGoods="400001,1" StarSkill="40001" StarPro="DeFirePenetration,0.05" IsLev="1" />
+  <Star ID="2" Starid="2" StarWeaponType="1" StarName="Thiên Tinh Vạn Vật" StarMod="huanjiaxing_effect_lan.unity3d" StarPic="BigStar2.png" StarSmallPic="star1.png" StarPos="-243,15" StarLock="2,280" StarLockPic="jingling.png" StarLockDec="Tổng level Tinh Linh lên trận đạt 280 cấp" StarGoods="400002,1" StarSkill="40002" StarPro="DeWaterPenetration,0.05" IsLev="1" />
+  <Star ID="3" Starid="3" StarWeaponType="1" StarName="Thiên Tinh Linh Hồn" StarMod="huanjiaxing_effect_zi.unity3d" StarPic="BigStar3.png" StarSmallPic="star7.png" StarPos="35,15" StarLock="3,50" StarLockPic="chibang.png" StarLockDec="Sở hữu 50 chiếc Thời Trang Cánh" StarGoods="400003,1" StarSkill="40003" StarPro="DeLightningPenetration,0.05" IsLev="1" />
+  <Star ID="4" Starid="4" StarWeaponType="1" StarName="Thiên Tinh Chân Thật" StarMod="huanjiaxing_effect_hong.unity3d" StarPic="BigStar4.png" StarSmallPic="star3.png" StarPos="-198,-96" StarLock="4,80" StarLockPic="zuoqi.png" StarLockDec="Level Thú Cưỡi đạt lv80" StarGoods="400004,1" StarSkill="40004" StarPro="DeSoilPenetration,0.05" IsLev="1" />
+  <Star ID="5" Starid="5" StarWeaponType="1" StarName="Thiên Tinh Vận Mệnh" StarMod="huanjiaxing_effect_cheng.unity3d" StarPic="BigStar5.png" StarSmallPic="star4.png" StarPos="-4,-96" StarLock="6,15" StarLockPic="shizhuang.png" StarLockDec="Nhận 15 bộ Thời Trang" StarGoods="400005,1" StarSkill="40005" StarPro="DeIcePenetration,0.05" IsLev="1" />
+  <Star ID="6" Starid="6" StarWeaponType="1" StarName="Thiên Tinh Thời Gian" StarMod="huanjiaxing_effect_jin.unity3d" StarPic="BigStar6.png" StarSmallPic="star5.png" StarPos="-102,-146" StarLock="-1" StarLockPic="" StarLockDec="" StarGoods="400006,1" StarSkill="40006" StarPro="DeWindPenetration,0.05" IsLev="1" />
+</Config>"

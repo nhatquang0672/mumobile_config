@@ -1,0 +1,8 @@
+TextAsset Base
+	string m_Name = "ArathiAltar"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <ArathiAltar ID="1" AltarID="1" AltarName="Tế đàn A" AltarPos="7830,9860" Occupy="5" JiFen="5,5" AltarArea="525" />
+  <ArathiAltar ID="2" AltarID="2" AltarName="Tế đàn B" AltarPos="5910,6230" Occupy="5" JiFen="5,5" AltarArea="750" />
+  <ArathiAltar ID="3" AltarID="3" AltarName="Tế đàn C" AltarPos="3960,2550" Occupy="5" JiFen="5,5" AltarArea="525" />
+</config>"

@@ -1,0 +1,311 @@
+TextAsset Base
+	string m_Name = "EraContribution"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <EraContribution ID="1" EraID="1" ProgressID="1" GoodsID="960000" Name="Đầu Tượng Thần" Contribution="10" MonsterID="5001" />
+  <EraContribution ID="2" EraID="1" ProgressID="1" GoodsID="960001" Name="Thân Tượng Thần" Contribution="10" MonsterID="6001" />
+  <EraContribution ID="3" EraID="1" ProgressID="1" GoodsID="960002" Name="Tay Tượng Thần" Contribution="10" MonsterID="7001" />
+  <EraContribution ID="4" EraID="1" ProgressID="1" GoodsID="960003" Name="Cọc Gỗ Cổ" Contribution="10" MonsterID="6002" />
+  <EraContribution ID="5" EraID="1" ProgressID="1" GoodsID="960004" Name="Trang Sức Đồ Đằng" Contribution="10" MonsterID="7002" />
+  <EraContribution ID="6" EraID="1" ProgressID="1" GoodsID="960005" Name="Thuốc Màu Tươi" Contribution="10" MonsterID="5002" />
+  <EraContribution ID="7" EraID="1" ProgressID="1" GoodsID="960006" Name="Đá Ánh Trăng" Contribution="10" MonsterID="7003,5004,6005" />
+  <EraContribution ID="8" EraID="1" ProgressID="1" GoodsID="960007" Name="Đầu Gậy Vàng" Contribution="10" MonsterID="5003" />
+  <EraContribution ID="9" EraID="1" ProgressID="1" GoodsID="960008" Name="Trượng Vàng" Contribution="10" MonsterID="6003" />
+  <EraContribution ID="10" EraID="1" ProgressID="1" GoodsID="960009" Name="Cung Đàn Bền" Contribution="10" MonsterID="6004" />
+  <EraContribution ID="11" EraID="1" ProgressID="1" GoodsID="960010" Name="Đàn Kiên Cố" Contribution="100" MonsterID="5009,6009" />
+  <EraContribution ID="12" EraID="1" ProgressID="1" GoodsID="960011" Name="Da Bền" Contribution="10" MonsterID="7004" />
+  <EraContribution ID="13" EraID="1" ProgressID="1" GoodsID="960012" Name="Gỗ Tượng" Contribution="500" MonsterID="5090,6090" />
+  <EraContribution ID="14" EraID="1" ProgressID="2" GoodsID="960013" Name="Thịt Khô Thơm" Contribution="12" MonsterID="6006" />
+  <EraContribution ID="15" EraID="1" ProgressID="2" GoodsID="960014" Name="Trái Cây Xanh" Contribution="12" MonsterID="5005" />
+  <EraContribution ID="16" EraID="1" ProgressID="2" GoodsID="960015" Name="Nước Suối Mát" Contribution="12" MonsterID="7005" />
+  <EraContribution ID="17" EraID="1" ProgressID="2" GoodsID="960016" Name="Nón Sắt" Contribution="12" MonsterID="7006" />
+  <EraContribution ID="18" EraID="1" ProgressID="2" GoodsID="960017" Name="Giáp Sắt" Contribution="12" MonsterID="6007" />
+  <EraContribution ID="19" EraID="1" ProgressID="2" GoodsID="960018" Name="Giáp Chân Sắt" Contribution="12" MonsterID="5006" />
+  <EraContribution ID="20" EraID="1" ProgressID="2" GoodsID="960019" Name="Đá Mặt Trời" Contribution="12" MonsterID="5007,6008,7002" />
+  <EraContribution ID="21" EraID="1" ProgressID="2" GoodsID="960020" Name="Dao Bén" Contribution="12" MonsterID="7001" />
+  <EraContribution ID="22" EraID="1" ProgressID="2" GoodsID="960021" Name="Cán Dao Bền" Contribution="120" MonsterID="7007,6010" />
+  <EraContribution ID="23" EraID="1" ProgressID="2" GoodsID="960022" Name="Dây Cung Bền" Contribution="12" MonsterID="5008" />
+  <EraContribution ID="24" EraID="1" ProgressID="2" GoodsID="960023" Name="Thân Cung Bền" Contribution="120" MonsterID="7008,5010" />
+  <EraContribution ID="25" EraID="1" ProgressID="2" GoodsID="960024" Name="Mũi Tên Thép" Contribution="12" MonsterID="6001" />
+  <EraContribution ID="26" EraID="1" ProgressID="2" GoodsID="960025" Name="Lông Vũ Đen" Contribution="600" MonsterID="7090,6090" />
+  <EraContribution ID="27" EraID="1" ProgressID="3" GoodsID="960026" Name="Nấm Đỏ" Contribution="14" MonsterID="7003" />
+  <EraContribution ID="28" EraID="1" ProgressID="3" GoodsID="960027" Name="Nấm Vàng" Contribution="14" MonsterID="5001" />
+  <EraContribution ID="29" EraID="1" ProgressID="3" GoodsID="960028" Name="Nấm Lục" Contribution="14" MonsterID="6002" />
+  <EraContribution ID="30" EraID="1" ProgressID="3" GoodsID="960029" Name="Hạt Giống Vi Khuẩn" Contribution="14" MonsterID="5002" />
+  <EraContribution ID="31" EraID="1" ProgressID="3" GoodsID="960030" Name="Độc Đầm Lầy" Contribution="14" MonsterID="6003" />
+  <EraContribution ID="32" EraID="1" ProgressID="3" GoodsID="960031" Name="Công Cụ Trồng" Contribution="140" MonsterID="5011,6011" />
+  <EraContribution ID="33" EraID="1" ProgressID="3" GoodsID="960032" Name="Bản Trích Nước Giếng" Contribution="14" MonsterID="6004" />
+  <EraContribution ID="34" EraID="1" ProgressID="3" GoodsID="960033" Name="Bản Trích Nước Sông" Contribution="140" MonsterID="7009,6009" />
+  <EraContribution ID="35" EraID="1" ProgressID="3" GoodsID="960034" Name="Bản Trích Nước Mưa" Contribution="140" MonsterID="7007,5009" />
+  <EraContribution ID="36" EraID="1" ProgressID="3" GoodsID="960035" Name="Bản Trích Đất" Contribution="14" MonsterID="7004" />
+  <EraContribution ID="37" EraID="1" ProgressID="3" GoodsID="960036" Name="Bản Trích Đá" Contribution="14" MonsterID="6005" />
+  <EraContribution ID="38" EraID="1" ProgressID="3" GoodsID="960037" Name="Bản Trích Mỏ Đá" Contribution="140" MonsterID="5010,6010" />
+  <EraContribution ID="39" EraID="1" ProgressID="3" GoodsID="960038" Name="Bản Trích Hoa Cỏ" Contribution="14" MonsterID="5003" />
+  <EraContribution ID="40" EraID="1" ProgressID="3" GoodsID="960039" Name="Bản Trích Lá Cây" Contribution="14" MonsterID="6006" />
+  <EraContribution ID="41" EraID="1" ProgressID="3" GoodsID="960040" Name="Bản Trích Trái Cây" Contribution="700" MonsterID="5090,7090" />
+  <EraContribution ID="42" EraID="1" ProgressID="4" GoodsID="960044" Name="Khiên Nhuốm Máu" Contribution="16" MonsterID="6007" />
+  <EraContribution ID="43" EraID="1" ProgressID="4" GoodsID="960045" Name="Kiếm Hỏng" Contribution="16" MonsterID="5004" />
+  <EraContribution ID="44" EraID="1" ProgressID="4" GoodsID="960046" Name="Rìu Hỏng" Contribution="160" MonsterID="7008,6011" />
+  <EraContribution ID="45" EraID="1" ProgressID="4" GoodsID="960047" Name="Nguồn Tự Nhiên" Contribution="16" MonsterID="7005,5005,6008" />
+  <EraContribution ID="46" EraID="1" ProgressID="4" GoodsID="960048" Name="Nước Sạch" Contribution="160" MonsterID="5011,7009" />
+  <EraContribution ID="47" EraID="1" ProgressID="4" GoodsID="960049" Name="Đồ Đằng Nước" Contribution="160" MonsterID="5009,6009" />
+  <EraContribution ID="48" EraID="1" ProgressID="4" GoodsID="960050" Name="Thổ Nhưỡng Sạch" Contribution="16" MonsterID="7006" />
+  <EraContribution ID="49" EraID="1" ProgressID="4" GoodsID="960051" Name="Đồ Đằng Đất" Contribution="800" MonsterID="5090,6090" />
+  <EraContribution ID="50" EraID="1" ProgressID="4" GoodsID="960052" Name="Hạt Giống Sạch" Contribution="160" MonsterID="6010,7007" />
+  <EraContribution ID="51" EraID="1" ProgressID="4" GoodsID="960053" Name="Đồ Đằng Sinh Mệnh" Contribution="800" MonsterID="7090" />
+  <EraContribution ID="52" EraID="2" ProgressID="1" GoodsID="960054" Name="Dung Nham Nguội" Contribution="10" MonsterID="5001" />
+  <EraContribution ID="53" EraID="2" ProgressID="1" GoodsID="960055" Name="Tung Tích Dị Biến" Contribution="10" MonsterID="6001" />
+  <EraContribution ID="54" EraID="2" ProgressID="1" GoodsID="960056" Name="Ấn Ký Ác Ma" Contribution="10" MonsterID="7001" />
+  <EraContribution ID="55" EraID="2" ProgressID="1" GoodsID="960057" Name="Kim Nam Châm" Contribution="10" MonsterID="6002" />
+  <EraContribution ID="56" EraID="2" ProgressID="1" GoodsID="960058" Name="Thảo Dược Quý" Contribution="10" MonsterID="7002" />
+  <EraContribution ID="57" EraID="2" ProgressID="1" GoodsID="960059" Name="Lộ Trình Di Chuyển" Contribution="10" MonsterID="5002" />
+  <EraContribution ID="58" EraID="2" ProgressID="1" GoodsID="960060" Name="Đất Ngày Trước" Contribution="10" MonsterID="7003,5004,6005" />
+  <EraContribution ID="59" EraID="2" ProgressID="1" GoodsID="960061" Name="Đầu Đạo Tặc" Contribution="10" MonsterID="5003" />
+  <EraContribution ID="60" EraID="2" ProgressID="1" GoodsID="960062" Name="Dao Đạo Tặc" Contribution="10" MonsterID="6003" />
+  <EraContribution ID="61" EraID="2" ProgressID="1" GoodsID="960063" Name="Tim Ác Ma" Contribution="10" MonsterID="6004" />
+  <EraContribution ID="62" EraID="2" ProgressID="1" GoodsID="960064" Name="Sừng Ác Ma" Contribution="100" MonsterID="5009,6009" />
+  <EraContribution ID="63" EraID="2" ProgressID="1" GoodsID="960065" Name="Vũ Khí Hoang" Contribution="10" MonsterID="7004" />
+  <EraContribution ID="64" EraID="2" ProgressID="1" GoodsID="960066" Name="Giáp Hoang" Contribution="500" MonsterID="5090,6090" />
+  <EraContribution ID="65" EraID="2" ProgressID="2" GoodsID="960067" Name="Râu Thần Rồng" Contribution="12" MonsterID="6006" />
+  <EraContribution ID="66" EraID="2" ProgressID="2" GoodsID="960068" Name="Giáp Thần Rồng" Contribution="12" MonsterID="5005" />
+  <EraContribution ID="67" EraID="2" ProgressID="2" GoodsID="960069" Name="Sừng Thần Rồng" Contribution="12" MonsterID="7005" />
+  <EraContribution ID="68" EraID="2" ProgressID="2" GoodsID="960070" Name="Mũi Tên" Contribution="12" MonsterID="7006" />
+  <EraContribution ID="69" EraID="2" ProgressID="2" GoodsID="960071" Name="Cung Bỏ Hoang" Contribution="12" MonsterID="6007" />
+  <EraContribution ID="70" EraID="2" ProgressID="2" GoodsID="960072" Name="Dao Thất Lạc" Contribution="12" MonsterID="5006" />
+  <EraContribution ID="71" EraID="2" ProgressID="2" GoodsID="960073" Name="Sổ Tay Thế Tập" Contribution="12" MonsterID="5007,6008,7002" />
+  <EraContribution ID="72" EraID="2" ProgressID="2" GoodsID="960074" Name="Lệnh Thu Thập" Contribution="12" MonsterID="7001" />
+  <EraContribution ID="73" EraID="2" ProgressID="2" GoodsID="960075" Name="Sách Sử Cổ" Contribution="120" MonsterID="7007,6010" />
+  <EraContribution ID="74" EraID="2" ProgressID="2" GoodsID="960076" Name="Lệnh Gọi Tinh Anh" Contribution="12" MonsterID="5008" />
+  <EraContribution ID="75" EraID="2" ProgressID="2" GoodsID="960077" Name="Thuốc Hồi Phục" Contribution="120" MonsterID="7008,5010" />
+  <EraContribution ID="76" EraID="2" ProgressID="2" GoodsID="960078" Name="Kiếm Sắc Bén" Contribution="12" MonsterID="6001" />
+  <EraContribution ID="77" EraID="2" ProgressID="2" GoodsID="960079" Name="Giáp Bền Vững" Contribution="600" MonsterID="7090,6090" />
+  <EraContribution ID="78" EraID="2" ProgressID="3" GoodsID="960080" Name="Xương Ác Ma" Contribution="14" MonsterID="7003" />
+  <EraContribution ID="79" EraID="2" ProgressID="3" GoodsID="960081" Name="Hồn Ác Ma" Contribution="14" MonsterID="5001" />
+  <EraContribution ID="80" EraID="2" ProgressID="3" GoodsID="960082" Name="Đuôi Ác Ma" Contribution="14" MonsterID="6002" />
+  <EraContribution ID="81" EraID="2" ProgressID="3" GoodsID="960083" Name="Lông Ác Ma" Contribution="14" MonsterID="5002" />
+  <EraContribution ID="82" EraID="2" ProgressID="3" GoodsID="960084" Name="Vuốt Ác Ma" Contribution="14" MonsterID="6003" />
+  <EraContribution ID="83" EraID="2" ProgressID="3" GoodsID="960085" Name="Máu Ác Ma" Contribution="140" MonsterID="5011,6011" />
+  <EraContribution ID="84" EraID="2" ProgressID="3" GoodsID="960086" Name="Quả Kim Cang" Contribution="14" MonsterID="6004" />
+  <EraContribution ID="85" EraID="2" ProgressID="3" GoodsID="960087" Name="Cỏ Lưỡi Liềm" Contribution="140" MonsterID="7009,6009" />
+  <EraContribution ID="86" EraID="2" ProgressID="3" GoodsID="960088" Name="Hồn Đại Địa" Contribution="140" MonsterID="7007,5009" />
+  <EraContribution ID="87" EraID="2" ProgressID="3" GoodsID="960089" Name="Bình Nước Đồng" Contribution="14" MonsterID="7004" />
+  <EraContribution ID="88" EraID="2" ProgressID="3" GoodsID="960090" Name="Bình Nước Vàng" Contribution="14" MonsterID="6005" />
+  <EraContribution ID="89" EraID="2" ProgressID="3" GoodsID="960091" Name="Bình Nước Bạc" Contribution="140" MonsterID="5010,6010" />
+  <EraContribution ID="90" EraID="2" ProgressID="3" GoodsID="960092" Name="Cây Ngàn Năm" Contribution="14" MonsterID="5003" />
+  <EraContribution ID="91" EraID="2" ProgressID="3" GoodsID="960093" Name="Dao Cực Phẩm" Contribution="14" MonsterID="6006" />
+  <EraContribution ID="92" EraID="2" ProgressID="3" GoodsID="960094" Name="Đồ Giám Chế Tạo" Contribution="700" MonsterID="5090,7090" />
+  <EraContribution ID="93" EraID="2" ProgressID="4" GoodsID="960098" Name="Nón Phản Đồ" Contribution="16" MonsterID="6007" />
+  <EraContribution ID="94" EraID="2" ProgressID="4" GoodsID="960099" Name="Giáp Phản Đồ" Contribution="16" MonsterID="5004" />
+  <EraContribution ID="95" EraID="2" ProgressID="4" GoodsID="960100" Name="Kiếm Phản Đồ" Contribution="160" MonsterID="7008,6011" />
+  <EraContribution ID="96" EraID="2" ProgressID="4" GoodsID="960101" Name="Nguồn Đại Địa" Contribution="16" MonsterID="7005,5005,6008" />
+  <EraContribution ID="97" EraID="2" ProgressID="4" GoodsID="960102" Name="Nón Cỏ Ngụy Trang" Contribution="160" MonsterID="5011,7009" />
+  <EraContribution ID="98" EraID="2" ProgressID="4" GoodsID="960103" Name="Áo Da Ngụy Trang" Contribution="160" MonsterID="5009,6009" />
+  <EraContribution ID="99" EraID="2" ProgressID="4" GoodsID="960104" Name="Hơi Thở Thần Long" Contribution="16" MonsterID="7006" />
+  <EraContribution ID="100" EraID="2" ProgressID="4" GoodsID="960105" Name="Nộ Hống Thần Long" Contribution="800" MonsterID="5090,6090" />
+  <EraContribution ID="101" EraID="2" ProgressID="4" GoodsID="960106" Name="Tượng Thần Long" Contribution="160" MonsterID="6010,7007" />
+  <EraContribution ID="102" EraID="2" ProgressID="4" GoodsID="960107" Name="Bia Đá Kỷ Niệm" Contribution="800" MonsterID="7090" />
+  <EraContribution ID="103" EraID="3" ProgressID="1" GoodsID="960159" Name="Mặt Nạ Giáo Đồ" Contribution="10" MonsterID="5001" />
+  <EraContribution ID="104" EraID="3" ProgressID="1" GoodsID="960160" Name="Giáp Giáo Đồ" Contribution="10" MonsterID="6001" />
+  <EraContribution ID="105" EraID="3" ProgressID="1" GoodsID="960161" Name="Quần Giáo Đồ" Contribution="10" MonsterID="7001" />
+  <EraContribution ID="106" EraID="3" ProgressID="1" GoodsID="960162" Name="Map Rừng" Contribution="10" MonsterID="6002" />
+  <EraContribution ID="107" EraID="3" ProgressID="1" GoodsID="960163" Name="Mật Hàm Giáo Hội" Contribution="10" MonsterID="7002" />
+  <EraContribution ID="108" EraID="3" ProgressID="1" GoodsID="960164" Name="La Bàn " Contribution="10" MonsterID="5002" />
+  <EraContribution ID="109" EraID="3" ProgressID="1" GoodsID="960165" Name="Mảnh Nhẫn" Contribution="10" MonsterID="7003,5004,6005" />
+  <EraContribution ID="110" EraID="3" ProgressID="1" GoodsID="960166" Name="Đất Rừng" Contribution="10" MonsterID="5003" />
+  <EraContribution ID="111" EraID="3" ProgressID="1" GoodsID="960167" Name="Trang Sức Cốt Lâu" Contribution="10" MonsterID="6003" />
+  <EraContribution ID="112" EraID="3" ProgressID="1" GoodsID="960168" Name="Ấn Ký Tà Thần" Contribution="10" MonsterID="6004" />
+  <EraContribution ID="113" EraID="3" ProgressID="1" GoodsID="960169" Name="Trượng Tế Tự" Contribution="100" MonsterID="5009,6009" />
+  <EraContribution ID="114" EraID="3" ProgressID="1" GoodsID="960170" Name="Yên Ngựa Độ Bền" Contribution="10" MonsterID="7004" />
+  <EraContribution ID="115" EraID="3" ProgressID="1" GoodsID="960171" Name="Roi Ngựa Kiên Nhẫn" Contribution="500" MonsterID="5090,6090" />
+  <EraContribution ID="116" EraID="3" ProgressID="2" GoodsID="960172" Name="Cung Tinh Linh" Contribution="12" MonsterID="6006" />
+  <EraContribution ID="117" EraID="3" ProgressID="2" GoodsID="960173" Name="Tiễn Phong Lợi" Contribution="12" MonsterID="5005" />
+  <EraContribution ID="118" EraID="3" ProgressID="2" GoodsID="960174" Name="Cung Liên Xạ" Contribution="12" MonsterID="7005" />
+  <EraContribution ID="119" EraID="3" ProgressID="2" GoodsID="960175" Name="Rìu Tinh Cương" Contribution="12" MonsterID="7006" />
+  <EraContribution ID="120" EraID="3" ProgressID="2" GoodsID="960176" Name="Rìu Dân Binh" Contribution="12" MonsterID="6007" />
+  <EraContribution ID="121" EraID="3" ProgressID="2" GoodsID="960177" Name="Rìu Song Nhẫn" Contribution="12" MonsterID="5006" />
+  <EraContribution ID="122" EraID="3" ProgressID="2" GoodsID="960178" Name="Ly Thánh Minh Quang" Contribution="12" MonsterID="5007,6008,7002" />
+  <EraContribution ID="123" EraID="3" ProgressID="2" GoodsID="960179" Name="Kiếm Thương Lam" Contribution="12" MonsterID="7001" />
+  <EraContribution ID="124" EraID="3" ProgressID="2" GoodsID="960180" Name="Kiếm Hoàng Kim" Contribution="120" MonsterID="7007,6010" />
+  <EraContribution ID="125" EraID="3" ProgressID="2" GoodsID="960181" Name="Máu Cống Hiến" Contribution="12" MonsterID="5008" />
+  <EraContribution ID="126" EraID="3" ProgressID="2" GoodsID="960182" Name="Tinh Thạch Vàng" Contribution="120" MonsterID="7008,5010" />
+  <EraContribution ID="127" EraID="3" ProgressID="2" GoodsID="960183" Name="Kế Ước Vương Giả" Contribution="12" MonsterID="6001" />
+  <EraContribution ID="128" EraID="3" ProgressID="2" GoodsID="960184" Name="Thánh Điển Thuốc" Contribution="600" MonsterID="7090,6090" />
+  <EraContribution ID="129" EraID="3" ProgressID="3" GoodsID="960185" Name="Áo Giáo Đồ" Contribution="14" MonsterID="7003" />
+  <EraContribution ID="130" EraID="3" ProgressID="3" GoodsID="960186" Name="Nón Hắc Ám" Contribution="14" MonsterID="5001" />
+  <EraContribution ID="131" EraID="3" ProgressID="3" GoodsID="960187" Name="Tượng Đế Ngữ" Contribution="14" MonsterID="6002" />
+  <EraContribution ID="132" EraID="3" ProgressID="3" GoodsID="960188" Name="Pháp Khí Bán Nguyệt" Contribution="14" MonsterID="5002" />
+  <EraContribution ID="133" EraID="3" ProgressID="3" GoodsID="960189" Name="Tế Tự Hồng Bảo Thạch" Contribution="14" MonsterID="6003" />
+  <EraContribution ID="134" EraID="3" ProgressID="3" GoodsID="960190" Name="Trượng Ma Lực" Contribution="140" MonsterID="5011,6011" />
+  <EraContribution ID="135" EraID="3" ProgressID="3" GoodsID="960191" Name="Nón Ác Ngữ" Contribution="14" MonsterID="6004" />
+  <EraContribution ID="136" EraID="3" ProgressID="3" GoodsID="960192" Name="Giáp Ác Ngữ" Contribution="140" MonsterID="7009,6009" />
+  <EraContribution ID="137" EraID="3" ProgressID="3" GoodsID="960193" Name="Sừng Tà Linh" Contribution="140" MonsterID="7007,5009" />
+  <EraContribution ID="138" EraID="3" ProgressID="3" GoodsID="960194" Name="Thuốc Tà Linh" Contribution="14" MonsterID="7004" />
+  <EraContribution ID="139" EraID="3" ProgressID="3" GoodsID="960195" Name="Lỗi Pháp Trận" Contribution="14" MonsterID="6005" />
+  <EraContribution ID="140" EraID="3" ProgressID="3" GoodsID="960196" Name="Tế Linh Hồn" Contribution="140" MonsterID="5010,6010" />
+  <EraContribution ID="141" EraID="3" ProgressID="3" GoodsID="960197" Name="Ma Thạch Dung Nham" Contribution="14" MonsterID="5003" />
+  <EraContribution ID="142" EraID="3" ProgressID="3" GoodsID="960198" Name="Bia Tế Đàn" Contribution="14" MonsterID="6006" />
+  <EraContribution ID="143" EraID="3" ProgressID="3" GoodsID="960199" Name="Thuốc Liệt Hạm" Contribution="700" MonsterID="5090,7090" />
+  <EraContribution ID="144" EraID="3" ProgressID="4" GoodsID="960200" Name="Mắt Ma Tà Ác" Contribution="16" MonsterID="6007" />
+  <EraContribution ID="145" EraID="3" ProgressID="4" GoodsID="960201" Name="Gai Thượng Cổ" Contribution="16" MonsterID="5004" />
+  <EraContribution ID="146" EraID="3" ProgressID="4" GoodsID="960202" Name="Nguồn Tà Ác" Contribution="160" MonsterID="7008,6011" />
+  <EraContribution ID="147" EraID="3" ProgressID="4" GoodsID="960203" Name="Nguồn Khủng Hoảng" Contribution="16" MonsterID="7005,5005,6008" />
+  <EraContribution ID="148" EraID="3" ProgressID="4" GoodsID="960204" Name="Giáp Hắc Vương" Contribution="160" MonsterID="5011,7009" />
+  <EraContribution ID="149" EraID="3" ProgressID="4" GoodsID="960205" Name="Cờ Hắc Vương" Contribution="160" MonsterID="5009,6009" />
+  <EraContribution ID="150" EraID="3" ProgressID="4" GoodsID="960206" Name="Lông Vũ Icarus" Contribution="16" MonsterID="7006" />
+  <EraContribution ID="151" EraID="3" ProgressID="4" GoodsID="960207" Name="Hạt Hy Vọng" Contribution="800" MonsterID="5090,6090" />
+  <EraContribution ID="152" EraID="3" ProgressID="4" GoodsID="960208" Name="Cánh Tà Linh" Contribution="160" MonsterID="6010,7007" />
+  <EraContribution ID="153" EraID="3" ProgressID="4" GoodsID="960209" Name="Tim Tà Sát" Contribution="800" MonsterID="7090" />
+  <EraContribution ID="154" EraID="4" ProgressID="1" GoodsID="960108" Name="Nước Lợ" Contribution="10" MonsterID="5001" />
+  <EraContribution ID="155" EraID="4" ProgressID="1" GoodsID="960109" Name="Bánh Mì" Contribution="10" MonsterID="6001" />
+  <EraContribution ID="156" EraID="4" ProgressID="1" GoodsID="960110" Name="Xúc Xích" Contribution="10" MonsterID="7001" />
+  <EraContribution ID="157" EraID="4" ProgressID="1" GoodsID="960111" Name="Gỗ" Contribution="10" MonsterID="6002" />
+  <EraContribution ID="158" EraID="4" ProgressID="1" GoodsID="960112" Name="Vải Bố" Contribution="10" MonsterID="7002" />
+  <EraContribution ID="159" EraID="4" ProgressID="1" GoodsID="960113" Name="Thiết Khí" Contribution="10" MonsterID="5002" />
+  <EraContribution ID="160" EraID="4" ProgressID="1" GoodsID="960114" Name="Kim Nam Châm" Contribution="10" MonsterID="7003,5004,6005" />
+  <EraContribution ID="161" EraID="4" ProgressID="1" GoodsID="960115" Name="Dây" Contribution="10" MonsterID="5003" />
+  <EraContribution ID="162" EraID="4" ProgressID="1" GoodsID="960116" Name="Người Quản Hàng Hải" Contribution="10" MonsterID="6003" />
+  <EraContribution ID="163" EraID="4" ProgressID="1" GoodsID="960117" Name="Map Biển" Contribution="10" MonsterID="6004" />
+  <EraContribution ID="164" EraID="4" ProgressID="1" GoodsID="960118" Name="Thước Trắc Tinh" Contribution="100" MonsterID="5009,6009" />
+  <EraContribution ID="165" EraID="4" ProgressID="1" GoodsID="960119" Name="Ống Nhòm" Contribution="10" MonsterID="7004" />
+  <EraContribution ID="166" EraID="4" ProgressID="1" GoodsID="960120" Name="Nhật Ký Hàng Hải" Contribution="500" MonsterID="5090,6090" />
+  <EraContribution ID="167" EraID="4" ProgressID="2" GoodsID="960121" Name="Cá Xấu Xí" Contribution="12" MonsterID="6006" />
+  <EraContribution ID="168" EraID="4" ProgressID="2" GoodsID="960122" Name="Cá Vược" Contribution="12" MonsterID="5005" />
+  <EraContribution ID="169" EraID="4" ProgressID="2" GoodsID="960123" Name="Cá Kỳ Lân" Contribution="12" MonsterID="7005" />
+  <EraContribution ID="170" EraID="4" ProgressID="2" GoodsID="960124" Name="Hàu" Contribution="12" MonsterID="7006" />
+  <EraContribution ID="171" EraID="4" ProgressID="2" GoodsID="960125" Name="Sò Điệp" Contribution="12" MonsterID="6007" />
+  <EraContribution ID="172" EraID="4" ProgressID="2" GoodsID="960126" Name="Ốc Biển" Contribution="12" MonsterID="5006" />
+  <EraContribution ID="173" EraID="4" ProgressID="2" GoodsID="960127" Name="Sứa" Contribution="12" MonsterID="5007,6008,7002" />
+  <EraContribution ID="174" EraID="4" ProgressID="2" GoodsID="960128" Name="Cua Dừa" Contribution="12" MonsterID="7001" />
+  <EraContribution ID="175" EraID="4" ProgressID="2" GoodsID="960129" Name="Hải Sâm" Contribution="120" MonsterID="7007,6010" />
+  <EraContribution ID="176" EraID="4" ProgressID="2" GoodsID="960130" Name="San Hô" Contribution="12" MonsterID="5008" />
+  <EraContribution ID="177" EraID="4" ProgressID="2" GoodsID="960131" Name="Rong Biển" Contribution="120" MonsterID="7008,5010" />
+  <EraContribution ID="178" EraID="4" ProgressID="2" GoodsID="960132" Name="Sứa Đỏ" Contribution="12" MonsterID="6001" />
+  <EraContribution ID="179" EraID="4" ProgressID="2" GoodsID="960133" Name="Ruốc" Contribution="600" MonsterID="7090,6090" />
+  <EraContribution ID="180" EraID="4" ProgressID="3" GoodsID="960134" Name="Vảy Cá Khổng Lồ" Contribution="14" MonsterID="7003" />
+  <EraContribution ID="181" EraID="4" ProgressID="3" GoodsID="960135" Name="Đuôi Cá" Contribution="14" MonsterID="5001" />
+  <EraContribution ID="182" EraID="4" ProgressID="3" GoodsID="960136" Name="Hạc Cầm" Contribution="14" MonsterID="6002" />
+  <EraContribution ID="183" EraID="4" ProgressID="3" GoodsID="960137" Name="Lao Đầy Máu" Contribution="14" MonsterID="5002" />
+  <EraContribution ID="184" EraID="4" ProgressID="3" GoodsID="960138" Name="Giáo Nhọn" Contribution="14" MonsterID="6003" />
+  <EraContribution ID="185" EraID="4" ProgressID="3" GoodsID="960139" Name="Giáp Bền " Contribution="140" MonsterID="5011,6011" />
+  <EraContribution ID="186" EraID="4" ProgressID="3" GoodsID="960140" Name="Cá Mập Hổ" Contribution="14" MonsterID="6004" />
+  <EraContribution ID="187" EraID="4" ProgressID="3" GoodsID="960141" Name="Rắn Biển" Contribution="140" MonsterID="7009,6009" />
+  <EraContribution ID="188" EraID="4" ProgressID="3" GoodsID="960142" Name="Cá Dĩa" Contribution="140" MonsterID="7007,5009" />
+  <EraContribution ID="189" EraID="4" ProgressID="3" GoodsID="960143" Name="Cá Răng Nhọn" Contribution="14" MonsterID="7004" />
+  <EraContribution ID="190" EraID="4" ProgressID="3" GoodsID="960144" Name="Cá Nhà Táng" Contribution="14" MonsterID="6005" />
+  <EraContribution ID="191" EraID="4" ProgressID="3" GoodsID="960145" Name="Mực Khổng Lồ" Contribution="140" MonsterID="5010,6010" />
+  <EraContribution ID="192" EraID="4" ProgressID="3" GoodsID="960146" Name="Trang Sử Sót Lại" Contribution="14" MonsterID="5003" />
+  <EraContribution ID="193" EraID="4" ProgressID="3" GoodsID="960147" Name="Bản Đồ Sót Lại" Contribution="14" MonsterID="6006" />
+  <EraContribution ID="194" EraID="4" ProgressID="3" GoodsID="960148" Name="Huy Hiệu Cổ" Contribution="700" MonsterID="5090,7090" />
+  <EraContribution ID="195" EraID="4" ProgressID="4" GoodsID="960149" Name="Bản Đồ Sót Lại (Trái)" Contribution="16" MonsterID="6007" />
+  <EraContribution ID="196" EraID="4" ProgressID="4" GoodsID="960150" Name="Bản Đồ Sót Lại (Giữa)" Contribution="16" MonsterID="5004" />
+  <EraContribution ID="197" EraID="4" ProgressID="4" GoodsID="960151" Name="Bản Đồ Sót Lại (Phải)" Contribution="160" MonsterID="7008,6011" />
+  <EraContribution ID="198" EraID="4" ProgressID="4" GoodsID="960152" Name="Bản Đồ Cổ Thành" Contribution="16" MonsterID="7005,5005,6008" />
+  <EraContribution ID="199" EraID="4" ProgressID="4" GoodsID="960153" Name="Ngọc Nhân Ngư" Contribution="160" MonsterID="5011,7009" />
+  <EraContribution ID="200" EraID="4" ProgressID="4" GoodsID="960154" Name="Thạch Từ Tín Cổ Thành" Contribution="160" MonsterID="5009,6009" />
+  <EraContribution ID="201" EraID="4" ProgressID="4" GoodsID="960155" Name="Huyết Khí Cổ" Contribution="16" MonsterID="7006" />
+  <EraContribution ID="202" EraID="4" ProgressID="4" GoodsID="960156" Name="Sách Sót Lại" Contribution="800" MonsterID="5090,6090" />
+  <EraContribution ID="203" EraID="4" ProgressID="4" GoodsID="960157" Name="Huấn Luyện Chủ Thành" Contribution="160" MonsterID="6010,7007" />
+  <EraContribution ID="204" EraID="4" ProgressID="4" GoodsID="960158" Name="Rương Trống" Contribution="800" MonsterID="7090" />
+  <EraContribution ID="205" EraID="5" ProgressID="1" GoodsID="960210" Name="Phá hư công cụ" Contribution="10" MonsterID="5001" />
+  <EraContribution ID="206" EraID="5" ProgressID="1" GoodsID="960211" Name="Tàn phá khí mãnh" Contribution="10" MonsterID="6001" />
+  <EraContribution ID="207" EraID="5" ProgressID="1" GoodsID="960212" Name="Phá hư y phục" Contribution="10" MonsterID="7001" />
+  <EraContribution ID="208" EraID="5" ProgressID="1" GoodsID="960213" Name="Tàn phá đá vụn" Contribution="10" MonsterID="6002" />
+  <EraContribution ID="209" EraID="5" ProgressID="1" GoodsID="960214" Name="Rải rác mảnh gỗ" Contribution="10" MonsterID="7002" />
+  <EraContribution ID="210" EraID="5" ProgressID="1" GoodsID="960215" Name="Mảnh thiết bị rỉ" Contribution="10" MonsterID="5002" />
+  <EraContribution ID="211" EraID="5" ProgressID="1" GoodsID="960216" Name="Truyền thuyết dung nham" Contribution="10" MonsterID="7003,5004,6005" />
+  <EraContribution ID="212" EraID="5" ProgressID="1" GoodsID="960217" Name="Trang sức phỉ đồ" Contribution="10" MonsterID="5003" />
+  <EraContribution ID="213" EraID="5" ProgressID="1" GoodsID="960218" Name="Phá bại tượng" Contribution="10" MonsterID="6003" />
+  <EraContribution ID="214" EraID="5" ProgressID="1" GoodsID="960219" Name="Mật vấn dung nham" Contribution="10" MonsterID="6004" />
+  <EraContribution ID="215" EraID="5" ProgressID="1" GoodsID="960220" Name="Truyền thuyết thị tỉnh" Contribution="100" MonsterID="5009,6009" />
+  <EraContribution ID="216" EraID="5" ProgressID="1" GoodsID="960221" Name="Huỳnh thạch dung nham" Contribution="10" MonsterID="7004" />
+  <EraContribution ID="217" EraID="5" ProgressID="1" GoodsID="960222" Name="Thạch phù dung nham" Contribution="500" MonsterID="5090,6090" />
+  <EraContribution ID="218" EraID="5" ProgressID="2" GoodsID="960223" Name="Cự rìu tranh đấu" Contribution="12" MonsterID="6006" />
+  <EraContribution ID="219" EraID="5" ProgressID="2" GoodsID="960224" Name="Trường kiếm tranh đấu" Contribution="12" MonsterID="5005" />
+  <EraContribution ID="220" EraID="5" ProgressID="2" GoodsID="960225" Name="Nỏ tranh đấu" Contribution="12" MonsterID="7005" />
+  <EraContribution ID="221" EraID="5" ProgressID="2" GoodsID="960226" Name="Mặt nạ phỉ đồ" Contribution="12" MonsterID="7006" />
+  <EraContribution ID="222" EraID="5" ProgressID="2" GoodsID="960227" Name="Giáp đầu phỉ đồ" Contribution="12" MonsterID="6007" />
+  <EraContribution ID="223" EraID="5" ProgressID="2" GoodsID="960228" Name="Quần dài phỉ đồ" Contribution="12" MonsterID="5006" />
+  <EraContribution ID="224" EraID="5" ProgressID="2" GoodsID="960229" Name="Súng thị đội" Contribution="12" MonsterID="5007,6008,7002" />
+  <EraContribution ID="225" EraID="5" ProgressID="2" GoodsID="960230" Name="Lễ kim cầu hòa" Contribution="12" MonsterID="7001" />
+  <EraContribution ID="226" EraID="5" ProgressID="2" GoodsID="960231" Name="Khế ước hòa đàm" Contribution="120" MonsterID="7007,6010" />
+  <EraContribution ID="227" EraID="5" ProgressID="2" GoodsID="960232" Name="Lệnh bài cuồng đồ" Contribution="12" MonsterID="5008" />
+  <EraContribution ID="228" EraID="5" ProgressID="2" GoodsID="960233" Name="Ấn ký cuồng đồ" Contribution="120" MonsterID="7008,5010" />
+  <EraContribution ID="229" EraID="5" ProgressID="2" GoodsID="960234" Name="Khiên thị đội" Contribution="12" MonsterID="6001" />
+  <EraContribution ID="230" EraID="5" ProgressID="2" GoodsID="960235" Name="Trượng công chúa" Contribution="600" MonsterID="7090,6090" />
+  <EraContribution ID="231" EraID="5" ProgressID="3" GoodsID="960236" Name="Map dung nham" Contribution="14" MonsterID="7003" />
+  <EraContribution ID="232" EraID="5" ProgressID="3" GoodsID="960237" Name="Tìm kim dưới đất" Contribution="14" MonsterID="5001" />
+  <EraContribution ID="233" EraID="5" ProgressID="3" GoodsID="960238" Name="Ánh sáng minh đăng" Contribution="14" MonsterID="6002" />
+  <EraContribution ID="234" EraID="5" ProgressID="3" GoodsID="960239" Name="Danh sách cuồng đồ" Contribution="14" MonsterID="5002" />
+  <EraContribution ID="235" EraID="5" ProgressID="3" GoodsID="960240" Name="Map cương tiêu" Contribution="14" MonsterID="6003" />
+  <EraContribution ID="236" EraID="5" ProgressID="3" GoodsID="960241" Name="Danh sách trị tiêu" Contribution="140" MonsterID="5011,6011" />
+  <EraContribution ID="237" EraID="5" ProgressID="3" GoodsID="960242" Name="Giáp đầu cuồng đồ" Contribution="14" MonsterID="6004" />
+  <EraContribution ID="238" EraID="5" ProgressID="3" GoodsID="960243" Name="Máu cuồng đồ" Contribution="140" MonsterID="7009,6009" />
+  <EraContribution ID="239" EraID="5" ProgressID="3" GoodsID="960244" Name="Giáp cuồng đồ" Contribution="140" MonsterID="7007,5009" />
+  <EraContribution ID="240" EraID="5" ProgressID="3" GoodsID="960245" Name="Nước tinh khiết" Contribution="14" MonsterID="7004" />
+  <EraContribution ID="241" EraID="5" ProgressID="3" GoodsID="960246" Name="Thuốc trị máu" Contribution="14" MonsterID="6005" />
+  <EraContribution ID="242" EraID="5" ProgressID="3" GoodsID="960247" Name="Băng cứu thương" Contribution="140" MonsterID="5010,6010" />
+  <EraContribution ID="243" EraID="5" ProgressID="3" GoodsID="960248" Name="Vật chất cuồng đồ" Contribution="14" MonsterID="5003" />
+  <EraContribution ID="244" EraID="5" ProgressID="3" GoodsID="960249" Name="Rương thủ lĩnh" Contribution="14" MonsterID="6006" />
+  <EraContribution ID="245" EraID="5" ProgressID="3" GoodsID="960250" Name="Mật thư hoàng tử" Contribution="700" MonsterID="5090,7090" />
+  <EraContribution ID="246" EraID="5" ProgressID="4" GoodsID="960251" Name="Mật hàm cuồng đồ" Contribution="16" MonsterID="6007" />
+  <EraContribution ID="247" EraID="5" ProgressID="4" GoodsID="960252" Name="Ấn hoàng tử" Contribution="16" MonsterID="5004" />
+  <EraContribution ID="248" EraID="5" ProgressID="4" GoodsID="960253" Name="Tín vật liên lạc" Contribution="160" MonsterID="7008,6011" />
+  <EraContribution ID="249" EraID="5" ProgressID="4" GoodsID="960254" Name="Sách chân tướng" Contribution="16" MonsterID="7005,5005,6008" />
+  <EraContribution ID="250" EraID="5" ProgressID="4" GoodsID="960255" Name="Thu thập tài bảo" Contribution="160" MonsterID="5011,7009" />
+  <EraContribution ID="251" EraID="5" ProgressID="4" GoodsID="960256" Name="Pháp khí cuồng đồ" Contribution="160" MonsterID="5009,6009" />
+  <EraContribution ID="252" EraID="5" ProgressID="4" GoodsID="960257" Name="Thuốc tà thần" Contribution="16" MonsterID="7006" />
+  <EraContribution ID="253" EraID="5" ProgressID="4" GoodsID="960258" Name="Nguồn tà ác" Contribution="800" MonsterID="5090,6090" />
+  <EraContribution ID="254" EraID="5" ProgressID="4" GoodsID="960259" Name="Giáp hoàng tử" Contribution="160" MonsterID="6010,7007" />
+  <EraContribution ID="255" EraID="5" ProgressID="4" GoodsID="960260" Name="Cờ hoàng tử" Contribution="800" MonsterID="7090" />
+  <EraContribution ID="256" EraID="6" ProgressID="1" GoodsID="960261" Name="Cỏ Xanh" Contribution="10" MonsterID="5001" />
+  <EraContribution ID="257" EraID="6" ProgressID="1" GoodsID="960262" Name="Hoa Tươi" Contribution="10" MonsterID="6001" />
+  <EraContribution ID="258" EraID="6" ProgressID="1" GoodsID="960263" Name="Cây Dâu" Contribution="10" MonsterID="7001" />
+  <EraContribution ID="259" EraID="6" ProgressID="1" GoodsID="960264" Name="Khiên Phản Quân" Contribution="10" MonsterID="6002" />
+  <EraContribution ID="260" EraID="6" ProgressID="1" GoodsID="960265" Name="Giáp Phản Quân" Contribution="10" MonsterID="7002" />
+  <EraContribution ID="261" EraID="6" ProgressID="1" GoodsID="960266" Name="Nón Phản Quân" Contribution="10" MonsterID="5002" />
+  <EraContribution ID="262" EraID="6" ProgressID="1" GoodsID="960267" Name="Đá Bay" Contribution="10" MonsterID="7003,5004,6005" />
+  <EraContribution ID="263" EraID="6" ProgressID="1" GoodsID="960268" Name="Yên Linh Động" Contribution="10" MonsterID="5003" />
+  <EraContribution ID="264" EraID="6" ProgressID="1" GoodsID="960269" Name="Roi Thiểm Điện" Contribution="10" MonsterID="6003" />
+  <EraContribution ID="265" EraID="6" ProgressID="1" GoodsID="960270" Name="Mũi Tên Nhọn" Contribution="10" MonsterID="6004" />
+  <EraContribution ID="266" EraID="6" ProgressID="1" GoodsID="960271" Name="Kiếm Phản Quân" Contribution="100" MonsterID="5009,6009" />
+  <EraContribution ID="267" EraID="6" ProgressID="1" GoodsID="960272" Name="Dây Tổ Tiên" Contribution="10" MonsterID="7004" />
+  <EraContribution ID="268" EraID="6" ProgressID="1" GoodsID="960273" Name="Sừng Ma Lực" Contribution="500" MonsterID="5090,6090" />
+  <EraContribution ID="269" EraID="6" ProgressID="2" GoodsID="960274" Name="Cuốc Đào Mỏ" Contribution="12" MonsterID="6006" />
+  <EraContribution ID="270" EraID="6" ProgressID="2" GoodsID="960275" Name="Giỏ Tre" Contribution="12" MonsterID="5005" />
+  <EraContribution ID="271" EraID="6" ProgressID="2" GoodsID="960276" Name="Kim Dò Khoáng" Contribution="12" MonsterID="7005" />
+  <EraContribution ID="272" EraID="6" ProgressID="2" GoodsID="960277" Name="Bản Đồ Khoáng" Contribution="12" MonsterID="7006" />
+  <EraContribution ID="273" EraID="6" ProgressID="2" GoodsID="960278" Name="La Bàn" Contribution="12" MonsterID="6007" />
+  <EraContribution ID="274" EraID="6" ProgressID="2" GoodsID="960279" Name="Đá Huỳnh Quang" Contribution="12" MonsterID="5006" />
+  <EraContribution ID="275" EraID="6" ProgressID="2" GoodsID="960280" Name="Mỏ Thần Bí" Contribution="12" MonsterID="5007,6008,7002" />
+  <EraContribution ID="276" EraID="6" ProgressID="2" GoodsID="960281" Name="Gậy Phản Quân" Contribution="12" MonsterID="7001" />
+  <EraContribution ID="277" EraID="6" ProgressID="2" GoodsID="960282" Name="Tượng Phản Quân" Contribution="120" MonsterID="7007,6010" />
+  <EraContribution ID="278" EraID="6" ProgressID="2" GoodsID="960283" Name="Hạt Nhân" Contribution="12" MonsterID="5008" />
+  <EraContribution ID="279" EraID="6" ProgressID="2" GoodsID="960284" Name="Linh Kiện Máy" Contribution="120" MonsterID="7008,5010" />
+  <EraContribution ID="280" EraID="6" ProgressID="2" GoodsID="960285" Name="Gỗ Cứng" Contribution="12" MonsterID="6001" />
+  <EraContribution ID="281" EraID="6" ProgressID="2" GoodsID="960286" Name="Dây Thừng" Contribution="600" MonsterID="7090,6090" />
+  <EraContribution ID="282" EraID="6" ProgressID="3" GoodsID="960287" Name="Sách Chỉ Đường" Contribution="14" MonsterID="7003" />
+  <EraContribution ID="283" EraID="6" ProgressID="3" GoodsID="960288" Name="Đồng Hồ" Contribution="14" MonsterID="5001" />
+  <EraContribution ID="284" EraID="6" ProgressID="3" GoodsID="960289" Name="Nhiên Liệu" Contribution="14" MonsterID="6002" />
+  <EraContribution ID="285" EraID="6" ProgressID="3" GoodsID="960290" Name="Bộ Hải Tặc" Contribution="14" MonsterID="5002" />
+  <EraContribution ID="286" EraID="6" ProgressID="3" GoodsID="960291" Name="Ấn Ký Hải Tặc" Contribution="14" MonsterID="6003" />
+  <EraContribution ID="287" EraID="6" ProgressID="3" GoodsID="960292" Name="Thuyền Hải Tặc" Contribution="140" MonsterID="5011,6011" />
+  <EraContribution ID="288" EraID="6" ProgressID="3" GoodsID="960293" Name="Cờ Hải Tặc" Contribution="14" MonsterID="6004" />
+  <EraContribution ID="289" EraID="6" ProgressID="3" GoodsID="960294" Name="Dao Hải Tặc" Contribution="140" MonsterID="7009,6009" />
+  <EraContribution ID="290" EraID="6" ProgressID="3" GoodsID="960295" Name="Quần Hải Tặc" Contribution="140" MonsterID="7007,5009" />
+  <EraContribution ID="291" EraID="6" ProgressID="3" GoodsID="960296" Name="Sách Tổ Tiên" Contribution="14" MonsterID="7004" />
+  <EraContribution ID="292" EraID="6" ProgressID="3" GoodsID="960297" Name="Đền Tổ Tiên" Contribution="14" MonsterID="6005" />
+  <EraContribution ID="293" EraID="6" ProgressID="3" GoodsID="960298" Name="Đá Tổ Tiên" Contribution="140" MonsterID="5010,6010" />
+  <EraContribution ID="294" EraID="6" ProgressID="3" GoodsID="960299" Name="Pháp Khí Thánh" Contribution="14" MonsterID="5003" />
+  <EraContribution ID="295" EraID="6" ProgressID="3" GoodsID="960300" Name="Kế Ước Thánh" Contribution="14" MonsterID="6006" />
+  <EraContribution ID="296" EraID="6" ProgressID="3" GoodsID="960301" Name="Đá Ma Thánh" Contribution="700" MonsterID="5090,7090" />
+  <EraContribution ID="297" EraID="6" ProgressID="4" GoodsID="960302" Name="Đá Viễn Cổ" Contribution="16" MonsterID="6007" />
+  <EraContribution ID="298" EraID="6" ProgressID="4" GoodsID="960303" Name="Cây Viễn Cổ" Contribution="16" MonsterID="5004" />
+  <EraContribution ID="299" EraID="6" ProgressID="4" GoodsID="960304" Name="Robot Thủ Vệ" Contribution="160" MonsterID="7008,6011" />
+  <EraContribution ID="300" EraID="6" ProgressID="4" GoodsID="960305" Name="Chú Ấn Thần" Contribution="16" MonsterID="7005,5005,6008" />
+  <EraContribution ID="301" EraID="6" ProgressID="4" GoodsID="960306" Name="Giáo Phản Quân" Contribution="160" MonsterID="5011,7009" />
+  <EraContribution ID="302" EraID="6" ProgressID="4" GoodsID="960307" Name="Tín Vật Phản Quân" Contribution="160" MonsterID="5009,6009" />
+  <EraContribution ID="303" EraID="6" ProgressID="4" GoodsID="960308" Name="Gậy Công Chúa" Contribution="16" MonsterID="7006" />
+  <EraContribution ID="304" EraID="6" ProgressID="4" GoodsID="960309" Name="Bia Đá Đen" Contribution="800" MonsterID="5090,6090" />
+  <EraContribution ID="305" EraID="6" ProgressID="4" GoodsID="960310" Name="Kết Tinh Thánh" Contribution="160" MonsterID="6010,7007" />
+  <EraContribution ID="306" EraID="6" ProgressID="4" GoodsID="960311" Name="Cây Sinh Mệnh" Contribution="800" MonsterID="7090" />
+</Config>"

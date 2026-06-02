@@ -1,0 +1,17 @@
+TextAsset Base
+	string m_Name = "KuaFuHuoDongTab"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<HuoDongList>
+  <HuoDong ID="20004" Name="Chúng Thần Tranh Bá" Preview="20004" RewardExplain="1,4|4,5" GLXml="Match.xml" PaiXu="1" />
+  <HuoDong ID="20010" Name="Vương Giả Tranh Bá" Preview="20010" RewardExplain="1,4|4,5" GLXml="KingMatch.xml" PaiXu="2" />
+  <HuoDong ID="20000" Name="Ảo Ảnh Tự Viện" Preview="20000" RewardExplain="1,4|4,5" GLXml="TempleMirage.xml" PaiXu="3" />
+  <HuoDong ID="20002" Name="Chiến Trường Dũng Giả" Preview="20002" RewardExplain="1,4|4,5" GLXml="ThroughServiceBattle.xml" PaiXu="5" />
+  <HuoDong ID="20003" Name="Vùng Ma Luyện" Preview="20003" RewardExplain="1,4|4,5" GLXml="ThroughServiceBoss.xml" PaiXu="6" />
+  <HuoDong ID="20005" Name="Đấu Trường Couple" Preview="20005" RewardExplain="1,4|4,5" GLXml="CoupleWar.xml" PaiXu="7" />
+  <HuoDong ID="20006" Name="Chiến Trường Vương Giả" Preview="20006" RewardExplain="1,4|4,5" GLXml="KingOfBattle.xml" PaiXu="8" />
+  <HuoDong ID="20001" Name="Đấu Trường Liên SV" Preview="20001" RewardExplain="1,4|4,5" GLXml="TianTi.xml" PaiXu="9" />
+  <HuoDong ID="20008" Name="Guild Chiến " Preview="20008" RewardExplain="1,4|4,5" GLXml="LeagueMatch.xml" PaiXu="10" />
+  <HuoDong ID="20007" Name="Lãnh Địa Thu Thập" Preview="20007" RewardExplain="1,4|4,5" GLXml="ManorCollectMonster.xml" PaiXu="11" />
+  <HuoDong ID="20009" Name="Tranh Đoạt Liên SV" Preview="20009" RewardExplain="1,4|4,5" GLXml="CrusadeWar.xml" PaiXu="12" />
+  <HuoDong ID="20011" Name="诸神对决" Preview="20011" RewardExplain="1,4|4,5" GLXml="TeamKingMatch.xml" PaiXu="4" />
+</HuoDongList>"

@@ -1,0 +1,20 @@
+TextAsset Base
+	string m_Name = "BiZhangFashionLevel"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <BiZhangFashionLevel ID="1" GoodsID="1600000" Name="Đội Trưởng Kỳ Tích" MOD="BiZhangPF_001" level="0" NeedGoods="1600000,0" ProPerty="MaxLifePercent,0.09|AddAttackInjurePercent,0.02|DoubleAttack,0.01|SubAttackInjurePercent,0.01" Time="-1" />
+  <BiZhangFashionLevel ID="2" GoodsID="1600000" Name="Đội Trưởng Kỳ Tích" MOD="BiZhangPF_001" level="1" NeedGoods="1600000,1" ProPerty="MaxLifePercent,0.12|AddAttackInjurePercent,0.02|DoubleAttack,0.01|SubAttackInjurePercent,0.01" Time="-1" />
+  <BiZhangFashionLevel ID="3" GoodsID="1600000" Name="Đội Trưởng Kỳ Tích" MOD="BiZhangPF_001" level="2" NeedGoods="1600000,1" ProPerty="MaxLifePercent,0.12|AddAttackInjurePercent,0.03|DoubleAttack,0.01|SubAttackInjurePercent,0.01" Time="-1" />
+  <BiZhangFashionLevel ID="4" GoodsID="1600000" Name="Đội Trưởng Kỳ Tích" MOD="BiZhangPF_001" level="3" NeedGoods="1600000,1" ProPerty="MaxLifePercent,0.12|AddAttackInjurePercent,0.03|DoubleAttack,0.02|SubAttackInjurePercent,0.01" Time="-1" />
+  <BiZhangFashionLevel ID="5" GoodsID="1600000" Name="Đội Trưởng Kỳ Tích" MOD="BiZhangPF_001" level="4" NeedGoods="1600000,1" ProPerty="MaxLifePercent,0.12|AddAttackInjurePercent,0.03|DoubleAttack,0.02|SubAttackInjurePercent,0.02" Time="-1" />
+  <BiZhangFashionLevel ID="6" GoodsID="1600000" Name="Đội Trưởng Kỳ Tích" MOD="BiZhangPF_001" level="5" NeedGoods="1600000,1" ProPerty="MaxLifePercent,0.15|AddAttackInjurePercent,0.03|DoubleAttack,0.02|SubAttackInjurePercent,0.02" Time="-1" />
+  <BiZhangFashionLevel ID="7" GoodsID="1600000" Name="Đội Trưởng Kỳ Tích" MOD="BiZhangPF_001" level="6" NeedGoods="1600000,1" ProPerty="MaxLifePercent,0.15|AddAttackInjurePercent,0.05|DoubleAttack,0.02|SubAttackInjurePercent,0.02" Time="-1" />
+  <BiZhangFashionLevel ID="8" GoodsID="1600001" Name="Phù Hiệu 01" MOD="BZ_Cheng_03" level="0" NeedGoods="1600001,0" ProPerty="MaxLifePercent,0.09|AddAttackInjurePercent,0.02|DoubleAttack,0.01|SubAttackInjurePercent,0.01" Time="-1" />
+  <BiZhangFashionLevel ID="9" GoodsID="1600001" Name="Phù Hiệu 01" MOD="BZ_Cheng_03" level="1" NeedGoods="1600001,1" ProPerty="MaxLifePercent,0.12|AddAttackInjurePercent,0.02|DoubleAttack,0.01|SubAttackInjurePercent,0.01" Time="-1" />
+  <BiZhangFashionLevel ID="10" GoodsID="1600001" Name="Phù Hiệu 01" MOD="BZ_Cheng_03" level="2" NeedGoods="1600001,1" ProPerty="MaxLifePercent,0.12|AddAttackInjurePercent,0.03|DoubleAttack,0.01|SubAttackInjurePercent,0.01" Time="-1" />
+  <BiZhangFashionLevel ID="11" GoodsID="1600001" Name="Phù Hiệu 01" MOD="BZ_Cheng_03" level="3" NeedGoods="1600001,1" ProPerty="MaxLifePercent,0.12|AddAttackInjurePercent,0.03|DoubleAttack,0.02|SubAttackInjurePercent,0.01" Time="-1" />
+  <BiZhangFashionLevel ID="12" GoodsID="1600001" Name="Phù Hiệu 01" MOD="BZ_Cheng_03" level="4" NeedGoods="1600001,1" ProPerty="MaxLifePercent,0.12|AddAttackInjurePercent,0.03|DoubleAttack,0.02|SubAttackInjurePercent,0.02" Time="-1" />
+  <BiZhangFashionLevel ID="13" GoodsID="1600001" Name="Phù Hiệu 01" MOD="BZ_Cheng_03" level="5" NeedGoods="1600001,1" ProPerty="MaxLifePercent,0.15|AddAttackInjurePercent,0.03|DoubleAttack,0.02|SubAttackInjurePercent,0.02" Time="-1" />
+  <BiZhangFashionLevel ID="14" GoodsID="1600001" Name="Phù Hiệu 01" MOD="BZ_Cheng_03" level="6" NeedGoods="1600001,1" ProPerty="MaxLifePercent,0.15|AddAttackInjurePercent,0.05|DoubleAttack,0.02|SubAttackInjurePercent,0.02" Time="-1" />
+  <BiZhangFashionLevel ID="15" GoodsID="1600002" Name="Phù Hiệu 02" MOD="BZ_Cheng_04" level="0" NeedGoods="1600002,0" ProPerty="MaxLifePercent,0.09|AddAttackInjurePercent,0.02|DoubleAttack,0.01|SubAttackInjurePercent,0.01" Time="180" />
+</Config>"

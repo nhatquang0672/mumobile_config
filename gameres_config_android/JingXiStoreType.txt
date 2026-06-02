@@ -1,0 +1,8 @@
+TextAsset Base
+	string m_Name = "JingXiStoreType"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <JingXiStoreType ID="1" StoreType="1" NeedVipLv="0" TypeName="Tiệm Lv1" IsOpen="1" />
+  <JingXiStoreType ID="2" StoreType="2" NeedVipLv="9" TypeName="Tiệm Lv2" IsOpen="1" />
+  <JingXiStoreType ID="3" StoreType="3" NeedVipLv="12" TypeName="Tiệm Lv3" IsOpen="1" />
+</Config>"

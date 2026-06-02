@@ -1,0 +1,15 @@
+TextAsset Base
+	string m_Name = "ShiZhuangHuiShou"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ShiZhuangHuiShou ID="1" Lev="0" NeedExp="10" Attribute="" />
+  <ShiZhuangHuiShou ID="2" Lev="1" NeedExp="20" Attribute="MaxLifeV,3238" />
+  <ShiZhuangHuiShou ID="3" Lev="2" NeedExp="30" Attribute="MaxLifeV,3239" />
+  <ShiZhuangHuiShou ID="4" Lev="3" NeedExp="40" Attribute="MaxLifeV,3240" />
+  <ShiZhuangHuiShou ID="5" Lev="4" NeedExp="50" Attribute="MaxLifeV,3241" />
+  <ShiZhuangHuiShou ID="6" Lev="5" NeedExp="60" Attribute="MaxLifeV,3242" />
+  <ShiZhuangHuiShou ID="7" Lev="6" NeedExp="70" Attribute="MaxLifeV,3243" />
+  <ShiZhuangHuiShou ID="8" Lev="7" NeedExp="80" Attribute="MaxLifeV,3244" />
+  <ShiZhuangHuiShou ID="9" Lev="8" NeedExp="90" Attribute="MaxLifeV,3245" />
+  <ShiZhuangHuiShou ID="10" Lev="9" NeedExp="100" Attribute="MaxLifeV,3246" />
+</Config>"

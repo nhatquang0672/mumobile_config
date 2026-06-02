@@ -1,0 +1,8 @@
+TextAsset Base
+	string m_Name = "ShengZheMatchingFuBen"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ShengZheMatchingFuBen ID="99801" Attack="1,1000" WaveScore="50" />
+  <ShengZheMatchingFuBen ID="99802" Attack="1001,10000" WaveScore="50" />
+  <ShengZheMatchingFuBen ID="99803" Attack="10001,100000000" WaveScore="50" />
+</Config>"

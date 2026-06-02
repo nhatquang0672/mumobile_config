@@ -1,0 +1,13 @@
+TextAsset Base
+	string m_Name = "ChongZhiGAT"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <ChongZhi ID="10000" Icon="10000" MeiYuan="9.99" RMB="30" ZuanShi="450" FirstBindZuanShi="450" productId="4033_0_3_450"   productIdAn="4033_3_450" />
+  <ChongZhi ID="1" Icon="1" MeiYuan="1.99" RMB="6" ZuanShi="90" FirstBindZuanShi="90" productId="4033_0_1_90"       productIdAn="4033_1_90"/>
+  <ChongZhi ID="2" Icon="2" MeiYuan="4.99" RMB="15" ZuanShi="225" FirstBindZuanShi="225" productId="4033_0_2_225"   productIdAn="4033_2_225"/>
+  <ChongZhi ID="3" Icon="4" MeiYuan="19.99" RMB="60" ZuanShi="900" FirstBindZuanShi="900" productId="4033_0_4_900"   productIdAn="4033_4_900"/>
+  <ChongZhi ID="4" Icon="5" MeiYuan="29.99" RMB="90" ZuanShi="1350" FirstBindZuanShi="1350" productId="4033_0_5_1350" productIdAn="4033_5_1350"/>
+  <ChongZhi ID="5" Icon="6" MeiYuan="49.99" RMB="150" ZuanShi="2250" FirstBindZuanShi="2250" productId="4033_0_6_2250" productIdAn="4033_6_2250"/>
+  <ChongZhi ID="6" Icon="7" MeiYuan="69.99" RMB="210" ZuanShi="3150" FirstBindZuanShi="3150" productId="4033_0_7_3150" productIdAn="4033_7_3150"/>
+  <ChongZhi ID="7" Icon="8" MeiYuan="99.99" RMB="300" ZuanShi="4500" FirstBindZuanShi="4500" productId="4033_0_8_4500" productIdAn="4033_8_4500"/>
+</config>"

@@ -1,0 +1,14 @@
+TextAsset Base
+	string m_Name = "JieRiDayChongZhi"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="12" FromDate="2022-11-01 00:00:00" ToDate="2022-11-07 23:59:59" AwardStartDate="2022-11-01 00:00:00" AwardEndDate="2022-11-07 23:59:59" />
+  <GiftList Description="Trong thời gian event, mỗi ngày nạp đúng số lượng yêu cầu sẽ nhận quà lớn.">
+    <Award ID="1" MinYuanBao="1" GoodsOne="30151486,5,1,0,0,0,0|7005,2,1,0,0,0,0|50020,15,1,0,0,0,0|63262,2,1,0,0,0,0|30152719,2,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="2" MinYuanBao="360" GoodsOne="30152792,4,1,0,0,0,0|5171,100,1,0,0,0,0|63558,10,1,0,0,0,0|5223,50,1,0,0,0,0|23007,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="3" MinYuanBao="800" GoodsOne="30152792,6,1,0,0,0,0|2090471,2,1,0,0,0,0|63194,3,1,0,0,0,0|63194,5,1,0,0,0,0|63194,7,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="4" MinYuanBao="1500" GoodsOne="30152792,10,1,0,0,0,0|63265,10,1,0,0,0,0|63194,10,1,0,0,0,0|2105,4,1,0,0,0,0|31001,6,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="5" MinYuanBao="2400" GoodsOne="30152792,20,1,0,0,0,0|2132,5,1,0,0,0,0|63194,10,1,0,0,0,0|2106,4,1,0,0,0,0|31002,2,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="6" MinYuanBao="5000" GoodsOne="30152792,40,1,0,0,0,0|51275,50,1,0,0,0,0|31003,1,1,0,0,0,0|2133,5,1,0,0,0,0|2107,4,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+  </GiftList>
+</Config>"

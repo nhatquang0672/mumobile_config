@@ -1,0 +1,9 @@
+TextAsset Base
+	string m_Name = "MengZhanTiShi"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <MengZhanTiShi ID="1" ShowType="1" ShowNum="5" ShowPic="Kill_1" />
+  <MengZhanTiShi ID="2" ShowType="1" ShowNum="10" ShowPic="Kill_2" />
+  <MengZhanTiShi ID="3" ShowType="1" ShowNum="15" ShowPic="Kill_3" />
+  <MengZhanTiShi ID="4" ShowType="2" ShowNum="1" ShowPic="Kill_4" />
+</Config>"

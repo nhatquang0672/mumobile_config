@@ -1,0 +1,44 @@
+TextAsset Base
+	string m_Name = "RouletteShop"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <RouletteShop ID="1" Type="1" Level="1" Goods="1034446,1,0,0,0,0,0" GoodsDes="Vòng Tay Trừ Tà" CostGoods="214,99" GoodsTime="3" ModelPos="" ModelRotation="" ModelScale="" ModelShow="2" />
+  <RouletteShop ID="2" Type="1" Level="1" Goods="23001,1,0,0,0,0,0" GoodsDes="Đá Thần Binh HP Sơ Cấp" CostGoods="214,99" GoodsTime="-1" ModelPos="" ModelRotation="" ModelScale="" ModelShow="2" />
+  <RouletteShop ID="3" Type="1" Level="2" Goods="23008,1,0,0,0,0,0" GoodsDes="Đá Thần Binh Công Kích Trung Cấp" CostGoods="214,199" GoodsTime="3" ModelPos="" ModelRotation="" ModelScale="" ModelShow="2" />
+  <RouletteShop ID="4" Type="1" Level="2" Goods="23012,1,0,0,0,0,0" GoodsDes="Đá Thần Binh Sấm Sét Cao Cấp" CostGoods="214,199" GoodsTime="99" ModelPos="" ModelRotation="" ModelScale="" ModelShow="2" />
+  <RouletteShop ID="5" Type="1" Level="3" Goods="731445,1,0,0,0,0,0" GoodsDes="Danh Hiệu: Sáu Năm Vinh Quang" CostGoods="214,299" GoodsTime="3" ModelPos="" ModelRotation="" ModelScale="2,2,2" ModelShow="1" />
+  <RouletteShop ID="6" Type="1" Level="3" Goods="731697,1,0,0,0,0,0" GoodsDes="Danh Hiệu: Vạn Vật Vĩnh Hằng" CostGoods="214,299" GoodsTime="99" ModelPos="" ModelRotation="" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="7" Type="1" Level="4" Goods="1035240,1,0,0,0,0,0" GoodsDes="Cánh Xương Ma Đỏ" CostGoods="214,399" GoodsTime="3" ModelPos="0,-200,0" ModelRotation="0,180,0" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="8" Type="1" Level="4" Goods="2090458,1,0,0,0,0,0" GoodsDes="Dấu Chân Trên Đỉnh Everest" CostGoods="214,399" GoodsTime="99" ModelPos="0,-200,0" ModelRotation="0,180,0" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="9" Type="1" Level="5" Goods="1500009,1,0,0,0,0,0" GoodsDes="Thái Thượng Tiên LÔ" CostGoods="214,599" GoodsTime="3" ModelPos="0,0,0" ModelRotation="" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="10" Type="1" Level="5" Goods="1031034,1,0,0,0,0,0" GoodsDes="Tật Phong Cảnh Hoa" CostGoods="214,599" GoodsTime="99" ModelPos="0,-0.9,0" ModelRotation="0,180,0" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="11" Type="1" Level="6" Goods="2100040,1,0,0,0,0,0" GoodsDes="Vũ Khí Giáng Sinh" CostGoods="214,999" GoodsTime="3" ModelPos="0,-200,0" ModelRotation="0,180,0" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="12" Type="1" Level="6" Goods="1033930,1,0,0,0,0,0" GoodsDes="Bộ Đồ Cung Đình" CostGoods="214,999" GoodsTime="99" ModelPos="0,-200,0" ModelRotation="0,180,0" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="13" Type="1" Level="7" Goods="970025,1,0,0,0,0,0" GoodsDes="Thời Trang Thú Cưỡi Niên Thú" CostGoods="214,9999" GoodsTime="1" ModelPos="-12,-160,0" ModelRotation="0,150,0" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="14" Type="2" Level="1" Goods="2016,1,0,0,0,0,0" GoodsDes="Cánh Mặt Trời" CostGoods="214,99" GoodsTime="-1" ModelPos="" ModelRotation="" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="15" Type="2" Level="1" Goods="2017,1,0,0,0,0,0" GoodsDes="Cánh Bóng Trăng" CostGoods="214,99" GoodsTime="99" ModelPos="" ModelRotation="" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="16" Type="2" Level="2" Goods="2016,1,0,0,0,0,0" GoodsDes="Cánh Mặt Trời" CostGoods="214,199" GoodsTime="3" ModelPos="" ModelRotation="" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="17" Type="2" Level="2" Goods="2017,1,0,0,0,0,0" GoodsDes="Cánh Bóng Trăng" CostGoods="214,199" GoodsTime="99" ModelPos="" ModelRotation="" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="18" Type="2" Level="3" Goods="2016,1,0,0,0,0,0" GoodsDes="Cánh Mặt Trời" CostGoods="214,299" GoodsTime="3" ModelPos="" ModelRotation="" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="19" Type="2" Level="3" Goods="2017,1,0,0,0,0,0" GoodsDes="Cánh Bóng Trăng" CostGoods="214,299" GoodsTime="99" ModelPos="" ModelRotation="" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="20" Type="2" Level="4" Goods="2016,1,0,0,0,0,0" GoodsDes="Cánh Mặt Trời" CostGoods="214,399" GoodsTime="3" ModelPos="" ModelRotation="" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="21" Type="2" Level="4" Goods="2017,1,0,0,0,0,0" GoodsDes="Cánh Bóng Trăng" CostGoods="214,399" GoodsTime="99" ModelPos="" ModelRotation="" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="22" Type="2" Level="5" Goods="2016,1,0,0,0,0,0" GoodsDes="Cánh Mặt Trời" CostGoods="214,599" GoodsTime="3" ModelPos="" ModelRotation="" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="23" Type="2" Level="5" Goods="2017,1,0,0,0,0,0" GoodsDes="Cánh Bóng Trăng" CostGoods="214,599" GoodsTime="99" ModelPos="" ModelRotation="" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="24" Type="2" Level="6" Goods="2016,1,0,0,0,0,0" GoodsDes="Cánh Mặt Trời" CostGoods="214,999" GoodsTime="3" ModelPos="" ModelRotation="" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="25" Type="2" Level="6" Goods="2017,1,0,0,0,0,0" GoodsDes="Cánh Bóng Trăng" CostGoods="214,999" GoodsTime="99" ModelPos="" ModelRotation="" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="26" Type="2" Level="7" Goods="970023,1,0,0,0,0,0" GoodsDes="Xe Máy Lưu Ảnh" CostGoods="214,9999" GoodsTime="1" ModelPos="" ModelRotation="" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="27" Type="3" Level="1" Goods="2016,1,0,0,0,0,0" GoodsDes="Cánh Mặt Trời" CostGoods="214,99" GoodsTime="-1" ModelPos="" ModelRotation="" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="28" Type="3" Level="1" Goods="2017,1,0,0,0,0,0" GoodsDes="Cánh Bóng Trăng" CostGoods="214,99" GoodsTime="99" ModelPos="" ModelRotation="" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="29" Type="3" Level="2" Goods="2016,1,0,0,0,0,0" GoodsDes="Cánh Mặt Trời" CostGoods="214,199" GoodsTime="3" ModelPos="" ModelRotation="" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="30" Type="3" Level="2" Goods="2017,1,0,0,0,0,0" GoodsDes="Cánh Bóng Trăng" CostGoods="214,199" GoodsTime="99" ModelPos="" ModelRotation="" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="31" Type="3" Level="3" Goods="2016,1,0,0,0,0,0" GoodsDes="Cánh Mặt Trời" CostGoods="214,299" GoodsTime="3" ModelPos="" ModelRotation="" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="32" Type="3" Level="3" Goods="2017,1,0,0,0,0,0" GoodsDes="Cánh Bóng Trăng" CostGoods="214,299" GoodsTime="99" ModelPos="" ModelRotation="" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="33" Type="3" Level="4" Goods="2016,1,0,0,0,0,0" GoodsDes="Cánh Mặt Trời" CostGoods="214,399" GoodsTime="3" ModelPos="" ModelRotation="" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="34" Type="3" Level="4" Goods="2017,1,0,0,0,0,0" GoodsDes="Cánh Bóng Trăng" CostGoods="214,399" GoodsTime="99" ModelPos="" ModelRotation="" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="35" Type="3" Level="5" Goods="2016,1,0,0,0,0,0" GoodsDes="Cánh Mặt Trời" CostGoods="214,599" GoodsTime="3" ModelPos="" ModelRotation="" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="36" Type="3" Level="5" Goods="2017,1,0,0,0,0,0" GoodsDes="Cánh Bóng Trăng" CostGoods="214,599" GoodsTime="99" ModelPos="" ModelRotation="" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="37" Type="3" Level="6" Goods="2016,1,0,0,0,0,0" GoodsDes="Cánh Mặt Trời" CostGoods="214,999" GoodsTime="3" ModelPos="" ModelRotation="" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="38" Type="3" Level="6" Goods="2017,1,0,0,0,0,0" GoodsDes="Cánh Bóng Trăng" CostGoods="214,999" GoodsTime="99" ModelPos="" ModelRotation="" ModelScale="" ModelShow="1" />
+  <RouletteShop ID="39" Type="3" Level="7" Goods="970022,1,0,0,0,0,0" GoodsDes="Xe Hoa Thỏ Ngọc" CostGoods="214,9999" GoodsTime="1" ModelPos="" ModelRotation="" ModelScale="" ModelShow="1" />
+</Config>"

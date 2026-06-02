@@ -1,0 +1,8 @@
+TextAsset Base
+	string m_Name = "ArathiMatchUp"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <ArathiMatchUp ID="1" WaitingTime="0,10" Group="1|2|3|4|5" />
+  <ArathiMatchUp ID="2" WaitingTime="11,20" Group="1,2|3,4|5" />
+  <ArathiMatchUp ID="3" WaitingTime="21,-1" Group="1,2,3,4,5" />
+</config>"

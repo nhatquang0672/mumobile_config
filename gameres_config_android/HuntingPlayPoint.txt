@@ -1,0 +1,8 @@
+TextAsset Base
+	string m_Name = "HuntingPlayPoint"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HuntingPlayPoint ID="1" MapId="97005" MapTeamPoint="1200,3100" MapTeamRange="20" />
+  <HuntingPlayPoint ID="2" MapId="97005" MapTeamPoint="6500,8900" MapTeamRange="20" />
+  <HuntingPlayPoint ID="3" MapId="97005" MapTeamPoint="9300,1000" MapTeamRange="20" />
+</Config>"

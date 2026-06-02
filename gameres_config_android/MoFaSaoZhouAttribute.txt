@@ -1,0 +1,25 @@
+TextAsset Base
+	string m_Name = "MoFaSaoZhouAttribute"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <MoFaSaoZhouAttribute ID="1" StageLevel="1" NumberPool="1,1|2,0|3,0|4,0" AttributePool="DeFrozenPercent,0.25|DePalsyPercent,0.25|DeSpeedDownPercent,0.25|DeBlowPercent,0.25" ValuePool="0.01,0.2|0.04,0.2|0.02,0.3|0.03,0.3" MaxProbability="0.04" />
+  <MoFaSaoZhouAttribute ID="2" StageLevel="2" NumberPool="1,1|2,0|3,0|4,0" AttributePool="DeFrozenPercent,0.25|DePalsyPercent,0.25|DeSpeedDownPercent,0.25|DeBlowPercent,0.25" ValuePool="0.02,0.2|0.05,0.2|0.03,0.3|0.04,0.3" MaxProbability="0.04" />
+  <MoFaSaoZhouAttribute ID="3" StageLevel="3" NumberPool="1,1|2,0|3,0|4,0" AttributePool="DeFrozenPercent,0.25|DePalsyPercent,0.25|DeSpeedDownPercent,0.25|DeBlowPercent,0.25" ValuePool="0.03,0.2|0.06,0.2|0.04,0.3|0.05,0.3" MaxProbability="0.05" />
+  <MoFaSaoZhouAttribute ID="4" StageLevel="4" NumberPool="1,1|2,0|3,0|4,0" AttributePool="DeFrozenPercent,0.25|DePalsyPercent,0.25|DeSpeedDownPercent,0.25|DeBlowPercent,0.25" ValuePool="0.04,0.2|0.07,0.2|0.05,0.3|0.06,0.3" MaxProbability="0.05" />
+  <MoFaSaoZhouAttribute ID="5" StageLevel="5" NumberPool="1,1|2,0|3,0|4,0" AttributePool="DeFrozenPercent,0.25|DePalsyPercent,0.25|DeSpeedDownPercent,0.25|DeBlowPercent,0.25" ValuePool="0.05,0.2|0.08,0.2|0.06,0.3|0.07,0.3" MaxProbability="0.06" />
+  <MoFaSaoZhouAttribute ID="6" StageLevel="6" NumberPool="1,0|2,1|3,0|4,0" AttributePool="DeFrozenPercent,0.25|DePalsyPercent,0.25|DeSpeedDownPercent,0.25|DeBlowPercent,0.25" ValuePool="0.06,0.2|0.09,0.2|0.07,0.3|0.08,0.3" MaxProbability="0.06" />
+  <MoFaSaoZhouAttribute ID="7" StageLevel="7" NumberPool="1,0|2,0.5|3,0|4,0.5" AttributePool="DeFrozenPercent,0.25|DePalsyPercent,0.25|DeSpeedDownPercent,0.25|DeBlowPercent,0.25" ValuePool="0.07,0.2|0.1,0.2|0.08,0.3|0.09,0.3" MaxProbability="0.07" />
+  <MoFaSaoZhouAttribute ID="8" StageLevel="8" NumberPool="1,0|2,0.35|3,0|4,0.65" AttributePool="DeFrozenPercent,0.25|DePalsyPercent,0.25|DeSpeedDownPercent,0.25|DeBlowPercent,0.25" ValuePool="0.08,0.2|0.11,0.2|0.09,0.3|0.1,0.3" MaxProbability="0.07" />
+  <MoFaSaoZhouAttribute ID="9" StageLevel="9" NumberPool="1,0|2,0.25|3,0|4,0.75" AttributePool="DeFrozenPercent,0.25|DePalsyPercent,0.25|DeSpeedDownPercent,0.25|DeBlowPercent,0.25" ValuePool="0.09,0.2|0.12,0.2|0.1,0.3|0.11,0.3" MaxProbability="0.08" />
+  <MoFaSaoZhouAttribute ID="10" StageLevel="10" NumberPool="1,0|2,0.2|3,0|4,0.8" AttributePool="DeFrozenPercent,0.25|DePalsyPercent,0.25|DeSpeedDownPercent,0.25|DeBlowPercent,0.25" ValuePool="0.1,0.2|0.13,0.2|0.11,0.3|0.12,0.3" MaxProbability="0.08" />
+  <MoFaSaoZhouAttribute ID="11" StageLevel="11" NumberPool="1,0|2,0|3,0.25|4,0.75" AttributePool="DeFrozenPercent,0.25|DePalsyPercent,0.25|DeSpeedDownPercent,0.25|DeBlowPercent,0.25" ValuePool="0.11,0.2|0.14,0.2|0.12,0.3|0.13,0.3" MaxProbability="0.09" />
+  <MoFaSaoZhouAttribute ID="12" StageLevel="12" NumberPool="1,0|2,0|3,0.25|4,0.75" AttributePool="DeFrozenPercent,0.25|DePalsyPercent,0.25|DeSpeedDownPercent,0.25|DeBlowPercent,0.25" ValuePool="0.12,0.2|0.15,0.2|0.13,0.3|0.14,0.3" MaxProbability="0.09" />
+  <MoFaSaoZhouAttribute ID="13" StageLevel="13" NumberPool="1,0|2,0|3,0.25|4,0.75" AttributePool="DeFrozenPercent,0.25|DePalsyPercent,0.25|DeSpeedDownPercent,0.25|DeBlowPercent,0.25" ValuePool="0.13,0.2|0.16,0.2|0.14,0.3|0.15,0.3" MaxProbability="0.1" />
+  <MoFaSaoZhouAttribute ID="14" StageLevel="14" NumberPool="1,0|2,0|3,0.25|4,0.75" AttributePool="DeFrozenPercent,0.25|DePalsyPercent,0.25|DeSpeedDownPercent,0.25|DeBlowPercent,0.25" ValuePool="0.14,0.2|0.17,0.2|0.15,0.3|0.16,0.3" MaxProbability="0.1" />
+  <MoFaSaoZhouAttribute ID="15" StageLevel="15" NumberPool="1,0|2,0|3,0.25|4,0.75" AttributePool="DeFrozenPercent,0.25|DePalsyPercent,0.25|DeSpeedDownPercent,0.25|DeBlowPercent,0.25" ValuePool="0.15,0.2|0.18,0.2|0.16,0.3|0.17,0.3" MaxProbability="0.11" />
+  <MoFaSaoZhouAttribute ID="16" StageLevel="16" NumberPool="1,0|2,0|3,0|4,1" AttributePool="DeFrozenPercent,0.25|DePalsyPercent,0.25|DeSpeedDownPercent,0.25|DeBlowPercent,0.25" ValuePool="0.16,0.2|0.19,0.2|0.17,0.3|0.18,0.3" MaxProbability="0.11" />
+  <MoFaSaoZhouAttribute ID="17" StageLevel="17" NumberPool="1,0|2,0|3,0|4,1" AttributePool="DeFrozenPercent,0.25|DePalsyPercent,0.25|DeSpeedDownPercent,0.25|DeBlowPercent,0.25" ValuePool="0.17,0.2|0.2,0.2|0.18,0.3|0.19,0.3" MaxProbability="0.12" />
+  <MoFaSaoZhouAttribute ID="18" StageLevel="18" NumberPool="1,0|2,0|3,0|4,1" AttributePool="DeFrozenPercent,0.25|DePalsyPercent,0.25|DeSpeedDownPercent,0.25|DeBlowPercent,0.25" ValuePool="0.18,0.2|0.21,0.2|0.19,0.3|0.2,0.3" MaxProbability="0.12" />
+  <MoFaSaoZhouAttribute ID="19" StageLevel="19" NumberPool="1,0|2,0|3,0|4,1" AttributePool="DeFrozenPercent,0.25|DePalsyPercent,0.25|DeSpeedDownPercent,0.25|DeBlowPercent,0.25" ValuePool="0.19,0.2|0.22,0.2|0.2,0.3|0.21,0.3" MaxProbability="0.12" />
+  <MoFaSaoZhouAttribute ID="20" StageLevel="20" NumberPool="1,0|2,0|3,0|4,1" AttributePool="DeFrozenPercent,0.25|DePalsyPercent,0.25|DeSpeedDownPercent,0.25|DeBlowPercent,0.25" ValuePool="0.2,0.2|0.23,0.2|0.21,0.3|0.22,0.3" MaxProbability="0.12" />
+</Config>"

@@ -1,0 +1,10 @@
+TextAsset Base
+	string m_Name = "ShenYuHeChengIntro"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1.Đá Thần Dụ có thể thông qua hình thức {17e43e}5 hợp 1{dac7ae} để tiến hành {17e43e}hợp thành{dac7ae}, khi gia công cần thêm {17e43e}Đá Huyễn Thái cùng level" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2.Hợp thành gia công{17e43e} không có tỷ lệ thất bại{dac7ae}, sau khi gia công {17e43e}nhận Đá Thần Dụ {dac7ae}cùng level{17e43e}" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3.Hợp thành Đá Thần Dụ cần số lượng {17e43e}Lửa Nguyên Sơ, Thần Lửa Bất Diệt{dac7ae}" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4.Phân giải Đá Thần Dụ có thể nhận {17e43e}bộ phận Thần Lửa tiêu hao và 5 Đá Huyễn Thái cùng level" Bold="0" />
+</Config>"

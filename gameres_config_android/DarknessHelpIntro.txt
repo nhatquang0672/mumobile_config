@@ -1,0 +1,16 @@
+TextAsset Base
+	string m_Name = "DarknessHelpIntro"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Hướng dẫn Động Hắc Ám:  " Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1. Động Hắc Ám cần cấp đội trưởng chiến đội đạt chuyển {17e43e}5{dac7ae} cấp {17e43e}1{dac7ae} mới được báo danh tham gia. " Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2. Sau khi hết thời gian vào sân, có thời gian an toàn {fac60d}5{dac7ae}s, trong thời gian đó người chơi không thể PK ác ý" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3. Sau khi hết thời gian vào sân, làm mới Hải Đăng trong chiến trường, chiến đội bất kỳ trong vòng 3 phút đốt {17e43e}3{dac7ae} ngọn Hải Đăng xong sẽ chiến thắng" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4. Hải Đăng tiến hành chiếm lĩnh hoặc cướp đoạt theo cách thức thu thập, trong quá trình thu thập không thể bị gián đoạt, nhưng có thể bị tấn công, nếu nhân vật tử vong khi đang thu thập thì coi như thu thập thất bại" Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5. Chiếm lĩnh và cướp đoạt Hải Đăng: " Bold="0" />
+  <HelpIntro ID="7" Intro="{ff0000}Chiếm lĩnh{dac7ae}: Chiến đội bất kỳ có thể kích phát ký hiệu chiếm lĩnh, chiếm Hải Đăng  " Bold="0" />
+  <HelpIntro ID="8" Intro="{17e43e}Cướp đoạt{dac7ae}: Hải Đăng sau khi bị chiếm có thể tiến hành cướp đoạt, cướp Hải Đăng thành công sẽ có {fac60d}60{dac7ae}s CD hồi, kết thúc hồi mới có thể cướp đoạt lần nữa" Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae}6. Chiếm lĩnh Hải Đăng sẽ nhận được hiệu quả Buff tăng ích toàn đội, số lượng Hải Đăng chiếm càng nhiều, hiệu quả Buff nhận được càng tốt, chiếm 1 Tháp nhận được tốc độ di chuyển &quot;Thánh Giả&quot; +25%, chiếm 2 Tháp nhận được tốc độ di chuyển “Vận Mệnh” +25%, tỉ lệ phản sát thương +50%, mặc định thời gian duy trì hiệu quả này là chiến trường kết thúc, nếu Hải Đăng bị đội khác cướp thì hiệu quả trạng thái này biến mất" Bold="0" />
+  <HelpIntro ID="10" Intro="{dac7ae}7. Chiến đội mỗi trận chiến có thể tăng thêm điểm chiến đội, đội thất bại giảm điểm chiến đội. " Bold="0" />
+  <HelpIntro ID="11" Intro="{dac7ae}8. Sau khi mùa đấu kết thúc, dựa vào điểm chiến đội để xếp hạng có thể nhận thưởng xếp hạng chiến đội và điểm đánh giá xếp hạng chiến đội{dac7ae}. " Bold="0" />
+</Config>"

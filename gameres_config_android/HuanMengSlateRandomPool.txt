@@ -1,0 +1,14 @@
+TextAsset Base
+	string m_Name = "HuanMengSlateRandomPool"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HuanMengSlateRandomPool ID="1" Name="Kho quà ngẫu nhiên cấp thấp - thấp" RewardPool="5313,10,1,1000|5284,10,1,1000|7007,100,1,1000|23004,10,1,1000|5333,20,1,1000|5223,20,1,1000|2400,10,1,1000|8101,1,1,1000|8104,1,1,1000" RandomPoolType="1" MaxNumber="4" />
+  <HuanMengSlateRandomPool ID="2" Name="Kho quà ngẫu nhiên cấp thấp - trung" RewardPool="5352,5,1,100|5353,5,1,100|5354,5,1,100|5121,10,1,100|5122,10,1,100|2500,5,1,100|2501,5,1,100|2502,5,1,100|23001,10,1,100" RandomPoolType="2" MaxNumber="3" />
+  <HuanMengSlateRandomPool ID="3" Name="Kho quà ngẫu nhiên cấp thấp - cao" RewardPool="63265,5,1,10|5362,5,1,10|30152719,1,1,10|2203,10,1,10|1035277,1,1,10|23007,10,1,10|30152468,1,1,10|30152782,1,1,10" RandomPoolType="3" MaxNumber="2" />
+  <HuanMengSlateRandomPool ID="4" Name="Kho quà ngẫu nhiên cấp trung - thấp" RewardPool="63262,4,1,1000|63262,10,1,1000|63238,2,1,1000|63238,4,1,1000|63289,2,1,1000|63289,4,1,1000|30152129,5,1,1000|30152129,10,1,1000|30152731,2,1,1000" RandomPoolType="4" MaxNumber="4" />
+  <HuanMengSlateRandomPool ID="5" Name="Kho quà ngẫu nhiên cấp trung - trung" RewardPool="23010,2,1,100|30152782,2,1,100|30152298,2,1,100|63262,10,1,100|30152781,2,1,100|63354,3,1,100|30152391,1,1,100|30152278,1,1,100|8611,2,1,100" RandomPoolType="5" MaxNumber="3" />
+  <HuanMengSlateRandomPool ID="6" Name="Kho quà ngẫu nhiên cấp trung - cao" RewardPool="30152225,2,1,10|30152227,2,1,10|30152228,2,1,10|63236,2,1,10|63236,5,1,10|63236,8,1,10|63678,10,1,10|30152468,2,1,10|8612,2,1,10|30152720,1,1,10|30152723,1,1,10" RandomPoolType="6" MaxNumber="2" />
+  <HuanMengSlateRandomPool ID="7" Name="Kho quà ngẫu nhiên cấp cao - thấp" RewardPool="63540,2,1,1000|63541,2,1,1000|63542,2,1,1000|63540,1,1,1000|63541,1,1,1000|63542,1,1,1000|63543,1,1,1000|30152299,2,1,1000|30152781,2,1,1000" RandomPoolType="7" MaxNumber="5" />
+  <HuanMengSlateRandomPool ID="8" Name="Kho quà ngẫu nhiên cấp cao - trung" RewardPool="30152661,5,1,100|30152690,5,1,100|30152690,10,1,100|63157,2,1,100|63157,2,1,100|63157,1,1,100|30152417,1,1,100|30152418,1,1,100|30152419,1,1,100" RandomPoolType="8" MaxNumber="3" />
+  <HuanMengSlateRandomPool ID="9" Name="Kho quà ngẫu nhiên cấp cao - cao" RewardPool="30152675,1,1,10|30152676,1,1,10|30152721,1,1,10|30152722,1,1,10|63577,1,1,10|1032214,1,1,10|63551,1,1,10|63576,1,1,10|8620,1,1,10" RandomPoolType="9" MaxNumber="1" />
+</Config>"

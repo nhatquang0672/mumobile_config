@@ -1,0 +1,14 @@
+TextAsset Base
+	string m_Name = "TransfigurationIntro"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Thần Hồn Phụ Thể" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Sau khi khai mở chức năng, thông qua nút {17e43e}Thần Hồn Hộ Thể{dac7ae} của thanh nội dung ẩn phía bên trên tay trái, có thể tiến hành thao tác." Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, Sau khi Thần Hồn Hộ Thể sẽ biến thành hình dáng {17e43e}Thần Hồn{dac7ae}, {17e43e}kỹ năng{dac7ae}sẽ đổi thành {17e43e}kỹ năng Thần Hồn{dac7ae} cực mạnh." Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, Trạng thái hộ thể có {17e43e}thời gian duy trì{dac7ae}, thời gian kết thúc nhân vật sẽ trở lại {17e43e}trạng thái thường{dac7ae}, và {17e43e}Thần Hồn Hộ Thể {dac7ae}bắt đầu thời gian CD, sau khi hết thời gian CD mới có thể tiến hành đợt tiếp." Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, Mỗi ngày có số lần hộ thể {17e43e}miễn phí {dac7ae}, dùng hết số lần miễn phí mỗi lần hộ thể cần tiêu phí 1 {17e43e}đạo cụ nhất định{dac7ae}." Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5, Thần Hồn Hộ Thể có thể thông qua {17e43e}tăng cấp {dac7ae}tiến hành bồi dưỡng, cấp càng cao {17e43e}thuộc tính thần hồn {dac7ae}càng cao, cấp {17e43e}kỹ năng thần hồn{dac7ae} càng cao, mở càng nhiều {17e43e}kỹ năng{dac7ae}." Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae}6, Bất kể có đang trong trạng thái {17e43e}Phụ Thể{dac7ae}, thuộc tính thần hồn {17e43e}luôn {dac7ae}có hiệu lực." Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae}7, Khi mặc {17e43e}thời trang Thần Hồn{dac7ae}, sau khi Hộ Thể sẽ biến thành hình dáng của {17e43e}thời trang{dac7ae}, mỗi 1 bộ thời trang đều có 1 bộ năng lực {17e43e}kỹ năng Thần Hồn{dac7ae}." Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae}8, Thời trang Thần Hồn cũng có thể {17e43e}tăng cấp{dac7ae}, tăng {17e43e}thuộc tính thời trang {dac7ae}và {17e43e}hiệu quả thời trang{dac7ae}, khai mở càng nhiều {17e43e}kỹ năng Thần Hồn {dac7ae}tương ứng." Bold="0" />
+</Config>"

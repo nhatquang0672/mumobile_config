@@ -1,0 +1,10 @@
+TextAsset Base
+	string m_Name = "LordEquipRules"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="Hướng dẫn phụ ma" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1. {fac60d}Phụ ma trang bị{dac7ae}: Có thể dùng đạo cụ để phụ ma trang bị tước vị, giúp tạo lại thuộc tính đặc biệt cho trang bị và tạo ra thuộc tính đặc biệt mới." Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2. {fac60d}Bảo lưu thuộc tính{dac7ae}: Phụ ma thành công có thể xem thuộc tính mới, nhấp {17e43e}Lưu{dac7ae} để thay thế thuộc tính cũ, nếu không lưu thuộc tính sẽ không đổi" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3. {fac60d}Khóa thuộc tính{dac7ae}: Có thể tốn đạo cụ chỉ định để {17e43e}Khóa{dac7ae} thuộc tính đặc biệt đã có. Thuộc tính đã khóa, khi phụ ma không đổi, chỉ tạo lại thuộc tính đặc biệt chưa khóa." Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4. {fac60d}Thuộc tính tối đa{dac7ae}: Khi phụ ma, thuộc tính cùng loại có thể ngẫu nhiên nhận điểm thuộc tính khác nhau. Khi điểm thuộc tính là điểm tối đa ngẫu nhiên nhận được, phía trước thuộc tính sẽ hiển thị ký hiệu {17e43e}Max{dac7ae}." Bold="0" />
+</Config>"

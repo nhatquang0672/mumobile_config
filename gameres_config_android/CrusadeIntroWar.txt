@@ -1,0 +1,15 @@
+TextAsset Base
+	string m_Name = "CrusadeIntroWar"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Quy tắc chiến trường" Bold="1" />
+  <HelpIntro ID="2" Intro="1. Mỗi tuần, mỗi nhân vật sẽ có {17e43e}30 lượt{-} tham gia, vào chiến trường, hồi sinh đều sẽ tốn lượt, số lượt không đủ sẽ không được vào" Bold="0" />
+  <HelpIntro ID="3" Intro="2. Mỗi tuần, mỗi server sẽ có tài nguyên cố định, sau khi chiến đấu, nếu chưa bị cướp sẽ được tích cho tuần sau, tài nguyên tích lũy có giới hạn" Bold="0" />
+  <HelpIntro ID="4" Intro="3. Tài nguyên sẽ chia làm 2 loại lớn nhỏ trên map theo mức làm mới pha lê, lượng pha lê nhiều, ít là {17e43e}cố định" Bold="0" />
+  <HelpIntro ID="5" Intro="4. Trong chiến trường, chung sv sẽ chung cờ, và {ff0000}không thể đánh nhau" Bold="0" />
+  <HelpIntro ID="6" Intro="5. Nếu tài nguyên bị cướp hết hoặc hết giờ sẽ kết thúc chiến đấu" Bold="0" />
+  <HelpIntro ID="7" Intro="{fac60d}Thưởng" Bold="1" />
+  <HelpIntro ID="8" Intro="1. Trong chiến trường {17e43e}diệt{-}, {17e43e}cướp tài nguyên{-} đều sẽ được điểm, {17e43e}liên sát{-}, {17e43e}kết liễu{-} sẽ được nhiều điểm hơn" Bold="0" />
+  <HelpIntro ID="9" Intro="2. Bên chiếm sẽ căn cứ theo {17e43e}số tài nguyên cướp{-} và {17e43e}điểm cá nhân{-} của Chiến Minh để nhận thưởng sau khi kết thúc" Bold="0" />
+  <HelpIntro ID="10" Intro="3. Bên thủ sẽ căn cứ {17e43e}số tài nguyên còn lại{-} và {17e43e}điểm cá nhân{-} để nhận thưởng sau khi kết thúc" Bold="0" />
+</Config>"

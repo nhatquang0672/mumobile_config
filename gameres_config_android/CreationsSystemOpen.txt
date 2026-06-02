@@ -1,0 +1,7 @@
+TextAsset Base
+	string m_Name = "CreationsSystemOpen"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <CreationsSystemOpen ID="2" Name="Vạn Vật Chi Linh" Grade="2" Level="0" />
+  <CreationsSystemOpen ID="3" Name="Đồ Giám Nguyên Tố" Grade="3" Level="0" />
+</Config>"

@@ -1,0 +1,11 @@
+TextAsset Base
+	string m_Name = "ZhiGou"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+
+      <!--以下为国服特惠直购内容，不要调整位置，删除会导致服务器无法启动-->
+  <ZhiGou ZhiGouID="1000000" ChongZhiID="16" GoodsOne="51275,130,0,0,0,0,0|63250,1,1,0,0,0,0" GoodsTwo="" SinglePurchase="88" EverydayPurchase="-1" ThemePurchase="-1" FromDate="2021-05-10 00:00:00" ToDate="2021-05-10 23:59:59" />
+  <ZhiGou ZhiGouID="1000001" ChongZhiID="16" GoodsOne="63326,588,1,0,0,0,0|4405,5,1,0,0,0,0" GoodsTwo="" SinglePurchase="5" EverydayPurchase="-1" ThemePurchase="-1" FromDate="2021-05-11 00:00:00" ToDate="2021-05-11 23:59:59" />
+  <ZhiGou ZhiGouID="1000002" ChongZhiID="16" GoodsOne="5570,128,1,0,0,0,0|4405,5,1,0,0,0,0" GoodsTwo="" SinglePurchase="5" EverydayPurchase="-1" ThemePurchase="-1" FromDate="2021-05-12 00:00:00" ToDate="2021-05-12 23:59:59" />
+  <ZhiGou ZhiGouID="1000003" ChongZhiID="16" GoodsOne="2037,888,1,0,0,0,0|63235,3,1,0,0,0,0" GoodsTwo="" SinglePurchase="5" EverydayPurchase="-1" ThemePurchase="-1" FromDate="2021-05-13 00:00:00" ToDate="2021-05-13 23:59:59" />
+</Config>"

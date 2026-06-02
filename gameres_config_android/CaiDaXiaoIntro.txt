@@ -1,0 +1,11 @@
+TextAsset Base
+	string m_Name = "CaiDaXiaoIntro"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Khi sự kiện bắt đầu, {17e43e}mỗi 5 phút mở thưởng 1 lần" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, Tổng số là {17e43e}3 hoặc 18{dac7ae} sẽ là {17e43e}Báo, {dac7ae}4-10 là{17e43e} nhỏ, {dac7ae}11-17 là{17e43e} lớn" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, {17e43e}30 giây cuối khi mở giải sẽ ngừng cược" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, Số lượng cược mỗi người mỗi kỳ {17e43e}sẽ có hạn." Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5, Người trúng thưởng sẽ nhận {17e43e}Xu Vui Vẻ{dac7ae}" Bold="0" />
+</Config>"

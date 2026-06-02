@@ -1,0 +1,35 @@
+TextAsset Base
+	string m_Name = "CircusLottery"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <CircusLottery ID="1" LotteryID="10" Goods="5603,50,1,0,0,0,0" Limit="-1" Right="80" />
+  <CircusLottery ID="2" LotteryID="10" Goods="5603,50,1,0,0,0,0" Limit="-1" Right="80" />
+  <CircusLottery ID="3" LotteryID="10" Goods="5603,50,1,0,0,0,0" Limit="-1" Right="80" />
+  <CircusLottery ID="4" LotteryID="10" Goods="5603,50,1,0,0,0,0" Limit="-1" Right="30" />
+  <CircusLottery ID="5" LotteryID="10" Goods="5603,50,1,0,0,0,0" Limit="-1" Right="40" />
+  <CircusLottery ID="6" LotteryID="10" Goods="5603,50,1,0,0,0,0" Limit="-1" Right="20" />
+  <CircusLottery ID="7" LotteryID="10" Goods="5603,100,1,0,0,0,0" Limit="-1" Right="30" />
+  <CircusLottery ID="8" LotteryID="10" Goods="5603,200,1,0,0,0,0" Limit="3" Right="60" />
+  <CircusLottery ID="9" LotteryID="10" Goods="5603,400,1,0,0,0,0" Limit="5" Right="30" />
+  <CircusLottery ID="10" LotteryID="10" Goods="30152321,1,1,0,0,0,0" Limit="7" Right="10" />
+  <CircusLottery ID="11" LotteryID="20" Goods="5603,200,1,0,0,0,0" Limit="-1" Right="80" />
+  <CircusLottery ID="12" LotteryID="20" Goods="5603,300,1,0,0,0,0" Limit="-1" Right="80" />
+  <CircusLottery ID="13" LotteryID="20" Goods="5603,500,1,0,0,0,0" Limit="-1" Right="80" />
+  <CircusLottery ID="14" LotteryID="20" Goods="5603,1000,1,0,0,0,0" Limit="-1" Right="40" />
+  <CircusLottery ID="15" LotteryID="20" Goods="5604,100,1,0,0,0,0" Limit="5" Right="30" />
+  <CircusLottery ID="16" LotteryID="20" Goods="30151891,1,1,0,0,0,0" Limit="-1" Right="20" />
+  <CircusLottery ID="17" LotteryID="20" Goods="30151891,1,1,0,0,0,0" Limit="-1" Right="30" />
+  <CircusLottery ID="18" LotteryID="20" Goods="30151891,1,1,0,0,0,0" Limit="5" Right="60" />
+  <CircusLottery ID="19" LotteryID="20" Goods="30151891,1,1,0,0,0,0" Limit="5" Right="30" />
+  <CircusLottery ID="20" LotteryID="20" Goods="30151891,1,1,0,0,0,0" Limit="7" Right="10" />
+  <CircusLottery ID="21" LotteryID="30" Goods="5603,1000,1,0,0,0,0" Limit="-1" Right="80" />
+  <CircusLottery ID="22" LotteryID="30" Goods="5603,1000,1,0,0,0,0" Limit="-1" Right="80" />
+  <CircusLottery ID="23" LotteryID="30" Goods="5603,1000,1,0,0,0,0" Limit="-1" Right="80" />
+  <CircusLottery ID="24" LotteryID="30" Goods="5604,100,1,0,0,0,0" Limit="-1" Right="30" />
+  <CircusLottery ID="25" LotteryID="30" Goods="5604,100,1,0,0,0,0" Limit="5" Right="40" />
+  <CircusLottery ID="26" LotteryID="30" Goods="5604,200,1,0,0,0,0" Limit="6" Right="20" />
+  <CircusLottery ID="27" LotteryID="30" Goods="30151891,1,1,0,0,0,0" Limit="-1" Right="30" />
+  <CircusLottery ID="28" LotteryID="30" Goods="30151891,1,1,0,0,0,0" Limit="4" Right="60" />
+  <CircusLottery ID="29" LotteryID="30" Goods="30151891,1,1,0,0,0,0" Limit="5" Right="30" />
+  <CircusLottery ID="30" LotteryID="30" Goods="30151891,1,1,0,0,0,0" Limit="7" Right="10" />
+</config>"

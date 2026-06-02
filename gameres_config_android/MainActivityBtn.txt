@@ -1,0 +1,47 @@
+TextAsset Base
+	string m_Name = "MainActivityBtn"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <MainActivityBtn ID="20" IconName="xingyunIcon" OrderID="-1" PriorityID="3" Name="幸运数字 " PositionID="7" UILink="" OpenCondition="0" TeXiao="" RedPointID="-1" />
+  <MainActivityBtn ID="19" IconName="caidaxiao" OrderID="-1" PriorityID="4" Name="猜大小" PositionID="7" UILink="" OpenCondition="0" TeXiao="" RedPointID="-1" />
+  <MainActivityBtn ID="18" IconName="caishuzi" OrderID="-1" PriorityID="5" Name="猜数字" PositionID="7" UILink="" OpenCondition="0" TeXiao="" RedPointID="-1" />
+  <MainActivityBtn ID="16" IconName="huigui" OrderID="-1" PriorityID="20" Name="回归活动" PositionID="7" UILink="" OpenCondition="0" TeXiao="" RedPointID="-1" />
+  <MainActivityBtn ID="17" IconName="TeQuanAcitvity" OrderID="-1" PriorityID="19" Name="特权活动" PositionID="7" UILink="" OpenCondition="0" TeXiao="" RedPointID="-1" />
+  <MainActivityBtn ID="15" IconName="EverydayFanLi" OrderID="-1" PriorityID="21" Name="每日充值返利活动" PositionID="7" UILink="" OpenCondition="0" TeXiao="" RedPointID="-1" />
+  <MainActivityBtn ID="14" IconName="ZhuTiIcon_40" OrderID="-1" PriorityID="10" Name="主题服活动" PositionID="7" UILink="-1" OpenCondition="0" TeXiao="" RedPointID="-1" />
+  <MainActivityBtn ID="13" IconName="jiyuanhuodong" OrderID="-1" PriorityID="8" Name="纪元活动" PositionID="7" UILink="-1" OpenCondition="0" TeXiao="" RedPointID="-1" />
+  <MainActivityBtn ID="7" IconName="AoYunDaTi" OrderID="-1" PriorityID="7" Name="奥运答题" PositionID="7" UILink="-1" OpenCondition="0" TeXiao="" RedPointID="18000" />
+  <MainActivityBtn ID="5" IconName="OlympicsIcon" OrderID="-1" PriorityID="13" Name="奥运活动" PositionID="7" UILink="-1" OpenCondition="0" TeXiao="" RedPointID="20000" />
+  <MainActivityBtn ID="1005" IconName="chengzhangjijin_01" OrderID="63" PriorityID="17" Name="成长基金" PositionID="2" UILink="-1" OpenCondition="0" TeXiao="" RedPointID="-1" />
+  <MainActivityBtn ID="1001" IconName="sevendayIcon" OrderID="-1" PriorityID="19" Name="七日狂欢" PositionID="2" UILink="-1" OpenCondition="0" TeXiao="" RedPointID="17000" />
+  <MainActivityBtn ID="21" IconName="mengHuanStone" OrderID="-1" PriorityID="2" Name="梦幻石板" PositionID="7" UILink="-1" OpenCondition="0" TeXiao="" RedPointID="-1" />
+  <MainActivityBtn ID="9" IconName="XingYunYiYuan" OrderID="-1" PriorityID="18" Name="幸运一元购" PositionID="7" UILink="-1" OpenCondition="0" TeXiao="" RedPointID="15051" />
+  <MainActivityBtn ID="8" IconName="ChaoJiGouIcon" OrderID="-1" PriorityID="17" Name="超级一元购" PositionID="7" UILink="-1" OpenCondition="0" TeXiao="" RedPointID="15052" />
+  <MainActivityBtn ID="12" IconName="EveryDayIcon" OrderID="-1" PriorityID="9" Name="每日活动" PositionID="7" UILink="-1" OpenCondition="0" TeXiao="" RedPointID="14114" />
+  <MainActivityBtn ID="4" IconName="zhuanxianghuodong" OrderID="-1" PriorityID="11" Name="专享活动" PositionID="7" UILink="-1" OpenCondition="0" TeXiao="" RedPointID="14110" />
+  <MainActivityBtn ID="1002" IconName="tuiguangyuan" OrderID="-1" PriorityID="12" Name="推广活动" PositionID="7" UILink="-1" OpenCondition="0" TeXiao="" RedPointID="14105" />
+  <MainActivityBtn ID="3" IconName="playerRecallIcon" OrderID="-1" PriorityID="14" Name="老玩家召回" PositionID="7" UILink="-1" OpenCondition="0" TeXiao="" RedPointID="14100" />
+  <MainActivityBtn ID="3000" IconName="mainFuli" OrderID="13" PriorityID="-1" Name="福利" PositionID="5" UILink="-1" OpenCondition="0" TeXiao="" RedPointID="3000" />
+  <MainActivityBtn ID="1000" IconName="mainHuodong" OrderID="-1" PriorityID="-1" Name="活动" PositionID="6" UILink="-1" OpenCondition="0" TeXiao="" RedPointID="1000" />
+  <MainActivityBtn ID="2000" IconName="mainFuBen" OrderID="-1" PriorityID="-1" Name="副本" PositionID="4" UILink="-1" OpenCondition="0" TeXiao="" RedPointID="2000" />
+  <MainActivityBtn ID="1006" IconName="mainMingXiang" OrderID="12" PriorityID="19" Name="明想" PositionID="1" UILink="-1" OpenCondition="0" TeXiao="" RedPointID="5001" />
+  <MainActivityBtn ID="4000" IconName="mainMenuIconJingJiChang" OrderID="18" PriorityID="-1" Name="竞技场" PositionID="8" UILink="-1" OpenCondition="0" TeXiao="" RedPointID="4000" />
+  <MainActivityBtn ID="1008" IconName="mainMenuIconNewServerHuodong" OrderID="-1" PriorityID="21" Name="新服" PositionID="2" UILink="-1" OpenCondition="0" TeXiao="" RedPointID="6000" />
+  <MainActivityBtn ID="1009" IconName="mainChongzhi" OrderID="-1" PriorityID="-1" Name="充值" PositionID="3" UILink="-1" OpenCondition="0" TeXiao="" RedPointID="3003" />
+  <MainActivityBtn ID="2" IconName="mainHefu" OrderID="-1" PriorityID="20" Name="合服  " PositionID="2" UILink="-1" OpenCondition="0" TeXiao="" RedPointID="12000" />
+  <MainActivityBtn ID="1" IconName="jieriActivityIcon" OrderID="-1" PriorityID="15" Name="节日活动 " PositionID="7" UILink="-1" OpenCondition="0" TeXiao="" RedPointID="14000" />
+  <MainActivityBtn ID="5000" IconName="mainGongneng" OrderID="12" PriorityID="20" Name="功能" PositionID="1" UILink="-1" OpenCondition="0" TeXiao="" RedPointID="5000" />
+  <MainActivityBtn ID="1011" IconName="BindingIcon" OrderID="99" PriorityID="999" Name="手机绑定" PositionID="2" UILink="-1" OpenCondition="0" TeXiao="" RedPointID="32004" />
+  <MainActivityBtn ID="2028" IconName="KingZhiGou" OrderID="-1" PriorityID="-1" Name="尊享直购" PositionID="9" UILink="13" OpenCondition="1" TeXiao="" RedPointID="-1" />
+  <MainActivityBtn ID="2029" IconName="Announcement" OrderID="-1" PriorityID="-1" Name="活动预告" PositionID="10" UILink="19" OpenCondition="0" TeXiao="" RedPointID="-1" />
+  <MainActivityBtn ID="2030" IconName="XianShiShangCheng" OrderID="-1" PriorityID="-1" Name="限时商城" PositionID="12" UILink="21" OpenCondition="1" TeXiao="xianshi_shangcheng" RedPointID="-1" />
+  <MainActivityBtn ID="27" IconName="Recruit" OrderID="-1" PriorityID="6" Name="勇士集结" PositionID="7" UILink="-1" OpenCondition="0" TeXiao="" RedPointID="32005" />
+  <MainActivityBtn ID="2050" IconName="XingChenDuoBao" OrderID="-1" PriorityID="21" Name="星辰夺宝" PositionID="11" UILink="34" OpenCondition="0" TeXiao="" RedPointID="-1" />
+  <MainActivityBtn ID="2041" IconName="nianshoudazuozhan" OrderID="-1" PriorityID="22" Name="年兽" PositionID="13" UILink="57" OpenCondition="1" TeXiao="" RedPointID="21004" />
+  <MainActivityBtn ID="2042" IconName="xunzhaoluopan" OrderID="-1" PriorityID="1" Name="寻宝罗盘" PositionID="7" UILink="58" OpenCondition="1" TeXiao="" RedPointID="21003" />
+  <MainActivityBtn ID="2051" IconName="-1" OrderID="-1" PriorityID="1" Name="新年红包" PositionID="14" UILink="69" OpenCondition="0" TeXiao="TJHB_HouBao_Effect" RedPointID="-1" />
+  <MainActivityBtn ID="2052" IconName="YuanGuBaoZang" OrderID="-1" PriorityID="1" Name="远古宝藏" PositionID="15" UILink="70" OpenCondition="0" TeXiao="" RedPointID="-1" />
+  <MainActivityBtn ID="2045" IconName="NewHuiGuiActivity" OrderID="-1" PriorityID="23" Name="Event Trở Về" PositionID="7" UILink="74" OpenCondition="1" TeXiao="" RedPointID="21005" />
+  <MainActivityBtn ID="2047" IconName="TuanGou" OrderID="-1" PriorityID="1" Name="拼团直购" PositionID="16" UILink="90" OpenCondition="1" TeXiao="" RedPointID="-1" />
+  <MainActivityBtn ID="2046" IconName="mofapan" OrderID="-1" PriorityID="25" Name="坎特鲁魔法盘" PositionID="7" UILink="93" OpenCondition="1" TeXiao="" RedPointID="21006" />
+</Config>"

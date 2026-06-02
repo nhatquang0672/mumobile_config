@@ -1,0 +1,30 @@
+TextAsset Base
+	string m_Name = "RebornPerMonster"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <RebornPerMonster ID="1" Code="9832001" X="4950" Y="6050" Line="1" MapId="96000" Radius="1" Num="1" PursuitRadius="1000" TimePoints="11:30" />
+  <RebornPerMonster ID="2" Code="9832002" X="9150" Y="2850" Line="1" MapId="96000" Radius="1" Num="1" PursuitRadius="1000" TimePoints="11:32" />
+  <RebornPerMonster ID="3" Code="9832003" X="14850" Y="6950" Line="1" MapId="96000" Radius="1" Num="1" PursuitRadius="1000" TimePoints="11:34" />
+  <RebornPerMonster ID="4" Code="9832004" X="12350" Y="3650" Line="1" MapId="96000" Radius="1" Num="1" PursuitRadius="1000" TimePoints="11:36" />
+  <RebornPerMonster ID="5" Code="9832005" X="6150" Y="12950" Line="1" MapId="96000" Radius="1" Num="1" PursuitRadius="1000" TimePoints="11:38" />
+  <RebornPerMonster ID="6" Code="9832001" X="4950" Y="6050" Line="2" MapId="96000" Radius="1" Num="1" PursuitRadius="1000" TimePoints="11:40" />
+  <RebornPerMonster ID="7" Code="9832002" X="9150" Y="2850" Line="2" MapId="96000" Radius="1" Num="1" PursuitRadius="1000" TimePoints="11:42" />
+  <RebornPerMonster ID="8" Code="9832003" X="14850" Y="6950" Line="2" MapId="96000" Radius="1" Num="1" PursuitRadius="1000" TimePoints="11:44" />
+  <RebornPerMonster ID="9" Code="9832004" X="12350" Y="3650" Line="2" MapId="96000" Radius="1" Num="1" PursuitRadius="1000" TimePoints="11:46" />
+  <RebornPerMonster ID="10" Code="9832005" X="6150" Y="12950" Line="2" MapId="96000" Radius="1" Num="1" PursuitRadius="1000" TimePoints="11:48" />
+  <RebornPerMonster ID="11" Code="9832001" X="4950" Y="6050" Line="3" MapId="96000" Radius="1" Num="1" PursuitRadius="1000" TimePoints="11:30" />
+  <RebornPerMonster ID="12" Code="9832002" X="9150" Y="2850" Line="3" MapId="96000" Radius="1" Num="1" PursuitRadius="1000" TimePoints="11:32" />
+  <RebornPerMonster ID="13" Code="9832003" X="14850" Y="6950" Line="3" MapId="96000" Radius="1" Num="1" PursuitRadius="1000" TimePoints="11:34" />
+  <RebornPerMonster ID="14" Code="9832004" X="12350" Y="3650" Line="3" MapId="96000" Radius="1" Num="1" PursuitRadius="1000" TimePoints="11:36" />
+  <RebornPerMonster ID="15" Code="9832005" X="6150" Y="12950" Line="3" MapId="96000" Radius="1" Num="1" PursuitRadius="1000" TimePoints="11:38" />
+  <RebornPerMonster ID="16" Code="9832001" X="4950" Y="6050" Line="4" MapId="96000" Radius="1" Num="1" PursuitRadius="1000" TimePoints="11:40" />
+  <RebornPerMonster ID="17" Code="9832002" X="9150" Y="2850" Line="4" MapId="96000" Radius="1" Num="1" PursuitRadius="1000" TimePoints="11:42" />
+  <RebornPerMonster ID="18" Code="9832003" X="14850" Y="6950" Line="4" MapId="96000" Radius="1" Num="1" PursuitRadius="1000" TimePoints="11:44" />
+  <RebornPerMonster ID="19" Code="9832004" X="12350" Y="3650" Line="4" MapId="96000" Radius="1" Num="1" PursuitRadius="1000" TimePoints="11:46" />
+  <RebornPerMonster ID="20" Code="9832005" X="6150" Y="12950" Line="4" MapId="96000" Radius="1" Num="1" PursuitRadius="1000" TimePoints="11:48" />
+  <RebornPerMonster ID="21" Code="9832001" X="4950" Y="6050" Line="5" MapId="96000" Radius="1" Num="1" PursuitRadius="1000" TimePoints="11:50" />
+  <RebornPerMonster ID="22" Code="9832002" X="9150" Y="2850" Line="5" MapId="96000" Radius="1" Num="1" PursuitRadius="1000" TimePoints="11:52" />
+  <RebornPerMonster ID="23" Code="9832003" X="14850" Y="6950" Line="5" MapId="96000" Radius="1" Num="1" PursuitRadius="1000" TimePoints="11:54" />
+  <RebornPerMonster ID="24" Code="9832004" X="12350" Y="3650" Line="5" MapId="96000" Radius="1" Num="1" PursuitRadius="1000" TimePoints="11:56" />
+  <RebornPerMonster ID="25" Code="9832005" X="6150" Y="12950" Line="5" MapId="96000" Radius="1" Num="1" PursuitRadius="1000" TimePoints="11:58" />
+</Config>"

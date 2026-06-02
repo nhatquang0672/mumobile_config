@@ -1,0 +1,14 @@
+TextAsset Base
+	string m_Name = "RedPacketSet"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <RedPacketSet ID="1" OpenTime=" 2018-07-03 00:00:00" ClosedTime=" 2018-07-20 00:00:00" RedPacketOpenlimit="1" RedPacketMap="1,2,3,4,5,6,7,8,9,10" />
+  <RedPacketSet ID="2" OpenTime=" 2018-07-03 00:00:00" ClosedTime=" 2018-07-20 00:00:00" RedPacketOpenlimit="1" RedPacketMap="1,2,3,4,5,6,7,8,9,10" />
+  <RedPacketSet ID="3" OpenTime=" 2018-07-03 00:00:00" ClosedTime=" 2018-07-20 00:00:00" RedPacketOpenlimit="1" RedPacketMap="1,2,3,4,5,6,7,8,9,10" />
+  <RedPacketSet ID="4" OpenTime=" 2018-07-03 00:00:00" ClosedTime=" 2018-07-20 00:00:00" RedPacketOpenlimit="1" RedPacketMap="1,2,3,4,5,6,7,8,9,10" />
+  <RedPacketSet ID="5" OpenTime=" 2018-07-03 00:00:00" ClosedTime=" 2018-07-20 00:00:00" RedPacketOpenlimit="1" RedPacketMap="1,2,3,4,5,6,7,8,9,10" />
+  <RedPacketSet ID="6" OpenTime=" 2018-07-03 00:00:00" ClosedTime=" 2018-07-20 00:00:00" RedPacketOpenlimit="1" RedPacketMap="1,2,3,4,5,6,7,8,9,10" />
+  <RedPacketSet ID="7" OpenTime=" 2018-07-03 00:00:00" ClosedTime=" 2018-07-20 00:00:00" RedPacketOpenlimit="1" RedPacketMap="1,2,3,4,5,6,7,8,9,10" />
+  <RedPacketSet ID="8" OpenTime=" 2018-07-03 00:00:00" ClosedTime=" 2018-07-20 00:00:00" RedPacketOpenlimit="1" RedPacketMap="1,2,3,4,5,6,7,8,9,10" />
+  <RedPacketSet ID="9" OpenTime=" 2018-07-03 00:00:00" ClosedTime=" 2018-07-20 00:00:00" RedPacketOpenlimit="1" RedPacketMap="1,2,3,4,5,6,7,8,9,10" />
+</Config>"

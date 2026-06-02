@@ -1,0 +1,17 @@
+TextAsset Base
+	string m_Name = "fenZhengHelp"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Hướng dẫn Sáng Thế Phân Tranh:" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, {fac60d}Giới hạn tham gia{dac7ae}: Cấp tái sinh đạt Lv trở lên mới được tham gia sự kiện này." Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, {fac60d}Mở sự kiện{dac7ae}: Trong thời gian mở sự kiện, người chơi có thể vào bản đồ sự kiện bất cứ lúc nào mà không cần báo danh trước. Người chơi thoát trong thời gian sự kiện, lưu điểm cá nhân, sự kiện chưa kết thúc người chơi có thể vào lại." Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, {fac60d}Số người tham gia{dac7ae}: Số người tham gia sự kiện tối đa là 220 người, quá 220 người không thể vào." Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, {fac60d}Kiểu chiến trường{dac7ae}: Sau khi vào chiến trường, chọn kiểu PK trong bản đồ là {fac60d}kiểu toản thể{dac7ae} và không được đổi thủ công, khi PK sẽ không tăng điểm PK." Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5, {fac60d}Thiết lập chiến trường{dac7ae}: Chiến trường có 5 tầng, tầng ban đầu là tầng 1, đạt số người diệt chỉ định được vào tầng kế." Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae}6, {fac60d}Quy tắc tăng tầng{dac7ae}: Khi diệt địch đạt điều kiện chỉ định, lập tức tăng tầng, trong giai đoạn không quyết chiến, người chơi tối đa được vào {fac60d}tầng 4{dac7ae}." Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae}7, {fac60d}Quy tắc giảm tầng{dac7ae}: Khi số lần bị diệt đạt số lần chỉ định, trở về tầng trước và hồi sinh; sau khi giảm tầng, số lần bị diệt sẽ xóa để tích lũy lại." Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae}8, {fac60d}Quyết chiến{dac7ae}: Khi vào thời gian quyết chiến, sẽ mở bản đồ {fac60d}tầng 5{dac7ae}; khi số lượng diệt đạt số lượng mà tầng 5 cần diệt, lập tức vào tầng 5." Bold="0" />
+  <HelpIntro ID="10" Intro="{dac7ae}9, {fac60d}Quy tắc điểm{dac7ae}: Trong mỗi tầng bản đồ tăng điểm nhận được theo thời gian sống sót, số tầng càng cao, điểm nhận khi diệt 1 người chơi càng cao." Bold="0" />
+  <HelpIntro ID="11" Intro="{dac7ae}10, {fac60d}Quy tắc thưởng{dac7ae}: Trận đấu kết thúc sẽ xếp hạng theo {fac60d}tổng điểm{dac7ae} có được, hạng càng cao, thưởng càng nhiều." Bold="0" />
+  <HelpIntro ID="12" Intro="{dac7ae}11, {fac60d}Ánh Sáng Chiến Thần{dac7ae}: Tất cả người chơi trong bản đồ Gameplay được nhận Buff Ánh Sáng Chiến Thần, {fac60d}cấm HP tự hồi, DMG tái sinh gây ra tăng cao{dac7ae}." Bold="0" />
+</Config>"

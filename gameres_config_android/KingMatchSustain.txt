@@ -1,0 +1,9 @@
+TextAsset Base
+	string m_Name = "KingMatchSustain"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <KingMatchSustain ID="1" MatchID="2" CostZhiChi="1,90000" MaxNum="8" WinAward="5595,313,1,0,0,0,0" FaillAward="5595,156,1,0,0,0,0" Group="1,2|3,4|5,6|7,8|9,10|11,12|13,14|15,16" BeginTime="15:40" EndTime="15:30" MinLevel="3,55" />
+  <KingMatchSustain ID="2" MatchID="3" CostZhiChi="1,180000" MaxNum="4" WinAward="5595,625,1,0,0,0,0" FaillAward="5595,313,1,0,0,0,0" Group="1,2,3,4|5,6,7,8|9,10,11,12|13,14,15,16" BeginTime="15:34" EndTime="15:50" MinLevel="3,55" />
+  <KingMatchSustain ID="3" MatchID="4" CostZhiChi="1,450000" MaxNum="2" WinAward="5595,1250,1,0,0,0,0" FaillAward="5595,625,1,0,0,0,0" Group="1,2,3,4,5,6,7,8|9,10,11,12,13,14,15,16" BeginTime="15:54" EndTime="16:10" MinLevel="3,55" />
+  <KingMatchSustain ID="4" MatchID="5" CostZhiChi="1,1200000" MaxNum="1" WinAward="5595,2500,1,0,0,0,0" FaillAward="5595,1250,1,0,0,0,0" Group="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16" BeginTime="16:14" EndTime="16:30" MinLevel="3,55" />
+</Config>"

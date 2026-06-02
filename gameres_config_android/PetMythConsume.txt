@@ -1,0 +1,16 @@
+TextAsset Base
+	string m_Name = "PetMythConsume"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <PetMythConsume MythGrade="0" LevelUpProcess="150" LevelUpOnce="30" LevelUpConsume="3100,80" />
+  <PetMythConsume MythGrade="1" LevelUpProcess="200" LevelUpOnce="25" LevelUpConsume="3100,100" />
+  <PetMythConsume MythGrade="2" LevelUpProcess="200" LevelUpOnce="20" LevelUpConsume="3100,100" />
+  <PetMythConsume MythGrade="3" LevelUpProcess="250" LevelUpOnce="25" LevelUpConsume="3100,150" />
+  <PetMythConsume MythGrade="4" LevelUpProcess="250" LevelUpOnce="25" LevelUpConsume="3100,150" />
+  <PetMythConsume MythGrade="5" LevelUpProcess="300" LevelUpOnce="25" LevelUpConsume="3100,200" />
+  <PetMythConsume MythGrade="6" LevelUpProcess="300" LevelUpOnce="20" LevelUpConsume="3100,200" />
+  <PetMythConsume MythGrade="7" LevelUpProcess="350" LevelUpOnce="10" LevelUpConsume="3100,300" />
+  <PetMythConsume MythGrade="8" LevelUpProcess="400" LevelUpOnce="10" LevelUpConsume="3100,300" />
+  <PetMythConsume MythGrade="9" LevelUpProcess="500" LevelUpOnce="10" LevelUpConsume="3100,500" />
+  <PetMythConsume MythGrade="10" LevelUpProcess="600" LevelUpOnce="10" LevelUpConsume="3100,800" />
+</Config>"

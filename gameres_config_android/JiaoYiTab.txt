@@ -1,0 +1,24 @@
+TextAsset Base
+	string m_Name = "JiaoYiTab"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Copy TabID="1" Name="Toàn bộ" Show="0" />
+  <Copy TabID="2" Name="Vũ khí" Show="1" />
+  <Copy TabID="3" Name="Nón" Show="1" />
+  <Copy TabID="4" Name="Giáp" Show="1" />
+  <Copy TabID="5" Name="Giáp tay" Show="1" />
+  <Copy TabID="6" Name="Giáp đùi" Show="1" />
+  <Copy TabID="7" Name="Giày" Show="1" />
+  <Copy TabID="8" Name="D.Chuyền" Show="1" />
+  <Copy TabID="9" Name="Nhẫn" Show="1" />
+  <Copy TabID="10" Name="Băng Tay" Show="1" />
+  <Copy TabID="11" Name="Ng.Liệu" Show="1" />
+  <Copy TabID="12" Name="Vàng" Show="0" />
+  <Copy TabID="13" Name="Thuốc" Show="1" />
+  <Copy TabID="14" Name="Pet" Show="1" />
+  <Copy TabID="15" Name="Thú Cưỡi" Show="1" />
+  <Copy TabID="16" Name="Tinh Hồn" Show="0" />
+  <Copy TabID="17" Name="T.Bị Tái Sinh" Show="1" />
+  <Copy TabID="18" Name="Đá Tái Sinh" Show="1" />
+  <Copy TabID="19" Name="Khác" Show="0" />	
+</Config>"

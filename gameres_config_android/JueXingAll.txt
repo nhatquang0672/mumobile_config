@@ -1,0 +1,9 @@
+TextAsset Base
+	string m_Name = "JueXingAll"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <JueXingAll ID="1" JueXingLv="6" AddPro="MaxLifePercent,0.1|AddAttackInjurePercent,0.05" />
+  <JueXingAll ID="2" JueXingLv="12" AddPro="ElementAttackInjurePercent,0.05|SubAttackInjurePercent,0.05" />
+  <JueXingAll ID="3" JueXingLv="18" AddPro="ElementInjurePercent,0.1|DamageThornPercent,0.05" />
+  <JueXingAll ID="4" JueXingLv="24" AddPro="InjurePenetrationPercent,0.1|IgnoreDefensePercent,0.1" />
+</Config>"

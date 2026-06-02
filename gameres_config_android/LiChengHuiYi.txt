@@ -1,0 +1,14 @@
+TextAsset Base
+	string m_Name = "LiChengHuiYi"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <LiChengHuiYi ID="1" Type="1" ShowType="1" ShowPicType="1" ShowPic="" ShowDes="{dac7ae}wwwwwwwwwwwwwwwwwwwwww{fac60d}sssssss{fac60d}" Goods="23001,1,1,0,0,0,0|23002,1,1,0,0,0,0" OpenTime="" />
+  <LiChengHuiYi ID="2" Type="1" ShowType="1" ShowPicType="1" ShowPic="" ShowDes="{dac7ae}wwwwwwwwwwwwwwwwwwwwww{fac60d}sssssss{fac60d}" Goods="23002,1,1,0,0,0,0" OpenTime="" />
+  <LiChengHuiYi ID="3" Type="1" ShowType="1" ShowPicType="2" ShowPic="" ShowDes="{dac7ae}wwwwwwwwwwwwwwwwwwwwww{fac60d}sssssss{fac60d}" Goods="23003,1,1,0,0,0,0" OpenTime="" />
+  <LiChengHuiYi ID="4" Type="1" ShowType="2" ShowPicType="2" ShowPic="" ShowDes="{dac7ae}wwwwwwwwwwwwwwwwwwwwww{fac60d}sssssss{fac60d}" Goods="23005,1,1,0,0,0,0" OpenTime="" />
+  <LiChengHuiYi ID="5" Type="1" ShowType="2" ShowPicType="3" ShowPic="" ShowDes="{dac7ae}wwwwwwwwwwwwwwwwwwwwww{fac60d}sssssss{fac60d}" Goods="23006,1,1,0,0,0,0" OpenTime="" />
+  <LiChengHuiYi ID="6" Type="1" ShowType="3" ShowPicType="2" ShowPic="" ShowDes="{dac7ae}wwwwwwwwwwwwwwwwwwwwww{fac60d}sssssss{fac60d}" Goods="23008,1,1,0,0,0,0" OpenTime="2021-5-12,00:00:00" />
+  <LiChengHuiYi ID="7" Type="2" ShowType="1" ShowPicType="1" ShowPic="" ShowDes="{dac7ae}wwwwwwwwwwwwwwwwwwwwww{fac60d}sssssss{fac60d}" Goods="23009,1,1,0,0,0,0" OpenTime="" />
+  <LiChengHuiYi ID="8" Type="2" ShowType="2" ShowPicType="2" ShowPic="" ShowDes="{dac7ae}wwwwwwwwwwwwwwwwwwwwww{fac60d}sssssss{fac60d}" Goods="23010,1,1,0,0,0,0" OpenTime="" />
+  <LiChengHuiYi ID="9" Type="2" ShowType="0" ShowPicType="3" ShowPic="" ShowDes="{dac7ae}wwwwwwwwwwwwwwwwwwwwww{fac60d}sssssss{fac60d}" Goods="23011,1,1,0,0,0,0" OpenTime="" />
+</config>"

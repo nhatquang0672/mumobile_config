@@ -1,0 +1,13 @@
+TextAsset Base
+	string m_Name = "RecruitZhuanPan"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <RecruitZhuanPan ID="1" Name="成就勋章" GoodsID="2035,1,0,0,0,0,0" Weight="200" />
+  <RecruitZhuanPan ID="2" Name="军衔勋章" GoodsID="2036,1,0,0,0,0,0" Weight="400" />
+  <RecruitZhuanPan ID="3" Name="1000神迹积分" GoodsID="5313,10,1,0,0,0,0" Weight="650" />
+  <RecruitZhuanPan ID="4" Name="徽记守护" GoodsID="2104,100,1,0,0,0,0" Weight="800" />
+  <RecruitZhuanPan ID="5" Name="神佑晶石" GoodsID="2005,88,1,0,0,0,0" Weight="1000" />
+  <RecruitZhuanPan ID="6" Name="100符文之尘" GoodsID="5331,1,1,0,0,0,0" Weight="1200" />
+  <RecruitZhuanPan ID="7" Name="徽记之光" GoodsID="2103,100,1,0,0,0,0" Weight="1500" />
+  <RecruitZhuanPan ID="8" Name="精致称号宝箱" GoodsID="63330,1,1,0,0,0,0" Weight="1520" />
+</Config>"

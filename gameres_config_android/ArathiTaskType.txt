@@ -1,0 +1,47 @@
+TextAsset Base
+	string m_Name = "ArathiTaskType"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <ArathiTaskType ID="1" TaskID="10" ArathiTaskID="1" Des="Trong chiến trường Arathi cứ mỗi tiêu diệt 5 người" RewardTime="3" Reward="33103,1,1,0,0,0,0" TaskType="1" TargetNum="5" FastFinish="225,2" UILink="1" />
+  <ArathiTaskType ID="2" TaskID="20" ArathiTaskID="1" Des="Trong chiến trường Arathi cứ mỗi tiêu diệt 1 quái trung lập" RewardTime="1" Reward="33103,1,1,0,0,0,0" TaskType="2" TargetNum="1" FastFinish="225,2" UILink="1" />
+  <ArathiTaskType ID="3" TaskID="30" ArathiTaskID="1" Des="Mỗi hoàn thành một trận đấu Arathi" RewardTime="2" Reward="33103,1,1,0,0,0,0" TaskType="3" TargetNum="1" FastFinish="225,2" UILink="1" />
+  <ArathiTaskType ID="4" TaskID="40" ArathiTaskID="1" Des="Mỗi thắng lợi một trận đấu Arathi" RewardTime="1" Reward="33105,100,1,0,0,0,0" TaskType="4" TargetNum="1" FastFinish="225,8" UILink="1" />
+  <ArathiTaskType ID="5" TaskID="50" ArathiTaskID="1" Des="Cứ mỗi chiếm được 2 Tế Đàn" RewardTime="2" Reward="33103,1,1,0,0,0,0" TaskType="5" TargetNum="2" FastFinish="225,2" UILink="1" />
+  <ArathiTaskType ID="6" TaskID="60" ArathiTaskID="1" Des="Mỗi lần nhận được 200 điểm" RewardTime="2" Reward="33105,50,1,0,0,0,0" TaskType="6" TargetNum="200" FastFinish="225,4" UILink="1" />
+  <ArathiTaskType ID="7" TaskID="70" ArathiTaskID="2" Des="Trong chiến trường Arathi cứ mỗi tiêu diệt 5 người" RewardTime="2" Reward="33103,1,1,0,0,0,0" TaskType="1" TargetNum="5" FastFinish="225,2" UILink="1" />
+  <ArathiTaskType ID="8" TaskID="80" ArathiTaskID="2" Des="Trong chiến trường Arathi cứ mỗi tiêu diệt 1 quái trung lập" RewardTime="3" Reward="33103,1,1,0,0,0,0" TaskType="2" TargetNum="1" FastFinish="225,2" UILink="1" />
+  <ArathiTaskType ID="9" TaskID="90" ArathiTaskID="2" Des="Mỗi hoàn thành một trận đấu Arathi" RewardTime="2" Reward="33103,1,1,0,0,0,0" TaskType="3" TargetNum="1" FastFinish="225,2" UILink="1" />
+  <ArathiTaskType ID="10" TaskID="100" ArathiTaskID="2" Des="Mỗi thắng lợi một trận đấu Arathi" RewardTime="1" Reward="33105,100,1,0,0,0,0" TaskType="4" TargetNum="1" FastFinish="225,8" UILink="1" />
+  <ArathiTaskType ID="11" TaskID="110" ArathiTaskID="2" Des="Cứ mỗi chiếm được 2 Tế Đàn" RewardTime="1" Reward="33103,1,1,0,0,0,0" TaskType="5" TargetNum="2" FastFinish="225,2" UILink="1" />
+  <ArathiTaskType ID="12" TaskID="120" ArathiTaskID="2" Des="Mỗi lần nhận được 200 điểm" RewardTime="2" Reward="33105,50,1,0,0,0,0" TaskType="6" TargetNum="200" FastFinish="225,4" UILink="1" />
+  <ArathiTaskType ID="13" TaskID="130" ArathiTaskID="3" Des="Trong chiến trường Arathi cứ mỗi tiêu diệt 5 người" RewardTime="1" Reward="33103,1,1,0,0,0,0" TaskType="1" TargetNum="5" FastFinish="225,2" UILink="1" />
+  <ArathiTaskType ID="14" TaskID="140" ArathiTaskID="3" Des="Trong chiến trường Arathi cứ mỗi tiêu diệt 1 quái trung lập" RewardTime="2" Reward="33103,1,1,0,0,0,0" TaskType="2" TargetNum="1" FastFinish="225,2" UILink="1" />
+  <ArathiTaskType ID="15" TaskID="150" ArathiTaskID="3" Des="Mỗi hoàn thành một trận đấu Arathi" RewardTime="2" Reward="33103,1,1,0,0,0,0" TaskType="3" TargetNum="1" FastFinish="225,2" UILink="1" />
+  <ArathiTaskType ID="16" TaskID="160" ArathiTaskID="3" Des="Mỗi thắng lợi một trận đấu Arathi" RewardTime="1" Reward="33105,100,1,0,0,0,0" TaskType="4" TargetNum="1" FastFinish="225,8" UILink="1" />
+  <ArathiTaskType ID="17" TaskID="170" ArathiTaskID="3" Des="Cứ mỗi chiếm được 2 Tế Đàn" RewardTime="3" Reward="33103,1,1,0,0,0,0" TaskType="5" TargetNum="2" FastFinish="225,2" UILink="1" />
+  <ArathiTaskType ID="18" TaskID="180" ArathiTaskID="3" Des="Mỗi lần nhận được 200 điểm" RewardTime="2" Reward="33105,50,1,0,0,0,0" TaskType="6" TargetNum="200" FastFinish="225,4" UILink="1" />
+  <ArathiTaskType ID="19" TaskID="190" ArathiTaskID="4" Des="Trong chiến trường Arathi cứ mỗi tiêu diệt 5 người" RewardTime="2" Reward="33103,1,1,0,0,0,0" TaskType="1" TargetNum="5" FastFinish="225,2" UILink="1" />
+  <ArathiTaskType ID="20" TaskID="200" ArathiTaskID="4" Des="Trong chiến trường Arathi cứ mỗi tiêu diệt 1 quái trung lập" RewardTime="1" Reward="33103,1,1,0,0,0,0" TaskType="2" TargetNum="1" FastFinish="225,2" UILink="1" />
+  <ArathiTaskType ID="21" TaskID="210" ArathiTaskID="4" Des="Mỗi hoàn thành một trận đấu Arathi" RewardTime="2" Reward="33103,1,1,0,0,0,0" TaskType="3" TargetNum="1" FastFinish="225,2" UILink="1" />
+  <ArathiTaskType ID="22" TaskID="220" ArathiTaskID="4" Des="Mỗi thắng lợi một trận đấu Arathi" RewardTime="1" Reward="33105,100,1,0,0,0,0" TaskType="4" TargetNum="1" FastFinish="225,8" UILink="1" />
+  <ArathiTaskType ID="23" TaskID="230" ArathiTaskID="4" Des="Cứ mỗi chiếm được 2 Tế Đàn" RewardTime="3" Reward="33103,1,1,0,0,0,0" TaskType="5" TargetNum="2" FastFinish="225,2" UILink="1" />
+  <ArathiTaskType ID="24" TaskID="240" ArathiTaskID="4" Des="Mỗi lần nhận được 200 điểm" RewardTime="2" Reward="33105,50,1,0,0,0,0" TaskType="6" TargetNum="200" FastFinish="225,4" UILink="1" />
+  <ArathiTaskType ID="25" TaskID="250" ArathiTaskID="5" Des="Trong chiến trường Arathi cứ mỗi tiêu diệt 5 người" RewardTime="1" Reward="33103,1,1,0,0,0,0" TaskType="1" TargetNum="5" FastFinish="225,2" UILink="1" />
+  <ArathiTaskType ID="26" TaskID="260" ArathiTaskID="5" Des="Trong chiến trường Arathi cứ mỗi tiêu diệt 1 quái trung lập" RewardTime="3" Reward="33103,1,1,0,0,0,0" TaskType="2" TargetNum="1" FastFinish="225,2" UILink="1" />
+  <ArathiTaskType ID="27" TaskID="270" ArathiTaskID="5" Des="Mỗi hoàn thành một trận đấu Arathi" RewardTime="2" Reward="33103,1,1,0,0,0,0" TaskType="3" TargetNum="1" FastFinish="225,2" UILink="1" />
+  <ArathiTaskType ID="28" TaskID="280" ArathiTaskID="5" Des="Mỗi thắng lợi một trận đấu Arathi" RewardTime="1" Reward="33105,100,1,0,0,0,0" TaskType="4" TargetNum="1" FastFinish="225,8" UILink="1" />
+  <ArathiTaskType ID="29" TaskID="290" ArathiTaskID="5" Des="Cứ mỗi chiếm được 2 Tế Đàn" RewardTime="2" Reward="33103,1,1,0,0,0,0" TaskType="5" TargetNum="2" FastFinish="225,2" UILink="1" />
+  <ArathiTaskType ID="30" TaskID="300" ArathiTaskID="5" Des="Mỗi lần nhận được 200 điểm" RewardTime="2" Reward="33105,50,1,0,0,0,0" TaskType="6" TargetNum="200" FastFinish="225,4" UILink="1" />
+  <ArathiTaskType ID="31" TaskID="310" ArathiTaskID="6" Des="Trong chiến trường Arathi cứ mỗi tiêu diệt 5 người" RewardTime="3" Reward="33103,1,1,0,0,0,0" TaskType="1" TargetNum="5" FastFinish="225,2" UILink="1" />
+  <ArathiTaskType ID="32" TaskID="320" ArathiTaskID="6" Des="Trong chiến trường Arathi cứ mỗi tiêu diệt 1 quái trung lập" RewardTime="2" Reward="33103,1,1,0,0,0,0" TaskType="2" TargetNum="1" FastFinish="225,2" UILink="1" />
+  <ArathiTaskType ID="33" TaskID="330" ArathiTaskID="6" Des="Mỗi hoàn thành một trận đấu Arathi" RewardTime="2" Reward="33103,1,1,0,0,0,0" TaskType="3" TargetNum="1" FastFinish="225,2" UILink="1" />
+  <ArathiTaskType ID="34" TaskID="340" ArathiTaskID="6" Des="Mỗi thắng lợi một trận đấu Arathi" RewardTime="1" Reward="33105,100,1,0,0,0,0" TaskType="4" TargetNum="1" FastFinish="225,8" UILink="1" />
+  <ArathiTaskType ID="35" TaskID="350" ArathiTaskID="6" Des="Cứ mỗi chiếm được 2 Tế Đàn" RewardTime="1" Reward="33103,1,1,0,0,0,0" TaskType="5" TargetNum="2" FastFinish="225,2" UILink="1" />
+  <ArathiTaskType ID="36" TaskID="360" ArathiTaskID="6" Des="Mỗi lần nhận được 200 điểm" RewardTime="2" Reward="33105,50,1,0,0,0,0" TaskType="6" TargetNum="200" FastFinish="225,4" UILink="1" />
+  <ArathiTaskType ID="37" TaskID="370" ArathiTaskID="7" Des="Trong chiến trường Arathi cứ mỗi tiêu diệt 5 người" RewardTime="2" Reward="33103,1,1,0,0,0,0" TaskType="1" TargetNum="5" FastFinish="225,2" UILink="1" />
+  <ArathiTaskType ID="38" TaskID="380" ArathiTaskID="7" Des="Trong chiến trường Arathi cứ mỗi tiêu diệt 1 quái trung lập" RewardTime="1" Reward="33103,1,1,0,0,0,0" TaskType="2" TargetNum="1" FastFinish="225,2" UILink="1" />
+  <ArathiTaskType ID="39" TaskID="390" ArathiTaskID="7" Des="Mỗi hoàn thành một trận đấu Arathi" RewardTime="4" Reward="33103,1,1,0,0,0,0" TaskType="3" TargetNum="1" FastFinish="225,2" UILink="1" />
+  <ArathiTaskType ID="40" TaskID="400" ArathiTaskID="7" Des="Mỗi thắng lợi một trận đấu Arathi" RewardTime="1" Reward="33105,100,1,0,0,0,0" TaskType="4" TargetNum="1" FastFinish="225,8" UILink="1" />
+  <ArathiTaskType ID="41" TaskID="410" ArathiTaskID="7" Des="Cứ mỗi chiếm được 2 Tế Đàn" RewardTime="1" Reward="33103,1,1,0,0,0,0" TaskType="5" TargetNum="2" FastFinish="225,2" UILink="1" />
+  <ArathiTaskType ID="42" TaskID="420" ArathiTaskID="7" Des="Mỗi lần nhận được 200 điểm" RewardTime="4" Reward="33105,50,1,0,0,0,0" TaskType="6" TargetNum="200" FastFinish="225,4" UILink="1" />
+</config>"

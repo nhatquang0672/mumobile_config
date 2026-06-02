@@ -1,0 +1,8 @@
+TextAsset Base
+	string m_Name = "NianShouAvenge"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <NianShouAvenge ID="1" Rage="10000" Reward="38000,10,1,0,0,0,0" MonsterName="Niên Thú Sơ Cấp" LocationDescription="3,4" MonsterID="9970101" BornLocation="3,9500,6400,13900,7300,5800,13300|4,12800,5800,3500,13100,3600,3700" ExistTime="600" />
+  <NianShouAvenge ID="2" Rage="50000" Reward="38000,15,1,0,0,0,0" MonsterName="Niên Thú Trung Cấp" LocationDescription="3,4" MonsterID="9970102" BornLocation="3,9500,6400,13900,7300,5800,13300|4,12800,5800,3500,13100,3600,3700" ExistTime="600" />
+  <NianShouAvenge ID="3" Rage="100000" Reward="38000,25,1,0,0,0,0" MonsterName="Niên Thú Cao Cấp" LocationDescription="3,4" MonsterID="9970103" BornLocation="3,9500,6400,13900,7300,5800,13300|4,12800,5800,3500,13100,3600,3700" ExistTime="600" />
+</Config>"

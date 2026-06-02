@@ -1,0 +1,14 @@
+TextAsset Base
+	string m_Name = "SevenDayChongZhi"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <GiftList Title="Mỗi ngày nạp đúng số lượng chỉ định, nhận ngay quà lớn!" Description="" Image="">
+  <Award ID="1" ActivityTypeID="2" MinZhuanShi="10000" GoodsOne="50164,20,1,0,0,0,0|5079,2,1,0,0,0,0" GoodsTwo="" />
+  <Award ID="2" ActivityTypeID="2" MinZhuanShi="20000" GoodsOne="50164,30,1,0,0,0,0|63065,100,1,0,0,0,0" GoodsTwo="" />
+  <Award ID="3" ActivityTypeID="2" MinZhuanShi="40000" GoodsOne="50164,40,1,0,0,0,0|63066,5,1,0,0,0,0" GoodsTwo="" />
+  <Award ID="4" ActivityTypeID="2" MinZhuanShi="80000" GoodsOne="50164,50,1,0,0,0,0|1030909,1,1,0,0,441581568" GoodsTwo="" />
+  <Award ID="5" ActivityTypeID="2" MinZhuanShi="150000" GoodsOne="50164,70,1,0,0,0,0|5079,20,1,0,0,0,0" GoodsTwo="" />
+  <Award ID="6" ActivityTypeID="2"  MinZhuanShi="300000" GoodsOne="50164,100,1,0,0,0,0|1030911,1,1,0,0,441581568" GoodsTwo="" />
+  <Award ID="7" ActivityTypeID="2"  MinZhuanShi="600000" GoodsOne="50164,100,1,0,0,0,0|1030913,1,1,0,0,441581568" GoodsTwo="" />
+  </GiftList>
+</Config>"

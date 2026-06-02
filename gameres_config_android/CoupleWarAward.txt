@@ -1,0 +1,17 @@
+TextAsset Base
+	string m_Name = "CoupleWarAward"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Award ID="1" Name="Thưởng hạng 1" StarRank="1" EndRank="1" Award="5150,10,1,0,0,0,0|50160,20,1,0,0,0,0|5141,80,1,0,0,0,0|2130,280,1,0,0,0,0" />
+  <Award ID="2" Name="Thưởng hạng 2" StarRank="2" EndRank="2" Award="5150,8,1,0,0,0,0|50160,15,1,0,0,0,0|5141,60,1,0,0,0,0|2130,220,1,0,0,0,0" />
+  <Award ID="3" Name="Thưởng hạng 3" StarRank="3" EndRank="3" Award="5150,7,1,0,0,0,0|50160,12,1,0,0,0,0|5141,48,1,0,0,0,0|2130,170,1,0,0,0,0" />
+  <Award ID="4" Name="Thưởng hạng 4-6" StarRank="4" EndRank="6" Award="5150,6,1,0,0,0,0|50160,10,1,0,0,0,0|5141,40,1,0,0,0,0|2130,130,1,0,0,0,0" />
+  <Award ID="5" Name="Thưởng hạng 7-10" StarRank="7" EndRank="10" Award="5150,5,1,0,0,0,0|50160,9,1,0,0,0,0|5141,36,1,0,0,0,0|2130,100,1,0,0,0,0" />
+  <Award ID="6" Name="Thưởng hạng 11-20" StarRank="11" EndRank="20" Award="5150,4,1,0,0,0,0|50160,8,1,0,0,0,0|5141,32,1,0,0,0,0|2130,70,1,0,0,0,0" />
+  <Award ID="7" Name="Thưởng hạng 21-50" StarRank="21" EndRank="50" Award="5150,3,1,0,0,0,0|50160,7,1,0,0,0,0|5141,28,1,0,0,0,0|2130,50,1,0,0,0,0" />
+  <Award ID="8" Name="Thưởng hạng 51-100" StarRank="51" EndRank="100" Award="5150,3,1,0,0,0,0|50160,6,1,0,0,0,0|5141,24,1,0,0,0,0|2130,35,1,0,0,0,0" />
+  <Award ID="9" Name="Thưởng hạng 101-200" StarRank="101" EndRank="200" Award="5150,2,1,0,0,0,0|50160,5,1,0,0,0,0|5141,20,1,0,0,0,0|2130,24,1,0,0,0,0" />
+  <Award ID="10" Name="Thưởng hạng 201-500" StarRank="201" EndRank="500" Award="5150,2,1,0,0,0,0|50160,4,1,0,0,0,0|5141,16,1,0,0,0,0|2130,16,1,0,0,0,0" />
+  <Award ID="11" Name="Thưởng hạng 501-1000" StarRank="501" EndRank="1000" Award="5150,2,1,0,0,0,0|50160,3,1,0,0,0,0|5141,12,1,0,0,0,0|2130,10,1,0,0,0,0" />
+  <Award ID="12" Name="Thưởng hạng 1001 trở lên" StarRank="1001" EndRank="-1" Award="5150,1,1,0,0,0,0|50160,2,1,0,0,0,0|5141,10,1,0,0,0,0" />
+</Config>"

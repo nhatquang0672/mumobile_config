@@ -1,0 +1,56 @@
+TextAsset Base
+	string m_Name = "BiZhangTreasurePr"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <BiZhangTreasurePr id="1" GoodsID="30001" Num="1" TreasureWeight="0" PoolType="0" DownTimes="0" />
+  <BiZhangTreasurePr id="2" GoodsID="30002" Num="1" TreasureWeight="0" PoolType="0" DownTimes="0" />
+  <BiZhangTreasurePr id="3" GoodsID="30003" Num="1" TreasureWeight="0" PoolType="0" DownTimes="0" />
+  <BiZhangTreasurePr id="4" GoodsID="30004" Num="1" TreasureWeight="5000" PoolType="0" DownTimes="0" />
+  <BiZhangTreasurePr id="5" GoodsID="30005" Num="1" TreasureWeight="10000" PoolType="0" DownTimes="0" />
+  <BiZhangTreasurePr id="6" GoodsID="30006" Num="1" TreasureWeight="15000" PoolType="0" DownTimes="0" />
+  <BiZhangTreasurePr id="7" GoodsID="30007" Num="1" TreasureWeight="40000" PoolType="0" DownTimes="0" />
+  <BiZhangTreasurePr id="8" GoodsID="30008" Num="1" TreasureWeight="65000" PoolType="0" DownTimes="0" />
+  <BiZhangTreasurePr id="9" GoodsID="30009" Num="1" TreasureWeight="90000" PoolType="0" DownTimes="0" />
+  <BiZhangTreasurePr id="10" GoodsID="30010" Num="1" TreasureWeight="91700" PoolType="0" DownTimes="0" />
+  <BiZhangTreasurePr id="11" GoodsID="30011" Num="1" TreasureWeight="93400" PoolType="0" DownTimes="0" />
+  <BiZhangTreasurePr id="12" GoodsID="30012" Num="1" TreasureWeight="95100" PoolType="0" DownTimes="0" />
+  <BiZhangTreasurePr id="13" GoodsID="30013" Num="1" TreasureWeight="96800" PoolType="0" DownTimes="0" />
+  <BiZhangTreasurePr id="14" GoodsID="30014" Num="1" TreasureWeight="98500" PoolType="0" DownTimes="0" />
+  <BiZhangTreasurePr id="15" GoodsID="30015" Num="1" TreasureWeight="100000" PoolType="0" DownTimes="0" />
+  <BiZhangTreasurePr id="16" GoodsID="30001" Num="1" TreasureWeight="32000" PoolType="1" DownTimes="0" />
+  <BiZhangTreasurePr id="17" GoodsID="30002" Num="1" TreasureWeight="64000" PoolType="1" DownTimes="0" />
+  <BiZhangTreasurePr id="18" GoodsID="30003" Num="1" TreasureWeight="96000" PoolType="1" DownTimes="0" />
+  <BiZhangTreasurePr id="19" GoodsID="30004" Num="1" TreasureWeight="96600" PoolType="1" DownTimes="1" />
+  <BiZhangTreasurePr id="20" GoodsID="30005" Num="1" TreasureWeight="97200" PoolType="1" DownTimes="1" />
+  <BiZhangTreasurePr id="21" GoodsID="30006" Num="1" TreasureWeight="97800" PoolType="1" DownTimes="1" />
+  <BiZhangTreasurePr id="22" GoodsID="30007" Num="1" TreasureWeight="98400" PoolType="1" DownTimes="1" />
+  <BiZhangTreasurePr id="23" GoodsID="30008" Num="1" TreasureWeight="99000" PoolType="1" DownTimes="1" />
+  <BiZhangTreasurePr id="24" GoodsID="30009" Num="1" TreasureWeight="99600" PoolType="1" DownTimes="1" />
+  <BiZhangTreasurePr id="25" GoodsID="30010" Num="1" TreasureWeight="99700" PoolType="1" DownTimes="10" />
+  <BiZhangTreasurePr id="26" GoodsID="30011" Num="1" TreasureWeight="99800" PoolType="1" DownTimes="10" />
+  <BiZhangTreasurePr id="27" GoodsID="30012" Num="1" TreasureWeight="99850" PoolType="1" DownTimes="10" />
+  <BiZhangTreasurePr id="28" GoodsID="30013" Num="1" TreasureWeight="99900" PoolType="1" DownTimes="10" />
+  <BiZhangTreasurePr id="29" GoodsID="30014" Num="1" TreasureWeight="99950" PoolType="1" DownTimes="10" />
+  <BiZhangTreasurePr id="30" GoodsID="30015" Num="1" TreasureWeight="100000" PoolType="1" DownTimes="10" />
+  <BiZhangTreasurePr id="31" GoodsID="30001" Num="1" TreasureWeight="31000" PoolType="2" DownTimes="0" />
+  <BiZhangTreasurePr id="32" GoodsID="30002" Num="1" TreasureWeight="61000" PoolType="2" DownTimes="0" />
+  <BiZhangTreasurePr id="33" GoodsID="30003" Num="1" TreasureWeight="91000" PoolType="2" DownTimes="0" />
+  <BiZhangTreasurePr id="34" GoodsID="30004" Num="1" TreasureWeight="92000" PoolType="2" DownTimes="1" />
+  <BiZhangTreasurePr id="35" GoodsID="30005" Num="1" TreasureWeight="93000" PoolType="2" DownTimes="1" />
+  <BiZhangTreasurePr id="36" GoodsID="30006" Num="1" TreasureWeight="94000" PoolType="2" DownTimes="1" />
+  <BiZhangTreasurePr id="37" GoodsID="30007" Num="1" TreasureWeight="94500" PoolType="2" DownTimes="1" />
+  <BiZhangTreasurePr id="38" GoodsID="30008" Num="1" TreasureWeight="95000" PoolType="2" DownTimes="1" />
+  <BiZhangTreasurePr id="39" GoodsID="30009" Num="1" TreasureWeight="95500" PoolType="2" DownTimes="1" />
+  <BiZhangTreasurePr id="40" GoodsID="30010" Num="1" TreasureWeight="96500" PoolType="2" DownTimes="99999" />
+  <BiZhangTreasurePr id="41" GoodsID="30011" Num="1" TreasureWeight="97500" PoolType="2" DownTimes="99999" />
+  <BiZhangTreasurePr id="42" GoodsID="30012" Num="1" TreasureWeight="98500" PoolType="2" DownTimes="99999" />
+  <BiZhangTreasurePr id="43" GoodsID="30013" Num="1" TreasureWeight="99000" PoolType="2" DownTimes="99999" />
+  <BiZhangTreasurePr id="44" GoodsID="30014" Num="1" TreasureWeight="99500" PoolType="2" DownTimes="99999" />
+  <BiZhangTreasurePr id="45" GoodsID="30015" Num="1" TreasureWeight="100000" PoolType="2" DownTimes="99999" />
+  <BiZhangTreasurePr id="49" GoodsID="30010" Num="1" TreasureWeight="15000" PoolType="3" DownTimes="99999" />
+  <BiZhangTreasurePr id="50" GoodsID="30011" Num="1" TreasureWeight="30000" PoolType="3" DownTimes="99999" />
+  <BiZhangTreasurePr id="51" GoodsID="30012" Num="1" TreasureWeight="45000" PoolType="3" DownTimes="99999" />
+  <BiZhangTreasurePr id="52" GoodsID="30013" Num="1" TreasureWeight="60000" PoolType="3" DownTimes="99999" />
+  <BiZhangTreasurePr id="53" GoodsID="30014" Num="1" TreasureWeight="80000" PoolType="3" DownTimes="99999" />
+  <BiZhangTreasurePr id="54" GoodsID="30015" Num="1" TreasureWeight="100000" PoolType="3" DownTimes="99999" />
+</Config>"

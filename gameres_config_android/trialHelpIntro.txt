@@ -1,0 +1,11 @@
+TextAsset Base
+	string m_Name = "trialHelpIntro"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="Hướng dẫn cách chơi Đảo Ma Long" Bold="1" Type="5" />
+  <HelpIntro ID="2" Intro="1, Trong Đảo Ma Long có Quái thuộc tính tái sinh, Tinh Anh thuộc tính tái sinh và BOSS chủ Ma Long" Bold="0" Type="5" />
+  <HelpIntro ID="3" Intro="2, Hoàn thành nhiệm vụ Thí Luyện Ngày được nhận Ngọc Ma Long. Diệt quái có xác suất rơi Ngọc Ma Long; diệt Tinh Anh chắc chắn rơi Ngọc Ma Long" Bold="0" Type="5" />
+  <HelpIntro ID="4" Intro="3, Ngọc Ma Long dùng để góp Thí Luyện Ma Long, số lượng góp toàn kên đạt chỉ định được triệu hồi BOSS chủ Ma Long" Bold="0" Type="5" />
+  <HelpIntro ID="5" Intro="4, BOSS chủ Ma Long rơi theo sát thương đội, đội hạng 1 BXH sát thương nhận được thưởng cuối" Bold="0" Type="5" />
+  <HelpIntro ID="6" Intro="5, BOSS chủ Ma Long có thể triệu hồi con Ma Long, diệt con Ma Long rơi Rương Ma Long, mở được nhận nhiều thưởng" Bold="0" Type="5" />
+</Config>"

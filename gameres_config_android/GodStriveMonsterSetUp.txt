@@ -1,0 +1,7 @@
+TextAsset Base
+	string m_Name = "GodStriveMonsterSetUp"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <GodStriveMonsterSetUp ID="1" MapID="97007" RefreshMonsterID="9860014" RefreshMonsterPoint="2450,6450|2450,3250|5150,6550" RefreshBossTime="120" RefreshBossSectionTime="60" RefreshMonsterTime="10" NextRefreshID="2" RefreshMonsterNotice="5" RefreshMonsterMax="1" RefreshMonsterBuff="2000871,60,0.25,2,500" />
+  <GodStriveMonsterSetUp ID="2" MapID="97007" RefreshMonsterID="9860015" RefreshMonsterPoint="2150,7050|2450,6450|3650,6850|2350,2550|2650,2050,|2250,4350|4550,6950|4250,5450|6350,5550" RefreshBossTime="-1" RefreshBossSectionTime="-1" RefreshMonsterTime="-1" NextRefreshID="-1" RefreshMonsterNotice="5" RefreshMonsterMax="3" RefreshMonsterBuff="2000872,20,0.125,1,0" />
+</Config>"

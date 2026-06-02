@@ -1,0 +1,11 @@
+TextAsset Base
+	string m_Name = "ShenYuAttributeHelp"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Giới thiệu Hệ Thống Quang Thần Ngữ" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1. Đúc lại Thần Ngữ: cần tốn Khuôn Thần Ngữ để đúc lại trang bị, đúc lại sẽ nhận được loại hình ngẫu nhiên, thuộc tính Thần Ngữ của phẩm chất, sau khi nhận thuộc tính mới sẽ tự mình chọn có thay thế thuộc tính gốc hay không" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2. Bồi dưỡng Thần Ngữ: cần tốn Đá Thần Ngữ để bồi dưỡng trang bị, phẩm chất thuộc tính Thần Ngữ quyết định giới hạn của thuộc tính bồi dưỡng Thần Ngữ, phẩm chất càng cao thì điểm cơ bản của 1 dòng thuộc tính càng cao, điểm giới hạn có thể bồi dưỡng cũng càng cao" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3. Hiệu quả số bộ Thần Ngữ: Khi số trang vị thuộc tính Thần Ngữ mặc đạt đến số lượng quy định, có thể kích hoạt hiệu quả bộ trang bị, số bộ trang bị chia làm Bộ 2 món, Bộ 4 món và Bộ 5 món (số món là số lượng trang bị mặc)" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4. Hiệu quả Thần Ngữ tăng thêm: Mang thuộc tính Thần Ngữ cùng loại hình cùng phẩm chất có thể kích hoạt thêm hiệu quả thuộc tính, nếu phẩm chất thuộc tính lần lượt có phẩm chất cao và phẩm chất thấp, thì kích hoạt thêm hiệu quả bộ trang bị của phẩm chất thấp, nếu tất cả phẩm chất thuộc tính là phẩm chất cao thì hiệu quả bộ trang bị kích hoạt là hiệu quả thêm của phẩm chất cao" Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5. Truyền thừa Thần Ngữ: Trang bị có thuộc tính Thần Ngữ mới có thể tiến hành truyền thừa Thần Ngữ, phái giống nhau, trang bị của bộ vị giống nhau mới có thể truyền thừa, sau khi truyền thừa thì thuộc tính 2 món trang bị sẽ trao đổi cho nhau, trang bị không khóa kế thừa trang bị không khóa, trạng thái trang bị là không khóa, trang bị khóa kế thừa trang bị không khóa, trạng thái trang bị là khóa, trang bị không khóa kế thừa trang bị khóa, trạng thái trang bị là khóa" Bold="0" />
+</Config>"

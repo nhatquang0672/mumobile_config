@@ -1,0 +1,15 @@
+TextAsset Base
+	string m_Name = "SoulBlessing"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <SoulBlessing Level="1" Attribute="FireEnhance,0.03|WaterEnhance,0.03|LightningEnhance,0.03|SoilEnhance,0.03|IceEnhance,0.03|WindEnhance,0.03" SoulLevel="10" SoulNum="10" />
+  <SoulBlessing Level="2" Attribute="FireEnhance,0.06|WaterEnhance,0.06|LightningEnhance,0.06|SoilEnhance,0.06|IceEnhance,0.06|WindEnhance,0.06" SoulLevel="20" SoulNum="10" />
+  <SoulBlessing Level="3" Attribute="FireEnhance,0.09|WaterEnhance,0.09|LightningEnhance,0.09|SoilEnhance,0.09|IceEnhance,0.09|WindEnhance,0.09" SoulLevel="30" SoulNum="10" />
+  <SoulBlessing Level="4" Attribute="FireEnhance,0.12|WaterEnhance,0.12|LightningEnhance,0.12|SoilEnhance,0.12|IceEnhance,0.12|WindEnhance,0.12" SoulLevel="40" SoulNum="10" />
+  <SoulBlessing Level="5" Attribute="FireEnhance,0.15|WaterEnhance,0.15|LightningEnhance,0.15|SoilEnhance,0.15|IceEnhance,0.15|WindEnhance,0.15" SoulLevel="50" SoulNum="10" />
+  <SoulBlessing Level="6" Attribute="FireEnhance,0.18|WaterEnhance,0.18|LightningEnhance,0.18|SoilEnhance,0.18|IceEnhance,0.18|WindEnhance,0.18" SoulLevel="60" SoulNum="10" />
+  <SoulBlessing Level="7" Attribute="FireEnhance,0.21|WaterEnhance,0.21|LightningEnhance,0.21|SoilEnhance,0.21|IceEnhance,0.21|WindEnhance,0.21" SoulLevel="70" SoulNum="10" />
+  <SoulBlessing Level="8" Attribute="FireEnhance,0.24|WaterEnhance,0.24|LightningEnhance,0.24|SoilEnhance,0.24|IceEnhance,0.24|WindEnhance,0.24" SoulLevel="80" SoulNum="10" />
+  <SoulBlessing Level="9" Attribute="FireEnhance,0.27|WaterEnhance,0.27|LightningEnhance,0.27|SoilEnhance,0.27|IceEnhance,0.27|WindEnhance,0.27" SoulLevel="90" SoulNum="10" />
+  <SoulBlessing Level="10" Attribute="FireEnhance,0.3|WaterEnhance,0.3|LightningEnhance,0.3|SoilEnhance,0.3|IceEnhance,0.3|WindEnhance,0.3" SoulLevel="100" SoulNum="10" />
+</Config>"

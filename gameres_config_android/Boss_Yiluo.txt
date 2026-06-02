@@ -1,0 +1,11 @@
+TextAsset Base
+	string m_Name = "Boss_Yiluo"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Boss_Yiluo ID="1" BossID="9880000" ToDate="3600" Bs_DayNumber="5" Number="1" DiaoLuoID="9834001" Goods_Show="999007,1,0,0,0,0,0|999008,1,0,0,0,0,0|999009,1,0,0,0,0,0|999010,1,0,0,0,0,0|999004,1,0,0,0,0,0|2042,1,0,0,0,0,0" TakeNumber="1" />
+  <Boss_Yiluo ID="2" BossID="9880001" ToDate="3600" Bs_DayNumber="5" Number="1" DiaoLuoID="9834002" Goods_Show="999007,1,0,0,0,0,0|999008,1,0,0,0,0,0|999009,1,0,0,0,0,0|999010,1,0,0,0,0,0|999004,1,0,0,0,0,0|2042,1,0,0,0,0,0" TakeNumber="1" />
+  <Boss_Yiluo ID="3" BossID="9880002" ToDate="3600" Bs_DayNumber="5" Number="1" DiaoLuoID="9834003" Goods_Show="999007,1,0,0,0,0,0|999008,1,0,0,0,0,0|999009,1,0,0,0,0,0|999010,1,0,0,0,0,0|999004,1,0,0,0,0,0|999005,1,0,0,0,0,0" TakeNumber="1" />
+  <Boss_Yiluo ID="4" BossID="9880003" ToDate="3600" Bs_DayNumber="5" Number="1" DiaoLuoID="9834004" Goods_Show="999007,1,0,0,0,0,0|999008,1,0,0,0,0,0|999009,1,0,0,0,0,0|999010,1,0,0,0,0,0|999004,1,0,0,0,0,0|999005,1,0,0,0,0,0" TakeNumber="1" />
+  <Boss_Yiluo ID="5" BossID="9880004" ToDate="3600" Bs_DayNumber="5" Number="1" DiaoLuoID="9834005" Goods_Show="999008,1,0,0,0,0,0|999009,1,0,0,0,0,0|999010,1,0,0,0,0,0|999004,1,0,0,0,0,0|999005,1,0,0,0,0,0|999006,1,0,0,0,0,0" TakeNumber="1" />
+  <Boss_Yiluo ID="6" BossID="9880005" ToDate="3600" Bs_DayNumber="5" Number="1" DiaoLuoID="9834006" Goods_Show="999008,1,0,0,0,0,0|999009,1,0,0,0,0,0|999010,1,0,0,0,0,0|999004,1,0,0,0,0,0|999005,1,0,0,0,0,0|999006,1,0,0,0,0,0" TakeNumber="1" />
+</Config>"

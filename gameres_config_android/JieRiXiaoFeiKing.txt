@@ -1,0 +1,18 @@
+TextAsset Base
+	string m_Name = "JieRiXiaoFeiKing"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="15" FromDate="2022-11-01 00:00:00" ToDate="2022-11-06 23:59:59" AwardStartDate="2022-11-07 00:00:00" AwardEndDate="2022-11-07 23:59:59" />
+  <GiftList Description="Trong thời gian event, top 10 tiêu phí có thể nhận thêm quà lớn!">
+    <Award ID="1" GoodsOne="1035087,1,1,0,0,0,0|63156,10,1,0,0,0,0|30151564,3,1,0,0,0,0|2103,150,1,0,0,0,0|5313,40,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" MinYuanBao="60000" />
+    <Award ID="2" GoodsOne="30151550,2,1,0,0,0,0|63120,50,1,0,0,0,0|30151564,2,1,0,0,0,0|2103,100,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" MinYuanBao="50000" />
+    <Award ID="3" GoodsOne="30151550,1,1,0,0,0,0|63120,40,1,0,0,0,0|30151564,1,1,0,0,0,0|2103,75,1,0,0,0,0|5313,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" MinYuanBao="40000" />
+    <Award ID="4" GoodsOne="7050,1000,1,0,0,0,0|63120,30,1,0,0,0,0|5251,30,1,0,0,0,0|2104,70,1,0,0,0,0|5313,8,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" MinYuanBao="30000" />
+    <Award ID="5" GoodsOne="7050,1000,1,0,0,0,0|63120,30,1,0,0,0,0|5251,30,1,0,0,0,0|2104,70,1,0,0,0,0|5313,8,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" MinYuanBao="30000" />
+    <Award ID="6" GoodsOne="7050,500,1,0,0,0,0|63120,20,1,0,0,0,0|5251,20,1,0,0,0,0|2104,50,1,0,0,0,0|5313,5,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" MinYuanBao="20000" />
+    <Award ID="7" GoodsOne="7050,500,1,0,0,0,0|63120,20,1,0,0,0,0|5251,20,1,0,0,0,0|2104,50,1,0,0,0,0|5313,5,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" MinYuanBao="20000" />
+    <Award ID="8" GoodsOne="7050,500,1,0,0,0,0|63120,20,1,0,0,0,0|5251,20,1,0,0,0,0|2104,50,1,0,0,0,0|5313,5,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" MinYuanBao="20000" />
+    <Award ID="9" GoodsOne="7050,500,1,0,0,0,0|63120,20,1,0,0,0,0|5251,20,1,0,0,0,0|2104,50,1,0,0,0,0|5313,5,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" MinYuanBao="20000" />
+    <Award ID="10" GoodsOne="7050,500,1,0,0,0,0|63120,20,1,0,0,0,0|5251,20,1,0,0,0,0|2104,50,1,0,0,0,0|5313,5,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" MinYuanBao="20000" />
+  </GiftList>
+</Config>"

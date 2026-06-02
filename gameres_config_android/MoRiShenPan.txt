@@ -1,0 +1,10 @@
+TextAsset Base
+	string m_Name = "MoRiShenPan"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <MoRiShenPan ID="1" FuBenID="70000" Name="Bệnh Dịch " MonstersID="8100001" X="3750" Y="2150" Time="120" Props="AddAttack,11000|AddDefense,2000|MaxLifeV,2300000" />
+  <MoRiShenPan ID="2" FuBenID="70000" Name="Chiến Tranh " MonstersID="8100002" X="2050" Y="4050" Time="105" Props="AddAttack,11000|AddDefense,2000|MaxLifeV,2300000" />
+  <MoRiShenPan ID="3" FuBenID="70000" Name="Nạn Đói " MonstersID="8100003" X="3750" Y="5850" Time="90" Props="AddAttack,11000|AddDefense,2000|MaxLifeV,2300000" />
+  <MoRiShenPan ID="4" FuBenID="70000" Name="Án Tử " MonstersID="8100004" X="5850" Y="4000" Time="60" Props="AddAttack,11000|AddDefense,2000|MaxLifeV,2300000" />
+  <MoRiShenPan ID="5" FuBenID="70000" Name="Thẩm Phán Tận Thế " MonstersID="8100000" X="3950" Y="4050" Time="-1" Props="-1" />
+</Config>"

@@ -1,0 +1,21 @@
+TextAsset Base
+	string m_Name = "CompIntroMap"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Loại PK" Bold="1" />
+  <HelpIntro ID="2" Intro="Nhân vật cùng thế lực trong map sẽ được mặc định là {17e43e}bạn{-}, khác thế lực sẽ được mặc định là {ff0000}địch{-}, PK sẽ không có hiệu lực trong map thế lực" Bold="0" />
+  <HelpIntro ID="3" Intro="{fac60d}Phồn vinh thế lực" Bold="1" />
+  <HelpIntro ID="4" Intro="1. Phồn vinh là tiêu chuẩn đo độ mạnh yếu của thế lực {17e43e}thu thập pha lê{-}, {17e43e}tham gia diệt BOSS Thế Lực{-} sẽ nhận được điểm phồn vinh." Bold="0" />
+  <HelpIntro ID="5" Intro="2. Độ phồn vinh ảnh hưởng số lượng vật phẩm làm mới mỗi ngày tại Tiệm Thế Lực, {17e43e}độ phồn vinh càng cao, vật phẩm càng nhiều{-}" Bold="0" />
+  <HelpIntro ID="6" Intro="3. Mỗi ngày sẽ tiêu hao độ phồn vinh, nếu quá ít sẽ không tiêu hao" Bold="0" />
+  <HelpIntro ID="7" Intro="{fac60d}Pha lê" Bold="1" />
+  <HelpIntro ID="8" Intro="1. Mỗi ngày {17e43e}12:00-18:00{-}, tại nơi chỉ định trong map sẽ xuất hiện pha lê, pha lê cần thời gian để mạnh hơn, sau đó mới có thể thu thập" Bold="0" />
+  <HelpIntro ID="9" Intro="2. Người chơi có thể tự thu thập pha lê, nếu không thu thập thì sau một thời gian sẽ được {17e43e}tự thu thập" Bold="0" />
+  <HelpIntro ID="10" Intro="3. Trước khi tự thu thập có thể thu trộm pha lê của thế lực khác để tăng độ phồn vinh" Bold="0" />
+  <HelpIntro ID="11" Intro="4. Pha lê xung quanh sẽ có {ff0000}Thủ Vệ Thế Lực{-} bảo vệ pha lê" Bold="0" />
+  <HelpIntro ID="12" Intro="{fac60d}BOSS Thế Lực" Bold="1" />
+  <HelpIntro ID="13" Intro="1. Mỗi ngày vào {17e43e}16:00{-} tại map Thế Lực sẽ làm mới BOSS Thế Lực -- {17e43e}Kẻ Ngủ Sa Knop{-}" Bold="0" />
+  <HelpIntro ID="14" Intro="2. Sau khi diệt BOSS, sẽ nhận được {17e43e}cống hiến Thế Lực{-} theo sát thương gây cho BOSS, {17e43e}quân hàm Thế Lực{-} sẽ tăng {17e43e}độ phồn vinh cho Thế Lực{-}" Bold="0" />
+  <HelpIntro ID="15" Intro="3. Khi diệt được BOSS, chỉ có người chơi {17e43e}ở trong bản đồ{-} mới được nhận thưởng, {ff0000}rời khỏi map Thế Lực{-} hoặc {ff0000}logout sẽ không{-} được nhận thưởng" Bold="0" />
+  <HelpIntro ID="16" Intro="4. Nhân vật gây sát thương cao nhất sẽ nhận danh hiệu -- {17e43e}Đồ Ma Dũng Sĩ{-}, danh hiệu Đồ Ma Dũng Sĩ của 3 map {17e43e}có thể cộng dồn{-}" Bold="0" />
+</Config>"

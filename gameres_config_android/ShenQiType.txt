@@ -1,0 +1,9 @@
+TextAsset Base
+	string m_Name = "ShenQiType"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <ShenQiType ID="1" Type="1" Name="HP" Model="1110" IsOpen="1" Picture="shengming" />
+  <ShenQiType ID="2" Type="2" Name="Phòng" Model="1111" IsOpen="1" Picture="fangyu" />
+  <ShenQiType ID="3" Type="3" Name="Công" Model="1112" IsOpen="1" Picture="gongji" />
+  <ShenQiType ID="4" Type="4" Name="Lôi " Model="1113" IsOpen="1" Picture="baoji" />
+</config>"

@@ -1,0 +1,19 @@
+TextAsset Base
+	string m_Name = "RebornIntroBoss"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="" Bold="1" />
+  <HelpIntro ID="2" Intro="{fac60d}Chi tiết BOSS Tái Sinh" Bold="1" />
+  <HelpIntro ID="3" Intro="{fac60d}Cơ chế làm mới" Bold="1" />
+  <HelpIntro ID="4" Intro="{dac7ae}1, BOSS Tái Sinh có 5 loại, mỗi loại có {17e43e}nhược điểm{-} khác nhau{17e43e}" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}2, BOSS Tái Sinh làm mới {17e43e}mỗi ngày lúc 12:15, 19:15{-}" Bold="0" />
+  <HelpIntro ID="6" Intro="{fac60d}Thưởng tiêu diệt" Bold="1" />
+  <HelpIntro ID="7" Intro="{dac7ae}1, Khi diệt BOSS, hệ thống sẽ phát thưởng theo {17e43e}hạng DMG gây ra{-}" Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae}2, BOSS xuất hiện lại nhưng thưởng chưa nhận thì sẽ bị {ff0000}mất{-}" Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae}3, Một thời gian cố định không gây DMG cho BOSS nữa thì lịch sử DMG gây ra sẽ bị {ff0000}xóa" Bold="0" />
+  <HelpIntro ID="10" Intro="" Bold="0" />
+  <HelpIntro ID="11" Intro="{fac60d}Boss Tái Sinh Cá Nhân" Bold="1" />
+  <HelpIntro ID="12" Intro="{dac7ae}1、Mỗi lần có 5 lần khiêu chiến，{17e43e}thành công hoặc thất bại đều được tính số lượt{-}，và nhận quà tương ứng" Bold="0" />
+  <HelpIntro ID="13" Intro="{dac7ae}2、{17e43e}Sau khi hoàn thành kích sát{-}Boss tái sinh cá nhân, có thể khiêu chiến boss cao hơn" Bold="0" />
+  <HelpIntro ID="14" Intro="{dac7ae}3、Sau khi đạt kích sát hoàn mỹ, có thể kích hoạt chức năng{17e43e}càn quét{-}khó tương ứng" Bold="0" />
+</Config>"

@@ -1,0 +1,114 @@
+TextAsset Base
+	string m_Name = "UIList"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <UIList ID="100" Name="Sự kiện-PB Ngày-PB EXP" />
+  <UIList ID="102" Name="Suy Nghĩ" />
+  <UIList ID="104" Name="Nhân vật-Xếp hạng" />
+  <UIList ID="105" Name="Sự kiện-Sự Kiện Ngày-Vua PK" />
+  <UIList ID="200" Name="Nhân vật-Lò Luyện-Cường hóa" />
+  <UIList ID="201" Name="Nhân vật-Lò Luyện-Thêm" />
+  <UIList ID="202" Name="Nhân vật-Lò Luyện-Chuyển sinh" />
+  <UIList ID="203" Name="Nhân vật-Ghép-Quả" />
+  <UIList ID="204" Name="Phúc lợi-Thành Tựu" />
+  <UIList ID="205" Name="Đấu Trường-Quân Hàm" />
+  <UIList ID="206" Name="Chiến Minh-Tạo Chiến Minh" />
+  <UIList ID="207" Name="Đấu Trường" />
+  <UIList ID="208" Name="Chiến Minh-Chiến Thành La Lan" />
+  <UIList ID="209" Name="Chiến Minh-Mở Giao Diện Thánh Vực" />
+  <UIList ID="210" Name="Nhân vật-Lò Luyện-Tẩy Luyện" />
+  <UIList ID="211" Name="Nhân vật-Ghép-Lông Vũ Locke" />
+  <UIList ID="212" Name="Đất Tranh Đoạt" />
+  <UIList ID="213" Name="跨服活动" />
+  <UIList ID="214" Name="Viện Ảo Ảnh (Thêm mới)" />
+  <UIList ID="215" Name="Đấu Trường Dũng Sĩ (Thêm mới)" />
+  <UIList ID="216" Name="Đấu Trường Vua (Thêm mới)" />
+  <UIList ID="217" Name="Đấu Trường Cặp Đôi (Thêm mới)" />
+  <UIList ID="260" Name="Nhân Vật-Ghép-Vé Cửa" />
+  <UIList ID="290" Name="Đồ giám" />
+  <UIList ID="300" Name="Sự kiện-PB Cốt Truyện" />
+  <UIList ID="301" Name="Sự kiện-Sự Kiện Ngày-Huyết Lâu" />
+  <UIList ID="302" Name="Sự kiện-Sự Kiện Ngày-Sảnh Ác Ma" />
+  <UIList ID="303" Name="Tiệm-Loại tiêu hao" />
+  <UIList ID="304" Name="Thu hồi trang bị" />
+  <UIList ID="305" Name="Đổi Ma Tinh" />
+  <UIList ID="306" Name="Thu Hồi Tinh Linh" />
+  <UIList ID="310" Name="Tái Tạo Thần Khí" />
+  <UIList ID="340" Name="Bảo Vệ Tượng" />
+  <UIList ID="341" Name="Tụ Hồn Thần Trang" />
+  <UIList ID="350" Name="Sách Merlin" />
+  <UIList ID="360" Name="Đấu Thang Trời" />
+  <UIList ID="370" Name="Tiệm Vinh Dự" />
+  <UIList ID="380" Name="Hệ Thống Thánh Vật" />
+  <UIList ID="390" Name="Đá Huỳnh Quang" />
+  <UIList ID="400" Name="Cầu Phúc" />
+  <UIList ID="403" Name="Sự kiện-BOSS Thế Giới" />
+  <UIList ID="404" Name="Nhân vật-Ghép-Cánh" />
+  <UIList ID="406" Name="Cầu Phúc-Đổi Điểm" />
+  <UIList ID="407" Name="PB Đội" />
+  <UIList ID="408" Name="Tháp Quỷ" />
+  <UIList ID="409" Name="Tiệm Chiến Công" />
+  <UIList ID="601" Name="Cửa Sổ Nạp" />
+  <UIList ID="602" Name="Tiệm-Loại tiêu hao" />
+  <UIList ID="603" Name="Sự kiện-PB Ngày-PB Vàng" />
+  <UIList ID="700" Name="Mở giao diện Kỹ Năng" />
+  <UIList ID="701" Name="Mở giao diện Cánh" />
+  <UIList ID="702" Name="Mở giao diện Tinh Hồn" />
+  <UIList ID="703" Name="Mở giao diện Túi" />
+  <UIList ID="800" Name="Mở giao diện VIP" />
+  <UIList ID="801" Name="Mở giao diện Thành Tựu" />
+  <UIList ID="1000" Name="Chiến Trường Cổ" />
+  <UIList ID="1001" Name="Trận Doanh Chiến" />
+  <UIList ID="1002" Name="Sự kiện-Sự Kiện Ngày-Điện Thiên Thần" />
+  <UIList ID="1004" Name="Nhiệm Vụ Ngày" />
+  <UIList ID="1100" Name="Mở giao diện Chuyển Sinh" />
+  <UIList ID="1200" Name="Nhiệm Vụ Thảo Phạt" />
+  <UIList ID="1300" Name="Pha Lê Ảo Cảnh" />
+  <UIList ID="1310" Name="Bái Lễ Tượng" />
+  <UIList ID="1320" Name="Chuyển" />
+  <UIList ID="1330" Name="Cấp Tinh Linh" />
+  <UIList ID="1340" Name="Tim Nguyên Tố" />
+  <UIList ID="1350" Name="Hệ thống Cánh" />
+  <UIList ID="1351" Name="Hệ thống Chú Linh" />
+  <UIList ID="1352" Name="Hệ thống Chú Hồn" />
+  <UIList ID="1360" Name="Hệ thống Thành Tựu" />
+  <UIList ID="1370" Name="Sự Kiện Liên SV" />
+  <UIList ID="1400" Name="PB Liên SV" />
+  <UIList ID="1410" Name="Cứ Điểm Lang Hồn" />
+  <UIList ID="1420" Name="Đá Hồn" />
+  <UIList ID="1430" Name="Bắt Tinh Linh" />
+  <UIList ID="1440" Name="Nhân vật-Ghép-Mảnh Thần Khí" />
+  <UIList ID="1450" Name="Chiến Đội" />
+  <UIList ID="1460" Name="Điện Chiến Minh" />
+  <UIList ID="1470" Name="Kỹ Năng Tinh Linh" />
+  <UIList ID="1480" Name="Tủ Áo" />
+  <UIList ID="1490" Name="Bài Tarot" />
+  <UIList ID="1491" Name="Trang Sức" />
+  <UIList ID="1492" Name="Xuất hiện giao diện tạo phái Triệu Hồi Sư" />
+  <UIList ID="1493" Name="Kho Báu Bí Cảnh" />
+  <UIList ID="1494" Name="Khu Ma Luyện" />
+  <UIList ID="1495" Name="Hệ thống Thần Khí" />
+  <UIList ID="1496" Name="Thêm liên kết chuyển thu thập quân đoàn" />
+  <UIList ID="1497" Name="Liên kết Trại Tinh Linh" />
+  <UIList ID="1498" Name="Giao diện Ký Hiệu Hộ Thể" />
+  <UIList ID="1499" Name="Thánh Đường Chiến Minh" />
+  <UIList ID="1500" Name="Di Tích Tinh Linh" />
+  <UIList ID="1501" Name="Rút Phù Văn" />
+  <UIList ID="1505" Name="Tranh Đoạt SV-Danh Sách" />
+  <UIList ID="1506" Name="Tranh Đoạt SV-Tranh Giá" />
+  <UIList ID="1507" Name="Giao diện trang sức đặc biệt" />
+  <UIList ID="1508" Name="Quy tắc chung" />
+  <UIList ID="1509" Name="Tranh Đoạt Liên SV-Giao Diện Chính" />
+  <UIList ID="1512" Name="跨服掠夺-觉醒商城" />
+  <UIList ID="1513" Name="Giao diện mua Tranh Đoạt SV" />
+  <UIList ID="1514" Name="Giao diện chọn trang bị thu hồi" />
+  <UIList ID="1515" Name="Thú Cưỡi-Giao diện chính" />
+  <UIList ID="1516" Name="Thú Cưỡi-Giao diện trang bị" />
+  <UIList ID="1517" Name="Thú Cưỡi-Giao diện đồ giám" />
+  <UIList ID="1518" Name="Giao diện Chiến Minh" />
+  <UIList ID="1519" Name="Giao diện bạn bè" />
+  <UIList ID="1520" Name="Kỳ Duyên" />
+  <UIList ID="2002" Name="Tim Nguyên Tố" />
+  <UIList ID="2003" Name="Huân Chương Danh Vọng" />
+  <UIList ID="1538" Name="Tôi Luyện Tái Sinh" />
+</Config>"

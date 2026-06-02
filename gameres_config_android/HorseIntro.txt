@@ -1,0 +1,15 @@
+TextAsset Base
+	string m_Name = "HorseIntro"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Hệ thống Thú Cưỡi" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Thông qua {17e43e}bắt Thú Cưỡi {dac7ae}và {17e43e}Vực Vạn Ma{dac7ae}có thể nhận được {17e43e}Thú Cưỡi" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, Lần {17e43e}đầu tiên {dac7ae}nhận được Thú Cưỡi bất kỳ, có thể kích hoạt {17e43e}đồ giám thuộc tính{dac7ae} tương ứng, sau khi kích hoạt sẽ có hiệu lực vĩnh viễn" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, Sau khi nhận Thú Cưỡi có thể vào {17e43e}Túi {dac7ae}nhấp, tiến hành thao tác {17e43e}vào kho{dac7ae}" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4,{17e43e}Vào kho{dac7ae} có thể chọn 1 Thú Cưỡi để {17e43e}xuất chiến {dac7ae}, sau khi xuất chiến {17e43e}thuộc tính cơ bản {dac7ae}và {17e43e}hoàn mỹ {dac7ae}của Thú Cưỡi sẽ cộng vào nhân vật" Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5, Thú Cưỡi không cần thiết có thể chọn {17e43e}Thu Hồi{dac7ae}, sẽ nhận được {17e43e}Hồn Thạch {dac7ae}có thể dùng để tăng level Thú Cưỡi xuất chiến, căn cứ vào level có thể tăng thuộc tính cơ bản của Thú Cưỡi xuất chiến. " Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae}6, Tiêu {17e43e}Đơn Tiến Cấp Thú Cưỡi {dac7ae}có thể tăng cấp Thú Cưỡi, tăng cấp có thể tăng {17e43e}thuộc tính cơ bản{dac7ae}, đồng thời tăng {17e43e}level kỹ năng{dac7ae} của Thú Cưỡi" Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae}7, Thú Cưỡi vào kho có thể kích hoạt {17e43e}Duyên Thú Cưỡi {dac7ae}và {17e43e}Tổ Hợp Thú Cưỡi{dac7ae}, để tăng thuộc tính nhân vật" Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae}8, Mỗi Thú Cưỡi đều có 1 {17e43e}Kỹ Năng{dac7ae}, khung kỹ năng bên trái giao diện chiến đấu là {17e43e}Kỹ Năng Thú Cưỡi{dac7ae}, có thể thiết lập kỹ năng của 1 trong những Thú Cưỡi {17e43e}vào kho{dac7ae} để khi chiến đấu có thể sử dụng" Bold="0" />
+  <HelpIntro ID="10" Intro="{dac7ae}9, Khi Thú Cưỡi {17e43e}xuất chiến {dac7ae}, khi nhân vật di chuyển có thể cưỡi Thú Cưỡi, {17e43e}sẽ tăng tốc độ di chuyển" Bold="0" />
+</Config>"

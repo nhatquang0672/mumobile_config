@@ -1,0 +1,11 @@
+TextAsset Base
+	string m_Name = "WingsAwakenAttributes"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <WingsAwakenAttributes ID="1" Name="T.Tính Thức Tỉnh" AwakenLevel="1" Attributes="RebornDoubleAttackResistance,0.02|RebornDoubleAttackInjureResistance,0.02" />
+  <WingsAwakenAttributes ID="2" Name="T.Tính Thức Tỉnh" AwakenLevel="20" Attributes="RebornDoubleAttackResistance,0.03|RebornDoubleAttackInjureResistance,0.03" />
+  <WingsAwakenAttributes ID="3" Name="T.Tính Thức Tỉnh" AwakenLevel="40" Attributes="RebornDoubleAttackResistance,0.04|RebornDoubleAttackInjureResistance,0.04" />
+  <WingsAwakenAttributes ID="4" Name="T.Tính Thức Tỉnh" AwakenLevel="60" Attributes="RebornDoubleAttackResistance,0.05|RebornDoubleAttackInjureResistance,0.05" />
+  <WingsAwakenAttributes ID="5" Name="T.Tính Thức Tỉnh" AwakenLevel="80" Attributes="RebornDoubleAttackResistance,0.06|RebornDoubleAttackInjureResistance,0.06" />
+  <WingsAwakenAttributes ID="6" Name="T.Tính Thức Tỉnh" AwakenLevel="100" Attributes="RebornDoubleAttackResistance,0.07|RebornDoubleAttackInjureResistance,0.07" />
+</Config>"

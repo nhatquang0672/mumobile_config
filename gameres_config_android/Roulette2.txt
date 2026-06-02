@@ -1,0 +1,11 @@
+TextAsset Base
+	string m_Name = "Roulette2"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Roulette2 ID="1" Type="1" RouletteID="1" Weight="1,1,27|2,1,27|3,1,27|4,2,9|5,2,9|6,3,1" />
+  <Roulette2 ID="2" Type="2" RouletteID="2" Weight="1,1,27|2,1,27|3,1,27|4,2,9|5,2,9|6,3,1" />
+  <Roulette2 ID="3" Type="3" RouletteID="3" Weight="1,1,27|2,1,27|3,1,27|4,2,9|5,2,9|6,3,1" />
+  <Roulette2 ID="4" Type="1" RouletteID="4" Weight="1,1,27|2,1,27|3,1,27|4,2,9|5,2,9|6,3,1" />
+  <Roulette2 ID="5" Type="2" RouletteID="5" Weight="1,1,27|2,1,27|3,1,27|4,2,9|5,2,9|6,3,1" />
+  <Roulette2 ID="6" Type="3" RouletteID="6" Weight="1,1,27|2,1,27|3,1,27|4,2,9|5,2,9|6,3,1" />
+</Config>"

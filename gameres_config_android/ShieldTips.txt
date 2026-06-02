@@ -1,0 +1,12 @@
+TextAsset Base
+	string m_Name = "ShieldTips"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ShieldTips ID="1" Intro="" Bold="" Type="" />
+  <ShieldTips ID="2" Intro="{fac60d}Thắp sáng Ngọc Thánh Thuẫn:" Bold="1" Type="5" />
+  <ShieldTips ID="3" Intro="{dac7ae}1.Người chơi tiêu hao {5aac46}Tinh Thể Nguyên Thủy{dac7ae} để tăng sao, sau khi tăng đủ 10 sao, sẽ thắp sáng một viên Ngọc" Bold="0" Type="5" />
+  <ShieldTips ID="4" Intro="{dac7ae}2.Người chơi tiêu hao {5aac46}Tinh Thể Dị Năng{dac7ae} thức tỉnh viên Ngọc đã được thắp sáng, sau khi thức tỉnh sẽ thắp sáng viên Ngọc kế tiếp" Bold="0" Type="5" />
+  <ShieldTips ID="5" Intro="{fac60d}Chú Linh Ngọc Thánh Thuẫn:" Bold="1" Type="5" />
+  <ShieldTips ID="6" Intro="{dac7ae}1.Ngọc đã thức tỉnh trong giao diện Chú Linh Ngọc dùng {5aac46}Tinh Thể Rực Rỡ{dac7ae} để Chú Linh" Bold="0" Type="5" />
+  <ShieldTips ID="7" Intro="{dac7ae}2.Sau khi chú linh Ngọc thành công, thuộc tính của viên Ngọc này sẽ tăng lên 20%, nhận được tăng mạnh" Bold="0" Type="5" />
+</Config>"

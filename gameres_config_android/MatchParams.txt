@@ -1,0 +1,6 @@
+TextAsset Base
+	string m_Name = "MatchParams"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <Time RegistrationTime="1,9" PlayerNum="100" MinPlayerNum="16" />
+</config>"

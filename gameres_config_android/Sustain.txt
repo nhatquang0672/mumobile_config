@@ -1,0 +1,25 @@
+TextAsset Base
+	string m_Name = "Sustain"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <ZhiChi ID="1" MatchID="1" Day="3" CostZhiChi="90000" MaxNum="8" WinAward="64012,30,1,0,0,0,0" FaillAward="64012,15,1,0,0,0,0" Group="1,2|3,4|5,6|7,8|9,10|11,12|13,14|15,16" BeginTime="16:30" EndTime="15:30" MinLevel="3,55" />
+  <ZhiChi ID="2" MatchID="1" Day="4" CostZhiChi="180000" MaxNum="4" WinAward="64012,60,1,0,0,0,0" FaillAward="64012,30,1,0,0,0,0" Group="1,2,3,4|5,6,7,8|9,10,11,12|13,14,15,16" BeginTime="16:30" EndTime="15:30" MinLevel="3,55" />
+  <ZhiChi ID="3" MatchID="1" Day="5" CostZhiChi="450000" MaxNum="2" WinAward="64012,150,1,0,0,0,0" FaillAward="64012,75,1,0,0,0,0" Group="1,2,3,4,5,6,7,8|9,10,11,12,13,14,15,16" BeginTime="16:30" EndTime="15:30" MinLevel="3,55" />
+  <ZhiChi ID="4" MatchID="1" Day="6" CostZhiChi="1200000" MaxNum="1" WinAward="64012,300,1,0,0,0,0" FaillAward="64012,150,1,0,0,0,0" Group="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16" BeginTime="16:30" EndTime="15:30" MinLevel="3,55" />
+  <ZhiChi ID="5" MatchID="2" Day="3" CostZhiChi="120000" MaxNum="8" WinAward="64012,40,1,0,0,0,0" FaillAward="64012,20,1,0,0,0,0" Group="1,2|3,4|5,6|7,8|9,10|11,12|13,14|15,16" BeginTime="16:30" EndTime="15:30" MinLevel="3,55" />
+  <ZhiChi ID="6" MatchID="2" Day="4" CostZhiChi="240000" MaxNum="4" WinAward="64012,80,1,0,0,0,0" FaillAward="64012,40,1,0,0,0,0" Group="1,2,3,4|5,6,7,8|9,10,11,12|13,14,15,16" BeginTime="16:30" EndTime="15:30" MinLevel="3,55" />
+  <ZhiChi ID="7" MatchID="2" Day="5" CostZhiChi="600000" MaxNum="2" WinAward="64012,200,1,0,0,0,0" FaillAward="64012,100,1,0,0,0,0" Group="1,2,3,4,5,6,7,8|9,10,11,12,13,14,15,16" BeginTime="16:30" EndTime="15:30" MinLevel="3,55" />
+  <ZhiChi ID="8" MatchID="2" Day="6" CostZhiChi="1600000" MaxNum="1" WinAward="64012,400,1,0,0,0,0" FaillAward="64012,200,1,0,0,0,0" Group="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16" BeginTime="16:30" EndTime="15:30" MinLevel="3,55" />
+  <ZhiChi ID="9" MatchID="3" Day="3" CostZhiChi="180000" MaxNum="8" WinAward="64012,60,1,0,0,0,0" FaillAward="64012,30,1,0,0,0,0" Group="1,2|3,4|5,6|7,8|9,10|11,12|13,14|15,16" BeginTime="16:30" EndTime="15:30" MinLevel="3,55" />
+  <ZhiChi ID="10" MatchID="3" Day="4" CostZhiChi="360000" MaxNum="4" WinAward="64012,120,1,0,0,0,0" FaillAward="64012,60,1,0,0,0,0" Group="1,2,3,4|5,6,7,8|9,10,11,12|13,14,15,16" BeginTime="16:30" EndTime="15:30" MinLevel="3,55" />
+  <ZhiChi ID="11" MatchID="3" Day="5" CostZhiChi="900000" MaxNum="2" WinAward="64012,300,1,0,0,0,0" FaillAward="64012,150,1,0,0,0,0" Group="1,2,3,4,5,6,7,8|9,10,11,12,13,14,15,16" BeginTime="16:30" EndTime="15:30" MinLevel="3,55" />
+  <ZhiChi ID="12" MatchID="3" Day="6" CostZhiChi="2400000" MaxNum="1" WinAward="64012,600,1,0,0,0,0" FaillAward="64012,300,1,0,0,0,0" Group="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16" BeginTime="16:30" EndTime="15:30" MinLevel="3,55" />
+  <ZhiChi ID="13" MatchID="4" Day="3" CostZhiChi="240000" MaxNum="8" WinAward="64012,80,1,0,0,0,0" FaillAward="64012,40,1,0,0,0,0" Group="1,2|3,4|5,6|7,8|9,10|11,12|13,14|15,16" BeginTime="16:30" EndTime="15:30" MinLevel="3,55" />
+  <ZhiChi ID="14" MatchID="4" Day="4" CostZhiChi="480000" MaxNum="4" WinAward="64012,160,1,0,0,0,0" FaillAward="64012,80,1,0,0,0,0" Group="1,2,3,4|5,6,7,8|9,10,11,12|13,14,15,16" BeginTime="16:30" EndTime="15:30" MinLevel="3,55" />
+  <ZhiChi ID="15" MatchID="4" Day="5" CostZhiChi="1200000" MaxNum="2" WinAward="64012,400,1,0,0,0,0" FaillAward="64012,200,1,0,0,0,0" Group="1,2,3,4,5,6,7,8|9,10,11,12,13,14,15,16" BeginTime="16:30" EndTime="15:30" MinLevel="3,55" />
+  <ZhiChi ID="16" MatchID="4" Day="6" CostZhiChi="3200000" MaxNum="1" WinAward="64012,800,1,0,0,0,0" FaillAward="64012,400,1,0,0,0,0" Group="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16" BeginTime="16:30" EndTime="15:30" MinLevel="3,55" />
+  <ZhiChi ID="17" MatchID="999" Day="3" CostZhiChi="300000" MaxNum="8" WinAward="64012,100,1,0,0,0,0" FaillAward="64012,50,1,0,0,0,0" Group="1,2|3,4|5,6|7,8|9,10|11,12|13,14|15,16" BeginTime="16:30" EndTime="15:30" MinLevel="3,55" />
+  <ZhiChi ID="18" MatchID="999" Day="4" CostZhiChi="600000" MaxNum="4" WinAward="64012,200,1,0,0,0,0" FaillAward="64012,100,1,0,0,0,0" Group="1,2,3,4|5,6,7,8|9,10,11,12|13,14,15,16" BeginTime="16:30" EndTime="15:30" MinLevel="3,55" />
+  <ZhiChi ID="19" MatchID="999" Day="5" CostZhiChi="1500000" MaxNum="2" WinAward="64012,500,1,0,0,0,0" FaillAward="64012,250,1,0,0,0,0" Group="1,2,3,4,5,6,7,8|9,10,11,12,13,14,15,16" BeginTime="16:30" EndTime="15:30" MinLevel="3,55" />
+  <ZhiChi ID="20" MatchID="999" Day="6" CostZhiChi="4000000" MaxNum="1" WinAward="64012,1000,1,0,0,0,0" FaillAward="64012,500,1,0,0,0,0" Group="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16" BeginTime="16:30" EndTime="15:30" MinLevel="3,55" />
+</config>"

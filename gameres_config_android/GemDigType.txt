@@ -1,0 +1,8 @@
+TextAsset Base
+	string m_Name = "GemDigType"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Type ID="1" Type="100" Name="Hố-Nhỏ" CostYingGuangFenMo="900" CostZuanShi="0" />
+  <Type ID="2" Type="200" Name="Hố-Vừa" CostYingGuangFenMo="0" CostZuanShi="1600" />
+  <Type ID="3" Type="300" Name="Hố-Lớn" CostYingGuangFenMo="0" CostZuanShi="4800" />
+</Config>"

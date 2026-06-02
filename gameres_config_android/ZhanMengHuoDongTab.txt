@@ -1,0 +1,11 @@
+TextAsset Base
+	string m_Name = "ZhanMengHuoDongTab"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<HuoDongList>
+  <HuoDong ID="1" Name="BOSS Guild" />
+  <HuoDong ID="2" Name="Roland Chiến" />
+  <HuoDong ID="3" Name="Thánh Vực" />
+  <HuoDong ID="4" Name="Vùng Tranh Đoạt" />
+  <HuoDong ID="5" Name="Giải Liên Minh" />
+  <HuoDong ID="6" Name="Di Tích Tranh Đoạt Chiến" />
+</HuoDongList>"

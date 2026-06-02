@@ -1,0 +1,11 @@
+TextAsset Base
+	string m_Name = "Comp"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Comp CompID="1" CompName="Giáo Đoàn Thần Thánh" MapCode="93000" MonstersID="9650014" JiaoTuanBirth="10350|6850|10" MengJunBirth="5050|3050|10" XieHuiBirth="3450|7350|10" MaxPlayer="500" MoBai="142" />
+  <Comp CompID="2" CompName="Đồng Minh Tự Do" MapCode="93001" MonstersID="9651014" JiaoTuanBirth="3450|7350|10" MengJunBirth="10350|6850|10" XieHuiBirth="5050|3050|10" MaxPlayer="500" MoBai="143" />
+  <Comp CompID="3" CompName="Hiệp Hội Mộng Mơ" MapCode="93002" MonstersID="9652014" JiaoTuanBirth="5050|3050|10" MengJunBirth="3450|7350|10" XieHuiBirth="10350|6850|10" MaxPlayer="500" MoBai="144" />
+  <Comp CompID="4" CompName="Giáo Đoàn Thần Thánh" MapCode="93000" MonstersID="9650015" JiaoTuanBirth="20700|13700|20" MengJunBirth="10100|6100|20" XieHuiBirth="6900|14700|20" MaxPlayer="500" MoBai="142" />
+  <Comp CompID="5" CompName="Đồng Minh Tự Do" MapCode="93001" MonstersID="9651015" JiaoTuanBirth="6800|14600|20" MengJunBirth="20700|12700|20" XieHuiBirth="10100|6100|20" MaxPlayer="500" MoBai="143" />
+  <Comp CompID="6" CompName="Hiệp Hội Mộng Mơ" MapCode="93002" MonstersID="9652015" JiaoTuanBirth="10100|6100|20" MengJunBirth="6900|14600|20" XieHuiBirth="20700|13700|20" MaxPlayer="500" MoBai="144" />
+</Config>"

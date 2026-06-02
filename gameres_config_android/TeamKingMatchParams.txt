@@ -1,0 +1,6 @@
+TextAsset Base
+	string m_Name = "TeamKingMatchParams"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <TeamKingMatchParams RegistrationTime="1,2" DamageRankDay="3" DamageRankFuBen="99602" DamageRankMapCode="99602" DamageRankTime="5" MatchTime="4" MinPlayerNum="16" Fashion="43" RankIntro="{ffd460}1. Trong thời gian sơ tuyển, các thành viên của mỗi đội đã đăng ký có thể vào phó bản sơ tuyển để khiêu chiến với sứ giả thí luyện, mỗi người được giới hạn trong 5 phút&#xA;&#xA;2. Hệ thống sẽ ghi lại lượng DMG mà người chơi gây ra cho sứ giả thí luyện, đồng thời xếp hạng họ theo đội&#xA;&#xA;3. 16 đội dẫn đầu về tổng lượng DMG sẽ đủ điều kiện tham gia giải đấu chư thần" />
+</config>"

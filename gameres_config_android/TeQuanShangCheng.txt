@@ -1,0 +1,6 @@
+TextAsset Base
+	string m_Name = "TeQuanShangCheng"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <JingLing ID="1" TeQuanID="153" WuPinID="30152793,1,1,0,0,0,0" JiaGe="240" GouMaiCiShu="30" />
+</Config>"

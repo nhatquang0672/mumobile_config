@@ -1,0 +1,11 @@
+TextAsset Base
+	string m_Name = "MoShenMiBaoIntro"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Chi tiết Bí Bảo Ma Thần" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, {00ff33}Sừng Ma Thần{dac7ae}, {00ff33}Lông Ma Thần{dac7ae}, {00ff33}Mắt Ma Thần{dac7ae} tăng sao sẽ tốn nguyên liệu khác nhau, gồm {ffcc19}【Sừng Ma Thần】{dac7ae}, {ffcc19}【Lông Ma Thần】{dac7ae}, {ffcc19}【Mắt Ma Thần】{dac7ae}, số lượng nguyên liệu cần sẽ tăng theo cấp sao" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, {00ff33}Sừng Ma Thần{dac7ae}, {00ff33}Lông Ma Thần{dac7ae}, {00ff33}Mắt Ma Thần{dac7ae} tăng bậc cần tốn {ffcc19}【Tim Ma Thần】{dac7ae}, số lượng nguyên liệu cần sẽ tăng theo cấp bậc" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, Thao tác tăng sao, tăng bậc {00ff33}Sừng Ma Thần{dac7ae}, {00ff33}Lông Ma Thần{dac7ae}, {00ff33}Mắt Ma Thần{dac7ae} sẽ tăng thuộc tính Tái Sinh khác nhau" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, {ffcc19}【Sừng Ma Thần】{dac7ae}, {ffcc19}【Lông Ma Thần】{dac7ae}, {ffcc19}【Mắt Ma Thần】{dac7ae}, {ffcc19}【Tim Ma Thần】{dac7ae} có thể đổi trong Tiệm Vinh Dự" Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5、{ffcc19}【Ma Thần Chi Nhẫn】{dac7ae} có thể nhận trong Thiên Tai Giáng Lâm" Bold="0" />
+</Config>"

@@ -1,0 +1,10 @@
+TextAsset Base
+	string m_Name = "fenZhengXiaoLv"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <fenZhengXiaoLv ID="1" MapCode="99201" Name="Sáng Thế Phân Tranh tầng 1" JiShaJiFen="20" JianGeHuoQU="10,1" ShengCengTiaoJian="5" JiangCengTiaoJian="99999999" ShengCengBaoHu="5" />
+  <fenZhengXiaoLv ID="2" MapCode="99202" Name="Sáng Thế Phân Tranh tầng 2" JiShaJiFen="40" JianGeHuoQU="10,2" ShengCengTiaoJian="5" JiangCengTiaoJian="99999999" ShengCengBaoHu="5" />
+  <fenZhengXiaoLv ID="3" MapCode="99203" Name="Sáng Thế Phân Tranh tầng 3" JiShaJiFen="80" JianGeHuoQU="10,4" ShengCengTiaoJian="10" JiangCengTiaoJian="6" ShengCengBaoHu="5" />
+  <fenZhengXiaoLv ID="4" MapCode="99204" Name="Sáng Thế Phân Tranh tầng 4" JiShaJiFen="160" JianGeHuoQU="10,8" ShengCengTiaoJian="25" JiangCengTiaoJian="8" ShengCengBaoHu="5" />
+  <fenZhengXiaoLv ID="5" MapCode="99205" Name="Sáng Thế Phân Tranh tầng 5" JiShaJiFen="320" JianGeHuoQU="10,16" ShengCengTiaoJian="-1" JiangCengTiaoJian="10" ShengCengBaoHu="5" />
+</Config>"

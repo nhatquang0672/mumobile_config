@@ -1,0 +1,11 @@
+TextAsset Base
+	string m_Name = "KingMatch"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <KingMatch MatchID="1" Day="1" Name="Vòng loại top 32" MapCode="99700" MinLevelRank="100000" BeginTime="15:30" EndTime="15:40" WaitTime="15" FightTime="575" ClearTime="10" IntervalTime="15" MatchingType="3" MatchingPrice="-1" NeedWinNum="-1" RankNum="32" />
+  <KingMatch MatchID="2" Day="2" Name="32 chọn 16" MapCode="99700" MinLevelRank="-1" BeginTime="15:30" EndTime="15:40" WaitTime="15" FightTime="575" ClearTime="10" IntervalTime="15" MatchingType="3" MatchingPrice="-1" NeedWinNum="-1" RankNum="16" />
+  <KingMatch MatchID="3" Day="3" Name="16 chọn 8" MapCode="99700" MinLevelRank="-1" BeginTime="15:30" EndTime="15:34" WaitTime="15" FightTime="200" ClearTime="10" IntervalTime="15" MatchingType="2" MatchingPrice="1,2|3,4|5,6|7,8|9,10|11,12|13,14|15,16" NeedWinNum="1" RankNum="8" />
+  <KingMatch MatchID="4" Day="3" Name="8 chọn 4" MapCode="99700" MinLevelRank="-1" BeginTime="15:50" EndTime="15:54" WaitTime="15" FightTime="200" ClearTime="10" IntervalTime="15" MatchingType="2" MatchingPrice="1,2,3,4|5,6,7,8|9,10,11,12|13,14,15,16" NeedWinNum="1" RankNum="4" />
+  <KingMatch MatchID="5" Day="3" Name="Bán kết" MapCode="99700" MinLevelRank="-1" BeginTime="16:10" EndTime="16:14" WaitTime="15" FightTime="200" ClearTime="10" IntervalTime="15" MatchingType="2" MatchingPrice="1,2,3,4,5,6,7,8|9,10,11,12,13,14,15,16" NeedWinNum="1" RankNum="2" />
+  <KingMatch MatchID="6" Day="3" Name="Chung kết" MapCode="99700" MinLevelRank="-1" BeginTime="16:30" EndTime="16:44" WaitTime="15" FightTime="200" ClearTime="10" IntervalTime="15" MatchingType="2" MatchingPrice="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16" NeedWinNum="1" RankNum="1" />
+</Config>"

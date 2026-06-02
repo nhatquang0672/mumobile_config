@@ -1,0 +1,9 @@
+TextAsset Base
+	string m_Name = "GaiLvShow"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ShenQiRules ID="1" Intro="Tỷ lệ nhận Băng Tay Lam 5%" Bold="0" Type="5" />
+  <ShenQiRules ID="2" Intro="Tỷ lệ nhận Băng Tay Lục 10%" Bold="0" Type="5" />
+  <ShenQiRules ID="3" Intro="Tỷ lệ nhận Băng Tay Tím 50%" Bold="0" Type="5" />
+  <ShenQiRules ID="4" Intro="Tỷ lệ nhận Băng Tay Tím Nhấp Nháy 111%" Bold="0" Type="5" />
+</Config>"

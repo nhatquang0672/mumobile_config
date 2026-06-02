@@ -1,0 +1,35 @@
+TextAsset Base
+	string m_Name = "ShengLingDiaoWenLevelup"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <ShengLingDiaoWenLevelup ID="1" GoodsID="12601" Name="Chạm khắc Thánh lệnh lục" Level="1" NeedGoods="12602" BaseGoodsNum="2" Prop="MaxLifeV,1000|HitV,100" />
+  <ShengLingDiaoWenLevelup ID="2" GoodsID="12602" Name="Chạm khắc Thánh lệnh lục" Level="2" NeedGoods="12603" BaseGoodsNum="4" Prop="MaxLifeV,1100|HitV,110" />
+  <ShengLingDiaoWenLevelup ID="3" GoodsID="12603" Name="Chạm khắc Thánh lệnh lục" Level="3" NeedGoods="12604" BaseGoodsNum="8" Prop="MaxLifeV,1200|HitV,210" />
+  <ShengLingDiaoWenLevelup ID="4" GoodsID="12604" Name="Chạm khắc Thánh lệnh lục" Level="4" NeedGoods="12605" BaseGoodsNum="16" Prop="MaxLifeV,1300|HitV,310" />
+  <ShengLingDiaoWenLevelup ID="5" GoodsID="12605" Name="Chạm khắc Thánh lệnh lục" Level="5" NeedGoods="12606" BaseGoodsNum="32" Prop="MaxLifeV,1400|HitV,410" />
+  <ShengLingDiaoWenLevelup ID="6" GoodsID="12606" Name="Chạm khắc Thánh lệnh lục" Level="6" NeedGoods="12607" BaseGoodsNum="64" Prop="MaxLifeV,1500|HitV,510" />
+  <ShengLingDiaoWenLevelup ID="7" GoodsID="12607" Name="Chạm khắc Thánh lệnh lục" Level="7" NeedGoods="12608" BaseGoodsNum="128" Prop="MaxLifeV,1600|HitV,610" />
+  <ShengLingDiaoWenLevelup ID="8" GoodsID="12608" Name="Chạm khắc Thánh lệnh lục" Level="8" NeedGoods="12609" BaseGoodsNum="256" Prop="MaxLifeV,1700|HitV,710" />
+  <ShengLingDiaoWenLevelup ID="9" GoodsID="12609" Name="Chạm khắc Thánh lệnh lục" Level="9" NeedGoods="12610" BaseGoodsNum="512" Prop="MaxLifeV,1800|HitV,810" />
+  <ShengLingDiaoWenLevelup ID="10" GoodsID="12610" Name="Chạm khắc Thánh lệnh lục" Level="10" NeedGoods="" BaseGoodsNum="1024" Prop="MaxLifeV,1900|HitV,910" />
+  <ShengLingDiaoWenLevelup ID="11" GoodsID="12701" Name="Chạm khắc Thánh lệnh lam" Level="1" NeedGoods="12702" BaseGoodsNum="2" Prop="MaxLifeV,2000|HitV,1110" />
+  <ShengLingDiaoWenLevelup ID="12" GoodsID="12702" Name="Chạm khắc Thánh lệnh lam" Level="2" NeedGoods="12703" BaseGoodsNum="4" Prop="MaxLifeV,2100|HitV,1211" />
+  <ShengLingDiaoWenLevelup ID="13" GoodsID="12703" Name="Chạm khắc Thánh lệnh lam" Level="3" NeedGoods="12704" BaseGoodsNum="8" Prop="MaxLifeV,2200|HitV,1312" />
+  <ShengLingDiaoWenLevelup ID="14" GoodsID="12704" Name="Chạm khắc Thánh lệnh lam" Level="4" NeedGoods="12705" BaseGoodsNum="16" Prop="MaxLifeV,2300|HitV,1413" />
+  <ShengLingDiaoWenLevelup ID="15" GoodsID="12705" Name="Chạm khắc Thánh lệnh lam" Level="5" NeedGoods="12706" BaseGoodsNum="32" Prop="MaxLifeV,2400|HitV,1514" />
+  <ShengLingDiaoWenLevelup ID="16" GoodsID="12706" Name="Chạm khắc Thánh lệnh lam" Level="6" NeedGoods="12707" BaseGoodsNum="64" Prop="MaxLifeV,2500|HitV,1615" />
+  <ShengLingDiaoWenLevelup ID="17" GoodsID="12707" Name="Chạm khắc Thánh lệnh lam" Level="7" NeedGoods="12708" BaseGoodsNum="128" Prop="MaxLifeV,2600|HitV,1716" />
+  <ShengLingDiaoWenLevelup ID="18" GoodsID="12708" Name="Chạm khắc Thánh lệnh lam" Level="8" NeedGoods="12709" BaseGoodsNum="256" Prop="MaxLifeV,2700|HitV,1817" />
+  <ShengLingDiaoWenLevelup ID="19" GoodsID="12709" Name="Chạm khắc Thánh lệnh lam" Level="9" NeedGoods="12710" BaseGoodsNum="512" Prop="MaxLifeV,2800|HitV,1918" />
+  <ShengLingDiaoWenLevelup ID="20" GoodsID="12710" Name="Chạm khắc Thánh lệnh lam" Level="10" NeedGoods="" BaseGoodsNum="1024" Prop="MaxLifeV,2900|HitV,2019" />
+  <ShengLingDiaoWenLevelup ID="21" GoodsID="12801" Name="Chạm khắc Thánh lệnh tím" Level="1" NeedGoods="12802" BaseGoodsNum="2" Prop="MaxLifePercent,0.1|HitV,3110" />
+  <ShengLingDiaoWenLevelup ID="22" GoodsID="12802" Name="Chạm khắc Thánh lệnh tím" Level="2" NeedGoods="12803" BaseGoodsNum="4" Prop="MaxLifePercent,0.11|HitV,3211" />
+  <ShengLingDiaoWenLevelup ID="23" GoodsID="12803" Name="Chạm khắc Thánh lệnh tím" Level="3" NeedGoods="12804" BaseGoodsNum="8" Prop="MaxLifePercent,0.12|HitV,3312" />
+  <ShengLingDiaoWenLevelup ID="24" GoodsID="12804" Name="Chạm khắc Thánh lệnh tím" Level="4" NeedGoods="12805" BaseGoodsNum="16" Prop="MaxLifePercent,0.13|HitV,3413" />
+  <ShengLingDiaoWenLevelup ID="25" GoodsID="12805" Name="Chạm khắc Thánh lệnh tím" Level="5" NeedGoods="12806" BaseGoodsNum="32" Prop="MaxLifePercent,0.21|HitV,3514" />
+  <ShengLingDiaoWenLevelup ID="26" GoodsID="12806" Name="Chạm khắc Thánh lệnh tím" Level="6" NeedGoods="12807" BaseGoodsNum="64" Prop="MaxLifePercent,0.22|HitV,3615" />
+  <ShengLingDiaoWenLevelup ID="27" GoodsID="12807" Name="Chạm khắc Thánh lệnh tím" Level="7" NeedGoods="12808" BaseGoodsNum="128" Prop="MaxLifePercent,0.23|HitV,3716" />
+  <ShengLingDiaoWenLevelup ID="28" GoodsID="12808" Name="Chạm khắc Thánh lệnh tím" Level="8" NeedGoods="12809" BaseGoodsNum="256" Prop="MaxLifePercent,0.3|HitV,3817" />
+  <ShengLingDiaoWenLevelup ID="29" GoodsID="12809" Name="Chạm khắc Thánh lệnh tím" Level="9" NeedGoods="12810" BaseGoodsNum="512" Prop="MaxLifePercent,0.5|HitV,3918" />
+  <ShengLingDiaoWenLevelup ID="30" GoodsID="12810" Name="Chạm khắc Thánh lệnh tím" Level="10" NeedGoods="" BaseGoodsNum="1024" Prop="MaxLifePercent,0.87|HitV,4019" />
+</config>"

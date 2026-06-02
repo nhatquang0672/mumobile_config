@@ -1,0 +1,7 @@
+TextAsset Base
+	string m_Name = "QiZhenGeGoods"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Mall>
+  </Mall>
+</Config>"

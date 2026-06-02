@@ -1,0 +1,8 @@
+TextAsset Base
+	string m_Name = "filterwords"
+	string m_Script = "
+
+
+
+
+"

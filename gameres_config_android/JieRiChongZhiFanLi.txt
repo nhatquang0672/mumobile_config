@@ -1,0 +1,9 @@
+TextAsset Base
+	string m_Name = "JieRiChongZhiFanLi"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="71" FromDate="2022-11-01 00:00:00" ToDate="2022-11-07 23:59:59" AwardStartDate="2022-11-01 00:00:00" AwardEndDate="2022-11-07 23:59:59" />
+  <GiftList Description="限时充值返利，详情见充值页面">
+    <Award />
+  </GiftList>
+</Config>"

@@ -1,0 +1,10 @@
+TextAsset Base
+	string m_Name = "CompIntroTask"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Nhiệm vụ Thế Lực" Bold="1" />
+  <HelpIntro ID="2" Intro="1. Nhiệm vụ thế lực sẽ reset vào {17e43e}0h mỗi thứ 2{-}, nếu khi reset vẫn chưa hoàn thành hết sẽ {ff0000}không lưu" Bold="0" />
+  <HelpIntro ID="3" Intro="2. Thưởng nhiệm vụ Thế Lực gồm {17e43e}cống hiến{-}, {17e43e}quân hàm" Bold="0" />
+  <HelpIntro ID="4" Intro="3. Cống hiến có thể dùng tại Tiệm Thế Lực để {17e43e}đổi đạo cụ quý" Bold="0" />
+  <HelpIntro ID="5" Intro="4. Quân hàm dùng cho BXH Quân Hàm, BXH Thế Lực sẽ ngưng xếp hạng vào {17e43e}0h mỗi thứ 2{-}, và {ff0000}reset{-} và mở BXH tuần mới" Bold="0" />
+</Config>"

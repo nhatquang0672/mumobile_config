@@ -1,0 +1,19 @@
+TextAsset Base
+	string m_Name = "ArathiKillShow"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <ArathiKillShow ID="1" Image="ZhanMenGJZ_TeXiao_1" Text="Hoàn thành tam sát" Type="1" Num="3|3" />
+  <ArathiKillShow ID="2" Image="ZhanMenGJZ_TeXiao_2" Text="Điên cuồng bạo tẩu" Type="1" Num="5|5" />
+  <ArathiKillShow ID="3" Image="ZhanMenGJZ_TeXiao_3" Text="Bất khả chiến bại" Type="1" Num="10|10" />
+  <ArathiKillShow ID="4" Image="ZhanMenGJZ_TeXiao_4" Text="Thống trị toàn trận" Type="1" Num="15|15" />
+  <ArathiKillShow ID="5" Image="ZhanMenGJZ_TeXiao_5" Text="Thống trị toàn trận" Type="1" Num="20|20" />
+  <ArathiKillShow ID="6" Image="ZhanMenGJZ_TeXiao_5" Text="Thống trị toàn trận" Type="1" Num="25|25" />
+  <ArathiKillShow ID="7" Image="ZhanMenGJZ_TeXiao_5" Text="Thống trị toàn trận" Type="1" Num="30|30" />
+  <ArathiKillShow ID="8" Image="ZhanMenGJZ_TeXiao_5" Text="Thống trị toàn trận" Type="1" Num="35|35" />
+  <ArathiKillShow ID="9" Image="ZhanMenGJZ_TeXiao_5" Text="Thống trị toàn trận" Type="1" Num="40|40" />
+  <ArathiKillShow ID="10" Image="ZhanMenGJZ_TeXiao_5" Text="Thống trị toàn trận" Type="1" Num="45|45" />
+  <ArathiKillShow ID="11" Image="ZhanMenGJZ_TeXiao_5" Text="Thống trị toàn trận" Type="1" Num="50|50" />
+  <ArathiKillShow ID="12" Image="ZhanMenGJZ_TeXiao_5" Text="Thống trị toàn trận" Type="1" Num="55|55" />
+  <ArathiKillShow ID="13" Image="ZhanMenGJZ_TeXiao_5" Text="Thống trị toàn trận" Type="1" Num="60|60" />
+  <ArathiKillShow ID="14" Image="ZhanMenGJZ_TeXiao_5" Text="Vô tình kết thúc" Type="2" Num="5|10000" />
+</config>"

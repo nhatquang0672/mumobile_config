@@ -1,0 +1,55 @@
+TextAsset Base
+	string m_Name = "DeityExcAttributesPool"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <DeityExcAttributesPool ID="1" PinZhi="4" ExcAttributesName="Tỷ lệ bạo Thần Thánh" ExcAttributes="HolyDoubleAttackPercent,0.01" StartWeight="1" EndWeight="800" />
+  <DeityExcAttributesPool ID="2" PinZhi="4" ExcAttributesName="Tỷ lệ bạo Ám Ảnh" ExcAttributes="ShadowDoubleAttackPercent,0.01" StartWeight="801" EndWeight="1600" />
+  <DeityExcAttributesPool ID="3" PinZhi="4" ExcAttributesName="Tỷ lệ bạo Tự Nhiên" ExcAttributes="NatureDoubleAttackPercent,0.01" StartWeight="1601" EndWeight="2400" />
+  <DeityExcAttributesPool ID="4" PinZhi="4" ExcAttributesName="Tỷ lệ bạo Hỗn Độn" ExcAttributes="ChaosDoubleAttackPercent,0.01" StartWeight="2401" EndWeight="3200" />
+  <DeityExcAttributesPool ID="5" PinZhi="4" ExcAttributesName="Tỷ lệ bạo Ác Mộng" ExcAttributes="IncubusDoubleAttackPercent,0.01" StartWeight="3201" EndWeight="4000" />
+  <DeityExcAttributesPool ID="6" PinZhi="4" ExcAttributesName="Tỷ lệ bạo Thần Thánh" ExcAttributes="HolyDoubleAttackPercent,0.015" StartWeight="4001" EndWeight="4200" />
+  <DeityExcAttributesPool ID="7" PinZhi="4" ExcAttributesName="Tỷ lệ bạo Ám Ảnh" ExcAttributes="ShadowDoubleAttackPercent,0.015" StartWeight="4201" EndWeight="4400" />
+  <DeityExcAttributesPool ID="8" PinZhi="4" ExcAttributesName="Tỷ lệ bạo Tự Nhiên" ExcAttributes="NatureDoubleAttackPercent,0.015" StartWeight="4401" EndWeight="4600" />
+  <DeityExcAttributesPool ID="9" PinZhi="4" ExcAttributesName="Tỷ lệ bạo Hỗn Độn" ExcAttributes="ChaosDoubleAttackPercent,0.015" StartWeight="4601" EndWeight="4800" />
+  <DeityExcAttributesPool ID="10" PinZhi="4" ExcAttributesName="Tỷ lệ bạo Ác Mộng" ExcAttributes="IncubusDoubleAttackPercent,0.015" StartWeight="4801" EndWeight="5000" />
+  <DeityExcAttributesPool ID="11" PinZhi="4" ExcAttributesName="ST bạo Thần Thánh" ExcAttributes="HolyDoubleAttackInjure,0.01" StartWeight="5001" EndWeight="5800" />
+  <DeityExcAttributesPool ID="12" PinZhi="4" ExcAttributesName="ST bạo Ám Ảnh" ExcAttributes="ShadowDoubleAttackInjure,0.01" StartWeight="5801" EndWeight="6600" />
+  <DeityExcAttributesPool ID="13" PinZhi="4" ExcAttributesName="ST bạo Tự Nhiên" ExcAttributes="NatureDoubleAttackInjure,0.01" StartWeight="6601" EndWeight="7400" />
+  <DeityExcAttributesPool ID="14" PinZhi="4" ExcAttributesName="ST bạo Hỗn Độn" ExcAttributes="ChaosDoubleAttackInjure,0.01" StartWeight="7401" EndWeight="8200" />
+  <DeityExcAttributesPool ID="15" PinZhi="4" ExcAttributesName="ST bạo Ác Mộng" ExcAttributes="IncubusDoubleAttackInjure,0.01" StartWeight="8201" EndWeight="9000" />
+  <DeityExcAttributesPool ID="16" PinZhi="4" ExcAttributesName="ST bạo Thần Thánh" ExcAttributes="HolyDoubleAttackInjure,0.015" StartWeight="9001" EndWeight="9200" />
+  <DeityExcAttributesPool ID="17" PinZhi="4" ExcAttributesName="ST bạo Ám Ảnh" ExcAttributes="ShadowDoubleAttackInjure,0.015" StartWeight="9201" EndWeight="9400" />
+  <DeityExcAttributesPool ID="18" PinZhi="4" ExcAttributesName="ST bạo Tự Nhiên" ExcAttributes="NatureDoubleAttackInjure,0.015" StartWeight="9401" EndWeight="9600" />
+  <DeityExcAttributesPool ID="19" PinZhi="4" ExcAttributesName="ST bạo Hỗn Độn" ExcAttributes="ChaosDoubleAttackInjure,0.015" StartWeight="9601" EndWeight="9800" />
+  <DeityExcAttributesPool ID="20" PinZhi="4" ExcAttributesName="ST bạo Ác Mộng" ExcAttributes="IncubusDoubleAttackInjure,0.015" StartWeight="9801" EndWeight="10000" />
+  <DeityExcAttributesPool ID="21" PinZhi="6" ExcAttributesName="Tỷ lệ bạo Thần Thánh" ExcAttributes="HolyDoubleAttackPercent,0.01" StartWeight="1" EndWeight="500" />
+  <DeityExcAttributesPool ID="22" PinZhi="6" ExcAttributesName="Tỷ lệ bạo Ám Ảnh" ExcAttributes="ShadowDoubleAttackPercent,0.01" StartWeight="501" EndWeight="1000" />
+  <DeityExcAttributesPool ID="23" PinZhi="6" ExcAttributesName="Tỷ lệ bạo Tự Nhiên" ExcAttributes="NatureDoubleAttackPercent,0.01" StartWeight="1001" EndWeight="1500" />
+  <DeityExcAttributesPool ID="24" PinZhi="6" ExcAttributesName="Tỷ lệ bạo Hỗn Độn" ExcAttributes="ChaosDoubleAttackPercent,0.01" StartWeight="1501" EndWeight="2000" />
+  <DeityExcAttributesPool ID="25" PinZhi="6" ExcAttributesName="Tỷ lệ bạo Ác Mộng" ExcAttributes="IncubusDoubleAttackPercent,0.01" StartWeight="2001" EndWeight="2500" />
+  <DeityExcAttributesPool ID="26" PinZhi="6" ExcAttributesName="Tỷ lệ bạo Thần Thánh" ExcAttributes="HolyDoubleAttackPercent,0.015" StartWeight="2501" EndWeight="2800" />
+  <DeityExcAttributesPool ID="27" PinZhi="6" ExcAttributesName="Tỷ lệ bạo Ám Ảnh" ExcAttributes="ShadowDoubleAttackPercent,0.015" StartWeight="2801" EndWeight="3100" />
+  <DeityExcAttributesPool ID="28" PinZhi="6" ExcAttributesName="Tỷ lệ bạo Tự Nhiên" ExcAttributes="NatureDoubleAttackPercent,0.015" StartWeight="3101" EndWeight="3400" />
+  <DeityExcAttributesPool ID="29" PinZhi="6" ExcAttributesName="Tỷ lệ bạo Hỗn Độn" ExcAttributes="ChaosDoubleAttackPercent,0.015" StartWeight="3401" EndWeight="3700" />
+  <DeityExcAttributesPool ID="30" PinZhi="6" ExcAttributesName="Tỷ lệ bạo Ác Mộng" ExcAttributes="IncubusDoubleAttackPercent,0.015" StartWeight="3701" EndWeight="4000" />
+  <DeityExcAttributesPool ID="31" PinZhi="6" ExcAttributesName="Tỷ lệ bạo Thần Thánh" ExcAttributes="HolyDoubleAttackPercent,0.02" StartWeight="4001" EndWeight="4200" />
+  <DeityExcAttributesPool ID="32" PinZhi="6" ExcAttributesName="Tỷ lệ bạo Ám Ảnh" ExcAttributes="ShadowDoubleAttackPercent,0.02" StartWeight="4201" EndWeight="4400" />
+  <DeityExcAttributesPool ID="33" PinZhi="6" ExcAttributesName="Tỷ lệ bạo Tự Nhiên" ExcAttributes="NatureDoubleAttackPercent,0.02" StartWeight="4401" EndWeight="4600" />
+  <DeityExcAttributesPool ID="34" PinZhi="6" ExcAttributesName="Tỷ lệ bạo Hỗn Độn" ExcAttributes="ChaosDoubleAttackPercent,0.02" StartWeight="4601" EndWeight="4800" />
+  <DeityExcAttributesPool ID="35" PinZhi="6" ExcAttributesName="Tỷ lệ bạo Ác Mộng" ExcAttributes="IncubusDoubleAttackPercent,0.02" StartWeight="4801" EndWeight="5000" />
+  <DeityExcAttributesPool ID="36" PinZhi="6" ExcAttributesName="ST bạo Thần Thánh" ExcAttributes="HolyDoubleAttackInjure,0.01" StartWeight="5001" EndWeight="5500" />
+  <DeityExcAttributesPool ID="37" PinZhi="6" ExcAttributesName="ST bạo Ám Ảnh" ExcAttributes="ShadowDoubleAttackInjure,0.01" StartWeight="5501" EndWeight="6000" />
+  <DeityExcAttributesPool ID="38" PinZhi="6" ExcAttributesName="ST bạo Tự Nhiên" ExcAttributes="NatureDoubleAttackInjure,0.01" StartWeight="6001" EndWeight="6500" />
+  <DeityExcAttributesPool ID="39" PinZhi="6" ExcAttributesName="ST bạo Hỗn Độn" ExcAttributes="ChaosDoubleAttackInjure,0.01" StartWeight="6501" EndWeight="7000" />
+  <DeityExcAttributesPool ID="40" PinZhi="6" ExcAttributesName="ST bạo Ác Mộng" ExcAttributes="IncubusDoubleAttackInjure,0.01" StartWeight="7001" EndWeight="7500" />
+  <DeityExcAttributesPool ID="41" PinZhi="6" ExcAttributesName="ST bạo Thần Thánh" ExcAttributes="HolyDoubleAttackInjure,0.015" StartWeight="7501" EndWeight="7800" />
+  <DeityExcAttributesPool ID="42" PinZhi="6" ExcAttributesName="ST bạo Ám Ảnh" ExcAttributes="ShadowDoubleAttackInjure,0.015" StartWeight="7801" EndWeight="8100" />
+  <DeityExcAttributesPool ID="43" PinZhi="6" ExcAttributesName="ST bạo Tự Nhiên" ExcAttributes="NatureDoubleAttackInjure,0.015" StartWeight="8101" EndWeight="8400" />
+  <DeityExcAttributesPool ID="44" PinZhi="6" ExcAttributesName="ST bạo Hỗn Độn" ExcAttributes="ChaosDoubleAttackInjure,0.015" StartWeight="8401" EndWeight="8700" />
+  <DeityExcAttributesPool ID="45" PinZhi="6" ExcAttributesName="ST bạo Ác Mộng" ExcAttributes="IncubusDoubleAttackInjure,0.015" StartWeight="8701" EndWeight="9000" />
+  <DeityExcAttributesPool ID="46" PinZhi="6" ExcAttributesName="ST bạo Thần Thánh" ExcAttributes="HolyDoubleAttackInjure,0.02" StartWeight="9001" EndWeight="9200" />
+  <DeityExcAttributesPool ID="47" PinZhi="6" ExcAttributesName="ST bạo Ám Ảnh" ExcAttributes="ShadowDoubleAttackInjure,0.02" StartWeight="9201" EndWeight="9400" />
+  <DeityExcAttributesPool ID="48" PinZhi="6" ExcAttributesName="ST bạo Tự Nhiên" ExcAttributes="NatureDoubleAttackInjure,0.02" StartWeight="9401" EndWeight="9600" />
+  <DeityExcAttributesPool ID="49" PinZhi="6" ExcAttributesName="ST bạo Hỗn Độn" ExcAttributes="ChaosDoubleAttackInjure,0.02" StartWeight="9601" EndWeight="9800" />
+  <DeityExcAttributesPool ID="50" PinZhi="6" ExcAttributesName="ST bạo Ác Mộng" ExcAttributes="IncubusDoubleAttackInjure,0.02" StartWeight="9801" EndWeight="10000" />
+</Config>"

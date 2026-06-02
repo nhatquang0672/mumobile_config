@@ -1,0 +1,25 @@
+TextAsset Base
+	string m_Name = "WeaponMaster"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <WeaponMaster ID="1" Type="1" Name="Sức Mạnh Titan" WeaponType1="17" WeaponType2="17" WeaponMasterProps="DeDoubleAttack,0.06" />
+  <WeaponMaster ID="2" Type="1" Name="Sức Mạnh Titan" WeaponType1="17,11" WeaponType2="18" WeaponMasterProps="ElementInjurePercent,0.06" />
+  <WeaponMaster ID="3" Type="1" Name="Sức Mạnh Titan" WeaponType1="15" WeaponType2="21" WeaponMasterProps="DoubleAttack,0.06" />
+  <WeaponMaster ID="4" Type="1" Name="Sức Mạnh Titan" WeaponType1="11" WeaponType2="11" WeaponMasterProps="WeaponEffect,0.4" />
+  <WeaponMaster ID="5" Type="1" Name="Sức Mạnh Titan" WeaponType1="17,14,13" WeaponType2="-1" WeaponMasterProps="AddAttackPercent,0.08" />
+  <WeaponMaster ID="6" Type="1" Name="Sức Mạnh Titan" WeaponType1="11,19,12,16" WeaponType2="-1" WeaponMasterProps="AddAttackPercent,0.08" />
+  <WeaponMaster ID="7" Type="1" Name="Sức Mạnh Titan" WeaponType1="17,63" WeaponType2="61" WeaponMasterProps="AddAttackPercent,0.1" />
+  <WeaponMaster ID="8" Type="1" Name="Sức Mạnh Titan" WeaponType1="62" WeaponType2="-1" WeaponMasterProps="AddAttackPercent,0.2" />
+  <WeaponMaster ID="9" Type="1" Name="Sức Mạnh Titan" WeaponType1="64" WeaponType2="65" WeaponMasterProps="AddAttackPercent,0.1" />
+  <WeaponMaster ID="10" Type="1" Name="Sức Mạnh Titan" WeaponType1="66" WeaponType2="-1" WeaponMasterProps="AddAttackPercent,0.2" />
+  <WeaponMaster ID="11" Type="2" Name="Sức Mạnh Zeus" WeaponType1="17" WeaponType2="17" WeaponMasterProps="ElementAttackInjurePercent,0.06" />
+  <WeaponMaster ID="12" Type="2" Name="Sức Mạnh Zeus" WeaponType1="17,11" WeaponType2="18" WeaponMasterProps="WeaponEffect,0.55" />
+  <WeaponMaster ID="13" Type="2" Name="Sức Mạnh Zeus" WeaponType1="15" WeaponType2="21" WeaponMasterProps="AddAttackPercent,0.08" />
+  <WeaponMaster ID="14" Type="2" Name="Sức Mạnh Zeus" WeaponType1="11" WeaponType2="11" WeaponMasterProps="DoubleAttack,0.06" />
+  <WeaponMaster ID="15" Type="2" Name="Sức Mạnh Zeus" WeaponType1="17,14,13" WeaponType2="-1" WeaponMasterProps="ElementInjurePercent,0.06" />
+  <WeaponMaster ID="16" Type="2" Name="Sức Mạnh Zeus" WeaponType1="11,19,12,16" WeaponType2="-1" WeaponMasterProps="ElementInjurePercent,0.06" />
+  <WeaponMaster ID="17" Type="2" Name="Sức Mạnh Zeus" WeaponType1="17,63" WeaponType2="61" WeaponMasterProps="AddAttackPercent,0.1" />
+  <WeaponMaster ID="18" Type="2" Name="Sức Mạnh Zeus" WeaponType1="62" WeaponType2="-1" WeaponMasterProps="AddAttackPercent,0.2" />
+  <WeaponMaster ID="19" Type="2" Name="Sức Mạnh Zeus" WeaponType1="64" WeaponType2="65" WeaponMasterProps="WeaponEffect,0.55" />
+  <WeaponMaster ID="20" Type="2" Name="Sức Mạnh Zeus" WeaponType1="66" WeaponType2="-1" WeaponMasterProps="ElementInjurePercent,0.06" />
+</Config>"

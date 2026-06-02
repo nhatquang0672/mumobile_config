@@ -1,0 +1,11 @@
+TextAsset Base
+	string m_Name = "ScrollOpen"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ScrollOpen ID="1" ScrollOpenType="1" ScrollOpenName="Thánh Ấn" ScrollOpenDec="-1" ScrollOpenCondition="-1" ScrollOpenNum="-1" ScrollOpenMonstersId="9870000" />
+  <ScrollOpen ID="2" ScrollOpenType="2" ScrollOpenName="Luyện Ngục" ScrollOpenDec="Cấp Thánh Ấn đạt Lv30" ScrollOpenCondition="1" ScrollOpenNum="1,30" ScrollOpenMonstersId="9870001" />
+  <ScrollOpen ID="3" ScrollOpenType="3" ScrollOpenName="Di Tích" ScrollOpenDec="Cấp Luyện Ngục đạt Lv30" ScrollOpenCondition="1" ScrollOpenNum="2,30" ScrollOpenMonstersId="9870002" />
+  <ScrollOpen ID="4" ScrollOpenType="4" ScrollOpenName="Thần Thánh" ScrollOpenDec="Cấp Di Tích đạt Lv30" ScrollOpenCondition="1" ScrollOpenNum="3,30" ScrollOpenMonstersId="9870003" />
+  <ScrollOpen ID="4" ScrollOpenType="5" ScrollOpenName="Ảo Diệt" ScrollOpenDec="Cấp Di Tích đạt Lv30" ScrollOpenCondition="1" ScrollOpenNum="4,30" ScrollOpenMonstersId="9870004" />
+  <ScrollOpen ID="4" ScrollOpenType="6" ScrollOpenName="Sáng Thế" ScrollOpenDec="Cấp Di Tích đạt Lv30" ScrollOpenCondition="1" ScrollOpenNum="5,30" ScrollOpenMonstersId="9870005" />
+</Config>"

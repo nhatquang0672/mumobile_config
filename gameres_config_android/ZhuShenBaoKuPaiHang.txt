@@ -1,0 +1,10 @@
+TextAsset Base
+	string m_Name = "ZhuShenBaoKuPaiHang"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ZhuShenBaoKuPaiHang ID="1" Rank="1" Goods="714291,1,1,0,0,0,0|2005,35,1,0,0,0,0|5300,1,1,0,0,0,0" ScoreMin="50" />
+  <ZhuShenBaoKuPaiHang ID="2" Rank="2" Goods="51529,1,1,0,0,0,0|2005,25,1,0,0,0,0|5301,1,1,0,0,0,0" ScoreMin="40" />
+  <ZhuShenBaoKuPaiHang ID="3" Rank="3" Goods="1033600,1,1,0,0,0,0|2005,15,1,0,0,0,0|5302,1,1,0,0,0,0" ScoreMin="30" />
+  <ZhuShenBaoKuPaiHang ID="4" Rank="4" Goods="23001,1,1,0,0,0,0|2005,10,1,0,0,0,0|5303,1,1,0,0,0,0" ScoreMin="20" />
+  <ZhuShenBaoKuPaiHang ID="5" Rank="5" Goods="400006,1,1,0,0,0,0|2005,5,1,0,0,0,0|5304,1,1,0,0,0,0" ScoreMin="10" />
+</Config>"

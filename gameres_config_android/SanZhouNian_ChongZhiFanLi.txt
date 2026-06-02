@@ -1,0 +1,6 @@
+TextAsset Base
+	string m_Name = "SanZhouNian_ChongZhiFanLi"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <SanZhouNian_ChongZhiFanLi ChongZhiJinE="400,900,2000,4000,7000" FanZuanShuLiang="400,900,2200,5200,10500" XiaoFeiZuanShi="400,900,2000,4000,7000" HuoDongKaiQi="2022-11-01 00:00:00" HuoDongGuanBi="2022-11-07 23:59:59" HuoDongKaiGuan="1" />
+</Config>"

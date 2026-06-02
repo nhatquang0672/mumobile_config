@@ -1,0 +1,35 @@
+TextAsset Base
+	string m_Name = "ShengLingDiaoWenLevelup"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <ShengLingDiaoWenLevelup ID="1" GoodsID="12601" Name="圣令雕纹绿" Level="1" DiaoWenType="1" NextdGoods="12602" BaseGoodsNum="1" Prop="MaxLifeV,1000|HitV,1100" />
+  <ShengLingDiaoWenLevelup ID="2" GoodsID="12602" Name="圣令雕纹绿" Level="2" DiaoWenType="1" NextdGoods="12603" BaseGoodsNum="3" Prop="MaxLifeV,1100|HitV,1200" />
+  <ShengLingDiaoWenLevelup ID="3" GoodsID="12603" Name="圣令雕纹绿" Level="3" DiaoWenType="1" NextdGoods="12604" BaseGoodsNum="9" Prop="MaxLifeV,1200|HitV,1300" />
+  <ShengLingDiaoWenLevelup ID="4" GoodsID="12604" Name="圣令雕纹绿" Level="4" DiaoWenType="1" NextdGoods="12605" BaseGoodsNum="27" Prop="MaxLifeV,1300|HitV,1400" />
+  <ShengLingDiaoWenLevelup ID="5" GoodsID="12605" Name="圣令雕纹绿" Level="5" DiaoWenType="1" NextdGoods="12606" BaseGoodsNum="81" Prop="MaxLifeV,1400|HitV,1500" />
+  <ShengLingDiaoWenLevelup ID="6" GoodsID="12606" Name="圣令雕纹绿" Level="6" DiaoWenType="1" NextdGoods="12607" BaseGoodsNum="243" Prop="MaxLifeV,1500|HitV,1600" />
+  <ShengLingDiaoWenLevelup ID="7" GoodsID="12607" Name="圣令雕纹绿" Level="7" DiaoWenType="1" NextdGoods="12608" BaseGoodsNum="729" Prop="MaxLifeV,1600|HitV,1700" />
+  <ShengLingDiaoWenLevelup ID="8" GoodsID="12608" Name="圣令雕纹绿" Level="8" DiaoWenType="1" NextdGoods="12609" BaseGoodsNum="2187" Prop="MaxLifeV,1700|HitV,1800" />
+  <ShengLingDiaoWenLevelup ID="9" GoodsID="12609" Name="圣令雕纹绿" Level="9" DiaoWenType="1" NextdGoods="12610" BaseGoodsNum="6561" Prop="MaxLifeV,1800|HitV,1900" />
+  <ShengLingDiaoWenLevelup ID="10" GoodsID="12610" Name="圣令雕纹绿" Level="10" DiaoWenType="1" NextdGoods="" BaseGoodsNum="19683" Prop="MaxLifeV,1900|HitV,2000" />
+  <ShengLingDiaoWenLevelup ID="11" GoodsID="12701" Name="圣令雕纹蓝" Level="1" DiaoWenType="2" NextdGoods="12702" BaseGoodsNum="1" Prop="MaxLifeV,2000|HitV,2100" />
+  <ShengLingDiaoWenLevelup ID="12" GoodsID="12702" Name="圣令雕纹蓝" Level="2" DiaoWenType="2" NextdGoods="12703" BaseGoodsNum="3" Prop="MaxLifeV,2100|HitV,2200" />
+  <ShengLingDiaoWenLevelup ID="13" GoodsID="12703" Name="圣令雕纹蓝" Level="3" DiaoWenType="2" NextdGoods="12704" BaseGoodsNum="9" Prop="MaxLifeV,2200|HitV,2300" />
+  <ShengLingDiaoWenLevelup ID="14" GoodsID="12704" Name="圣令雕纹蓝" Level="4" DiaoWenType="2" NextdGoods="12705" BaseGoodsNum="27" Prop="MaxLifeV,2300|HitV,2400" />
+  <ShengLingDiaoWenLevelup ID="15" GoodsID="12705" Name="圣令雕纹蓝" Level="5" DiaoWenType="2" NextdGoods="12706" BaseGoodsNum="81" Prop="MaxLifeV,2400|HitV,2500" />
+  <ShengLingDiaoWenLevelup ID="16" GoodsID="12706" Name="圣令雕纹蓝" Level="6" DiaoWenType="2" NextdGoods="12707" BaseGoodsNum="243" Prop="MaxLifeV,2500|HitV,2600" />
+  <ShengLingDiaoWenLevelup ID="17" GoodsID="12707" Name="圣令雕纹蓝" Level="7" DiaoWenType="2" NextdGoods="12708" BaseGoodsNum="729" Prop="MaxLifeV,2600|HitV,2700" />
+  <ShengLingDiaoWenLevelup ID="18" GoodsID="12708" Name="圣令雕纹蓝" Level="8" DiaoWenType="2" NextdGoods="12709" BaseGoodsNum="2187" Prop="MaxLifeV,2700|HitV,2800" />
+  <ShengLingDiaoWenLevelup ID="19" GoodsID="12709" Name="圣令雕纹蓝" Level="9" DiaoWenType="2" NextdGoods="12710" BaseGoodsNum="6561" Prop="MaxLifeV,2800|HitV,2900" />
+  <ShengLingDiaoWenLevelup ID="20" GoodsID="12710" Name="圣令雕纹蓝" Level="10" DiaoWenType="2" NextdGoods="" BaseGoodsNum="19683" Prop="MaxLifeV,2900|HitV,3000" />
+  <ShengLingDiaoWenLevelup ID="21" GoodsID="12801" Name="圣令雕纹紫" Level="1" DiaoWenType="3" NextdGoods="12802" BaseGoodsNum="1" Prop="MaxLifePercent,0.1|HitV,3100" />
+  <ShengLingDiaoWenLevelup ID="22" GoodsID="12802" Name="圣令雕纹紫" Level="2" DiaoWenType="3" NextdGoods="12803" BaseGoodsNum="3" Prop="MaxLifePercent,0.2|HitV,3200" />
+  <ShengLingDiaoWenLevelup ID="23" GoodsID="12803" Name="圣令雕纹紫" Level="3" DiaoWenType="3" NextdGoods="12804" BaseGoodsNum="9" Prop="MaxLifePercent,0.3|HitV,3300" />
+  <ShengLingDiaoWenLevelup ID="24" GoodsID="12804" Name="圣令雕纹紫" Level="4" DiaoWenType="3" NextdGoods="12805" BaseGoodsNum="27" Prop="MaxLifePercent,0.4|HitV,3400" />
+  <ShengLingDiaoWenLevelup ID="25" GoodsID="12805" Name="圣令雕纹紫" Level="5" DiaoWenType="3" NextdGoods="12806" BaseGoodsNum="81" Prop="MaxLifePercent,0.5|HitV,3500" />
+  <ShengLingDiaoWenLevelup ID="26" GoodsID="12806" Name="圣令雕纹紫" Level="6" DiaoWenType="3" NextdGoods="12807" BaseGoodsNum="243" Prop="MaxLifePercent,0.6|HitV,3600" />
+  <ShengLingDiaoWenLevelup ID="27" GoodsID="12807" Name="圣令雕纹紫" Level="7" DiaoWenType="3" NextdGoods="12808" BaseGoodsNum="729" Prop="MaxLifePercent,0.7|HitV,3700" />
+  <ShengLingDiaoWenLevelup ID="28" GoodsID="12808" Name="圣令雕纹紫" Level="8" DiaoWenType="3" NextdGoods="12809" BaseGoodsNum="2187" Prop="MaxLifePercent,0.8|HitV,3800" />
+  <ShengLingDiaoWenLevelup ID="29" GoodsID="12809" Name="圣令雕纹紫" Level="9" DiaoWenType="3" NextdGoods="12810" BaseGoodsNum="6561" Prop="MaxLifePercent,0.9|HitV,3900" />
+  <ShengLingDiaoWenLevelup ID="30" GoodsID="12810" Name="圣令雕纹紫" Level="10" DiaoWenType="3" NextdGoods="" BaseGoodsNum="19683" Prop="MaxLifePercent,1|HitV,4000" />
+</config>"

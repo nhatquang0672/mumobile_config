@@ -1,0 +1,29 @@
+TextAsset Base
+	string m_Name = "PetPalaceQuality"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <PetPalaceQualityAffect PetQuality="2" QualityProgress="0" />
+  <PetPalaceQualityAffect PetQuality="3" QualityProgress="0" />
+  <PetPalaceQualityAffect PetQuality="4" QualityProgress="0" />
+  <PetPalaceQualityAffect PetQuality="5" QualityProgress="0" />
+  <PetPalaceQualityAffect PetQuality="6" QualityProgress="0" />
+  <PetPalaceQualityAffect PetQuality="7" QualityProgress="0" />
+  <PetPalaceQualityAffect PetQuality="8" QualityProgress="0" />
+  <PetPalaceQualityAffect PetQuality="9" QualityProgress="150" />
+  <PetPalaceQualityAffect PetQuality="10" QualityProgress="150" />
+  <PetPalaceQualityAffect PetQuality="11" QualityProgress="150" />
+  <PetPalaceQualityAffect PetQuality="12" QualityProgress="150" />
+  <PetPalaceQualityAffect PetQuality="13" QualityProgress="150" />
+  <PetPalaceQualityAffect PetQuality="14" QualityProgress="150" />
+  <PetPalaceQualityAffect PetQuality="15" QualityProgress="150" />
+  <PetPalaceQualityAffect PetQuality="16" QualityProgress="300" />
+  <PetPalaceQualityAffect PetQuality="17" QualityProgress="300" />
+  <PetPalaceQualityAffect PetQuality="18" QualityProgress="300" />
+  <PetPalaceQualityAffect PetQuality="19" QualityProgress="300" />
+  <PetPalaceQualityAffect PetQuality="20" QualityProgress="300" />
+  <PetPalaceQualityAffect PetQuality="21" QualityProgress="300" />
+  <PetPalaceQualityAffect PetQuality="22" QualityProgress="300" />
+  <PetPalaceQualityAffect PetQuality="23" QualityProgress="300" />
+  <PetPalaceQualityAffect PetQuality="24" QualityProgress="300" />
+  <PetPalaceQualityAffect PetQuality="25" QualityProgress="300" />
+</Config>"

@@ -1,0 +1,9 @@
+TextAsset Base
+	string m_Name = "BaoShiXiangQianJiIntro"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1. Có thể khảm đá trong những trang bị {17e43e}có lỗ{dac7ae}{17e43e}" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2. Đá Tái Sinh cùng loại khi khảm trong {17e43e}trang bị tấn công{dac7ae} hoặc {17e43e}phòng thủ{dac7ae} sẽ có hiệu quả khác nhau{17e43e}" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3. Sau khi khảm có thể tháo tùy ý" Bold="0" />
+</Config>"

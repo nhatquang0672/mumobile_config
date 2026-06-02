@@ -1,0 +1,22 @@
+TextAsset Base
+	string m_Name = "ZhanGongMall"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ZhaoHui ID="110" Type="10000" ZhanMengLevel="1" Name="Thuốc Trị Tinh Hoa" Goods="1010,1,1,0,0,0,0" NeedZhanGong="500" SinglePurchase="-1" />
+  <ZhaoHui ID="120" Type="10000" ZhanMengLevel="1" Name="Thuốc MP Tinh Hoa" Goods="1110,1,1,0,0,0,0" NeedZhanGong="500" SinglePurchase="-1" />
+  <ZhaoHui ID="130" Type="10000" ZhanMengLevel="1" Name="Ngọc Hỗn Nguyên" Goods="2000,1,1,0,0,0,0" NeedZhanGong="10000" SinglePurchase="10" />
+  <ZhaoHui ID="140" Type="10000" ZhanMengLevel="1" Name="Ngọc Chúc Phúc" Goods="2001,1,1,0,0,0,0" NeedZhanGong="50000" SinglePurchase="10" />
+  <ZhaoHui ID="150" Type="10000" ZhanMengLevel="1" Name="Ngọc Tâm Linh" Goods="2002,1,1,0,0,0,0" NeedZhanGong="100000" SinglePurchase="10" />
+  <ZhaoHui ID="160" Type="10000" ZhanMengLevel="1" Name="Ngọc Sinh Mệnh" Goods="2003,1,1,0,0,0,0" NeedZhanGong="10000" SinglePurchase="20" />
+  <ZhaoHui ID="170" Type="10000" ZhanMengLevel="1" Name="Ngọc Tiến Hóa" Goods="2030,1,1,0,0,0,0" NeedZhanGong="2000" SinglePurchase="5" />
+  <ZhaoHui ID="180" Type="10000" ZhanMengLevel="1" Name="Lông Vũ" Goods="2016,1,1,0,0,0,0" NeedZhanGong="5000" SinglePurchase="20" />
+  <ZhaoHui ID="190" Type="10000" ZhanMengLevel="1" Name="Đá Thần Ưng" Goods="2017,1,1,0,0,0,0" NeedZhanGong="20000" SinglePurchase="3" />
+  <ZhaoHui ID="200" Type="10000" ZhanMengLevel="1" Name="Huy Chương EXP x 3" Goods="4030,1,1,0,0,0,0" NeedZhanGong="20000" SinglePurchase="2" />
+  <ZhaoHui ID="210" Type="10000" ZhanMengLevel="1" Name="Đá Hồi Sinh" Goods="4000,1,1,0,0,0,0" NeedZhanGong="10000" SinglePurchase="10" />
+  <ZhaoHui ID="220" Type="10000" ZhanMengLevel="1" Name="Nước Thần Sức Mạnh" Goods="4001,1,1,0,0,0,0" NeedZhanGong="20000" SinglePurchase="1" />
+  <ZhaoHui ID="230" Type="10000" ZhanMengLevel="1" Name="Nước Thần Nhanh Nhẹn" Goods="4002,1,1,0,0,0,0" NeedZhanGong="20000" SinglePurchase="1" />
+  <ZhaoHui ID="240" Type="10000" ZhanMengLevel="1" Name="Nước Thần Thể Lực" Goods="4003,1,1,0,0,0,0" NeedZhanGong="20000" SinglePurchase="1" />
+  <ZhaoHui ID="250" Type="10000" ZhanMengLevel="1" Name="Nước Thần Trí Lực" Goods="4004,1,1,0,0,0,0" NeedZhanGong="20000" SinglePurchase="1" />
+  <ZhaoHui ID="260" Type="10000" ZhanMengLevel="1" Name="Nước Thần Hoàn Hảo" Goods="4005,1,1,0,0,0,0" NeedZhanGong="20000" SinglePurchase="1" />
+  <ZhaoHui ID="270" Type="10000" ZhanMengLevel="1" Name="Nước Thần May Mắn" Goods="4006,1,1,0,0,0,0" NeedZhanGong="20000" SinglePurchase="1" />
+</Config>"

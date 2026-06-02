@@ -1,0 +1,21 @@
+TextAsset Base
+	string m_Name = "ZhuanPan"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ZhuanPan ID="1" Name="兰花脚印" GoodsID="2090433,1,0,0,0,0,0" AwardLevel="2" AwardLabel="1" GongGao="1" />
+  <ZhuanPan ID="2" Name="桃花脚印" GoodsID="2090434,1,0,0,0,0,0" AwardLevel="2" AwardLabel="1" GongGao="1" />
+  <ZhuanPan ID="3" Name="芍药花脚印" GoodsID="2090435,1,0,0,0,0,0" AwardLevel="2" AwardLabel="1" GongGao="1" />
+  <ZhuanPan ID="4" Name="石榴花脚印" GoodsID="2090436,1,0,0,0,0,0" AwardLevel="2" AwardLabel="1" GongGao="1" />
+  <ZhuanPan ID="5" Name="芙蓉花脚印" GoodsID="2090437,1,0,0,0,0,0" AwardLevel="2" AwardLabel="1" GongGao="1" />
+  <ZhuanPan ID="6" Name="紫薇花脚印" GoodsID="2090438,1,0,0,0,0,0" AwardLevel="2" AwardLabel="1" GongGao="1" />
+  <ZhuanPan ID="7" Name="桂花脚印" GoodsID="2090439,1,0,0,0,0,0" AwardLevel="2" AwardLabel="1" GongGao="1" />
+  <ZhuanPan ID="8" Name="水仙花脚印" GoodsID="2090440,1,0,0,0,0,0" AwardLevel="2" AwardLabel="1" GongGao="1" />
+  <ZhuanPan ID="9" Name="杏花脚印" GoodsID="2090441,1,0,0,0,0,0" AwardLevel="2" AwardLabel="1" GongGao="1" />
+  <ZhuanPan ID="10" Name="玉簪花脚印" GoodsID="2090442,1,0,0,0,0,0" AwardLevel="2" AwardLabel="1" GongGao="1" />
+  <ZhuanPan ID="11" Name="菊花脚印" GoodsID="2090443,1,0,0,0,0,0" AwardLevel="2" AwardLabel="1" GongGao="1" />
+  <ZhuanPan ID="12" Name="山茶花脚印" GoodsID="2090444,1,0,0,0,0,0" AwardLevel="2" AwardLabel="1" GongGao="1" />
+  <ZhuanPan ID="13" Name="天魔菲尼斯碎片" GoodsID="30152520,1,0,0,0,0,0" AwardLevel="3" AwardLabel="2" GongGao="1" />
+  <ZhuanPan ID="14" Name="麻痹神锤碎片" GoodsID="30152600,3,0,0,0,0,0" AwardLevel="3" AwardLabel="2" GongGao="1" />
+  <ZhuanPan ID="15" Name="街头范时装碎片" GoodsID="30152563,5,0,0,0,0,0" AwardLevel="3" AwardLabel="2" GongGao="1" />
+  <ZhuanPan ID="16" Name="文艺武器碎片 " GoodsID="30152620,5,0,0,0,0,0" AwardLevel="3" AwardLabel="2" GongGao="1" />
+</Config>"

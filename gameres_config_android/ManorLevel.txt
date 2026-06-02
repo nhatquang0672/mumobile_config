@@ -1,0 +1,23 @@
+TextAsset Base
+	string m_Name = "ManorLevel"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ManorLevel ID="1" Name="2 Chuyển" MinLevel="2|1" MaxLevel="2|100" />
+  <ManorLevel ID="2" Name="3 Chuyển" MinLevel="3|1" MaxLevel="3|100" />
+  <ManorLevel ID="3" Name="4 Chuyển" MinLevel="4|1" MaxLevel="4|100" />
+  <ManorLevel ID="4" Name="5 Chuyển" MinLevel="5|1" MaxLevel="5|100" />
+  <ManorLevel ID="5" Name="6 Chuyển" MinLevel="6|1" MaxLevel="6|100" />
+  <ManorLevel ID="6" Name="7 Chuyển" MinLevel="7|1" MaxLevel="7|100" />
+  <ManorLevel ID="7" Name="8 Chuyển" MinLevel="8|1" MaxLevel="8|100" />
+  <ManorLevel ID="8" Name="9 Chuyển" MinLevel="9|1" MaxLevel="9|100" />
+  <ManorLevel ID="9" Name="10 Chuyển" MinLevel="10|1" MaxLevel="10|100" />
+  <ManorLevel ID="10" Name="11 Chuyển" MinLevel="11|1" MaxLevel="11|100" />
+  <ManorLevel ID="11" Name="12 Chuyển" MinLevel="12|1" MaxLevel="12|100" />
+  <ManorLevel ID="12" Name="13 Chuyển" MinLevel="13|1" MaxLevel="13|100" />
+  <ManorLevel ID="13" Name="14 Chuyển" MinLevel="14|1" MaxLevel="14|100" />
+  <ManorLevel ID="14" Name="15 Chuyển" MinLevel="15|1" MaxLevel="15|100" />
+  <ManorLevel ID="15" Name="16 Chuyển" MinLevel="16|1" MaxLevel="16|100" />
+  <ManorLevel ID="16" Name="17Chuyển" MinLevel="17|1" MaxLevel="17|100" />
+  <ManorLevel ID="17" Name="18Chuyển" MinLevel="18|1" MaxLevel="18|100" />
+  <ManorLevel ID="18" Name="19Chuyển" MinLevel="19|1" MaxLevel="19|100" />
+</Config>"

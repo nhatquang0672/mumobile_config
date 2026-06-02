@@ -1,0 +1,10 @@
+TextAsset Base
+	string m_Name = "ChuangShiHeChengIntro"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1.Đá Sáng Thế có thể thông qua hình thức {17e43e}5 hợp 1{dac7ae} để tiến hành {17e43e}hợp thành{dac7ae}, khi gia công cần thêm {17e43e}Đá Tái Sinh cùng level" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2.Hợp thành Đá Sáng Thế{17e43e} không có tỷ lệ thất bại{dac7ae}, sau khi gia công {17e43e}nhận Đá Sáng Thế {dac7ae}của level này{17e43e}" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3.Đá Sáng Thế còn có thể thông qua{17e43e} hợp thành Đá Phong Ấn, Đá Tái Sinh, Đá Huyễn Thái" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4.Hợp thành Đá Sáng Thế cần số lượng {17e43e}Phù Vân Tố Tạo, Phù Vân Sán Thế{dac7ae}" Bold="0" />
+</Config>"

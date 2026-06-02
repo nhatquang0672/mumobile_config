@@ -1,0 +1,3 @@
+TextAsset Base
+	string m_Name = "YiYuanChongZhi"
+	string m_Script = ""

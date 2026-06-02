@@ -1,0 +1,26 @@
+TextAsset Base
+	string m_Name = "AssInfo"
+	string m_Script = "<RobotInfoList>
+  <RobotCPU ID="atom"/>
+  <RobotCPU ID="arm"/>
+  <RobotCPU ID="aarch"/>
+  <RobotPhone ID="imsi|46000"/>
+  <RobotPhone ID="imsi|46001"/>
+  <RobotPhone ID="imsi|46002"/>
+  <RobotPhone ID="imsi|46003"/>
+  <RobotBuild ID="TianTian,MANUFACTURER|TiantianVM,PRODUCT"/>
+  <RobotBuild ID="Genymotion,PRODUCT|vbox86tp,SDK"/>
+  <RobotBuild ID="vbox86,DEVICE"/>
+  <RobotBuild ID="Microvirt,PRODUCT|MEmu"/>
+  <RobotBuild ID="iToolsAVM"/>
+  <RobotBuild ID="XXEmulator"/>
+  <RobotBuild ID="rk30sdk"/>
+  <RobotBuild ID="N70-S"/>
+  <RobotBuild ID="NoxW"/>
+  <!-- 
+<RobotSign ID="*1|1"/>
+<RobotSign ID="*1|0"/>
+<RobotSign ID="*0|1"/>
+ -->
+</RobotInfoList>
+"

@@ -1,0 +1,6 @@
+TextAsset Base
+	string m_Name = "MainBtn"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <MainBtn ID="1" BtnPic="BiZhang" Orderid="183" PriorityID="1" Name="SK Ưu Đãi" UILink="" OpenCondition="1" TeXiao="" HongDian="" />
+</config>"

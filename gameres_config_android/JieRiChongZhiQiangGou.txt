@@ -1,0 +1,9 @@
+TextAsset Base
+	string m_Name = "JieRiChongZhiQiangGou"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="67" FromDate="2022-11-01 00:00:00" ToDate="2022-11-07 23:59:59" AwardStartDate="2022-11-01 00:00:00" AwardEndDate="2022-11-07 23:59:59" />
+  <GiftList Description="Mua nạp lễ">
+    <Award ID="1" Day="1,7" ZhiGouID="6" ChongZhiID="10" YuanJia="27100" GoodsOne="2001,88,1,0,0,0,0|2002,88,1,0,0,0,0|2003,88,1,0,0,0,0" GoodsTwo="" SinglePurchase="1" TitlePic="-1" Background="-1" />
+  </GiftList>
+</Config>"

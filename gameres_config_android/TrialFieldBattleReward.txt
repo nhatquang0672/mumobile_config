@@ -1,0 +1,10 @@
+TextAsset Base
+	string m_Name = "TrialFieldBattleReward"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <TrialFieldBattleReward ID="1" RankValue="400" RankName="Bạch Ngân" TheFirstRankValue="50" TheSecondRankValue="-50" TheFirstReward="64024,30,1,0,0,0,0|50400,3,1,0,0,0,0" TheSecondReward="64024,15,1,0,0,0,0|50400,1,1,0,0,0,0" FirstWinRankReward="64024,150,1,0,0,0,0|50400,10,1,0,0,0,0" />
+  <TrialFieldBattleReward ID="2" RankValue="300" RankName="Bạch Ngân" TheFirstRankValue="50" TheSecondRankValue="-40" TheFirstReward="64024,30,1,0,0,0,0|50400,3,1,0,0,0,0" TheSecondReward="64024,15,1,0,0,0,0|50400,1,1,0,0,0,0" FirstWinRankReward="64024,150,1,0,0,0,0|50400,10,1,0,0,0,0" />
+  <TrialFieldBattleReward ID="3" RankValue="200" RankName="Bạch Ngân" TheFirstRankValue="50" TheSecondRankValue="-30" TheFirstReward="64024,30,1,0,0,0,0|50400,3,1,0,0,0,0" TheSecondReward="64024,15,1,0,0,0,0|50400,1,1,0,0,0,0" FirstWinRankReward="64024,150,1,0,0,0,0|50400,10,1,0,0,0,0" />
+  <TrialFieldBattleReward ID="4" RankValue="100" RankName="Bạch Ngân" TheFirstRankValue="50" TheSecondRankValue="-20" TheFirstReward="64024,30,1,0,0,0,0|50400,3,1,0,0,0,0" TheSecondReward="64024,15,1,0,0,0,0|50400,1,1,0,0,0,0" FirstWinRankReward="64024,150,1,0,0,0,0|50400,10,1,0,0,0,0" />
+  <TrialFieldBattleReward ID="5" RankValue="-1" RankName="Bạch Ngân" TheFirstRankValue="50" TheSecondRankValue="0" TheFirstReward="64024,30,1,0,0,0,0|50400,3,1,0,0,0,0" TheSecondReward="64024,15,1,0,0,0,0|50400,1,1,0,0,0,0" FirstWinRankReward="64024,150,1,0,0,0,0|50400,10,1,0,0,0,0" />
+</Config>"

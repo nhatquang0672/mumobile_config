@@ -1,0 +1,3 @@
+TextAsset Base
+	string m_Name = "OldUserList_2"
+	string m_Script = ""

@@ -1,0 +1,8 @@
+TextAsset Base
+	string m_Name = "StarGaiLvShow"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <StarGaiLvShow ID="1" Intro="" Bold="0" Type="5" />
+  <StarGaiLvShow ID="2" Intro="Tỷ lệ nhận đạo cụ cực phẩm khoảng 16%" Bold="0" Type="5" />
+  <StarGaiLvShow ID="3" Intro="Tỷ lệ nhận đạo cụ phẩm thấp khoảng 84%" Bold="0" Type="5" />
+</Config>"

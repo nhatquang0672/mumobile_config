@@ -1,0 +1,27 @@
+TextAsset Base
+	string m_Name = "FuBenTab"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Copy TabID="1" FuBenType="0" Name="Bạch Cốt" Preview="100" RewardExplain="5,2|4,2" />
+  <Copy TabID="2" FuBenType="0" Name="Tiên Cảnh " Preview="200" RewardExplain="5,2|4,2" />
+  <Copy TabID="3" FuBenType="0" Name="Cung Điện Băng" Preview="300" RewardExplain="5,3|4,3" />
+  <Copy TabID="4" FuBenType="0" Name="Cung Gordon" Preview="400" RewardExplain="5,3|4,3" />
+  <Copy TabID="5" FuBenType="0" Name="Cung Balrog" Preview="500" RewardExplain="5,4|4,4" />
+  <Copy TabID="6" FuBenType="0" Name="Biển Quỷ" Preview="600" RewardExplain="5,4|4,4" />
+  <Copy TabID="7" FuBenType="0" Name="Hang Dung Nham" Preview="700" RewardExplain="5,5|4,5" />
+  <Copy TabID="8" FuBenType="0" Name="Thiên Ma" Preview="800" RewardExplain="5,5|4,5" />
+  <Copy TabID="9" FuBenType="0" Name="Rừng Tĩnh Mịch" Preview="900" RewardExplain="5,5|4,5" />
+  <Copy TabID="10" FuBenType="0" Name="Biển Di Tích" Preview="1000" RewardExplain="5,5|4,5" />
+  <Copy TabID="11" FuBenType="0" Name="Tim Năng Lượng" Preview="1100" RewardExplain="5,5|4,5" />
+  <Copy TabID="12" FuBenType="0" Name="Khu Ấp Trứng" Preview="1200" RewardExplain="5,5|4,5" />
+  <Copy TabID="13" FuBenType="0" Name="Động Kho Báu" Preview="1300" RewardExplain="5,5|4,5" />
+  <Copy TabID="500" FuBenType="2" Name="Phó bản EXP" Preview="50000" RewardExplain="1,5" />
+  <Copy TabID="600" FuBenType="3" Name="Tháp Quỷ" Preview="10000" RewardExplain="1,5|4,5" />
+  <Copy TabID="501" FuBenType="2" Name="Phó bản Vàng" Preview="50100" RewardExplain="9,5" />
+  <Copy TabID="700" FuBenType="4" Name="Phó Bản Đôi" Preview="70000" RewardExplain="5,5|4,5" />
+  <Copy TabID="701" FuBenType="9" Name="Đền Kalima" Preview="100000" RewardExplain="1,5" />
+  <Copy TabID="800" FuBenType="9" Name="Phán Quyết" Preview="80000" RewardExplain="1,5" />
+  <Copy TabID="801" FuBenType="9" Name="Thí Luyện Nguyên Tố " Preview="80100" RewardExplain="1,5" />
+  <Copy TabID="802" FuBenType="9" Name="Pháo Đài Sói" Preview="80200" RewardExplain="1,5" />
+  <Copy TabID="803" FuBenType="9" Name="Vực Vạn Ma" Preview="80300" RewardExplain="1,5" />
+</Config>"

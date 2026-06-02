@@ -1,0 +1,15 @@
+TextAsset Base
+	string m_Name = "WishAward"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <WishAward ID="1" StarNum="1" EndNum="1" Name="Hạng 1" GoodsOne="1033060,1,1,0,0,0,0|1033060,1,1,0,0,0,0|7050,280,1,0,0,0,0" GoodsTwo="" MinWishNum="10" />
+  <WishAward ID="2" StarNum="2" EndNum="2" Name="Hạng 2" GoodsOne="1033060,1,1,0,0,0,0|5120,220,1,0,0,0,0|7050,220,1,0,0,0,0" GoodsTwo="" MinWishNum="10" />
+  <WishAward ID="3" StarNum="3" EndNum="3" Name="Hạng 3" GoodsOne="1033060,1,1,0,0,0,0|5120,170,1,0,0,0,0|7050,170,1,0,0,0,0" GoodsTwo="" MinWishNum="10" />
+  <WishAward ID="4" StarNum="4" EndNum="4" Name="Hạng 4" GoodsOne="63100,1,1,0,0,0,0|5120,130,1,0,0,0,0|7050,130,1,0,0,0,0" GoodsTwo="" MinWishNum="10" />
+  <WishAward ID="5" StarNum="5" EndNum="5" Name="Hạng 5" GoodsOne="63100,1,1,0,0,0,0|5120,130,1,0,0,0,0|7050,130,1,0,0,0,0" GoodsTwo="" MinWishNum="10" />
+  <WishAward ID="6" StarNum="6" EndNum="6" Name="Hạng 6" GoodsOne="63100,1,1,0,0,0,0|5120,130,1,0,0,0,0|7050,130,1,0,0,0,0" GoodsTwo="" MinWishNum="10" />
+  <WishAward ID="7" StarNum="7" EndNum="7" Name="Hạng 7" GoodsOne="63100,1,1,0,0,0,0|5120,100,1,0,0,0,0|7050,100,1,0,0,0,0" GoodsTwo="" MinWishNum="10" />
+  <WishAward ID="8" StarNum="8" EndNum="8" Name="Hạng 8" GoodsOne="63100,1,1,0,0,0,0|5120,100,1,0,0,0,0|7050,100,1,0,0,0,0" GoodsTwo="" MinWishNum="10" />
+  <WishAward ID="9" StarNum="9" EndNum="9" Name="Hạng 9" GoodsOne="63100,1,1,0,0,0,0|5120,100,1,0,0,0,0|7050,100,1,0,0,0,0" GoodsTwo="" MinWishNum="10" />
+  <WishAward ID="10" StarNum="10" EndNum="10" Name="Hạng 10" GoodsOne="63100,1,1,0,0,0,0|5120,100,1,0,0,0,0|7050,100,1,0,0,0,0" GoodsTwo="" MinWishNum="10" />
+</Config>"

@@ -1,0 +1,8 @@
+TextAsset Base
+	string m_Name = "HuanMengSlateRewardPool"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HuanMengSlateRewardPool ID="1" RandomPoolType="1,2,3" RewardName="Đồng Thạch Bản" ActivatedPro="0.02" ActivatedNum="50" ActivatedPool="2" NeedLuckStar="30,40,50,80,100,100,100,200,200" StartIsLock="0" ContinueIsLock="0" />
+  <HuanMengSlateRewardPool ID="2" RandomPoolType="4,5,6" RewardName="Ngân Thạch Bản" ActivatedPro="0.01" ActivatedNum="50" ActivatedPool="3" NeedLuckStar="100,200,300,300,300,400,400,500,500" StartIsLock="1" ContinueIsLock="1" />
+  <HuanMengSlateRewardPool ID="3" RandomPoolType="7,8,9" RewardName="Kim Thạch Bản" ActivatedPro="" ActivatedNum="" ActivatedPool="" NeedLuckStar="300,400,500,600,600,600,1000,1000,1000" StartIsLock="1" ContinueIsLock="1" />
+</Config>"

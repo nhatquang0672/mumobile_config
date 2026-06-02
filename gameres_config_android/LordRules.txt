@@ -1,0 +1,9 @@
+TextAsset Base
+	string m_Name = "LordRules"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="Hướng dẫn" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1. {fac60d}Hướng dẫn tước vị{dac7ae}: Sau khi mở hệ thống tước vị sẽ nhận tước thấp nhất, tước vị giúp tăng {17e43e}thuộc tính tái sinh toàn hệ phái{dac7ae}, thêm mới {17e43e}kỹ năng tước vị{dac7ae}, gây sát thương lớn cho BOSS tước vị." Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2. {fac60d}Tăng cấp tước vị{dac7ae}: Tốn đạo cụ tước vị chỉ định giúp tăng cấp tước vị, tăng cấp giúp {17e43e}tăng thuộc tính tái sinh toàn hệ phái{dac7ae}. Cấp tước vị càng cao, thuộc tính tăng thêm càng nhiều.{dac7ae}" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3. {fac60d}Tăng bậc tước vị{dac7ae}: Tốn đạo cụ tước vị chỉ định giúp tăng bậc tước vị. Tăng bậc giúp {17e43e}tăng thuộc tính tái sinh toàn hệ phái{dac7ae}, có thể mở khóa {17e43e}bản đồ săn tước vị{dac7ae} tương ứng bậc tước vị. Một số bậc có thể giúp mở khóa {17e43e}vị trí trang bị tước vị{dac7ae}." Bold="0" />
+</Config>"

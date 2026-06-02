@@ -1,0 +1,14 @@
+TextAsset Base
+	string m_Name = "SevenDayQiangGou"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Xiangou>
+  <Goods ID="1" Day="1" Name="10 Vạn Ma Băng" GoodsID="5079,1,1,0,0,0,0" OrigPrice="200" Price="100" Purchase="5"/>
+  <Goods ID="2" Day="2" Name="Phiếu Cầu Phúc" GoodsID="7004,1,1,0,0,0,0" OrigPrice="200" Price="100" Purchase="5"/>
+  <Goods ID="3" Day="3" Name="188 Vạn Vàng Khóa" GoodsID="50033,1,1,0,0,0,0" OrigPrice="100" Price="50" Purchase="10"/>
+  <Goods ID="4" Day="4" Name="Ngọc Chúc Phúc" GoodsID="2001,1,1,0,0,0,0" OrigPrice="50" Price="25" Purchase="20"/>
+  <Goods ID="5" Day="5" Name="Ngọc Sinh Mệnh" GoodsID="2003,10,1,0,0,0,0" OrigPrice="100" Price="50" Purchase="4"/>
+  <Goods ID="6" Day="5" Name="Ấn Ký Thành Tựu" GoodsID="5030,1,1,0,0,0,0" OrigPrice="60" Price="30" Purchase="10"/>
+  <Goods ID="7" Day="6" Name="Đá Thần Ưng" GoodsID="2017,1,1,0,0,0,0" OrigPrice="20" Price="10" Purchase="20"/>
+  <Goods ID="8" Day="6" Name="10000 Tinh Hồn" GoodsID="5088,1,1,0,0,0,0" OrigPrice="20" Price="10" Purchase="30"/>
+  <Goods ID="9" Day="7" Name="Phiếu Triệu Hồi" GoodsID="7005,1,1,0,0,0,0" OrigPrice="200" Price="100" Purchase="5"/>
+</Xiangou>"

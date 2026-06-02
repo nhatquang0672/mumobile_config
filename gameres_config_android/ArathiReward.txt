@@ -1,0 +1,28 @@
+TextAsset Base
+	string m_Name = "ArathiReward"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <ArathiReward ID="1" JiFen="1,9" Reward="33104,5,1,0,0,0,0" JinDu="5" />
+  <ArathiReward ID="2" JiFen="10,49" Reward="33104,10,1,0,0,0,0" JinDu="10" />
+  <ArathiReward ID="3" JiFen="50,99" Reward="33104,20,1,0,0,0,0" JinDu="20" />
+  <ArathiReward ID="4" JiFen="100,199" Reward="33104,50,1,0,0,0,0" JinDu="50" />
+  <ArathiReward ID="5" JiFen="200,299" Reward="33104,100,1,0,0,0,0" JinDu="100" />
+  <ArathiReward ID="6" JiFen="300,399" Reward="33104,150,1,0,0,0,0" JinDu="150" />
+  <ArathiReward ID="7" JiFen="400,499" Reward="33104,200,1,0,0,0,0" JinDu="200" />
+  <ArathiReward ID="8" JiFen="500,599" Reward="33104,250,1,0,0,0,0" JinDu="250" />
+  <ArathiReward ID="9" JiFen="600,699" Reward="33104,300,1,0,0,0,0" JinDu="300" />
+  <ArathiReward ID="10" JiFen="700,799" Reward="33104,350,1,0,0,0,0" JinDu="350" />
+  <ArathiReward ID="11" JiFen="800,899" Reward="33104,400,1,0,0,0,0" JinDu="400" />
+  <ArathiReward ID="12" JiFen="900,999" Reward="33104,450,1,0,0,0,0" JinDu="450" />
+  <ArathiReward ID="13" JiFen="1000,1099" Reward="33104,500,1,0,0,0,0" JinDu="500" />
+  <ArathiReward ID="14" JiFen="1100,1199" Reward="33104,550,1,0,0,0,0" JinDu="550" />
+  <ArathiReward ID="15" JiFen="1200,1299" Reward="33104,600,1,0,0,0,0" JinDu="600" />
+  <ArathiReward ID="16" JiFen="1300,1399" Reward="33104,650,1,0,0,0,0" JinDu="650" />
+  <ArathiReward ID="17" JiFen="1400,1499" Reward="33104,700,1,0,0,0,0" JinDu="700" />
+  <ArathiReward ID="18" JiFen="1500,1599" Reward="33104,750,1,0,0,0,0" JinDu="750" />
+  <ArathiReward ID="19" JiFen="1600,1699" Reward="33104,800,1,0,0,0,0" JinDu="800" />
+  <ArathiReward ID="20" JiFen="1700,1799" Reward="33104,850,1,0,0,0,0" JinDu="850" />
+  <ArathiReward ID="21" JiFen="1800,1899" Reward="33104,900,1,0,0,0,0" JinDu="900" />
+  <ArathiReward ID="22" JiFen="1900,1999" Reward="33104,950,1,0,0,0,0" JinDu="950" />
+  <ArathiReward ID="23" JiFen="2000,3000" Reward="33104,1000,1,0,0,0,0" JinDu="1000" />
+</config>"

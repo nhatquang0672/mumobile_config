@@ -1,0 +1,15 @@
+TextAsset Base
+	string m_Name = "WenZhangShengWuAwakeExtAttribute"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <WenZhangShengWuAwakeExtAttribute ID="1" Name="圣物觉醒1阶" Picture="ShenShengWenZHang_18" ShengPoNum="7" ShengPoLevel="20" AwakeningLevel="1" Attributes="MinAttack,200|MaxAttack,400|MaxDefense,100|MinDefense,86|HitV,120|Dodge,120|MaxLifeV,1800" Describe="七种圣魄全部20级" />
+  <WenZhangShengWuAwakeExtAttribute ID="2" Name="圣物觉醒2阶" Picture="ShenShengWenZHang_19" ShengPoNum="7" ShengPoLevel="20" AwakeningLevel="2" Attributes="MinAttack,500|MaxAttack,600|MaxDefense,200|MinDefense,100|HitV,220|Dodge,220|MaxLifeV,1900" Describe="七种圣魄全部20级" />
+  <WenZhangShengWuAwakeExtAttribute ID="3" Name="圣物觉醒3阶" Picture="ShenShengWenZHang_20" ShengPoNum="7" ShengPoLevel="20" AwakeningLevel="3" Attributes="MinAttack,800|MaxAttack,800|MaxDefense,300|MinDefense,114|HitV,320|Dodge,320|MaxLifeV,2000" Describe="七种圣魄全部20级" />
+  <WenZhangShengWuAwakeExtAttribute ID="4" Name="圣物觉醒4阶" Picture="ShenShengWenZHang_21" ShengPoNum="7" ShengPoLevel="20" AwakeningLevel="4" Attributes="MinAttack,1100|MaxAttack,1000|MaxDefense,400|MinDefense,128|HitV,420|Dodge,420|MaxLifeV,2100" Describe="七种圣魄全部20级" />
+  <WenZhangShengWuAwakeExtAttribute ID="5" Name="圣物觉醒5阶" Picture="ShenShengWenZHang_22" ShengPoNum="7" ShengPoLevel="20" AwakeningLevel="5" Attributes="MinAttack,1400|MaxAttack,1200|MaxDefense,500|MinDefense,142|HitV,520|Dodge,520|MaxLifeV,2200" Describe="七种圣魄全部20级" />
+  <WenZhangShengWuAwakeExtAttribute ID="6" Name="圣物觉醒6阶" Picture="ShenShengWenZHang_23" ShengPoNum="7" ShengPoLevel="20" AwakeningLevel="6" Attributes="MinAttack,1700|MaxAttack,1400|MaxDefense,600|MinDefense,156|HitV,620|Dodge,620|MaxLifeV,2300" Describe="七种圣魄全部20级" />
+  <WenZhangShengWuAwakeExtAttribute ID="7" Name="圣物觉醒7阶" Picture="ShenShengWenZHang_24" ShengPoNum="7" ShengPoLevel="20" AwakeningLevel="7" Attributes="MinAttack,2000|MaxAttack,1600|MaxDefense,700|MinDefense,170|HitV,720|Dodge,720|MaxLifeV,2400" Describe="七种圣魄全部20级" />
+  <WenZhangShengWuAwakeExtAttribute ID="8" Name="圣物觉醒8阶" Picture="ShenShengWenZHang_25" ShengPoNum="7" ShengPoLevel="20" AwakeningLevel="8" Attributes="MinAttack,2300|MaxAttack,1800|MaxDefense,800|MinDefense,184|HitV,820|Dodge,820|MaxLifeV,2500" Describe="七种圣魄全部20级" />
+  <WenZhangShengWuAwakeExtAttribute ID="9" Name="圣物觉醒9阶" Picture="ShenShengWenZHang_26" ShengPoNum="7" ShengPoLevel="20" AwakeningLevel="9" Attributes="MinAttack,2600|MaxAttack,2000|MaxDefense,900|MinDefense,198|HitV,920|Dodge,920|MaxLifeV,2600" Describe="七种圣魄全部20级" />
+  <WenZhangShengWuAwakeExtAttribute ID="10" Name="圣物觉醒10阶" Picture="ShenShengWenZHang_27" ShengPoNum="7" ShengPoLevel="20" AwakeningLevel="10" Attributes="MinAttack,2900|MaxAttack,2200|MaxDefense,1000|MinDefense,212|HitV,1020|Dodge,1020|MaxLifeV,2700" Describe="七种圣魄全部20级" />
+</Config>"

@@ -1,0 +1,6 @@
+TextAsset Base
+	string m_Name = "SpriteBrushes"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <SpriteBrushes ID="1" FactionBrushColor="255,255,255,255" ClanBrushColor="255,96,208,138" SnameBrushColor="255,255,255,255" LifeBrushColor="255,228,6,17" />
+</Config>"

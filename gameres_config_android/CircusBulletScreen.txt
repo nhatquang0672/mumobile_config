@@ -1,0 +1,13 @@
+TextAsset Base
+	string m_Name = "CircusBulletScreen"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <CircusBulletScreen ID="1" GetRedPacket="0" BulletScreenText="Tôi ghen tỵ!" />
+  <CircusBulletScreen ID="2" GetRedPacket="0" BulletScreenText="Còn phong bì lớn của tôi thì sao?" />
+  <CircusBulletScreen ID="3" GetRedPacket="0" BulletScreenText="Không lì xì, có nội tình!" />
+  <CircusBulletScreen ID="4" GetRedPacket="0" BulletScreenText="Tôi sẽ trở lại để rút thêm!" />
+  <CircusBulletScreen ID="5" GetRedPacket="1" BulletScreenText="Nhanh tay thì còn, chậm tay thì hết!" />
+  <CircusBulletScreen ID="6" GetRedPacket="1" BulletScreenText="Rút ra rồi!!!!" />
+  <CircusBulletScreen ID="7" GetRedPacket="1" BulletScreenText="Tuyệt!" />
+  <CircusBulletScreen ID="8" GetRedPacket="1" BulletScreenText="Kỳ tích toàn dân thiên hạ vô địch!" />
+</config>"

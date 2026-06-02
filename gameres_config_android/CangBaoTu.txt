@@ -1,0 +1,14 @@
+TextAsset Base
+	string m_Name = "CangBaoTu"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <CangBaoTu GoodsID="2600000" Name="Bảo Đồ Cánh (Sơ)" PinZhi="3" MinZhuanShengUse="5" MinLevelUse="1" />
+  <CangBaoTu GoodsID="2600001" Name="Bảo Đồ Cánh (Trung)" PinZhi="4" MinZhuanShengUse="7" MinLevelUse="1" />
+  <CangBaoTu GoodsID="2600002" Name="Bảo Đồ Cánh (Cao)" PinZhi="6" MinZhuanShengUse="10" MinLevelUse="1" />
+  <CangBaoTu GoodsID="2600003" Name="Bảo Đồ Vật Tư (Sơ)" PinZhi="3" MinZhuanShengUse="5" MinLevelUse="1" />
+  <CangBaoTu GoodsID="2600004" Name="Bảo Đồ Vật Tư (Trung)" PinZhi="4" MinZhuanShengUse="7" MinLevelUse="1" />
+  <CangBaoTu GoodsID="2600005" Name="Bảo Đồ Vật Tư (Cao)" PinZhi="6" MinZhuanShengUse="10" MinLevelUse="1" />
+  <CangBaoTu GoodsID="2600006" Name="Bảo Đồ T.Bị (Sơ)" PinZhi="3" MinZhuanShengUse="5" MinLevelUse="1" />
+  <CangBaoTu GoodsID="2600007" Name="Bảo Đồ T.Bị (Trung)" PinZhi="4" MinZhuanShengUse="7" MinLevelUse="1" />
+  <CangBaoTu GoodsID="2600008" Name="Bảo Đồ T.Bị (Cao)" PinZhi="6" MinZhuanShengUse="10" MinLevelUse="1" />
+</Config>"

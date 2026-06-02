@@ -1,0 +1,13 @@
+TextAsset Base
+	string m_Name = "DaTianShiFanLi"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="60" FromDate="2022-11-01 00:00:00" ToDate="2022-11-07 23:59:59" AwardStartDate="2022-11-01 00:00:00" AwardEndDate="2022-11-07 23:59:59" />
+  <GiftList Description="Trong event, trang bị vũ khí Đại Thiên Sứ đạt level yêu cầu sẽ nhận quà khủng!">
+    <Award ID="1" DaTianShiLevel="8" GoodsOne="4005,8,1,0,0,0,0|4006,8,1,0,0,0,0|4023,8,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="2" DaTianShiLevel="9" GoodsOne="4005,9,1,0,0,0,0|4006,9,1,0,0,0,0|4023,9,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="3" DaTianShiLevel="10" GoodsOne="4005,10,1,0,0,0,0|4006,10,1,0,0,0,0|4023,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="4" DaTianShiLevel="11" GoodsOne="4005,11,1,0,0,0,0|4006,11,1,0,0,0,0|4023,11,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="5" DaTianShiLevel="12" GoodsOne="4005,12,1,0,0,0,0|4006,12,1,0,0,0,0|4023,12,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+  </GiftList>
+</Config>"

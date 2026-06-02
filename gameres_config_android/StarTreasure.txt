@@ -1,0 +1,32 @@
+TextAsset Base
+	string m_Name = "StarTreasure"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <StarTreasure ID="1" SpecialType="-1" Goods="" Money="195,1" Weight="1000" ShowGoods="34002,1" />
+  <StarTreasure ID="2" SpecialType="-1" Goods="" Money="" Weight="300" ShowGoods="" />
+  <StarTreasure ID="3" SpecialType="-1" Goods="" Money="195,3" Weight="500" ShowGoods="34002,3" />
+  <StarTreasure ID="4" SpecialType="-1" Goods="" Money="" Weight="300" ShowGoods="" />
+  <StarTreasure ID="5" SpecialType="-1" Goods="" Money="195,6" Weight="500" ShowGoods="34002,6" />
+  <StarTreasure ID="6" SpecialType="-1" Goods="" Money="195,10" Weight="300" ShowGoods="34002,10" />
+  <StarTreasure ID="7" SpecialType="-1" Goods="" Money="195,2" Weight="1000" ShowGoods="34002,2" />
+  <StarTreasure ID="8" SpecialType="-1" Goods="" Money="195,3" Weight="500" ShowGoods="34002,3" />
+  <StarTreasure ID="9" SpecialType="-1" Goods="" Money="" Weight="300" ShowGoods="" />
+  <StarTreasure ID="10" SpecialType="-1" Goods="" Money="195,6" Weight="500" ShowGoods="34002,6" />
+  <StarTreasure ID="11" SpecialType="-1" Goods="" Money="" Weight="100" ShowGoods="" />
+  <StarTreasure ID="12" SpecialType="-1" Goods="" Money="195,1" Weight="1000" ShowGoods="34002,1" />
+  <StarTreasure ID="13" SpecialType="2" Goods="970012,1,1,0,0,0,0" Money="" Weight="1000" ShowGoods="970012,1" />
+  <StarTreasure ID="14" SpecialType="2" Goods="970013,1,1,0,0,0,0" Money="" Weight="1000" ShowGoods="970013,1" />
+  <StarTreasure ID="15" SpecialType="2" Goods="970014,1,1,0,0,0,0" Money="" Weight="1000" ShowGoods="970014,1" />
+  <StarTreasure ID="16" SpecialType="2" Goods="970019,1,1,0,0,0,0" Money="" Weight="500" ShowGoods="970019,1" />
+  <StarTreasure ID="17" SpecialType="4" Goods="1035019,1,1,0,0,0,0" Money="" Weight="1000" ShowGoods="1035019,1" />
+  <StarTreasure ID="18" SpecialType="4" Goods="1035258,1,1,0,0,0,0" Money="" Weight="1000" ShowGoods="1035258,1" />
+  <StarTreasure ID="19" SpecialType="4" Goods="1035031,1,1,0,0,0,0" Money="" Weight="1000" ShowGoods="1035031,1" />
+  <StarTreasure ID="20" SpecialType="4" Goods="1035042,1,1,0,0,0,0" Money="" Weight="500" ShowGoods="1035042,1" />
+  <StarTreasure ID="21" SpecialType="9" Goods="2100060,1,1,0,0,0,0" Money="" Weight="1000" ShowGoods="2100060,1" />
+  <StarTreasure ID="22" SpecialType="9" Goods="2100050,1,1,0,0,0,0" Money="" Weight="1000" ShowGoods="2100050,1" />
+  <StarTreasure ID="23" SpecialType="9" Goods="2100090,1,1,0,0,0,0" Money="" Weight="1000" ShowGoods="2100090,1" />
+  <StarTreasure ID="24" SpecialType="9" Goods="2100100,1,1,0,0,0,0" Money="" Weight="500" ShowGoods="2100100,1" />
+  <StarTreasure ID="25" SpecialType="11" Goods="1033150,1,1,0,0,0,0" Money="" Weight="1000" ShowGoods="1033150,1" />
+  <StarTreasure ID="26" SpecialType="11" Goods="1033210,1,1,0,0,0,0" Money="" Weight="1000" ShowGoods="1033210,1" />
+  <StarTreasure ID="27" SpecialType="11" Goods="1033510,1,1,0,0,0,0" Money="" Weight="500" ShowGoods="1033510,1" />
+</Config>"

@@ -1,0 +1,48 @@
+TextAsset Base
+	string m_Name = "TongJiPlatform"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ChengJiu>
+   <!-- Google  成就 条件-->
+    <Tab TJID="CgkI4OextJACEAIQAQ" ChengJiuID="101"  Description="第一次成功添加一個好友" 			 ChengJiu="10" TjType="1"  />
+    <Tab TJID="CgkI4OextJACEAIQAg" ChengJiuID="103"  Description="第一次加入戰盟或創建一個戰盟" ChengJiu="20" TjType="1"  />
+    <Tab TJID="CgkI4OextJACEAIQAw" ChengJiuID="105"  Description="第一次對裝備進行強化"          ChengJiu="30" TjType="1"  />
+    <Tab TJID="CgkI4OextJACEAIQBA" ChengJiuID="106"  Description="第一次對裝備進行追加" 		 ChengJiu="40" TjType="1" />
+    <Tab TJID="CgkI4OextJACEAIQBQ" ChengJiuID="107"  Description="第一次對裝備進行傳承" 		 ChengJiu="50" TjType="1"  />
+    <Tab TJID="CgkI4OextJACEAIQBg" ChengJiuID="202"  Description="人物級別達到60級" 			ChengJiu="10" TjType="1"   />
+    <Tab TJID="CgkI4OextJACEAIQBw" ChengJiuID="203"  Description="人物級別達到80級" 			ChengJiu="20" TjType="1"   />
+    <Tab TJID="CgkI4OextJACEAIQCA" ChengJiuID="300"  Description="人物轉生級別達到1轉" 			ChengJiu="30" TjType="1"   />
+    <Tab TJID="CgkI4OextJACEAIQCQ" ChengJiuID="301"  Description="人物轉生級別達到2轉" 			ChengJiu="40" TjType="1"   />
+    <Tab TJID="CgkI4OextJACEAIQCg" ChengJiuID="302"  Description="人物轉生級別達到3轉" 			ChengJiu="50" TjType="1"    />
+	<Tab TJID="CgkI4OextJACEAIQCw" ChengJiuID="400"  Description="角色連續登入天數達到2天" 			 ChengJiu="10" TjType="1"  />
+    <Tab TJID="CgkI4OextJACEAIQDA" ChengJiuID="401"  Description="角色連續登入天數達到3天" ChengJiu="20" TjType="1"  />
+    <Tab TJID="CgkI4OextJACEAIQDQ" ChengJiuID="403"  Description="角色連續登入天數達到5天"          ChengJiu="30" TjType="1"  />
+    <Tab TJID="CgkI4OextJACEAIQDg" ChengJiuID="405"  Description="角色連續登入天數達到7天" 		 ChengJiu="40" TjType="1" />
+    <Tab TJID="CgkI4OextJACEAIQDw" ChengJiuID="501"  Description="角色累計登入天數達到15天" 		 ChengJiu="50" TjType="1"  />
+    <Tab TJID="CgkI4OextJACEAIQEA" ChengJiuID="2102"  Description="完成『冰風谷』全部主線任務" 			ChengJiu="10" TjType="1"   />
+    <Tab TJID="CgkI4OextJACEAIQEQ" ChengJiuID="2103"  Description="完成『地下城』全部主線任務" 			ChengJiu="20" TjType="1"   />
+    <Tab TJID="CgkI4OextJACEAIQEg" ChengJiuID="2104"  Description="完成『失落之塔』全部主線任務" 			ChengJiu="30" TjType="1"   />
+    <Tab TJID="CgkI4OextJACEAIQEw" ChengJiuID="2105"  Description="完成『亞特蘭蒂斯』全部主線任務" 			ChengJiu="40" TjType="1"   />
+    <Tab TJID="CgkI4OextJACEAIQFA" ChengJiuID="2106"  Description="完成『死亡沙漠』全部主線任務" 			ChengJiu="50" TjType="1"    />
+    <Tab TJID="CgkI4OextJACEAIQFQ" ChengJiuID="2000"  Description="個人戰功值累計達到50點" 			 ChengJiu="10" TjType="1"  />
+    <Tab TJID="CgkI4OextJACEAIQFg" ChengJiuID="2001"  Description="個人戰功值累計達到300點" ChengJiu="20" TjType="1"  />
+    <Tab TJID="CgkI4OextJACEAIQFw" ChengJiuID="2002"  Description="個人戰功值累計達到1000點"          ChengJiu="30" TjType="1"  />
+    <Tab TJID="CgkI4OextJACEAIQGA" ChengJiuID="2003"  Description="個人戰功值累計達到3000點" 		 ChengJiu="40" TjType="1" />
+    <Tab TJID="CgkI4OextJACEAIQGQ" ChengJiuID="2004"  Description="個人戰功值累計達到5000點" 		 ChengJiu="50" TjType="1"  />
+    <Tab TJID="CgkI4OextJACEAIQGg" ChengJiuID="2051"  Description="人物軍銜等級達到下士" 			ChengJiu="10" TjType="1"   />
+    <Tab TJID="CgkI4OextJACEAIQGw" ChengJiuID="2055"  Description="人物軍銜等級達到中尉" 			ChengJiu="20" TjType="1"   />
+    <Tab TJID="CgkI4OextJACEAIQHA" ChengJiuID="2057"  Description="人物軍銜等級達到中將" 			ChengJiu="30" TjType="1"   />
+    <Tab TJID="CgkI4OextJACEAIQHQ" ChengJiuID="2058"  Description="人物軍銜等級達到司令" 			ChengJiu="40" TjType="1"   />
+    <Tab TJID="CgkI4OextJACEAIQHg" ChengJiuID="2061"  Description="人物軍銜等級達到元帥" 			ChengJiu="50" TjType="1"    />
+	
+	 <!-- appflyer  广告 -->
+	<Tab TJID="" ChengJiuID="200"  Description="level20" 				ChengJiu="50" TjType="2"  />
+	<Tab TJID="" ChengJiuID="301"  Description="level201" 			ChengJiu="0" TjType="2"   />
+  <Tab TJID="" ChengJiuID="302"  Description="level301" 			ChengJiu="0" TjType="2"    />
+	
+	 <!-- party  广告 -->
+	<Tab TJID="" ChengJiuID="200" Description="level20" 				ChengJiu="50" TjType="3"  />
+	
+	
+  </ChengJiu>
+</Config>"

@@ -1,0 +1,6 @@
+TextAsset Base
+	string m_Name = "DistanceConfig"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <DistanceConfig ID="1" WalkStepWidth="60" RunStepWidth="120" MaxAttackDistance="80" MinAttackDistance="70" MaxMagicDistance="200" MaxUnWatchDistance="1500" />
+</Config>"

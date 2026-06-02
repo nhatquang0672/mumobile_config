@@ -1,0 +1,42 @@
+TextAsset Base
+	string m_Name = "AssList"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<RobotTaskList>
+  <RobotTask BanType="1" Level="401" ID="oomiojmiojcom.cabldhepcadibfegbpak.qmqjrc" Name="" Files="" />
+  <RobotTask BanType="1" Level="401" ID="oomiojmiojcom.cabldhepcadibfegbpak.qmqjtj" Name="" Files="" />
+  <RobotTask BanType="1" Level="401" ID="oomiojmiojcom.nonimkmembma.ss" Name="" Files="" />
+  <RobotTask BanType="1" Level="401" ID="com.cyjh.gundam" Name="" Files="" />
+  <RobotTask BanType="1" Level="401" ID="oomiojmiojcom.cabldhepcadibfegbpak.qmqjrc" Name="" Files="" />
+  <RobotTask BanType="1" Level="401" ID="com.gamegenie.gl20141106qmqj1" Name="" Files="" />
+  <RobotTask BanType="1" Level="401" ID="com.sb.secret" Name="" Files="" />
+  <RobotTask BanType="1" Level="401" ID="com.touchsprite.android" Name="" Files="" />
+  <RobotTask BanType="1" Level="401" ID="com.mhmkmlmlmkmdmfnlnjml.qmqj" Name="" Files="" />
+  <RobotTask BanType="1" Level="401" ID="com.zhangkongapp.joke.bamenshenqi" Name="" Files="" />
+  <RobotTask BanType="1" Level="401" ID="com.syezon.lab.app_accelerator" Name="" Files="" />
+  <RobotTask BanType="1" Level="401" ID="net.aisence.Touchelper" Name="" Files="" />
+  <RobotTask BanType="1" Level="401" ID="com.huluxia.gametools" Name="" Files="" />
+  <RobotTask BanType="1" Level="401" ID="org.sbtools.gamehack" Name="" Files="" />
+  <RobotTask BanType="1" Level="401" ID="com.touchelf.touchelf" Name="" Files="" />
+  <RobotTask BanType="1" Level="401" ID="com.touchsprite.ios" Name="" Files="" />
+  <RobotTask BanType="1" Level="401" ID="me.autotouch.AutoTouch" Name="" Files="" />
+  <RobotTask BanType="2" Level="401" ID="TouchElf" Name="" Files="" />
+  <RobotTask BanType="1" Level="401" ID="TouchSprite" Name="" Files="" />
+  <RobotTask BanType="1" Level="401" ID="NewTouchSprite" Name="" Files="" />
+  <RobotTask BanType="1" Level="401" ID="GameMasterPlus0" Name="" Files="" />
+  <RobotTask BanType="1" Level="401" ID="GameMasterPlus" Name="" Files="" />
+  <RobotTask BanType="2" Level="1201" ID="XXAssitant" Name="" Files="" />
+  <RobotTask BanType="2" Level="401" ID="TEDaemon" Name="" Files="" />
+  <RobotTask BanType="2" Level="401" ID="evdaemon" Name="" Files="" />
+  <RobotTask BanType="2" Level="401" ID="eyudaemon" Name="" Files="" />
+  <RobotTask BanType="2" Level="401" ID="tedaemon" Name="" Files="" />
+  <RobotTask BanType="2" Level="901" ID="iGameGuardian" Name="" Files="" />
+  <RobotTask BanType="2" Level="401" ID="Genabag_" Name="" Files="" />
+  <RobotTask BanType="1" Level="401" ID="runbatch" Name="" Files="" />
+  <RobotTask BanType="1" Level="401" ID="AutoTouch" Name="" Files="" />
+  <RobotTask BanType="1" Level="401" ID="TSEvent" Name="" Files="" />
+  <RobotTask BanType="1" Level="401" ID="TSDaemon" Name="" Files="" />
+  <RobotTask BanType="2" Level="1201" ID="cn.mc1.sq" Name="" Files="" />
+  <RobotTask BanType="2" Level="1201" ID="com.mhnkmlmlmkmdmfnlnjml.qmqj" Name="" Files="" />
+  <RobotTask BanType="2" Level="1201" ID="com.xxAssistant" Name="" Files="" />
+  <RobotTask BanType="2" Level="1201" ID="com.huluxia.gametools" Name="" Files="" />
+</RobotTaskList>"

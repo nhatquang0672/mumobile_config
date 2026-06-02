@@ -1,0 +1,11 @@
+TextAsset Base
+	string m_Name = "ZuoQiShengYinIntro"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Ấn Thú Cưỡi có {17e43e}3 phẩm chất{dac7ae}: Tím, lam, lục" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, {17e43e}Phẩm chất thánh ấn khác nhau{dac7ae}, {17e43e}dòng thuộc tính hoàn mỹ{dac7ae} sẽ khác nhau." Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, Thánh vật tím có thể {17e43e}tăng cấp{dac7ae} để có thêm {17e43e}thuộc tính hoàn mỹ" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, Thuộc tính hoàn mỹ sẽ {17e43e}ngẫu nhiên, {dac7ae}có thể thông qua các cách thức khác để đổi thuộc tính hoàn mỹ{17e43e}" Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5, Thánh ấn có thể thông qua {17e43e}nuốt{dac7ae} thánh ấn khác để tăng cấp" Bold="0" />
+</Config>"

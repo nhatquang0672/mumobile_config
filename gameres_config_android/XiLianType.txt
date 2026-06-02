@@ -1,0 +1,10 @@
+TextAsset Base
+	string m_Name = "XiLianType"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <XiLian ID="1" Color="Trắng" ShuXingNum="4" Text="Không hoàn hảo" Multiplying="0" />
+  <XiLian ID="2" Color="Lục" ShuXingNum="4" Text="Hoàn Hảo 1-2 dòng" Multiplying="3" />
+  <XiLian ID="3" Color="Lam" ShuXingNum="4" Text="Hoàn Hảo 3-4 dòng" Multiplying="4" />
+  <XiLian ID="4" Color="Tím" ShuXingNum="4" Text="Hoàn Hảo 5-6 dòng" Multiplying="5" />
+  <XiLian ID="5" Color="Cam" ShuXingNum="4" Text="Hoàn Hảo 7 dòng trở lên" Multiplying="6" />
+</Config>"

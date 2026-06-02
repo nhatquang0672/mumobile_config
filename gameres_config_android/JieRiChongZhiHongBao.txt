@@ -1,0 +1,28 @@
+TextAsset Base
+	string m_Name = "JieRiChongZhiHongBao"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="73" FromDate="2022-11-01 00:00:00" ToDate="2022-11-07 23:59:59" AwardStartDate="2022-11-01 00:00:00" AwardEndDate="2022-11-07 23:59:59" />
+  <GiftList Description="Trong thời gian sự kiện, toàn server nạp đạt mức quy định, sẽ phát lì xì KCK cho toàn server.">
+    <RedPacketRecharge ID="1" PlatformID="app" RechargeDifference="750000" RedPacketSize="200000" Interval="20,50" DurationTime="28800" />
+    <RedPacketRecharge ID="2" PlatformID="app" RechargeDifference="750000" RedPacketSize="200000" Interval="20,50" DurationTime="28800" />
+    <RedPacketRecharge ID="3" PlatformID="app" RechargeDifference="750000" RedPacketSize="200000" Interval="20,50" DurationTime="28800" />
+    <RedPacketRecharge ID="4" PlatformID="app" RechargeDifference="750000" RedPacketSize="200000" Interval="20,50" DurationTime="28800" />
+    <RedPacketRecharge ID="5" PlatformID="app" RechargeDifference="750000" RedPacketSize="200000" Interval="20,50" DurationTime="28800" />
+    <RedPacketRecharge ID="6" PlatformID="app" RechargeDifference="750000" RedPacketSize="200000" Interval="20,50" DurationTime="28800" />
+    <RedPacketRecharge ID="7" PlatformID="app" RechargeDifference="750000" RedPacketSize="200000" Interval="20,50" DurationTime="28800" />
+    <RedPacketRecharge ID="8" PlatformID="app" RechargeDifference="750000" RedPacketSize="200000" Interval="20,50" DurationTime="28800" />
+    <RedPacketRecharge ID="9" PlatformID="app" RechargeDifference="750000" RedPacketSize="200000" Interval="20,50" DurationTime="28800" />
+    <RedPacketRecharge ID="10" PlatformID="app" RechargeDifference="750000" RedPacketSize="200000" Interval="20,50" DurationTime="28800" />
+    <RedPacketRecharge ID="11" PlatformID="app" RechargeDifference="750000" RedPacketSize="200000" Interval="20,50" DurationTime="28800" />
+    <RedPacketRecharge ID="12" PlatformID="app" RechargeDifference="750000" RedPacketSize="200000" Interval="20,50" DurationTime="28800" />
+    <RedPacketRecharge ID="13" PlatformID="app" RechargeDifference="750000" RedPacketSize="200000" Interval="20,50" DurationTime="28800" />
+    <RedPacketRecharge ID="14" PlatformID="app" RechargeDifference="750000" RedPacketSize="200000" Interval="20,50" DurationTime="28800" />
+    <RedPacketRecharge ID="15" PlatformID="app" RechargeDifference="750000" RedPacketSize="200000" Interval="20,50" DurationTime="28800" />
+    <RedPacketRecharge ID="16" PlatformID="app" RechargeDifference="750000" RedPacketSize="200000" Interval="20,50" DurationTime="28800" />
+    <RedPacketRecharge ID="17" PlatformID="app" RechargeDifference="750000" RedPacketSize="200000" Interval="20,50" DurationTime="28800" />
+    <RedPacketRecharge ID="18" PlatformID="app" RechargeDifference="750000" RedPacketSize="200000" Interval="20,50" DurationTime="28800" />
+    <RedPacketRecharge ID="19" PlatformID="app" RechargeDifference="750000" RedPacketSize="200000" Interval="20,50" DurationTime="28800" />
+    <RedPacketRecharge ID="20" PlatformID="app" RechargeDifference="750000" RedPacketSize="200000" Interval="20,50" DurationTime="28800" />
+  </GiftList>
+</Config>"

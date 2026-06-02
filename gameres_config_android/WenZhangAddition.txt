@@ -1,0 +1,15 @@
+TextAsset Base
+	string m_Name = "WenZhangAddition"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <WenZhangAddition ID="1" WenZhangNum="6" WenZhangLevel="10" Attributes="DeSavagePercent,0.1|DeColdPercent,0.1|RebornAttack,1000" />
+  <WenZhangAddition ID="2" WenZhangNum="6" WenZhangLevel="20" Attributes="DeSavagePercent,0.2|DeColdPercent,0.2|DeRuthlessPercent,0.2|RebornAttack,2000" />
+  <WenZhangAddition ID="3" WenZhangNum="6" WenZhangLevel="30" Attributes="DeSavagePercent,0.3|DeColdPercent,0.3|DeRuthlessPercent,0.3|LifeStealPercent,0.3|RebornAttack,3000" />
+  <WenZhangAddition ID="4" WenZhangNum="6" WenZhangLevel="40" Attributes="DeSavagePercent,0.4|DeColdPercent,0.4|DeRuthlessPercent,0.4|LifeStealPercent,0.4|RebornAttack,4000" />
+  <WenZhangAddition ID="5" WenZhangNum="6" WenZhangLevel="50" Attributes="DeSavagePercent,0.5|DeColdPercent,0.5|DeRuthlessPercent,0.5|LifeStealPercent,0.5|RebornAttack,5000" />
+  <WenZhangAddition ID="6" WenZhangNum="6" WenZhangLevel="60" Attributes="DeSavagePercent,0.6|DeColdPercent,0.6|DeRuthlessPercent,0.6|LifeStealPercent,0.6|RebornAttack,6000" />
+  <WenZhangAddition ID="7" WenZhangNum="6" WenZhangLevel="70" Attributes="DeSavagePercent,0.7|DeColdPercent,0.7|DeRuthlessPercent,0.7|LifeStealPercent,0.7|RebornAttack,7000" />
+  <WenZhangAddition ID="8" WenZhangNum="6" WenZhangLevel="80" Attributes="DeSavagePercent,0.8|DeColdPercent,0.8|DeRuthlessPercent,0.8|LifeStealPercent,0.8|RebornAttack,8000" />
+  <WenZhangAddition ID="9" WenZhangNum="6" WenZhangLevel="90" Attributes="DeSavagePercent,0.9|DeColdPercent,0.9|DeRuthlessPercent,0.9|LifeStealPercent,0.9|RebornAttack,9000" />
+  <WenZhangAddition ID="10" WenZhangNum="6" WenZhangLevel="100" Attributes="DeSavagePercent,1|DeColdPercent,1|DeRuthlessPercent,1|LifeStealPercent,1|RebornAttack,10000" />
+</Config>"

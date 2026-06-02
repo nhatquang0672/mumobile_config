@@ -1,0 +1,37 @@
+TextAsset Base
+	string m_Name = "JinYanFuBen"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <JinYanFuBen>
+    <FuBen ID="5000" MapCode="5000" Name="Phó Bản EXP" MonsterID="500000,500001|500002,500003|500004,500005" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5001" MapCode="5001" Name="Phó Bản EXP" MonsterID="500100,500101|500102,500103|500104,500105" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5002" MapCode="5002" Name="Phó Bản EXP" MonsterID="500200,500201|500202,500203|500204,500205" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5003" MapCode="5003" Name="Phó Bản EXP" MonsterID="500300,500301|500302,500303|500304,500305" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5004" MapCode="5004" Name="Phó Bản EXP" MonsterID="500400,500401|500402,500403|500404,500405" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5005" MapCode="5005" Name="Phó Bản EXP" MonsterID="500500,500501|500502,500503|500504,500505" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5006" MapCode="5006" Name="Phó Bản EXP" MonsterID="500600,500601|500602,500603|500604,500605" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5007" MapCode="5007" Name="Phó Bản EXP" MonsterID="500700,500701|500702,500703|500704,500705" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5008" MapCode="5008" Name="Phó Bản EXP" MonsterID="500800,500801|500802,500803|500804,500805" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5009" MapCode="5009" Name="Phó Bản EXP" MonsterID="500900,500901|500902,500903|500904,500905" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5010" MapCode="5010" Name="Phó Bản EXP" MonsterID="501000,501001|501002,501003|501004,501005" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5011" MapCode="5011" Name="Phó Bản EXP" MonsterID="501100,501101|501102,501103|501104,501105" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5012" MapCode="5012" Name="Phó Bản EXP" MonsterID="501200,501201|501202,501203|501204,501205" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5013" MapCode="5013" Name="Phó Bản EXP" MonsterID="501300,501301|501302,501303|501304,501305" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5014" MapCode="5014" Name="Phó Bản EXP" MonsterID="501400,501401|501402,501403|501404,501405" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5015" MapCode="5015" Name="Phó Bản EXP" MonsterID="501500,501501|501502,501503|501504,501505" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5016" MapCode="5016" Name="Phó Bản EXP" MonsterID="501600,501601|501602,501603|501604,501605" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5017" MapCode="5017" Name="Phó Bản EXP" MonsterID="501700,501701|501702,501703|501704,501705" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5018" MapCode="5018" Name="Phó Bản EXP" MonsterID="501800,501801|501802,501803|501804,501805" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5019" MapCode="5019" Name="Phó Bản EXP" MonsterID="501900,501901|501902,501903|501904,501905" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5020" MapCode="5020" Name="Phó Bản EXP" MonsterID="502000,502001|502002,502003|502004,502005" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5021" MapCode="5021" Name="Phó Bản EXP" MonsterID="502100,502101|502102,502103|502104,502105" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5022" MapCode="5022" Name="Phó Bản EXP" MonsterID="502200,502201|502202,502203|502204,502205" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5023" MapCode="5023" Name="Phó Bản EXP" MonsterID="502300,502301|502302,502303|502304,502305" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5024" MapCode="5024" Name="Phó Bản EXP" MonsterID="502400,502401|502402,502403|502404,502405" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5025" MapCode="5025" Name="Phó Bản EXP" MonsterID="502500,502501|502502,502503|502504,502505" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5026" MapCode="5026" Name="Phó Bản EXP" MonsterID="502600,502601|502602,502603|502604,502605" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5027" MapCode="5027" Name="Phó Bản EXP" MonsterID="502700,502701|502702,502703|502704,502705" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5028" MapCode="5028" Name="Phó Bản EXP" MonsterID="502800,502801|502802,502803|502804,502805" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+    <FuBen ID="5029" MapCode="5029" Name="Phó Bản EXP" MonsterID="502900,502901|502902,502903|502904,502905" MonsterNumber="10,10|10,10|10,10" MonsterPos="2545,2951,500" MonsterSum="60" SuccessConditions="100|100|100" />
+  </JinYanFuBen>
+</Config>"

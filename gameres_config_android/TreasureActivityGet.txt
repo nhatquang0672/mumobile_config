@@ -1,0 +1,9 @@
+TextAsset Base
+	string m_Name = "TreasureActivityGet"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <TreasureActivityGet ID="1" ZhiGouID="50005" ZhiGouName="Vé Tranh Mua" />
+  <TreasureActivityGet ID="2" ZhiGouID="50006" ZhiGouName="Vé Tranh Mua" />
+  <TreasureActivityGet ID="3" ZhiGouID="50007" ZhiGouName="Vé Tranh Mua" />
+  <TreasureActivityGet ID="4" ZhiGouID="50008" ZhiGouName="Vé Tranh Mua" />
+</Config>"

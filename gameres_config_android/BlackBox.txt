@@ -1,0 +1,8 @@
+TextAsset Base
+	string m_Name = "BlackBox"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <BlackBox ID="1" TotalTimes="0" PoolType="1" />
+  <BlackBox ID="2" TotalTimes="20" PoolType="2" />
+  <BlackBox ID="3" TotalTimes="40" PoolType="3" />
+</Config>"

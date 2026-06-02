@@ -1,0 +1,10 @@
+TextAsset Base
+	string m_Name = "XingBeiSingleReward"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <XingBeiSingleReward ID="1" RankingHigh="1" RankingLow="1" RewardGoods="64026,5,1,0,0,0,0|63478,5,1,0,0,0,0" />
+  <XingBeiSingleReward ID="2" RankingHigh="2" RankingLow="2" RewardGoods="64026,4,1,0,0,0,0|63478,3,1,0,0,0,0" />
+  <XingBeiSingleReward ID="3" RankingHigh="3" RankingLow="3" RewardGoods="64026,3,1,0,0,0,0|63478,2,1,0,0,0,0" />
+  <XingBeiSingleReward ID="4" RankingHigh="4" RankingLow="10" RewardGoods="64026,2,1,0,0,0,0|63478,1,1,0,0,0,0" />
+  <XingBeiSingleReward ID="5" RankingHigh="10" RankingLow="-1" RewardGoods="64026,1,1,0,0,0,0" />
+</config>"

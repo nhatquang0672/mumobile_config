@@ -1,0 +1,12 @@
+TextAsset Base
+	string m_Name = "Build"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <Build ID="1" Name="Chiến Thần Tháp" Icon="" Pic="1,Build_ZhanShenTa_1|5,Build_ZhanShenTa_2|10,Build_ZhanShenTa_3|15,Build_ZhanShenTa_4" MaxLevel="20" Award="-1" FreeRandomTask="-1" RandomTask="-1" />
+  <Build ID="2" Name="Tháp Ma Pháp" Icon="" Pic="1,Build_MoFaZhiTa_1|5,Build_MoFaZhiTa_2|10,Build_MoFaZhiTa_3|15,Build_MoFaZhiTa_4" MaxLevel="20" Award="-1" FreeRandomTask="-1" RandomTask="-1" />
+  <Build ID="3" Name="Đài Chiêm Tinh" Icon="" Pic="1,Build_ZhanXingTai_1|5,Build_ZhanXingTai_2|10,Build_ZhanXingTai_3|15,Build_ZhanXingTai_4" MaxLevel="20" Award="-1" FreeRandomTask="-1" RandomTask="-1" />
+  <Build ID="4" Name="Cổng Thí Luyện" Icon="" Pic="1,Build_ShiLianZhiMen_1|5,Build_ShiLianZhiMen_2|10,Build_ShiLianZhiMen_3|15,Build_ShiLianZhiMen_4" MaxLevel="20" Award="-1" FreeRandomTask="-1" RandomTask="-1" />
+  <Build ID="5" Name="Chiến Dịch Thế Giới" Icon="" Pic="1,Build_WordBattle_1" MaxLevel="1" Award="-1" FreeRandomTask="-1" RandomTask="-1" />
+  <Build ID="6" Name="Thần Tích" Icon="" Pic="1,Build_ShenJiBuild_1" MaxLevel="1" Award="-1" FreeRandomTask="-1" RandomTask="-1" />
+  <Build ID="7" Name="Phòng Giam" Icon="" Pic="1,Build_LaoFangTask_1" MaxLevel="1" Award="-1" FreeRandomTask="-1" RandomTask="-1" />
+</config>"

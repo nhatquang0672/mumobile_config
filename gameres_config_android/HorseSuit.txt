@@ -1,0 +1,32 @@
+TextAsset Base
+	string m_Name = "HorseSuit"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HorseSuit ID="1" Name="组合1" HorseID="990001,990005,990004,990003" HorseSuitProps="MaxLifePercent,0.41|AddAttackInjurePercent,0.16|DoubleAttack,0.07" />
+  <HorseSuit ID="2" Name="组合2" HorseID="990000,990002,990001,990003" HorseSuitProps="AddAttackInjurePercent,0.14|ElementInjurePercent,0.05|DeDoubleAttack,0.05" />
+  <HorseSuit ID="3" Name="组合3" HorseID="990000,990002,990001,990004" HorseSuitProps="MaxLifePercent,0.27|ElementInjurePercent,0.05|DeDoubleAttack,0.05" />
+  <HorseSuit ID="4" Name="组合4" HorseID="990000,990002,990001,990005" HorseSuitProps="MaxLifePercent,0.27|AddAttackInjurePercent,0.11|DoubleAttack,0.05" />
+  <HorseSuit ID="5" Name="组合5" HorseID="990002,990001,990005,990004" HorseSuitProps="MaxLifePercent,0.34|AddAttackInjurePercent,0.14|ElementInjurePercent,0.07" />
+  <HorseSuit ID="6" Name="组合6" HorseID="990002,990001,990005,990003" HorseSuitProps="MaxLifePercent,0.34|AddAttackInjurePercent,0.14|ElementAttackInjurePercent,0.07" />
+  <HorseSuit ID="7" Name="组合7" HorseID="990002,990001,990004,990003" HorseSuitProps="MaxLifePercent,0.34|AddAttackInjurePercent,0.14|DoubleAttack,0.06" />
+  <HorseSuit ID="8" Name="组合8" HorseID="990003,990004,990005,990008" HorseSuitProps="MaxLifePercent,0.45|AddAttackInjurePercent,0.18|DoubleAttack,0.09" />
+  <HorseSuit ID="9" Name="组合9" HorseID="990017,990001,990002,990000" HorseSuitProps="MaxLifePercent,0.20|AddAttackInjurePercent,0.08|DoubleAttack,0.03" />
+  <HorseSuit ID="10" Name="组合10" HorseID="990003,990004,990005,70000001" HorseSuitProps="MaxLifePercent,0.45|AddAttackInjurePercent,0.18|DoubleAttack,0.09" />
+  <HorseSuit ID="11" Name="组合11" HorseID="990004,990005,990021,70000001" HorseSuitProps="MaxLifePercent,0.40|RebornAbsorbPercent,0.14|RebornPenetratePercent,0.06" />
+  <HorseSuit ID="12" Name="组合12" HorseID="990005,990021,70000001,70000002" HorseSuitProps="MaxLifePercent,0.45|RebornAbsorbPercent,0.14|RebornPenetratePercent,0.06" />
+  <HorseSuit ID="13" Name="组合13" HorseID="990003,990004,990005,70000003" HorseSuitProps="MaxLifePercent,0.45|AddAttackInjurePercent,0.18|DoubleAttack,0.09" />
+  <HorseSuit ID="14" Name="组合14" HorseID="70000001,70000002,70000003,990020" HorseSuitProps="MaxLifePercent,0.45|RebornAbsorbPercent,0.18|RebornPenetratePercent,0.09" />
+  <HorseSuit ID="15" Name="组合15" HorseID="990005,990021,70000001,990020" HorseSuitProps="MaxLifePercent,0.40|RebornAbsorbPercent,0.14|RebornPenetratePercent,0.06" />
+  <HorseSuit ID="16" Name="组合16" HorseID="990003,990004,990005,990020" HorseSuitProps="MaxLifePercent,0.35|RebornDoubleAttackInjure,0.12|RebornPenetratePercent,0.05" />
+  <HorseSuit ID="17" Name="组合17" HorseID="70000003,990020,990021,990023" HorseSuitProps="MaxLifePercent,0.50|RebornAbsorbPercent,0.20|RebornPenetratePercent,0.11" />
+  <HorseSuit ID="18" Name="组合18" HorseID="70000002,990020,990021,990023" HorseSuitProps="MaxLifePercent,0.45|RebornAbsorbPercent,0.16|RebornPenetratePercent,0.08" />
+  <HorseSuit ID="19" Name="组合19" HorseID="70000001,990004,990005,990023" HorseSuitProps="MaxLifePercent,0.42|RebornDoubleAttackInjure,0.15|RebornPenetratePercent,0.07" />
+  <HorseSuit ID="20" Name="组合20" HorseID="990003,990004,990005,990023" HorseSuitProps="MaxLifePercent,0.40|RebornDoubleAttackInjure,0.12|RebornDoubleAttackPercent,0.09" />
+  <HorseSuit ID="21" Name="组合21" HorseID="990025,990026,990023,990027" HorseSuitProps="MaxLifePercent,0.6|RebornPenetratePercent,0.2|RebornAbsorbPercent,0.3" />
+  <HorseSuit ID="22" Name="组合22" HorseID="990025,990026,990027,990028" HorseSuitProps="MaxLifePercent,0.6|RebornPenetratePercent,0.25|RebornAbsorbPercent,0.35" />
+  <HorseSuit ID="23" Name="组合23" HorseID="990029,990028,990021,990005" HorseSuitProps="MaxLifePercent,0.6|RebornPenetratePercent,0.25|RebornAbsorbPercent,0.3" />
+  <HorseSuit ID="24" Name="组合24" HorseID="990029,990005,990004,990003" HorseSuitProps="MaxLifePercent,0.55|RebornPenetratePercent,0.2|RebornAbsorbPercent,0.25" />
+  <HorseSuit ID="25" Name="组合25" HorseID="990029,990021,990005,990003" HorseSuitProps="MaxLifePercent,0.58|RebornPenetratePercent,0.25|RebornAbsorbPercent,0.25" />
+  <HorseSuit ID="26" Name="组合26" HorseID="990030,990029,990028,990027" HorseSuitProps="MaxLifePercent,0.60|RebornPenetratePercent,0.25|RebornAbsorbPercent,0.3" />
+  <HorseSuit ID="27" Name="组合27" HorseID="990030,990021,990020,990023" HorseSuitProps="MaxLifePercent,0.58|RebornPenetratePercent,0.3|RebornAbsorbPercent,0.25" />
+</Config>"

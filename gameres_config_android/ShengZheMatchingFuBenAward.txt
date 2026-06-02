@@ -1,0 +1,13 @@
+TextAsset Base
+	string m_Name = "ShengZheMatchingFuBenAward"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ShengZheMatchingFuBenAward ID="1" Score="0,50" Award="2003,1,1,0,0,0,0|2004,1,1,0,0,0,0" />
+  <ShengZheMatchingFuBenAward ID="2" Score="51,100" Award="2003,2,1,0,0,0,0|2004,2,1,0,0,0,0" />
+  <ShengZheMatchingFuBenAward ID="3" Score="101,200" Award="2003,3,1,0,0,0,0|2004,3,1,0,0,0,0" />
+  <ShengZheMatchingFuBenAward ID="4" Score="201,300" Award="2003,4,1,0,0,0,0|2004,4,1,0,0,0,0" />
+  <ShengZheMatchingFuBenAward ID="5" Score="301,500" Award="2003,5,1,0,0,0,0|2004,5,1,0,0,0,0" />
+  <ShengZheMatchingFuBenAward ID="6" Score="501,1000" Award="2003,6,1,0,0,0,0|2004,6,1,0,0,0,0" />
+  <ShengZheMatchingFuBenAward ID="7" Score="1001,2000" Award="2003,7,1,0,0,0,0|2004,7,1,0,0,0,0" />
+  <ShengZheMatchingFuBenAward ID="8" Score="2001,10000" Award="2003,8,1,0,0,0,0|2004,8,1,0,0,0,0" />
+</Config>"

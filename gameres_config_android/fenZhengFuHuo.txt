@@ -1,0 +1,23 @@
+TextAsset Base
+	string m_Name = "fenZhengFuHuo"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <fenZhengFuHuo ID="1" MapCode="99201" PosX="5000" PosY="5000" BirthRadius="800" />
+  <fenZhengFuHuo ID="2" MapCode="99201" PosX="5200" PosY="7500" BirthRadius="400" />
+  <fenZhengFuHuo ID="3" MapCode="99201" PosX="7500" PosY="5000" BirthRadius="400" />
+  <fenZhengFuHuo ID="4" MapCode="99201" PosX="2600" PosY="5000" BirthRadius="400" />
+  <fenZhengFuHuo ID="5" MapCode="99201" PosX="5000" PosY="2600" BirthRadius="400" />
+  <fenZhengFuHuo ID="6" MapCode="99201" PosX="7300" PosY="7900" BirthRadius="100" />
+  <fenZhengFuHuo ID="7" MapCode="99201" PosX="1400" PosY="6900" BirthRadius="100" />
+  <fenZhengFuHuo ID="8" MapCode="99201" PosX="3500" PosY="1500" BirthRadius="100" />
+  <fenZhengFuHuo ID="9" MapCode="99201" PosX="8700" PosY="4900" BirthRadius="100" />
+  <fenZhengFuHuo ID="10" MapCode="99202" PosX="5000" PosY="5000" BirthRadius="800" />
+  <fenZhengFuHuo ID="11" MapCode="99202" PosX="5200" PosY="7500" BirthRadius="400" />
+  <fenZhengFuHuo ID="12" MapCode="99202" PosX="7500" PosY="5000" BirthRadius="400" />
+  <fenZhengFuHuo ID="13" MapCode="99202" PosX="2600" PosY="5000" BirthRadius="400" />
+  <fenZhengFuHuo ID="14" MapCode="99202" PosX="5000" PosY="2600" BirthRadius="400" />
+  <fenZhengFuHuo ID="15" MapCode="99203" PosX="3700" PosY="5600" BirthRadius="400" />
+  <fenZhengFuHuo ID="16" MapCode="99203" PosX="5600" PosY="3700" BirthRadius="400" />
+  <fenZhengFuHuo ID="17" MapCode="99204" PosX="3500" PosY="1600" BirthRadius="400" />
+  <fenZhengFuHuo ID="18" MapCode="99205" PosX="2400" PosY="2400" BirthRadius="800" />
+</Config>"

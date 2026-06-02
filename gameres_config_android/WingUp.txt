@@ -1,0 +1,16 @@
+TextAsset Base
+	string m_Name = "WingUp"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Star Level="2" LuckyOne="109979" LuckyTwo="109996" LuckyTwoRate="1" NeedGoods="2017,1" NeedZuanShi="320" NeedJinBi="20000" />
+  <Star Level="3" LuckyOne="109945" LuckyTwo="109989" LuckyTwoRate="0.8" NeedGoods="2017,2" NeedZuanShi="640" NeedJinBi="40000" />
+  <Star Level="4" LuckyOne="109884" LuckyTwo="109979" LuckyTwoRate="0.5" NeedGoods="2017,3" NeedZuanShi="960" NeedJinBi="60000" />
+  <Star Level="5" LuckyOne="109786" LuckyTwo="109960" LuckyTwoRate="0.3" NeedGoods="2017,4" NeedZuanShi="1280" NeedJinBi="60000" />
+  <Star Level="6" LuckyOne="109705" LuckyTwo="109946" LuckyTwoRate="0.2" NeedGoods="2017,6" NeedZuanShi="1920" NeedJinBi="80000" />
+  <Star Level="7" LuckyOne="109672" LuckyTwo="109936" LuckyTwoRate="0.1" NeedGoods="2017,10" NeedZuanShi="3200" NeedJinBi="80000" />
+  <Star Level="8" LuckyOne="109626" LuckyTwo="109927" LuckyTwoRate="0.1" NeedGoods="2017,15" NeedZuanShi="4800" NeedJinBi="100000" />
+  <Star Level="9" LuckyOne="109551" LuckyTwo="109915" LuckyTwoRate="0.1" NeedGoods="2017,20" NeedZuanShi="6400" NeedJinBi="100000" />
+  <Star Level="10" LuckyOne="109551" LuckyTwo="109915" LuckyTwoRate="0.1" NeedGoods="2017,20" NeedZuanShi="6400" NeedJinBi="100000" />
+  <Star Level="11" LuckyOne="109551" LuckyTwo="109915" LuckyTwoRate="0.1" NeedGoods="2017,20" NeedZuanShi="6400" NeedJinBi="100000" />
+  <Star Level="12" LuckyOne="109551" LuckyTwo="109915" LuckyTwoRate="0.1" NeedGoods="2017,20" NeedZuanShi="6400" NeedJinBi="100000" />
+</Config>"

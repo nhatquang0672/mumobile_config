@@ -1,0 +1,15 @@
+TextAsset Base
+	string m_Name = "RobotTaskList"
+	string m_Script = "<RobotTaskList>
+  <RobotTask ID="oomiojmiojcom.cabldhepcadibfegbpak.qmqjrc"/>
+  <RobotTask ID="oomiojmiojcom.cabldhepcadibfegbpak.qmqjtj"/>
+  <RobotTask ID="oomiojmiojcom.nonimkmembma.ss"/>
+  <RobotTask ID="com.cyjh.gundam"/>
+  <RobotTask ID="oomiojmiojcom.cabldhepcadibfegbpak.qmqjrc"/>
+  <RobotTask ID="com.syezon.lab.app_accelerator"/>
+  <RobotTask ID="net.aisence.Touchelper"/>
+</RobotTaskList>
+
+
+
+"

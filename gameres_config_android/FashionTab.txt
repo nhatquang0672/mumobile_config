@@ -1,0 +1,7 @@
+TextAsset Base
+	string m_Name = "FashionTab"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Fashion ID="1" Name="Cánh" Categoriy="700" />
+  <Fashion ID="2" Name="Danh hiệu" Categoriy="800" />   
+</Config>"

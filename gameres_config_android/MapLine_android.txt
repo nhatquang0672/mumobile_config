@@ -1,0 +1,47 @@
+TextAsset Base
+	string m_Name = "MapLine_android"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <MapLine ID="1" Name="Current" Line="1,50|2,50|3,50|4,50|5,50" MaxNum="500" Type="0" />
+  <MapLine ID="2" Name="Vườn Ảo" Line="1,60|2,60|3,60|4,60|5,60" MaxNum="500" Type="0" />
+  <MapLine ID="3" Name="Acalen Tây" Line="1,70|2,70|3,70|4,70|5,70" MaxNum="500" Type="0" />
+  <MapLine ID="4" Name="Acalen Đông" Line="1,80|2,80|3,80|4,80|5,80" MaxNum="500" Type="0" />
+  <MapLine ID="5" Name="Miếu Tà Ác" Line="1,90|2,90|3,90|4,90|5,90" MaxNum="500" Type="0" />
+  <MapLine ID="6" Name="Mê Quật" Line="1,100|2,100|3,100|4,100|5,100" MaxNum="500" Type="0" />
+  <MapLine ID="7" Name="Di Tích Lãng Quên" Line="1,110|2,110|3,110|4,110|5,110" MaxNum="500" Type="0" />
+  <MapLine ID="8" Name="Hồ Nickelsis" Line="1,120|2,120|3,120|4,120|5,120" MaxNum="500" Type="0" />
+  <MapLine ID="9" Name="Đầm Bóng Tối" Line="1,130|2,130|3,130|4,130|5,130" MaxNum="500" Type="0" />
+  <MapLine ID="100" Name="Lục Địa Mới" Line="1,96000|2,96000|3,96000|4,96000|5,96000" MaxNum="250" Type="1" />
+  <MapLine ID="101" Name="Đảo Ma Long" Line="1,99001" MaxNum="150" Type="1" />
+  <MapLine ID="102" Name="Đảo Tù Thần 1" Line="1,99101" MaxNum="250" Type="1" />
+  <MapLine ID="103" Name="Đảo Tù Thần 2" Line="1,99102" MaxNum="250" Type="1" />
+  <MapLine ID="104" Name="Đảo Tù Thần 3" Line="1,99103" MaxNum="250" Type="1" />
+  <MapLine ID="401" Name="Bản đồ tước vị 1" Line="1,99401" MaxNum="500" Type="1" />
+  <MapLine ID="402" Name="Bản đồ tước vị 2" Line="2,99402" MaxNum="500" Type="1" />
+  <MapLine ID="403" Name="Bản đồ tước vị 3" Line="3,99403" MaxNum="500" Type="1" />
+  <MapLine ID="404" Name="Bản đồ tước vị 4" Line="1,99404" MaxNum="500" Type="1" />
+  <MapLine ID="405" Name="Bản đồ tước vị 5" Line="2,99405" MaxNum="500" Type="1" />
+  <MapLine ID="406" Name="Bản đồ tước vị 6" Line="3,99406" MaxNum="500" Type="1" />
+  <MapLine ID="407" Name="Bản đồ tước vị 7" Line="1,99407" MaxNum="500" Type="1" />
+  <MapLine ID="408" Name="Bản đồ tước vị 8" Line="2,99408" MaxNum="500" Type="1" />
+  <MapLine ID="409" Name="Bản đồ tước vị 9" Line="3,99409" MaxNum="500" Type="1" />
+  <MapLine ID="410" Name="Thiên Tai Giáng Lâm 1" Line="1,99510|2,99510|3,99510|4,99510|5,99510" MaxNum="500" Type="1" />
+  <MapLine ID="411" Name="Thiên Tai Giáng Lâm 2" Line="1,99511|2,99511|3,99511|4,99511|5,99511" MaxNum="500" Type="1" />
+  <MapLine ID="412" Name="Thiên Tai Giáng Lâm 3" Line="1,99512|2,99512|3,99512|4,99512|5,99512" MaxNum="500" Type="1" />
+  <MapLine ID="413" Name="Thiên Tai Giáng Lâm 4" Line="1,99513|2,99513|3,99513|4,99513|5,99513" MaxNum="500" Type="1" />
+  <MapLine ID="414" Name="Thiên Tai Giáng Lâm 5" Line="1,99514|2,99514|3,99514|4,99514|5,99514" MaxNum="500" Type="1" />
+  <MapLine ID="415" Name="Thiên Tai Giáng Lâm 6" Line="1,99515|2,99515|3,99515|4,99515|5,99515" MaxNum="500" Type="1" />
+  <MapLine ID="416" Name="Thiên Tai Giáng Lâm 7" Line="1,99516|2,99516|3,99516|4,99516|5,99516" MaxNum="500" Type="1" />
+  <MapLine ID="417" Name="Thiên Tai Giáng Lâm 8" Line="1,99517|2,99517|3,99517|4,99517|5,99517" MaxNum="500" Type="1" />
+  <MapLine ID="418" Name="Thiên Tai Giáng Lâm 9" Line="1,99518|2,99518|3,99518|4,99518|5,99518" MaxNum="500" Type="1" />
+  <MapLine ID="419" Name="Thiên Tai Giáng Lâm 10" Line="1,99519|2,99519|3,99519|4,99519|5,99519" MaxNum="500" Type="1" />
+  <MapLine ID="420" Name="Map Tước Vị 10" Line="1,99410" MaxNum="500" Type="1" />
+  <MapLine ID="421" Name="Map Tước Vị 11" Line="2,99411" MaxNum="500" Type="1" />
+  <MapLine ID="422" Name="Map Tước Vị 12" Line="3,99412" MaxNum="500" Type="1" />
+  <MapLine ID="423" Name="Map Tước Vị 13" Line="1,99413" MaxNum="500" Type="1" />
+  <MapLine ID="424" Name="Map Tước Vị 14" Line="2,99414" MaxNum="500" Type="1" />
+  <MapLine ID="425" Name="Map Tước Vị 15" Line="3,99415" MaxNum="500" Type="1" />
+  <MapLine ID="426" Name="Map Tước Vị 16" Line="1,99416" MaxNum="500" Type="1" />
+  <MapLine ID="427" Name="Map Tước Vị 17" Line="2,99417" MaxNum="500" Type="1" />
+  <MapLine ID="428" Name="Map Tước Vị 18" Line="3,99418" MaxNum="500" Type="1" />
+</Config>"

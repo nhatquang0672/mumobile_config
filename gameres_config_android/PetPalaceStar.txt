@@ -1,0 +1,10 @@
+TextAsset Base
+	string m_Name = "PetPalaceStar"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <PetPalaceStar PetStar="1" InheritIncrease="0.2" LevelUpProgress="1500" />
+  <PetPalaceStar PetStar="2" InheritIncrease="0.4" LevelUpProgress="1500" />
+  <PetPalaceStar PetStar="3" InheritIncrease="0.6" LevelUpProgress="3000" />
+  <PetPalaceStar PetStar="4" InheritIncrease="0.9" LevelUpProgress="4000" />
+  <PetPalaceStar PetStar="5" InheritIncrease="1.2" LevelUpProgress="5000" />
+</Config>"

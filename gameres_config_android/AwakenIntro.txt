@@ -1,0 +1,14 @@
+TextAsset Base
+	string m_Name = "AwakenIntro"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Giới thiệu giác tỉnh" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1. Tiêu {17e43e}Mảnh Giác Tỉnh{dac7ae}, sẽ kích hoạt Đá Giác Tỉnh tương ứng tại giao diện {17e43e}kích hoạt Đá Giác Tỉnh" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2. Căn cứ theo trang bị khác nhau, Đá Giác Tỉnh chia làm {17e43e}Đá Giác Tỉnh Công{dac7ae} và {17e43e}Đá Giác Tỉnh Phòng" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3. Trang bị tương ứng với Đá Giác Tỉnh Công: {17e43e}Vũ Khí, Dây, Nhẫn Trái, Nhẫn Phải" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4. Trang bị tương ứng với Đá Giác Tỉnh Phòng: {17e43e}Mũ, Giáp, Găng, Giáp Chân, Giày" Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5. Khi Đá Giác Tỉnh trong bộ Đá Giác Tỉnh kích hoạt đạt yêu cầu sẽ kích hoạt được {17e43e}thuộc tính bộ" Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae}6. Tại giao diện khảm Đá Giác Tỉnh có thể chọn ít nhất {17e43e}1{dac7ae} Đá Giác Tỉnh trong bộ thuộc tính để khảm, khi khảm sẽ chọn khảm {17e43e}cả bộ{dac7ae}" Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae}7. Dù có {17e43e}khảm hay không{dac7ae}, {17e43e}thuộc tính cơ bản{dac7ae} của Đá Giác Tỉnh cũng sẽ có hiệu lực, nhưng chỉ có {17e43e}khảm{dac7ae} bộ Đá Giác Tỉnh, {17e43e}thuộc tính bộ{dac7ae} mới có hiệu lực" Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae}8. Số bậc trang bị tương ứng của Đá Giác Tỉnh phải đạt {17e43e}bậc 7{dac7ae} và đạt {17e43e}5{dac7ae} thuộc tính, nếu không tất cả Đá Giác Tỉnh {ff0000}}sẽ không có hiệu lực{dac7ae}, {ff0000}không có{dac7ae} thuộc tính cơ bản, cũng {ff0000}không kích hoạt{dac7ae} bộ trang bị" Bold="0" />
+</Config>"

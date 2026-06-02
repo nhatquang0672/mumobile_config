@@ -1,0 +1,9 @@
+TextAsset Base
+	string m_Name = "AoYunType"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <AoYunType ID="1" Name="比賽項目" />
+  <AoYunType ID="2" Name="奧運競猜" />
+  <AoYunType ID="3" Name="奧運排行" />
+  <AoYunType ID="4" Name="奧運商城" />
+</Config>"

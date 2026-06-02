@@ -1,0 +1,20 @@
+TextAsset Base
+	string m_Name = "ElderTreasureConvert"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ElderTreasureConvert ID="1" Goods="23001,1,1,0,0,0,0" NeedPoint="206,1000" Limit="20" CleanExchange="1" DuiHuanType="14" PointIcon="40031" PointLevel="1" />
+  <ElderTreasureConvert ID="2" Goods="23002,1,1,0,0,0,0" NeedPoint="207,1000" Limit="10" CleanExchange="1" DuiHuanType="15" PointIcon="40032" PointLevel="2" />
+  <ElderTreasureConvert ID="3" Goods="23003,1,1,0,0,0,0" NeedPoint="207,2000" Limit="1" CleanExchange="0" DuiHuanType="15" PointIcon="40032" PointLevel="2" />
+  <ElderTreasureConvert ID="4" Goods="23004,1,1,0,0,0,0" NeedPoint="208,500" Limit="10" CleanExchange="1" DuiHuanType="16" PointIcon="40033" PointLevel="3" />
+  <ElderTreasureConvert ID="5" Goods="23005,1,1,0,0,0,0" NeedPoint="208,1000" Limit="10" CleanExchange="0" DuiHuanType="16" PointIcon="40033" PointLevel="3" />
+  <ElderTreasureConvert ID="6" Goods="23006,1,1,0,0,0,0" NeedPoint="208,2000" Limit="1" CleanExchange="0" DuiHuanType="16" PointIcon="40033" PointLevel="3" />
+  <ElderTreasureConvert ID="7" Goods="23007,1,1,0,0,0,0" NeedPoint="209,500" Limit="10" CleanExchange="1" DuiHuanType="17" PointIcon="40034" PointLevel="4" />
+  <ElderTreasureConvert ID="8" Goods="23008,1,1,0,0,0,0" NeedPoint="209,1000" Limit="10" CleanExchange="0" DuiHuanType="17" PointIcon="40034" PointLevel="4" />
+  <ElderTreasureConvert ID="9" Goods="23009,1,1,0,0,0,0" NeedPoint="209,2000" Limit="1" CleanExchange="0" DuiHuanType="17" PointIcon="40034" PointLevel="4" />
+  <ElderTreasureConvert ID="10" Goods="23010,1,1,0,0,0,0" NeedPoint="210,500" Limit="10" CleanExchange="1" DuiHuanType="18" PointIcon="40035" PointLevel="5" />
+  <ElderTreasureConvert ID="11" Goods="23011,1,1,0,0,0,0" NeedPoint="210,1000" Limit="10" CleanExchange="0" DuiHuanType="18" PointIcon="40035" PointLevel="5" />
+  <ElderTreasureConvert ID="12" Goods="23012,1,1,0,0,0,0" NeedPoint="210,2000" Limit="1" CleanExchange="0" DuiHuanType="18" PointIcon="40035" PointLevel="5" />
+  <ElderTreasureConvert ID="13" Goods="23013,1,1,0,0,0,0" NeedPoint="211,500" Limit="10" CleanExchange="1" DuiHuanType="19" PointIcon="40036" PointLevel="6" />
+  <ElderTreasureConvert ID="14" Goods="23014,1,1,0,0,0,0" NeedPoint="211,1000" Limit="10" CleanExchange="0" DuiHuanType="19" PointIcon="40036" PointLevel="6" />
+  <ElderTreasureConvert ID="15" Goods="23015,1,1,0,0,0,0" NeedPoint="211,2000" Limit="1" CleanExchange="0" DuiHuanType="19" PointIcon="40036" PointLevel="6" />
+</Config>"

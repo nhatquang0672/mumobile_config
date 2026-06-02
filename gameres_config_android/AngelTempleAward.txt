@@ -1,0 +1,16 @@
+TextAsset Base
+	string m_Name = "AngelTempleAward"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Award ID="1" MinPaiMing="1" MaxPaiMing="1" Goods="50053,250,1,0,0,0,0|30151863,200,0,0,0,0,0|30151864,10,1,0,0,0,0" ShengWang="10000" Gold="2000000" />
+  <Award ID="2" MinPaiMing="2" MaxPaiMing="2" Goods="50053,200,1,0,0,0,0|30151863,150,0,0,0,0,0|30151864,9,1,0,0,0,0" ShengWang="6000" Gold="1200000" />
+  <Award ID="3" MinPaiMing="3" MaxPaiMing="3" Goods="50053,175,1,0,0,0,0|30151863,100,0,0,0,0,0|30151864,8,1,0,0,0,0" ShengWang="5000" Gold="1000000" />
+  <Award ID="4" MinPaiMing="4" MaxPaiMing="4" Goods="50053,150,1,0,0,0,0|30151863,80,0,0,0,0,0|30151864,7,1,0,0,0,0" ShengWang="4000" Gold="800000" />
+  <Award ID="5" MinPaiMing="5" MaxPaiMing="5" Goods="50053,125,1,0,0,0,0|30151863,70,0,0,0,0,0|30151864,6,1,0,0,0,0" ShengWang="3000" Gold="600000" />
+  <Award ID="6" MinPaiMing="6" MaxPaiMing="6" Goods="50053,100,1,0,0,0,0|30151863,60,0,0,0,0,0|30151864,5,1,0,0,0,0" ShengWang="2000" Gold="400000" />
+  <Award ID="7" MinPaiMing="7" MaxPaiMing="7" Goods="50053,75,1,0,0,0,0|30151863,50,0,0,0,0,0|30151864,4,1,0,0,0,0" ShengWang="2000" Gold="400000" />
+  <Award ID="8" MinPaiMing="8" MaxPaiMing="8" Goods="50053,50,1,0,0,0,0|30151863,40,0,0,0,0,0|30151864,3,1,0,0,0,0" ShengWang="2000" Gold="400000" />
+  <Award ID="9" MinPaiMing="9" MaxPaiMing="9" Goods="50053,50,1,0,0,0,0|30151863,40,0,0,0,0,0|30151864,2,1,0,0,0,0" ShengWang="2000" Gold="400000" />
+  <Award ID="10" MinPaiMing="10" MaxPaiMing="10" Goods="50053,25,1,0,0,0,0|30151863,40,0,0,0,0,0|30151864,1,1,0,0,0,0" ShengWang="2000" Gold="400000" />
+  <Award ID="11" MinPaiMing="11" MaxPaiMing="100000" Goods="50053,25,1,0,0,0,0|30151863,40,0,0,0,0,0|30151864,1,1,0,0,0,0" ShengWang="400" Gold="80000" />
+</Config>"

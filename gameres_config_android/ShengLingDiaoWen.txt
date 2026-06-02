@@ -1,0 +1,29 @@
+TextAsset Base
+	string m_Name = "ShengLingDiaoWen"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <ShengLingDiaoWen ID="1" Rank="1" Num="1" Name="1阶" MaxQuality="3" linkID="2000" />
+  <ShengLingDiaoWen ID="2" Rank="1" Num="2" Name="1阶" MaxQuality="3" linkID="2000" />
+  <ShengLingDiaoWen ID="3" Rank="1" Num="3" Name="1阶" MaxQuality="2" linkID="2000" />
+  <ShengLingDiaoWen ID="4" Rank="1" Num="4" Name="1阶" MaxQuality="2" linkID="2000" />
+  <ShengLingDiaoWen ID="5" Rank="1" Num="5" Name="1阶" MaxQuality="1" linkID="2000" />
+  <ShengLingDiaoWen ID="6" Rank="1" Num="6" Name="1阶" MaxQuality="1" linkID="2000" />
+  <ShengLingDiaoWen ID="7" Rank="2" Num="1" Name="2阶" MaxQuality="3" linkID="2000" />
+  <ShengLingDiaoWen ID="8" Rank="2" Num="2" Name="2阶" MaxQuality="3" linkID="2000" />
+  <ShengLingDiaoWen ID="9" Rank="2" Num="3" Name="2阶" MaxQuality="3" linkID="2000" />
+  <ShengLingDiaoWen ID="10" Rank="2" Num="4" Name="2阶" MaxQuality="2" linkID="2000" />
+  <ShengLingDiaoWen ID="11" Rank="2" Num="5" Name="2阶" MaxQuality="2" linkID="2000" />
+  <ShengLingDiaoWen ID="12" Rank="2" Num="6" Name="2阶" MaxQuality="2" linkID="2000" />
+  <ShengLingDiaoWen ID="13" Rank="3" Num="1" Name="3阶" MaxQuality="3" linkID="2000" />
+  <ShengLingDiaoWen ID="14" Rank="3" Num="2" Name="3阶" MaxQuality="3" linkID="2000" />
+  <ShengLingDiaoWen ID="15" Rank="3" Num="3" Name="3阶" MaxQuality="3" linkID="2000" />
+  <ShengLingDiaoWen ID="16" Rank="3" Num="4" Name="3阶" MaxQuality="3" linkID="2000" />
+  <ShengLingDiaoWen ID="17" Rank="3" Num="5" Name="3阶" MaxQuality="3" linkID="2000" />
+  <ShengLingDiaoWen ID="18" Rank="3" Num="6" Name="3阶" MaxQuality="3" linkID="2000" />
+  <ShengLingDiaoWen ID="19" Rank="4" Num="1" Name="4阶" MaxQuality="2" linkID="2000" />
+  <ShengLingDiaoWen ID="20" Rank="4" Num="2" Name="4阶" MaxQuality="2" linkID="2000" />
+  <ShengLingDiaoWen ID="21" Rank="4" Num="3" Name="4阶" MaxQuality="2" linkID="2000" />
+  <ShengLingDiaoWen ID="22" Rank="4" Num="4" Name="4阶" MaxQuality="2" linkID="2000" />
+  <ShengLingDiaoWen ID="23" Rank="4" Num="5" Name="4阶" MaxQuality="2" linkID="2000" />
+  <ShengLingDiaoWen ID="24" Rank="4" Num="6" Name="4阶" MaxQuality="2" linkID="2000" />
+</config>"

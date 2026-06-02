@@ -1,0 +1,8 @@
+TextAsset Base
+	string m_Name = "CircusPlayGame"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <CircusPlayGame ID="1" GameID="100" GameName="Kho Báu Thứ Nguyên" GameShowImage="" Recommend="1" IsOpen="1" />
+  <CircusPlayGame ID="2" GameID="200" GameName="Xạ Kích Thú Vị" GameShowImage="" Recommend="0" IsOpen="1" />
+  <CircusPlayGame ID="3" GameID="300" GameName="Thử Thách Trái Cây" GameShowImage="" Recommend="0" IsOpen="1" />
+</config>"

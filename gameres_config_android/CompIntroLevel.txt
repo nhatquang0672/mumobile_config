@@ -1,0 +1,14 @@
+TextAsset Base
+	string m_Name = "CompIntroLevel"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Chức vụ" Bold="1" />
+  <HelpIntro ID="2" Intro="1. Mỗi tuần {17e43e}Top 3{-} BXH Thế Lực sẽ nhận: Thủ Lĩnh Thế Lực, Nguyên Soái Thế Lực, Đốc Quân Thế Lực" Bold="0" />
+  <HelpIntro ID="3" Intro="2. Quân hàm {17e43e}0h mỗi thứ 2{-} sẽ {ff0000}reset{-} (Cống hiến cho thế lực sẽ không reset)" Bold="0" />
+  <HelpIntro ID="4" Intro="{fac60d}Thế lực đối địch" Bold="1" />
+  <HelpIntro ID="5" Intro="1. Thủ lĩnh có quyền chọn {ff0000}thế lực đối nghịch{-}, sát thương đối với thể lực địch sẽ {ff0000}tăng cao{-}" Bold="0" />
+  <HelpIntro ID="6" Intro="2. Sau khi chọn thế lực địch {ff0000}ngày hôm sau sẽ có hiệu lực{-}, nếu không thay đổi thì thế lực địch sẽ luôn kéo dài" Bold="0" />
+  <HelpIntro ID="7" Intro="{fac60d}Đổi thế lực" Bold="1" />
+  <HelpIntro ID="8" Intro="1. Khi đổi thế lực, cống hiến và quân hàm {ff0000}chỉ lưu được 1 phần{-}" Bold="0" />
+  <HelpIntro ID="9" Intro="2. Khi đổi thế lực, sẽ không thể vào BXH Thế Lực ngay, phải đợi làm mới BXH" Bold="0" />
+</Config>"

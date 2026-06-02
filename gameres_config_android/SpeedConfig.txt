@@ -1,0 +1,6 @@
+TextAsset Base
+	string m_Name = "SpeedConfig"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <SpeedConfig ID="1" WalkUnitCost="300" RunUnitCost="115" Tick="200,65,65,75,120,75,100,100,100,100,100,700,75" MaxAttackSlotTick="750" />
+</Config>"

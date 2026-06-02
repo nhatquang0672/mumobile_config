@@ -1,0 +1,6 @@
+TextAsset Base
+	string m_Name = "StarTreasureCost"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <StarTreasureCost ID="1" ActivityCost="194,6" ActivityTicket="194,1" ZhiGouID="50001,50002,50003,50004" ZhiGouName="Phiếu Tranh Mua Event, Phiếu Tranh Mua Event, Phiếu Tranh Mua Event, Phiếu Tranh Mua Event" DuiHuanName="Xu May Mắn" DuiHuanDec="Sử dụng Phiếu Event đổi Xu May Mắn, Xu May Mắn có thể dùng để Đoạt Bảo Tinh Thìn" IsFree="0" />
+</Config>"

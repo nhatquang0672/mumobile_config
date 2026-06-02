@@ -1,0 +1,21 @@
+TextAsset Base
+	string m_Name = "MoKaSkillUnlock"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <MoKaSkillUnlock ID="1" Type="1" SkillNum="1" UnlockLev="1" SkillName="Khỏe mạnh" SkillIcon="120001" />
+  <MoKaSkillUnlock ID="2" Type="1" SkillNum="2" UnlockLev="50" SkillName="Hồi Phục" SkillIcon="121001" />
+  <MoKaSkillUnlock ID="3" Type="1" SkillNum="3" UnlockLev="120" SkillName="Chúc Phúc" SkillIcon="122001" />
+  <MoKaSkillUnlock ID="4" Type="1" SkillNum="4" UnlockLev="200" SkillName="Nghịch Chuyển" SkillIcon="123001" />
+  <MoKaSkillUnlock ID="5" Type="2" SkillNum="1" UnlockLev="1" SkillName="Ngự Thủ" SkillIcon="124001" />
+  <MoKaSkillUnlock ID="6" Type="2" SkillNum="2" UnlockLev="50" SkillName="Kiên Thủ" SkillIcon="125001" />
+  <MoKaSkillUnlock ID="7" Type="2" SkillNum="3" UnlockLev="120" SkillName="Phản Chế" SkillIcon="126001" />
+  <MoKaSkillUnlock ID="8" Type="2" SkillNum="4" UnlockLev="200" SkillName="Bất Diệt" SkillIcon="127001" />
+  <MoKaSkillUnlock ID="9" Type="3" SkillNum="1" UnlockLev="1" SkillName="Cuồng Bạo" SkillIcon="128001" />
+  <MoKaSkillUnlock ID="10" Type="3" SkillNum="2" UnlockLev="50" SkillName="Tinh Thông" SkillIcon="129001" />
+  <MoKaSkillUnlock ID="11" Type="3" SkillNum="3" UnlockLev="120" SkillName="Sắc Bén" SkillIcon="130001" />
+  <MoKaSkillUnlock ID="12" Type="3" SkillNum="4" UnlockLev="200" SkillName="Chấn Nhiếp" SkillIcon="131001" />
+  <MoKaSkillUnlock ID="13" Type="4" SkillNum="1" UnlockLev="1" SkillName="Bạo Thương" SkillIcon="132001" />
+  <MoKaSkillUnlock ID="14" Type="4" SkillNum="2" UnlockLev="50" SkillName="Hảo Võ" SkillIcon="135001" />
+  <MoKaSkillUnlock ID="15" Type="4" SkillNum="3" UnlockLev="120" SkillName="Phẫn Nộ" SkillIcon="133001" />
+  <MoKaSkillUnlock ID="16" Type="4" SkillNum="4" UnlockLev="200" SkillName="Phá Diệt" SkillIcon="134001" />
+</config>"

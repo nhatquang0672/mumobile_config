@@ -1,0 +1,14 @@
+TextAsset Base
+	string m_Name = "XingBeiFuBenMonster"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <XingBeiFuBenMonster ID="1" Monster="11000000" ReviveTime="180" Place="5000,6300" RewardShow="23001,23002,23003,23004" TianFa="10" Size="200" Pos="0,0,0" />
+  <XingBeiFuBenMonster ID="2" Monster="11000001" ReviveTime="180" Place="8000,4200" RewardShow="23001,23002,23003,23005" TianFa="20" Size="200" Pos="0,0,0" />
+  <XingBeiFuBenMonster ID="3" Monster="11000002" ReviveTime="180" Place="10200,3100" RewardShow="23001,23002,23003,23006" TianFa="30" Size="200" Pos="0,0,0" />
+  <XingBeiFuBenMonster ID="4" Monster="11000003" ReviveTime="180" Place="12800,2900" RewardShow="23001,23002,23003,23007" TianFa="40" Size="200" Pos="0,0,0" />
+  <XingBeiFuBenMonster ID="5" Monster="11000004" ReviveTime="180" Place="17600,6400" RewardShow="23001,23002,23003,23008" TianFa="50" Size="200" Pos="0,0,0" />
+  <XingBeiFuBenMonster ID="6" Monster="11000005" ReviveTime="180" Place="17500,9500" RewardShow="23001,23002,23003,23009" TianFa="60" Size="200" Pos="0,0,0" />
+  <XingBeiFuBenMonster ID="7" Monster="11000006" ReviveTime="180" Place="16700,14600" RewardShow="23001,23002,23003,23010" TianFa="70" Size="200" Pos="0,0,0" />
+  <XingBeiFuBenMonster ID="8" Monster="11000007" ReviveTime="180" Place="14300,16200" RewardShow="23001,23002,23003,23011" TianFa="80" Size="200" Pos="0,0,0" />
+  <XingBeiFuBenMonster ID="9" Monster="11000008" ReviveTime="180" Place="7300,18000" RewardShow="23001,23002,23003,23012" TianFa="90" Size="200" Pos="0,0,0" />
+</config>"

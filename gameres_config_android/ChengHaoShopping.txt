@@ -1,0 +1,8 @@
+TextAsset Base
+	string m_Name = "ChengHaoShopping"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ChengHaoShopping ID="1" ChengHaoID="702500" ChengHaoGoodId="702000,1,1,0,0,0,0" ChengHaoGold="1,3000" />
+  <ChengHaoShopping ID="2" ChengHaoID="702511" ChengHaoGoodId="702011,1,1,0,0,0,0" ChengHaoGold="1,3000" />
+  <ChengHaoShopping ID="3" ChengHaoID="702512" ChengHaoGoodId="702012,1,1,0,0,0,0" ChengHaoGold="1,3000" />
+</Config>"

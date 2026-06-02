@@ -1,0 +1,9 @@
+TextAsset Base
+	string m_Name = "ShiZhuangExp"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ShiZhuangExp ID="1" ShiZhuangType="37000" IsGoods="1" Exp="2" />
+  <ShiZhuangExp ID="2" ShiZhuangType="24" IsGoods="0" Exp="5" />
+  <ShiZhuangExp ID="3" ShiZhuangType="26" IsGoods="0" Exp="10" />
+  <ShiZhuangExp ID="4" ShiZhuangType="8" IsGoods="0" Exp="15" />
+</Config>"

@@ -1,0 +1,268 @@
+TextAsset Base
+	string m_Name = "EveryDayActivity"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <EveryDayActivity ActivityID="1000" Name="Level Rewards" GoalType="5" GoalNum="4,1" GoodsOne="50160,2,1,0,0,0,0|2030,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1001" Name="Level Rewards" GoalType="5" GoalNum="5,1" GoodsOne="50160,2,1,0,0,0,0|5050,60,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1002" Name="Level Rewards" GoalType="5" GoalNum="5,1" GoodsOne="50160,2,1,0,0,0,0|5088,60,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1003" Name="Level Rewards" GoalType="5" GoalNum="6,1" GoodsOne="50160,3,1,0,0,0,0|5120,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1004" Name="Level Rewards" GoalType="5" GoalNum="6,1" GoodsOne="50160,3,1,0,0,0,0|5200,90,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1005" Name="Level Rewards" GoalType="5" GoalNum="7,1" GoodsOne="50160,3,1,0,0,0,0|5110,50,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1006" Name="Level Rewards" GoalType="5" GoalNum="7,1" GoodsOne="50160,3,1,0,0,0,0|5271,3,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1007" Name="Level Rewards" GoalType="5" GoalNum="8,1" GoodsOne="50160,4,1,0,0,0,0|5251,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1008" Name="Level Rewards" GoalType="5" GoalNum="8,1" GoodsOne="50160,4,1,0,0,0,0|5171,60,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1009" Name="Level Rewards" GoalType="5" GoalNum="9,1" GoodsOne="50160,4,1,0,0,0,0|5251,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1010" Name="Level Rewards" GoalType="5" GoalNum="9,1" GoodsOne="50160,4,1,0,0,0,0|5171,90,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1011" Name="Level Rewards" GoalType="5" GoalNum="10,1" GoodsOne="50160,5,1,0,0,0,0|5220,40,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1012" Name="Level Rewards" GoalType="5" GoalNum="10,1" GoodsOne="50160,5,1,0,0,0,0|63120,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1013" Name="Level Rewards" GoalType="5" GoalNum="11,1" GoodsOne="50160,5,1,0,0,0,0|5220,40,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1014" Name="Level Rewards" GoalType="5" GoalNum="11,1" GoodsOne="50160,5,1,0,0,0,0|63120,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1100" Name="Wing Rewards" GoalType="6" GoalNum="4,0" GoodsOne="50160,2,1,0,0,0,0|2017,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1101" Name="Wing Rewards" GoalType="6" GoalNum="5,0" GoodsOne="50160,2,1,0,0,0,0|2017,40,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1102" Name="Wing Rewards" GoalType="6" GoalNum="6,0" GoodsOne="50160,3,1,0,0,0,0|2017,50,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1103" Name="Wing Rewards" GoalType="6" GoalNum="7,0" GoodsOne="50160,3,1,0,0,0,0|2017,60,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1104" Name="Wing Rewards" GoalType="6" GoalNum="8,0" GoodsOne="50160,4,1,0,0,0,0|2017,70,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1105" Name="Wing Rewards" GoalType="6" GoalNum="9,0" GoodsOne="50160,4,1,0,0,0,0|2017,80,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1106" Name="Wing Rewards" GoalType="6" GoalNum="10,0" GoodsOne="50160,5,1,0,0,0,0|2017,90,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1107" Name="Wing Rewards" GoalType="6" GoalNum="11,0" GoodsOne="50160,5,1,0,0,0,0|2017,100,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1200" Name="Wing Rewards" GoalType="8" GoalNum="5" GoodsOne="50160,2,1,0,0,0,0|5031,2,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1201" Name="Wing Rewards" GoalType="8" GoalNum="6" GoodsOne="50160,2,1,0,0,0,0|5031,3,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1202" Name="Wing Rewards" GoalType="8" GoalNum="7" GoodsOne="50160,3,1,0,0,0,0|5031,4,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1203" Name="Wing Rewards" GoalType="8" GoalNum="8" GoodsOne="50160,3,1,0,0,0,0|5031,5,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1204" Name="Wing Rewards" GoalType="8" GoalNum="8" GoodsOne="50160,4,1,0,0,0,0|5031,6,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1205" Name="Wing Rewards" GoalType="8" GoalNum="9" GoodsOne="50160,4,1,0,0,0,0|5031,7,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1206" Name="Wing Rewards" GoalType="8" GoalNum="9" GoodsOne="50160,5,1,0,0,0,0|5031,8,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1207" Name="Wing Rewards" GoalType="8" GoalNum="10" GoodsOne="50160,5,1,0,0,0,0|5031,9,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1208" Name="Wing Rewards" GoalType="8" GoalNum="10" GoodsOne="50160,5,1,0,0,0,0|5031,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1209" Name="Wing Rewards" GoalType="8" GoalNum="11" GoodsOne="50160,5,1,0,0,0,0|5031,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1300" Name="Fame Rewards" GoalType="9" GoalNum="5" GoodsOne="50160,2,1,0,0,0,0|5041,2,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1301" Name="Fame Rewards" GoalType="9" GoalNum="6" GoodsOne="50160,2,1,0,0,0,0|5041,3,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1302" Name="Fame Rewards" GoalType="9" GoalNum="7" GoodsOne="50160,3,1,0,0,0,0|5041,4,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1303" Name="Fame Rewards" GoalType="9" GoalNum="8" GoodsOne="50160,3,1,0,0,0,0|5041,5,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1304" Name="Fame Rewards" GoalType="9" GoalNum="8" GoodsOne="50160,4,1,0,0,0,0|5041,6,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1305" Name="Fame Rewards" GoalType="9" GoalNum="9" GoodsOne="50160,4,1,0,0,0,0|5041,7,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1306" Name="Fame Rewards" GoalType="9" GoalNum="9" GoodsOne="50160,5,1,0,0,0,0|5041,8,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1307" Name="Fame Rewards" GoalType="9" GoalNum="10" GoodsOne="50160,5,1,0,0,0,0|5041,9,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1308" Name="Fame Rewards" GoalType="9" GoalNum="10" GoodsOne="50160,5,1,0,0,0,0|5041,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1309" Name="Fame Rewards" GoalType="9" GoalNum="11" GoodsOne="50160,5,1,0,0,0,0|5041,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1400" Name="Muren‘s Book Rewards" GoalType="10" GoalNum="4,0" GoodsOne="50160,2,1,0,0,0,0|2101,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1401" Name="Muren‘s Book Rewards" GoalType="10" GoalNum="5,0" GoodsOne="50160,2,1,0,0,0,0|2101,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1402" Name="Muren‘s Book Rewards" GoalType="10" GoalNum="6,0" GoodsOne="50160,2,1,0,0,0,0|2101,40,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1403" Name="Muren‘s Book Rewards" GoalType="10" GoalNum="7,0" GoodsOne="50160,3,1,0,0,0,0|2101,50,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1404" Name="Muren‘s Book Rewards" GoalType="10" GoalNum="8,0" GoodsOne="50160,3,1,0,0,0,0|2101,60,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1405" Name="Muren‘s Book Rewards" GoalType="10" GoalNum="9,0" GoodsOne="50160,3,1,0,0,0,0|2101,70,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1406" Name="Muren‘s Book Rewards" GoalType="10" GoalNum="10,0" GoodsOne="50160,4,1,0,0,0,0|2101,80,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1407" Name="Muren‘s Book Rewards" GoalType="10" GoalNum="11,0" GoodsOne="50160,4,1,0,0,0,0|2101,90,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1408" Name="Muren‘s Book Rewards" GoalType="10" GoalNum="12,0" GoodsOne="50160,4,1,0,0,0,0|2101,100,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1409" Name="Muren‘s Book Rewards" GoalType="10" GoalNum="13,0" GoodsOne="50160,4,1,0,0,0,0|2101,110,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1410" Name="Muren‘s Book Rewards" GoalType="10" GoalNum="14,0" GoodsOne="50160,5,1,0,0,0,0|2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1411" Name="Muren‘s Book Rewards" GoalType="10" GoalNum="15,0" GoodsOne="50160,5,1,0,0,0,0|2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1412" Name="Muren‘s Book Rewards" GoalType="10" GoalNum="16,0" GoodsOne="50160,5,1,0,0,0,0|2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1413" Name="Muren‘s Book Rewards" GoalType="10" GoalNum="17,0" GoodsOne="50160,5,1,0,0,0,0|2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1414" Name="Muren‘s Book Rewards" GoalType="10" GoalNum="18,0" GoodsOne="50160,5,1,0,0,0,0|2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1415" Name="Muren‘s Book Rewards" GoalType="10" GoalNum="19,0" GoodsOne="50160,5,1,0,0,0,0|2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1416" Name="Muren‘s Book Rewards" GoalType="10" GoalNum="20,0" GoodsOne="50160,5,1,0,0,0,0|2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1500" Name="Relic Rewards" GoalType="11" GoalNum="120" GoodsOne="50160,2,1,0,0,0,0|7050,80,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1501" Name="Relic Rewards" GoalType="11" GoalNum="130" GoodsOne="50160,3,1,0,0,0,0|7050,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1502" Name="Relic Rewards" GoalType="11" GoalNum="140" GoodsOne="50160,3,1,0,0,0,0|7050,160,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1503" Name="Relic Rewards" GoalType="11" GoalNum="150" GoodsOne="50160,4,1,0,0,0,0|7050,200,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1504" Name="Relic Rewards" GoalType="11" GoalNum="160" GoodsOne="50160,4,1,0,0,0,0|7050,240,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1505" Name="Relic Rewards" GoalType="11" GoalNum="170" GoodsOne="50160,5,1,0,0,0,0|7050,280,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1506" Name="Relic Rewards" GoalType="11" GoalNum="175" GoodsOne="50160,5,1,0,0,0,0|7050,320,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1600" Name="Companion Ring Rewards" GoalType="12" GoalNum="5,0" GoodsOne="50160,2,1,0,0,0,0|5141,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1601" Name="Companion Ring Rewards" GoalType="12" GoalNum="6,0" GoodsOne="50160,3,1,0,0,0,0|5141,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1602" Name="Companion Ring Rewards" GoalType="12" GoalNum="7,0" GoodsOne="50160,3,1,0,0,0,0|5141,40,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1603" Name="Companion Ring Rewards" GoalType="12" GoalNum="8,0" GoodsOne="50160,4,1,0,0,0,0|5141,50,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1604" Name="Companion Ring Rewards" GoalType="12" GoalNum="9,0" GoodsOne="50160,4,1,0,0,0,0|5141,60,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1605" Name="Companion Ring Rewards" GoalType="12" GoalNum="10,0" GoodsOne="50160,5,1,0,0,0,0|5141,70,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1700" Name="Guardian Rewards" GoalType="13" GoalNum="5,0" GoodsOne="50160,2,1,0,0,0,0|5160,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1701" Name="Guardian Rewards" GoalType="13" GoalNum="6,0" GoodsOne="50160,3,1,0,0,0,0|5160,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1702" Name="Guardian Rewards" GoalType="13" GoalNum="7,0" GoodsOne="50160,3,1,0,0,0,0|5160,40,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1703" Name="Guardian Rewards" GoalType="13" GoalNum="8,0" GoodsOne="50160,4,1,0,0,0,0|5160,50,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1704" Name="Guardian Rewards" GoalType="13" GoalNum="9,0" GoodsOne="50160,4,1,0,0,0,0|5160,60,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="1705" Name="Guardian Rewards" GoalType="13" GoalNum="10,0" GoodsOne="50160,5,1,0,0,0,0|5160,70,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="" PurchaseNum="" />
+  <EveryDayActivity ActivityID="2000" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5180,1,1,0,0,0,0|5313,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2001" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5181,1,1,0,0,0,0|5313,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2002" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5181,1,1,0,0,0,0|5313,11,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2003" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5181,1,1,0,0,0,0|5313,12,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2004" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5181,1,1,0,0,0,0|5313,13,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2005" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5182,1,1,0,0,0,0|5313,14,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2006" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5182,1,1,0,0,0,0|5313,15,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2007" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5182,1,1,0,0,0,0|5313,16,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2008" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5182,1,1,0,0,0,0|5313,17,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2009" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5183,1,1,0,0,0,0|5313,18,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2010" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5183,1,1,0,0,0,0|5313,19,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2011" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5183,1,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2012" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5183,1,1,0,0,0,0|5313,21,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2013" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="4041,1,1,0,0,0,0|5313,22,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2014" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="4041,1,1,0,0,0,0|5313,22,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2015" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2005,6,1,0,0,0,0|5313,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2016" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2017,30,1,0,0,0,0|5313,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2017" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2017,40,1,0,0,0,0|5313,12,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2018" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2017,50,1,0,0,0,0|5313,14,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2019" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2017,60,1,0,0,0,0|5313,16,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2020" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2017,70,1,0,0,0,0|5313,18,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2021" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2017,80,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2022" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2017,90,1,0,0,0,0|5313,22,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2023" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2017,100,1,0,0,0,0|5313,24,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2024" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2005,6,1,0,0,0,0|5313,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2025" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5031,2,1,0,0,0,0|5313,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2026" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5031,3,1,0,0,0,0|5313,12,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2027" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5031,4,1,0,0,0,0|5313,14,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2028" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5031,5,1,0,0,0,0|5313,16,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2029" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5031,6,1,0,0,0,0|5313,18,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2030" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5031,7,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2031" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5031,8,1,0,0,0,0|5313,22,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2032" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5031,9,1,0,0,0,0|5313,24,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2033" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5031,10,1,0,0,0,0|5313,26,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2034" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5031,10,1,0,0,0,0|5313,26,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2035" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2005,6,1,0,0,0,0|5313,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2036" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5041,2,1,0,0,0,0|5313,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2037" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5041,3,1,0,0,0,0|5313,12,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2038" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5041,4,1,0,0,0,0|5313,14,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2039" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5041,5,1,0,0,0,0|5313,16,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2040" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5041,6,1,0,0,0,0|5313,18,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2041" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5041,7,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2042" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5041,8,1,0,0,0,0|5313,22,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2043" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5041,9,1,0,0,0,0|5313,24,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2044" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5041,10,1,0,0,0,0|5313,26,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2045" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5041,10,1,0,0,0,0|5313,26,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2046" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2005,6,1,0,0,0,0|5313,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2047" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2101,20,1,0,0,0,0|5313,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2048" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2101,30,1,0,0,0,0|5313,11,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2049" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2101,40,1,0,0,0,0|5313,12,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2050" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2101,50,1,0,0,0,0|5313,13,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2051" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2101,60,1,0,0,0,0|5313,14,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2052" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2101,70,1,0,0,0,0|5313,15,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2053" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2101,80,1,0,0,0,0|5313,16,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2054" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2101,90,1,0,0,0,0|5313,17,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2055" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2101,100,1,0,0,0,0|5313,18,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2056" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2101,110,1,0,0,0,0|5313,19,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2057" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2058" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2059" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2060" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2061" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2062" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2063" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2064" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2005,6,1,0,0,0,0|5313,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2065" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="7050,80,1,0,0,0,0|5313,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2066" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="7050,120,1,0,0,0,0|5313,12,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2067" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="7050,160,1,0,0,0,0|5313,14,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2068" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="7050,200,1,0,0,0,0|5313,16,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2069" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="7050,240,1,0,0,0,0|5313,18,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2070" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="7050,280,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2071" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="7050,320,1,0,0,0,0|5313,22,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2072" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2005,6,1,0,0,0,0|5313,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2073" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5141,20,1,0,0,0,0|5313,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2074" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5141,30,1,0,0,0,0|5313,12,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2075" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5141,40,1,0,0,0,0|5313,14,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2076" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5141,50,1,0,0,0,0|5313,16,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2077" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5141,60,1,0,0,0,0|5313,18,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2078" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5141,70,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2079" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2005,6,1,0,0,0,0|5313,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2080" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5160,20,1,0,0,0,0|5313,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2081" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5160,30,1,0,0,0,0|5313,12,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2082" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5160,40,1,0,0,0,0|5313,14,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2083" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5160,50,1,0,0,0,0|5313,16,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2084" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5160,60,1,0,0,0,0|5313,18,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2085" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="5160,70,1,0,0,0,0|5313,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2086" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2005,6,1,0,0,0,0|5313,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2087" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2005,2,1,0,0,0,0|5313,12,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2088" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2005,3,1,0,0,0,0|5313,15,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2089" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2005,4,1,0,0,0,0|5313,18,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2090" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2005,5,1,0,0,0,0|5313,21,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="2091" Name="Purchase" GoalType="2" GoalNum="-1" GoodsOne="2005,6,1,0,0,0,0|5313,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="680" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3000" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2030,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|600" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3001" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5050,60,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|600" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3002" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5088,60,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|800" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3003" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5120,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|900" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3004" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5200,90,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|900" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3005" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5110,50,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3006" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5271,3,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1200" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3007" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5251,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1200" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3008" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5171,60,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1200" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3009" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5251,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1800" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3010" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5171,90,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1800" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3011" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5220,40,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3012" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="63120,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3013" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5220,40,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3014" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="63120,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|3000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3015" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="63120,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|3000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3016" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2017,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|600" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3017" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2017,40,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|800" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3018" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2017,50,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3019" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2017,60,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1200" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3020" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2017,70,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3021" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2017,80,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1600" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3022" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2017,90,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1800" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3023" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2017,100,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3024" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2017,100,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3025" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5031,2,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3026" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5031,3,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|600" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3027" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5031,4,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|800" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3028" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5031,5,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3029" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5031,6,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1200" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3030" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5031,7,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3031" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5031,8,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1600" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3032" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5031,9,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1800" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3033" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5031,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3034" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5031,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3035" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5031,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3036" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5041,2,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3037" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5041,3,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|600" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3038" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5041,4,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|800" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3039" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5041,5,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3040" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5041,6,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1200" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3041" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5041,7,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3042" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5041,8,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1600" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3043" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5041,9,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1800" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3044" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5041,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3045" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5041,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3046" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5041,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3047" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2101,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3048" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2101,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|600" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3049" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2101,40,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|800" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3050" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2101,50,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3051" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2101,60,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1200" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3052" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2101,70,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3053" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2101,80,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1600" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3054" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2101,90,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1800" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3055" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2101,100,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3056" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2101,110,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2200" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3057" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3058" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3059" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3060" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3061" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3062" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3063" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3064" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2101,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3065" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="7050,80,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|600" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3066" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="7050,120,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|900" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3067" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="7050,160,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1200" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3068" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="7050,200,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1500" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3069" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="7050,240,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1800" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3070" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="7050,280,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2100" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3071" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="7050,320,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3072" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="7050,320,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2400" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3073" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5141,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|600" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3074" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5141,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|900" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3075" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5141,40,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1200" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3076" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5141,50,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1500" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3077" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5141,60,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1800" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3078" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5141,70,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2100" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3079" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5141,70,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2100" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3080" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5160,20,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|600" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3081" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5160,30,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|900" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3082" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5160,40,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1200" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3083" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5160,50,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1500" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3084" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5160,60,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1800" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3085" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5160,70,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2100" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3086" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="5160,70,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2100" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3087" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2005,3,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1200" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3088" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2005,3,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1200" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3089" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2005,4,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|1600" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3090" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2005,5,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2000" PurchaseNum="1" />
+  <EveryDayActivity ActivityID="3091" Name="Daily Purchase" GoalType="1" GoalNum="-1" GoodsOne="2005,6,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" Price="300|2400" PurchaseNum="1" />
+</Config>"

@@ -1,0 +1,6 @@
+TextAsset Base
+	string m_Name = "RouletteGet"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <RouletteGet ID="1" Gift="214,100|213,6" GiftCost="196,40" LiBaoDec="Mua túi Ma Pháp, có thể được tặng 6 Tim Áo Thuật, Tim Áo Thuật dùng để rút thưởng trong vòng xoay Ma Pháp" IsGive="0,0" GetLiBaoName="Túi Ma Pháp, Túi Áo Thuật" />
+</Config>"

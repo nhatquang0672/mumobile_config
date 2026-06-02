@@ -1,0 +1,10 @@
+TextAsset Base
+	string m_Name = "EquipQuenchingIntro"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Quy tắc truyền trang bị" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Mỗi lần truyền trang bị Tái Sinh sẽ tốn {17e43e}đạo cụ{dac7ae}." Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, Truyền trang bị sẽ tăng tỉ lệ thành công{dac7ae}." Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, Tỉ lệ thành công đạt 10% sẽ có thể tôi tuyện tăng cấp trang bị{dac7ae}." Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, Tôi luyện thất bại sẽ giảm tỉ lệ thành công{dac7ae}." Bold="0" />
+</Config>"

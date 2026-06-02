@@ -1,0 +1,26 @@
+TextAsset Base
+	string m_Name = "ShengZheBattleFieldEquipXianJi"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ShengZheBattleFieldEquipXianJi Level="0" Attribute="" NextLevelExp="100" />
+  <ShengZheBattleFieldEquipXianJi Level="1" Attribute="MaxLifePercent,0.05|AddAttackPercent,0.01" NextLevelExp="200" />
+  <ShengZheBattleFieldEquipXianJi Level="2" Attribute="MaxLifePercent,0.05|AddAttackPercent,0.02" NextLevelExp="300" />
+  <ShengZheBattleFieldEquipXianJi Level="3" Attribute="MaxLifePercent,0.05|AddAttackPercent,0.03" NextLevelExp="500" />
+  <ShengZheBattleFieldEquipXianJi Level="4" Attribute="MaxLifePercent,0.05|AddAttackPercent,0.04" NextLevelExp="1000" />
+  <ShengZheBattleFieldEquipXianJi Level="5" Attribute="MaxLifePercent,0.05|AddAttackPercent,0.05|SubAttackInjurePercent,0.05" NextLevelExp="1500" />
+  <ShengZheBattleFieldEquipXianJi Level="6" Attribute="MaxLifePercent,0.05|AddAttackPercent,0.06" NextLevelExp="2000" />
+  <ShengZheBattleFieldEquipXianJi Level="7" Attribute="MaxLifePercent,0.05|AddAttackPercent,0.07" NextLevelExp="2500" />
+  <ShengZheBattleFieldEquipXianJi Level="8" Attribute="MaxLifePercent,0.05|AddAttackPercent,0.08" NextLevelExp="3000" />
+  <ShengZheBattleFieldEquipXianJi Level="9" Attribute="MaxLifePercent,0.05|AddAttackPercent,0.09" NextLevelExp="4000" />
+  <ShengZheBattleFieldEquipXianJi Level="10" Attribute="MaxLifePercent,0.05|AddAttackPercent,0.10|SubAttackInjurePercent,0.05" NextLevelExp="5000" />
+  <ShengZheBattleFieldEquipXianJi Level="11" Attribute="MaxLifePercent,0.05|AddAttackPercent,0.11" NextLevelExp="6000" />
+  <ShengZheBattleFieldEquipXianJi Level="12" Attribute="MaxLifePercent,0.05|AddAttackPercent,0.12" NextLevelExp="7000" />
+  <ShengZheBattleFieldEquipXianJi Level="13" Attribute="MaxLifePercent,0.05|AddAttackPercent,0.13" NextLevelExp="8000" />
+  <ShengZheBattleFieldEquipXianJi Level="14" Attribute="MaxLifePercent,0.05|AddAttackPercent,0.14" NextLevelExp="9000" />
+  <ShengZheBattleFieldEquipXianJi Level="15" Attribute="MaxLifePercent,0.05|AddAttackPercent,0.15|SubAttackInjurePercent,0.1" NextLevelExp="10000" />
+  <ShengZheBattleFieldEquipXianJi Level="16" Attribute="MaxLifePercent,0.05|AddAttackPercent,0.16" NextLevelExp="11000" />
+  <ShengZheBattleFieldEquipXianJi Level="17" Attribute="MaxLifePercent,0.05|AddAttackPercent,0.17" NextLevelExp="12000" />
+  <ShengZheBattleFieldEquipXianJi Level="18" Attribute="MaxLifePercent,0.05|AddAttackPercent,0.18" NextLevelExp="13000" />
+  <ShengZheBattleFieldEquipXianJi Level="19" Attribute="MaxLifePercent,0.05|AddAttackPercent,0.19" NextLevelExp="14000" />
+  <ShengZheBattleFieldEquipXianJi Level="20" Attribute="MaxLifePercent,0.05|AddAttackPercent,0.20|SubAttackInjurePercent,0.1" NextLevelExp="-1" />
+</Config>"

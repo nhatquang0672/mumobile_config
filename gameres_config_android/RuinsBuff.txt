@@ -1,0 +1,20 @@
+TextAsset Base
+	string m_Name = "RuinsBuff"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <RuinsBuff ID="101" Name="Thần Thánh-Dị Thương" BuffDes="Thần Thánh-Dị Thương+100%" BuffTime="30" AttributeParam="126,1" ShaderID="1014" />
+  <RuinsBuff ID="102" Name="Ám Ảnh-Dị Thương" BuffDes="Ám Ảnh-Dị Thương+100%" BuffTime="30" AttributeParam="133,1" ShaderID="1001" />
+  <RuinsBuff ID="103" Name="Tự Nhiên-Dị Thương" BuffDes="Tự Nhiên-Dị Thương+100%" BuffTime="30" AttributeParam="140,1" ShaderID="1002" />
+  <RuinsBuff ID="104" Name="Hỗn Độn-Dị Thương" BuffDes="Hỗn Độn-Dị Thương+100%" BuffTime="30" AttributeParam="147,1" ShaderID="1013" />
+  <RuinsBuff ID="105" Name="Ác Mộng-Dị Thương" BuffDes="Ác Mộng-Dị Thương+100%" BuffTime="30" AttributeParam="154,1" ShaderID="1000" />
+  <RuinsBuff ID="131" Name="Thần Thánh-Dị Thương" BuffDes="Thần Thánh-Dị Thương+300%" BuffTime="30" AttributeParam="126,3" ShaderID="1014" />
+  <RuinsBuff ID="132" Name="Ám Ảnh-Dị Thương" BuffDes="Ám Ảnh-Dị Thương+300%" BuffTime="30" AttributeParam="133,3" ShaderID="1001" />
+  <RuinsBuff ID="133" Name="Tự Nhiên-Dị Thương" BuffDes="Tự Nhiên-Dị Thương+300%" BuffTime="30" AttributeParam="140,3" ShaderID="1002" />
+  <RuinsBuff ID="134" Name="Hỗn Độn-Dị Thương" BuffDes="Hỗn Độn-Dị Thương+300%" BuffTime="30" AttributeParam="147,3" ShaderID="1013" />
+  <RuinsBuff ID="135" Name="Ác Mộng-Dị Thương" BuffDes="Ác Mộng-Dị Thương+300%" BuffTime="30" AttributeParam="154,3" ShaderID="1000" />
+  <RuinsBuff ID="151" Name="Thần Thánh-Dị Thương" BuffDes="Thần Thánh-Dị Thương+500%" BuffTime="30" AttributeParam="126,5" ShaderID="1014" />
+  <RuinsBuff ID="152" Name="Ám Ảnh-Dị Thương" BuffDes="Ám Ảnh-Dị Thương+500%" BuffTime="30" AttributeParam="133,5" ShaderID="1001" />
+  <RuinsBuff ID="153" Name="Tự Nhiên-Dị Thương" BuffDes="Tự Nhiên-Dị Thương+500%" BuffTime="30" AttributeParam="140,5" ShaderID="1002" />
+  <RuinsBuff ID="154" Name="Hỗn Độn-Dị Thương" BuffDes="Hỗn Độn-Dị Thương+500%" BuffTime="30" AttributeParam="147,5" ShaderID="1013" />
+  <RuinsBuff ID="155" Name="Ác Mộng-Dị Thương" BuffDes="Ác Mộng-Dị Thương+500%" BuffTime="30" AttributeParam="154,5" ShaderID="1000" />
+</Config>"

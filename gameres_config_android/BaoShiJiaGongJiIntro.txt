@@ -1,0 +1,10 @@
+TextAsset Base
+	string m_Name = "BaoShiJiaGongJiIntro"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1. Ngọc Huyền Ảo chỉ có thể thông qua gia công {17e43e}3 ghép 1{dac7ae} để {17e43e}tăng cấp{dac7ae}, khi gia công cần có {17e43e}Ngọc Huyền Ảo cùng cấp" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2. Gia công {17e43e}không có tỉ lệ thất bại{dac7ae}, {17e43e}đá sau khi gia công{dac7ae} sẽ được đặt vào {17e43e}khung đá chính" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3. Đá Tái Sinh có thể nhận từ gia công nguyên liệu" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4. Tách Ngọc Huyền Ảo, Đá Tái Sinh sẽ nhận nguyên liệu" Bold="0" />
+</Config>"

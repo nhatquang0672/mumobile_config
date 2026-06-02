@@ -1,0 +1,170 @@
+TextAsset Base
+	string m_Name = "JingPoShouHu"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ShouHu ID="100" Type="100" Name="Nhện" GoodsID="70000" ShouHuAward="13" />
+  <ShouHu ID="101" Type="100" Name="Rồng Con" GoodsID="70001" ShouHuAward="13" />
+  <ShouHu ID="102" Type="100" Name="Ngưu" GoodsID="70002" ShouHuAward="14" />
+  <ShouHu ID="103" Type="100" Name="Chó Săn" GoodsID="70003" ShouHuAward="15" />
+  <ShouHu ID="104" Type="100" Name="Bò Chiến" GoodsID="70004" ShouHuAward="15" />
+  <ShouHu ID="105" Type="100" Name="Phù Thủy" GoodsID="70005" ShouHuAward="16" />
+  <ShouHu ID="106" Type="100" Name="Khổng Lồ" GoodsID="70006" ShouHuAward="16" />
+  <ShouHu ID="107" Type="100" Name="Cốt Tinh" GoodsID="70007" ShouHuAward="17" />
+  <ShouHu ID="108" Type="100" Name="Cốt Tinh Vương" GoodsID="70090" ShouHuAward="114" />
+  <ShouHu ID="200" Type="200" Name="Tiểu Yêu Tinh" GoodsID="70100" ShouHuAward="20" />
+  <ShouHu ID="201" Type="200" Name="Bọ Cạp" GoodsID="70101" ShouHuAward="21" />
+  <ShouHu ID="202" Type="200" Name="Đại Yêu Tinh" GoodsID="70102" ShouHuAward="22" />
+  <ShouHu ID="203" Type="200" Name="Bọ Khổng Lồ" GoodsID="70103" ShouHuAward="23" />
+  <ShouHu ID="204" Type="200" Name="Thợ Săn" GoodsID="70104" ShouHuAward="24" />
+  <ShouHu ID="205" Type="200" Name="Qủy Rừng" GoodsID="70105" ShouHuAward="25" />
+  <ShouHu ID="206" Type="200" Name="Yakun" GoodsID="70106" ShouHuAward="26" />
+  <ShouHu ID="207" Type="200" Name="Khổng Lồ Đá" GoodsID="70107" ShouHuAward="27" />
+  <ShouHu ID="208" Type="200" Name="Yakun Pháp Vương" GoodsID="70190" ShouHuAward="171" />
+  <ShouHu ID="300" Type="300" Name="Bọ Tuyết" GoodsID="70200" ShouHuAward="30" />
+  <ShouHu ID="301" Type="300" Name="Quỷ Băng" GoodsID="70201" ShouHuAward="31" />
+  <ShouHu ID="302" Type="300" Name="Quỷ Biển" GoodsID="70202" ShouHuAward="31" />
+  <ShouHu ID="303" Type="300" Name="Sát Thủ" GoodsID="70203" ShouHuAward="32" />
+  <ShouHu ID="304" Type="300" Name="Bigfoot" GoodsID="70204" ShouHuAward="34" />
+  <ShouHu ID="305" Type="300" Name="Bigfoot King" GoodsID="70205" ShouHuAward="35" />
+  <ShouHu ID="306" Type="300" Name="Nữ Hoàng Băng" GoodsID="70290" ShouHuAward="216" />
+  <ShouHu ID="400" Type="400" Name="Trùng Độc" GoodsID="70300" ShouHuAward="37" />
+  <ShouHu ID="401" Type="400" Name="Khổng Lồ Một Mắt" GoodsID="70301" ShouHuAward="38" />
+  <ShouHu ID="402" Type="400" Name="Bóng Ma" GoodsID="70302" ShouHuAward="39" />
+  <ShouHu ID="403" Type="400" Name="Cốt Xạ Thủ" GoodsID="70303" ShouHuAward="40" />
+  <ShouHu ID="404" Type="400" Name="Chó Săn Địa Ngục" GoodsID="70304" ShouHuAward="42" />
+  <ShouHu ID="405" Type="400" Name="Nhện Địa Ngục" GoodsID="70305" ShouHuAward="43" />
+  <ShouHu ID="406" Type="400" Name="Cốt Chiến Binh" GoodsID="70306" ShouHuAward="44" />
+  <ShouHu ID="407" Type="400" Name="Phù Thủy Sét" GoodsID="70307" ShouHuAward="46" />
+  <ShouHu ID="408" Type="400" Name="Bò Chiến Độc" GoodsID="70308" ShouHuAward="47" />
+  <ShouHu ID="409" Type="400" Name="Kỵ Sĩ Bóng Tối" GoodsID="70309" ShouHuAward="48" />
+  <ShouHu ID="410" Type="400" Name="Quỷ Gorgon" GoodsID="70390" ShouHuAward="294" />
+  <ShouHu ID="500" Type="500" Name="Quỷ Mị" GoodsID="70400" ShouHuAward="50" />
+  <ShouHu ID="501" Type="500" Name="Quỷ Mị Độc" GoodsID="70401" ShouHuAward="51" />
+  <ShouHu ID="502" Type="500" Name="Pháp Sư Bị Nguyền Rủa" GoodsID="70402" ShouHuAward="52" />
+  <ShouHu ID="503" Type="500" Name="Ngưu Vương" GoodsID="70403" ShouHuAward="54" />
+  <ShouHu ID="504" Type="500" Name="Ác Quỷ" GoodsID="70404" ShouHuAward="55" />
+  <ShouHu ID="505" Type="500" Name="Kiếm Sĩ Tử Thần" GoodsID="70405" ShouHuAward="56" />
+  <ShouHu ID="506" Type="500" Name="Quỷ Vương Balrog" GoodsID="70490" ShouHuAward="348" />
+  <ShouHu ID="600" Type="600" Name="Cá Mặt Quỷ Nhỏ" GoodsID="70500" ShouHuAward="58" />
+  <ShouHu ID="601" Type="600" Name="Nhân Ngư" GoodsID="70501" ShouHuAward="60" />
+  <ShouHu ID="602" Type="600" Name="Hải Quái" GoodsID="70502" ShouHuAward="63" />
+  <ShouHu ID="603" Type="600" Name="Cá Mặt Quỷ Lớn" GoodsID="70503" ShouHuAward="65" />
+  <ShouHu ID="604" Type="600" Name="Ngân Cung Hải Quái" GoodsID="70504" ShouHuAward="68" />
+  <ShouHu ID="605" Type="600" Name="Vua Phù Thủy" GoodsID="70505" ShouHuAward="70" />
+  <ShouHu ID="606" Type="600" Name="Quỷ Biển Hydra" GoodsID="70590" ShouHuAward="432" />
+  <ShouHu ID="700" Type="700" Name="Quỷ Vây Kiếm" GoodsID="70600" ShouHuAward="76" />
+  <ShouHu ID="701" Type="700" Name="Sói Nanh Máu" GoodsID="70601" ShouHuAward="83" />
+  <ShouHu ID="702" Type="700" Name="Thiết Luân Chiến Binh" GoodsID="70602" ShouHuAward="85" />
+  <ShouHu ID="703" Type="700" Name="Kỵ Sĩ Hủy Diệt" GoodsID="70603" ShouHuAward="88" />
+  <ShouHu ID="704" Type="700" Name="Hắc Diệm Quỷ" GoodsID="70604" ShouHuAward="94" />
+  <ShouHu ID="705" Type="700" Name="Quỷ Vương Zaikan" GoodsID="70690" ShouHuAward="510" />
+  <ShouHu ID="800" Type="800" Name="Chim Gọi Hồn" GoodsID="70700" ShouHuAward="98" />
+  <ShouHu ID="801" Type="800" Name="Thiết Thiên Binh" GoodsID="70701" ShouHuAward="107" />
+  <ShouHu ID="802" Type="800" Name="Nữ Hoàng Bão Tố" GoodsID="70702" ShouHuAward="116" />
+  <ShouHu ID="803" Type="800" Name="Rồng Xanh" GoodsID="70703" ShouHuAward="125" />
+  <ShouHu ID="804" Type="800" Name="Thanh Thiên Tướng" GoodsID="70704" ShouHuAward="134" />
+  <ShouHu ID="805" Type="800" Name="Hắc Kỵ Sĩ" GoodsID="70705" ShouHuAward="143" />
+  <ShouHu ID="806" Type="800" Name="Rồng Đỏ" GoodsID="70706" ShouHuAward="152" />
+  <ShouHu ID="807" Type="800" Name="Thiên Ma Phoenix" GoodsID="70790" ShouHuAward="615" />
+  <ShouHu ID="900" Type="900" Name="Ma Cây" GoodsID="70800" ShouHuAward="162" />
+  <ShouHu ID="901" Type="900" Name="Quái Nhân" GoodsID="70801" ShouHuAward="172" />
+  <ShouHu ID="902" Type="900" Name="Thích Khách" GoodsID="70802" ShouHuAward="182" />
+  <ShouHu ID="903" Type="900" Name="Quỷ Cây" GoodsID="70803" ShouHuAward="192" />
+  <ShouHu ID="904" Type="900" Name="Nữ Phù Thủy" GoodsID="70804" ShouHuAward="202" />
+  <ShouHu ID="905" Type="900" Name="Thuật Sư Rừng Sâu" GoodsID="70890" ShouHuAward="735" />
+  <ShouHu ID="1000" Type="1000" Name="Sói Sừng Kiếm" GoodsID="70900" ShouHuAward="213" />
+  <ShouHu ID="1001" Type="1000" Name="Kim Giáp Thú" GoodsID="70901" ShouHuAward="224" />
+  <ShouHu ID="1002" Type="1000" Name="Dã Thú Nhân" GoodsID="70902" ShouHuAward="235" />
+  <ShouHu ID="1003" Type="1000" Name="Sát Thủ Băng" GoodsID="70903" ShouHuAward="246" />
+  <ShouHu ID="1004" Type="1000" Name="Khổng Lồ Điên Cuồng" GoodsID="70904" ShouHuAward="257" />
+  <ShouHu ID="1005" Type="1000" Name="Đao Phủ" GoodsID="70905" ShouHuAward="268" />
+  <ShouHu ID="1006" Type="1000" Name="Tàn Tích Vương" GoodsID="70990" ShouHuAward="900" />
+  <ShouHu ID="1100" Type="1100" Name="Cuồng Quỷ" GoodsID="71000" ShouHuAward="280" />
+  <ShouHu ID="1101" Type="1100" Name="Thợ Săn Song Kiếm" GoodsID="71001" ShouHuAward="292" />
+  <ShouHu ID="1102" Type="1100" Name="Độc Bước Quỷ" GoodsID="71002" ShouHuAward="304" />
+  <ShouHu ID="1103" Type="1100" Name="Ma Pháp Sư" GoodsID="71003" ShouHuAward="316" />
+  <ShouHu ID="1104" Type="1100" Name="Thiền Thần Hỗn Loạn" GoodsID="71004" ShouHuAward="328" />
+  <ShouHu ID="1105" Type="1100" Name="Thù Hận Quỷ" GoodsID="71090" ShouHuAward="1047" />
+  <ShouHu ID="1200" Type="1200" Name="Chó Săn Tuyết" GoodsID="72000" ShouHuAward="352" />
+  <ShouHu ID="1201" Type="1200" Name="Voi Tuyết" GoodsID="72001" ShouHuAward="364" />
+  <ShouHu ID="1202" Type="1200" Name="Cự Ma Tuyết" GoodsID="72002" ShouHuAward="376" />
+  <ShouHu ID="1203" Type="1200" Name="Ma Nhện Băng" GoodsID="72003" ShouHuAward="388" />
+  <ShouHu ID="1204" Type="1200" Name="Băng Kiếm Hồn" GoodsID="72004" ShouHuAward="400" />
+  <ShouHu ID="1205" Type="1200" Name="Nhện Băng Khổng Lồ" GoodsID="72090" ShouHuAward="1194" />
+  <ShouHu ID="1300" Type="1300" Name="Quỷ Rừng Ma" GoodsID="72100" ShouHuAward="400" />
+  <ShouHu ID="1301" Type="1300" Name="Quỷ Rừng Độc" GoodsID="72101" ShouHuAward="410" />
+  <ShouHu ID="1302" Type="1300" Name="Quỷ Rừng Tàn Nhẫn" GoodsID="72102" ShouHuAward="420" />
+  <ShouHu ID="1303" Type="1300" Name="Tay Sai Ám Ảnh" GoodsID="72103" ShouHuAward="430" />
+  <ShouHu ID="1304" Type="1300" Name="Kỵ Sĩ Ám Ảnh" GoodsID="72104" ShouHuAward="440" />
+  <ShouHu ID="1305" Type="1300" Name="Võ Sĩ Ám Ảnh" GoodsID="72105" ShouHuAward="450" />
+  <ShouHu ID="1306" Type="1300" Name="Lightning Giant" GoodsID="72106" ShouHuAward="460" />
+  <ShouHu ID="1307" Type="1300" Name="Ghost Giant" GoodsID="72107" ShouHuAward="470" />
+  <ShouHu ID="1308" Type="1300" Name="Fire Giant" GoodsID="72108" ShouHuAward="480" />
+  <ShouHu ID="1309" Type="1300" Name="Thuyền Trưởng U Linh" GoodsID="72190" ShouHuAward="1470" />
+  <ShouHu ID="1400" Type="1400" Name="Bọ Cạp Độc" GoodsID="72200" ShouHuAward="500" />
+  <ShouHu ID="1401" Type="1400" Name="Bọ Cạp Xương Trắng" GoodsID="72201" ShouHuAward="500" />
+  <ShouHu ID="1402" Type="1400" Name="Vượn Một Sừng" GoodsID="72202" ShouHuAward="500" />
+  <ShouHu ID="1403" Type="1400" Name="Khỉ Bốn Tay Hắc Ám" GoodsID="72203" ShouHuAward="500" />
+  <ShouHu ID="1404" Type="1400" Name="Dũng Sĩ Kim Giáp" GoodsID="72204" ShouHuAward="500" />
+  <ShouHu ID="1405" Type="1400" Name="Nữ Vương Hoàng Phong" GoodsID="72205" ShouHuAward="500" />
+  <ShouHu ID="1406" Type="1400" Name="U Linh Khổng Lồ " GoodsID="72206" ShouHuAward="500" />
+  <ShouHu ID="1407" Type="1400" Name="Cư Nhân Tà Linh" GoodsID="72207" ShouHuAward="500" />
+  <ShouHu ID="1408" Type="1400" Name="Vua Trùng Tộc" GoodsID="72290" ShouHuAward="1500" />
+  <ShouHu ID="1500" Type="1500" Name="Thỏ Dị Thường" GoodsID="72300" ShouHuAward="500" />
+  <ShouHu ID="1501" Type="1500" Name="Bướm Ô Nhiễm" GoodsID="72301" ShouHuAward="500" />
+  <ShouHu ID="1502" Type="1500" Name="Thỏ Ngông Cuồng" GoodsID="72302" ShouHuAward="500" />
+  <ShouHu ID="1503" Type="1500" Name="Người Sói" GoodsID="72303" ShouHuAward="500" />
+  <ShouHu ID="1504" Type="1500" Name="Lời Nguyền Tể Tư" GoodsID="72304" ShouHuAward="500" />
+  <ShouHu ID="1505" Type="1500" Name="Người Cây Đồ Đằng" GoodsID="72305" ShouHuAward="500" />
+  <ShouHu ID="1506" Type="1500" Name="Sói Xám" GoodsID="72306" ShouHuAward="500" />
+  <ShouHu ID="1507" Type="1500" Name="Sói Xám Tàn Bạo" GoodsID="72307" ShouHuAward="500" />
+  <ShouHu ID="1508" Type="1500" Name="Người Tuyết Phong Bạo" GoodsID="72390" ShouHuAward="1500" />
+  <ShouHu ID="1600" Type="1600" Name="Song Tử" GoodsID="72400" ShouHuAward="500" />
+  <ShouHu ID="1601" Type="1600" Name="Nguyên Tố Quái" GoodsID="72401" ShouHuAward="500" />
+  <ShouHu ID="1602" Type="1600" Name="Nguyên Tố Kỵ Sĩ" GoodsID="72402" ShouHuAward="500" />
+  <ShouHu ID="1603" Type="1600" Name="Song Tử Viễn Cổ" GoodsID="72403" ShouHuAward="500" />
+  <ShouHu ID="1604" Type="1600" Name="Nguyên Tố Quái Viễn Cổ" GoodsID="72404" ShouHuAward="500" />
+  <ShouHu ID="1605" Type="1600" Name="Nguyên Tố Kỵ Sĩ Viễn Cổ" GoodsID="72405" ShouHuAward="500" />
+  <ShouHu ID="1606" Type="1600" Name="Tinh Phách Tân Duy" GoodsID="72490" ShouHuAward="1500" />
+  <ShouHu ID="1700" Type="1700" Name="Tượng Ác Ma" GoodsID="72500" ShouHuAward="500" />
+  <ShouHu ID="1701" Type="1700" Name="Chiến Sĩ Gió" GoodsID="72501" ShouHuAward="500" />
+  <ShouHu ID="1702" Type="1700" Name="Pháp Sư Hồn" GoodsID="72502" ShouHuAward="500" />
+  <ShouHu ID="1703" Type="1700" Name="Tượng Ác Ma Cổ" GoodsID="72503" ShouHuAward="500" />
+  <ShouHu ID="1704" Type="1700" Name="Chiến Sĩ Gió Cổ" GoodsID="72504" ShouHuAward="500" />
+  <ShouHu ID="1705" Type="1700" Name="Pháp Sư Hồn Cổ" GoodsID="72505" ShouHuAward="500" />
+  <ShouHu ID="1706" Type="1700" Name="Noam" GoodsID="72590" ShouHuAward="1500" />
+  <ShouHu ID="1800" Type="1800" Name="Cuồng Tăng Miếu" GoodsID="72600" ShouHuAward="500" />
+  <ShouHu ID="1801" Type="1800" Name="Ma Tăng Miếu" GoodsID="72601" ShouHuAward="500" />
+  <ShouHu ID="1802" Type="1800" Name="Hộ Pháp Miếu" GoodsID="72602" ShouHuAward="500" />
+  <ShouHu ID="1803" Type="1800" Name="Cuồng Tăng Miếu Cổ" GoodsID="72603" ShouHuAward="500" />
+  <ShouHu ID="1804" Type="1800" Name="Ma Tăng Miếu Cổ" GoodsID="72604" ShouHuAward="500" />
+  <ShouHu ID="1805" Type="1800" Name="Hộ Pháp Miếu Cổ" GoodsID="72605" ShouHuAward="500" />
+  <ShouHu ID="1806" Type="1800" Name="Silas" GoodsID="72690" ShouHuAward="1500" />
+  <ShouHu ID="1900" Type="1900" Name="Cua Mắt Quỷ" GoodsID="72700" ShouHuAward="500" />
+  <ShouHu ID="1901" Type="1900" Name="U Linh Cua Vệ" GoodsID="72701" ShouHuAward="500" />
+  <ShouHu ID="1902" Type="1900" Name="Sứ Đồ Cửu Xà" GoodsID="72702" ShouHuAward="500" />
+  <ShouHu ID="1903" Type="1900" Name="Ma Thôn Vân" GoodsID="72703" ShouHuAward="500" />
+  <ShouHu ID="1904" Type="1900" Name="Ác Linh Nước" GoodsID="72704" ShouHuAward="500" />
+  <ShouHu ID="1905" Type="1900" Name="Thị Nữ Ma Động" GoodsID="72705" ShouHuAward="500" />
+  <ShouHu ID="1906" Type="1900" Name="Nữ Vương Mị Âm" GoodsID="72790" ShouHuAward="1500" />
+  <ShouHu ID="2000" Type="2000" Name="Ruồi Lửa" GoodsID="72800" ShouHuAward="500" />
+  <ShouHu ID="2001" Type="2000" Name="Yêu Quái Xấu" GoodsID="72801" ShouHuAward="500" />
+  <ShouHu ID="2002" Type="2000" Name="Mèo Bí Cảnh" GoodsID="72802" ShouHuAward="500" />
+  <ShouHu ID="2003" Type="2000" Name="Khỉ Tinh Nghịch" GoodsID="72803" ShouHuAward="500" />
+  <ShouHu ID="2004" Type="2000" Name="Đá Nguyên Năng" GoodsID="72804" ShouHuAward="500" />
+  <ShouHu ID="2006" Type="2000" Name="Tiên Nữ Di Tích" GoodsID="72890" ShouHuAward="1500" />
+  <ShouHu ID="2100" Type="2100" Name="Hộ Vệ Paracas" GoodsID="72900" ShouHuAward="500" />
+  <ShouHu ID="2101" Type="2100" Name="Thủ Hộ Bass" GoodsID="72901" ShouHuAward="500" />
+  <ShouHu ID="2102" Type="2100" Name="Kẻ Hầu Basquiat" GoodsID="72902" ShouHuAward="500" />
+  <ShouHu ID="2103" Type="2100" Name="Thủ Hộ Paracas" GoodsID="72903" ShouHuAward="500" />
+  <ShouHu ID="2104" Type="2100" Name="Kẻ Hầu Bass" GoodsID="72904" ShouHuAward="500" />
+  <ShouHu ID="2105" Type="2100" Name="Hộ Vệ Basquiat" GoodsID="72905" ShouHuAward="500" />
+  <ShouHu ID="2106" Type="2100" Name="Knicks" GoodsID="72990" ShouHuAward="1500" />
+  <ShouHu ID="2200" Type="2200" Name="Người Cổ Thụ" GoodsID="73000" ShouHuAward="500" />
+  <ShouHu ID="2201" Type="2200" Name="Người Đầm Lầy" GoodsID="73001" ShouHuAward="500" />
+  <ShouHu ID="2202" Type="2200" Name="Người Nuốt Bóng Tối" GoodsID="73002" ShouHuAward="500" />
+  <ShouHu ID="2203" Type="2200" Name="Trâu Quỷ" GoodsID="73003" ShouHuAward="500" />
+  <ShouHu ID="2204" Type="2200" Name="Tinh Linh Biến Dị" GoodsID="73004" ShouHuAward="500" />
+  <ShouHu ID="2205" Type="2200" Name="Quái Đầm Lầy" GoodsID="73005" ShouHuAward="500" />
+  <ShouHu ID="2206" Type="2200" Name="Hydra" GoodsID="73090" ShouHuAward="1500" />
+</Config>"

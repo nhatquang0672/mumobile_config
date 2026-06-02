@@ -1,0 +1,9 @@
+TextAsset Base
+	string m_Name = "CircusFruitRank"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <CircusFruitRank ID="1" Rank="1,1" Reward="2005,50,1,0,0,0,0" />
+  <CircusFruitRank ID="2" Rank="2,2" Reward="2005,40,1,0,0,0,0" />
+  <CircusFruitRank ID="3" Rank="3,3" Reward="2005,30,1,0,0,0,0" />
+  <CircusFruitRank ID="4" Rank="4,50" Reward="2005,20,1,0,0,0,0" />
+</config>"

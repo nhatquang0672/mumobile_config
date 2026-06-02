@@ -1,0 +1,23 @@
+TextAsset Base
+	string m_Name = "RebornIntro"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Chi tiết hệ thống Tái Sinh{-}" Bold="1" />
+  <HelpIntro ID="2" Intro="{fac60d}Cấp Tái Sinh" Bold="1" />
+  <HelpIntro ID="3" Intro="{dac7ae}1, Nhân vật khi đạt đều kiện Tái Sinh sẽ nhận được {17e43e}cấp Tái Sinh{-}" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}2, Diệt quái trong bản đồ Tái Sinh sẽ nhận {17e43e}EXP Tái Sinh{-}, tích lũy {17e43e}EXP Tái Sinh{-} để tăng cấp Tái Sinh" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}3, Cấp Tái Sinh có giới hạn, tăng bậc để tăng giới hạn cấp Tái Sinh" Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}4, Trong bản đồ Tái Sinh sẽ hiển thị cấp Tái Sinh, trong bản đồ gốc sẽ hiển thị cấp chuyển sinh" Bold="0" />
+  <HelpIntro ID="7" Intro="{fac60d}Thuộc tính Tái Sinh" Bold="1" />
+  <HelpIntro ID="8" Intro="{dac7ae}1, Có 5 hệ: {ffcc19}Thần Thánh{-}, {b266ff}Ám Ảnh{-}, {17e43e}Tự Nhiên{-}, {ff0000}Hỗn Độn{-}, {3681f3}Ác Mộng{-}" Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae}2, Thuộc tính Tái Sinh sẽ {17e43e}tăng mạnh{-} trong bản đồ Tái Sinh" Bold="0" />
+  <HelpIntro ID="10" Intro="{dac7ae}3, Trong bản đồ Tái Sinh, nhân vật và quái vật đều nhận được hiệu quả giảm DMG" Bold="0" />
+  <HelpIntro ID="11" Intro="{dac7ae}4, Trong bản đồ Tái Sinh, mỗi loại quái vật đều có {17e43e}nhược điểm{-}, tấn công vào nhược điểm sẽ gây {ff0000}DMG cực lớn{-}" Bold="0" />
+  <HelpIntro ID="12" Intro="{fac60d}Bản đồ Tái Sinh" Bold="1" />
+  <HelpIntro ID="13" Intro="{dac7ae}1, Bản đồ Tái Sinh là {17e43e}bản đồ liên server{-}" Bold="0" />
+  <HelpIntro ID="14" Intro="{dac7ae}2, Dạng PK: Kênh 1, 2 là {17e43e} dạng hóa bình{-}; Kênh 3, 4, 5 có thể thay đổi {ff0000}dạng Chiến Minh{-} và {17e43e}dạng hòa bình{-}{-}" Bold="0" />
+  <HelpIntro ID="15" Intro="{fac60d}Hệ thống liên trảm" Bold="1" />
+  <HelpIntro ID="16" Intro="{dac7ae}1, Liên tục diệt quái sẽ tích lũy số lần liên trảm Tái Sinh" Bold="0" />
+  <HelpIntro ID="17" Intro="{dac7ae}2, Không tiêu diệt một thời gian sẽ mất số liên trảm" Bold="0" />
+  <HelpIntro ID="18" Intro="{dac7ae}3, Liên trảm đạt mức nhất định sẽ nhận {17e43e}EXP tăng thêm{-}" Bold="0" />
+</Config>"

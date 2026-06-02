@@ -1,0 +1,19 @@
+TextAsset Base
+	string m_Name = "GodBossHelpIntro"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Giới thiệu Đại Lục Thần Ma: {dac7ae}" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1. BOSS trong chiến trường có thuộc tính Tái Sinh Dị Thương, đặc điểm BOSS cụ thể là: {dac7ae}" Bold="0" />
+  <HelpIntro ID="3" Intro="   {3681f3}Swaytt: Thần Thánh, Ám Ảnh, Tự Nhiên Dị Thương{dac7ae}" Bold="0" />
+  <HelpIntro ID="4" Intro="   {3681f3}Nome: Ám Ảnh, Tự Nhiên, Hỗn Độn Dị Thương{dac7ae}" Bold="0" />
+  <HelpIntro ID="5" Intro="   {3681f3}Ciras: Tự Nhiên, Hỗn Độn, Ác Mộng Dị Thương{dac7ae}" Bold="0" />
+  <HelpIntro ID="6" Intro="   {3681f3}Nữ Hoàng Ma: Thần Thánh, Hỗn Độn, Ác Mộng Dị Thương{dac7ae}" Bold="0" />
+  <HelpIntro ID="7" Intro="   {3681f3}Tiên Nữ: Thần Thánh, Ác Mộng, Ám Ảnh Dị Thương{dac7ae}" Bold="0" />
+  <HelpIntro ID="8" Intro="   {3681f3}Knicks: Thần Thánh, Ám Ảnh, Tự Nhiên Dị Thương{dac7ae}" Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae}2. {ff0000}12:30{dac7ae}, {ff0000}14:30{dac7ae}, {ff0000}18:30{dac7ae} hàng ngày, làm mới BOSS. {dac7ae}" Bold="0" />
+  <HelpIntro ID="10" Intro="{dac7ae}3. Khiêu chiến BOSS Đại Lục Thần Ma cần mở khóa cấp Tái Sinh, không đủ cấp không thể tham gia. {dac7ae}" Bold="0" />
+  <HelpIntro ID="11" Intro="{dac7ae}4. BOSS tử vong trong chiến trường sẽ thành Bia Mộ, đào Bia Mộ có thể nhận được thưởng ngẫu nhiên, mỗi Bia Mộ chỉ được đào 1 lần. {dac7ae}" Bold="0" />
+  <HelpIntro ID="12" Intro="{dac7ae}5. Tổng số lần đào Bia Mộ là {fac60d}5{dac7ae} lần, khi số lần không đủ thì không thể đào. {dac7ae}" Bold="0" />
+  <HelpIntro ID="13" Intro="{dac7ae}6. Đội hoặc cá nhân gây ra DMG cao nhất cho BOSS sẽ nhận được Thưởng Rơi Rớt. {dac7ae}" Bold="0" />
+  <HelpIntro ID="14" Intro="{dac7ae}7. Người chơi gây ra đòn cuối cho BOSS có thể nhận được Thưởng Đòn Cuối. {dac7ae}" Bold="0" />
+</Config>"

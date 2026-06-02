@@ -1,0 +1,13 @@
+TextAsset Base
+	string m_Name = "LeagueSuperIntro"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Quy tắc" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Mỗi T7, CN{17e43e}20:30-21:00{dac7ae}，Mỗi quý có 7 lượt" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, Chiến Minh sở hữu tư cách Liên Minh Hoàng Kim có thể tham gia, {17e43e}không cần báo danh" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, Vòng đấu Liên Minh Hoàng Kim là {17e43e}đấu tuần hoàn{dac7ae}, mỗi mùa thi 2 Liên Minh chỉ gặp nhau 1  lần" Bold="0" />
+  <HelpIntro ID="5" Intro="{fac60d}Quy tắc xếp hạng" Bold="1" />
+  <HelpIntro ID="6" Intro="{dac7ae}1, Căn cứ BXH {17e43e}số trận thắng{dac7ae}, số trận thắng giống nhau sẽ XH căn cứ {17e43e}thắng bại{dac7ae} giữa nhau" Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae}2, XH của 2 Chiến Minh sau cùng sẽ bị {ff0000}giáng cấp{dac7ae}, không thể tham gia Liên Minh Hoàng Kim kỳ sau." Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae}3, Mùa giải kết thúc có thể nhận {17e43e}giải thưởng mùa thi." Bold="0" />
+</Config>"

@@ -1,0 +1,9 @@
+TextAsset Base
+	string m_Name = "MoKaType"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <MoKaType ID="1" Type="1" Name="赤星" Model="1110" IsOpen="1" Picture="chixing" />
+  <MoKaType ID="2" Type="2" Name="虚空" Model="1111" IsOpen="1" Picture="xukong" />
+  <MoKaType ID="3" Type="3" Name="萌芽" Model="1112" IsOpen="1" Picture="mengya" />
+  <MoKaType ID="4" Type="4" Name="黯灭" Model="1113" IsOpen="1" Picture="anmie" />
+</config>"

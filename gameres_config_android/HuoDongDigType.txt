@@ -1,0 +1,7 @@
+TextAsset Base
+	string m_Name = "HuoDongDigType"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <QiFuType ID="1" Name="主要产出6-7-8阶装备" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="4" MaxLevel="100" Goods="1005008,-1,0,0,1,235|1015008,-1,0,0,1,235|1025408,-1,0,0,1,235|1033090,-1,0,0,0,0|1034018,-1,0,0,0,0|1035001,-1,0,0,0,0" />
+  <QiFuType ID="2" Name="主要产出7-8-9阶装备" MinZhuanSheng="5" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Goods="1005009,-1,0,0,1,235|1015009,-1,0,0,1,235|1025409,-1,0,0,1,235|1033090,-1,0,0,0,0|1034018,-1,0,0,0,0|1035001,-1,0,0,0,0" />
+</Config>"

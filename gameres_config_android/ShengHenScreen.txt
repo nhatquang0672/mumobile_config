@@ -1,0 +1,13 @@
+TextAsset Base
+	string m_Name = "ShengHenScreen"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ShengHenScreen ID="1" TypeID="1" ScreenName="0" />
+  <ShengHenScreen ID="2" TypeID="1" ScreenName="1" />
+  <ShengHenScreen ID="3" TypeID="1" ScreenName="2" />
+  <ShengHenScreen ID="4" TypeID="1" ScreenName="3" />
+  <ShengHenScreen ID="5" TypeID="1" ScreenName="4" />
+  <ShengHenScreen ID="6" TypeID="2" ScreenName="IncreasePhyAttack" />
+  <ShengHenScreen ID="7" TypeID="2" ScreenName="MaxLifePercent" />
+  <ShengHenScreen ID="8" TypeID="2" ScreenName="Lucky" />
+</Config>"

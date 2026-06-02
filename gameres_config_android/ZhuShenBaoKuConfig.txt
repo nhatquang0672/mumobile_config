@@ -1,0 +1,6 @@
+TextAsset Base
+	string m_Name = "ZhuShenBaoKuConfig"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ZhuShenBaoKuConfig ID="1" RefreshTime="7,0,0,0" GetJiFen="1" RandomAwardsNum="1,5|2,5|3,5" OneCost="222,200" TenCost="222,2000" LiBaoGift="1,50000|222,200" LiBaoGiftCost="40,200" LiBaoDec="Mua gói xu vàng, sẽ nhận 200 chìa khóa kho báu, chìa khóa kho báu dùng để rút thưởng trong Kho Báu Chư Thần" IsGive="0,0" GetLiBaoName="Gói xu vàng, gói chìa khóa kho báu" CangKuNum="360" />
+</Config>"

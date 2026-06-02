@@ -1,0 +1,22 @@
+TextAsset Base
+	string m_Name = "MapLine"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <MapLine ID="1" Name="Karutan" Line="1,50|2,50|3,50|4,50|5,50" MaxNum="500" Type="0" />
+  <MapLine ID="2" Name="Elbeland" Line="1,60|2,60|3,60|4,60|5,60" MaxNum="500" Type="0" />
+  <MapLine ID="3" Name="Aklan-West" Line="1,70|2,70|3,70|4,70|5,70" MaxNum="500" Type="0" />
+  <MapLine ID="4" Name="Aklan-East" Line="1,80|2,80|3,80|4,80|5,80" MaxNum="500" Type="0" />
+  <MapLine ID="5" Name="Miếu Tà Ác" Line="1,90|2,90|3,90|4,90|5,90" MaxNum="500" Type="0" />
+  <MapLine ID="6" Name="Mị Âm Mê Quật" Line="1,100|2,100|3,100|4,100|5,100" MaxNum="500" Type="0" />
+  <MapLine ID="7" Name="Di Tích Lãng Quên" Line="1,110|2,110|3,110|4,110|5,110" MaxNum="500" Type="0" />
+  <MapLine ID="8" Name="Hồ Nixis" Line="1,120|2,120|3,120|4,120|5,120" MaxNum="500" Type="0" />
+  <MapLine ID="9" Name="Đầm Bóng Tối" Line="1,130|2,130|3,130|4,130|5,130" MaxNum="500" Type="0" />
+  <MapLine ID="100" Name="Lục Địa Mới" Line="1,96000|2,96000|3,96000|4,96000|5,96000" MaxNum="250" Type="1" />
+  <MapLine ID="101" Name="Đảo Ma Long" Line="1,99001" MaxNum="150" Type="1" />
+  <MapLine ID="102" Name="Đảo Tù Thần 1" Line="1,99101" MaxNum="250" Type="1" />
+  <MapLine ID="103" Name="Đảo Tù Thần 2" Line="2,99102" MaxNum="250" Type="1" />
+  <MapLine ID="104" Name="Đảo Tù Thần 3" Line="3,99103" MaxNum="250" Type="1" />
+  <MapLine ID="401" Name="Map Squires" Line="1,99401" MaxNum="250" Type="1" />
+  <MapLine ID="402" Name="Bản Đồ Thị Vệ" Line="2,99402" MaxNum="250" Type="1" />
+  <MapLine ID="403" Name="Bản Đồ Thị Vệ Trưởng" Line="3,99403" MaxNum="250" Type="1" />
+</Config>"

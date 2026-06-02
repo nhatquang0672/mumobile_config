@@ -1,0 +1,15 @@
+TextAsset Base
+	string m_Name = "JuHunType"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <JuHunType TypeID="1" Name="Hồn Viêm Sơ Tụ Bậc 1" />
+  <JuHunType TypeID="2" Name="Hồn Viêm Dung Hợp Bậc 2" />
+  <JuHunType TypeID="3" Name="Linh Viêm Sơ Tụ Bậc 3" />
+  <JuHunType TypeID="4" Name="Linh Viêm Đồng Điệu Bậc 4" />
+  <JuHunType TypeID="5" Name="Thương Viêm Sơ Tụ Bậc 5" />
+  <JuHunType TypeID="6" Name="Thương Viêm Thăng Hoa Bậc 6" />
+  <JuHunType TypeID="7" Name="Diệt Viêm Sơ Tụ Bậc 7" />
+  <JuHunType TypeID="8" Name="Diệt Viêm Nở Bậc 8" />
+  <JuHunType TypeID="9" Name="Xích Viêm Sơ Tụ Bậc 9" />
+  <JuHunType TypeID="10" Name="Xích Viêm Hợp Nhất Bậc 10" />
+</Config>"

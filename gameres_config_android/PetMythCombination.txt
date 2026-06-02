@@ -1,0 +1,24 @@
+TextAsset Base
+	string m_Name = "PetMythCombination"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <PetMythCombination ID="1" Condition="30" Description="Tổng số sao đã kích hoạt: 30" Prop="FatalAttack,0.2|DoubleAttack,0.2" />
+  <PetMythCombination ID="2" Condition="50" Description="Tổng số sao đã kích hoạt: 50" Prop="FatalAttack,0.3|DoubleAttack,0.3" />
+  <PetMythCombination ID="3" Condition="70" Description="Tổng số sao đã kích hoạt: 70" Prop="FatalAttack,0.4|DoubleAttack,0.4" />
+  <PetMythCombination ID="4" Condition="90" Description="Tổng số sao đã kích hoạt: 90" Prop="FatalAttack,0.5|DoubleAttack,0.5" />
+  <PetMythCombination ID="5" Condition="110" Description="Tổng số sao đã kích hoạt: 110" Prop="FatalAttack,0.6|DoubleAttack,0.6" />
+  <PetMythCombination ID="6" Condition="130" Description="Tổng số sao đã kích hoạt: 130" Prop="FatalAttack,0.7|DoubleAttack,0.7" />
+  <PetMythCombination ID="7" Condition="150" Description="Tổng số sao đã kích hoạt: 150" Prop="FatalAttack,0.8|DoubleAttack,0.8" />
+  <PetMythCombination ID="8" Condition="170" Description="Tổng số sao đã kích hoạt: 170" Prop="FatalAttack,0.9|DoubleAttack,0.9" />
+  <PetMythCombination ID="9" Condition="190" Description="Tổng số sao đã kích hoạt: 190" Prop="FatalAttack,1|DoubleAttack,1" />
+  <PetMythCombination ID="10" Condition="210" Description="Tổng số sao đã kích hoạt: 210" Prop="FatalAttack,1.2|DoubleAttack,1.5" />
+  <PetMythCombination ID="11" Condition="230" Description="Tổng số sao đã kích hoạt: 230" Prop="FatalAttack,1.4|DoubleAttack,1.4" />
+  <PetMythCombination ID="12" Condition="250" Description="Tổng số sao đã kích hoạt: 250" Prop="FatalAttack,1.6|DoubleAttack,1.6" />
+  <PetMythCombination ID="13" Condition="270" Description="Tổng số sao đã kích hoạt: 270" Prop="FatalAttack,1.8|DoubleAttack,1.8" />
+  <PetMythCombination ID="14" Condition="290" Description="Tổng số sao đã kích hoạt: 290" Prop="FatalAttack,2|DoubleAttack,2" />
+  <PetMythCombination ID="15" Condition="310" Description="Tổng số sao đã kích hoạt: 310" Prop="FatalAttack,2.2|DoubleAttack,2.4" />
+  <PetMythCombination ID="16" Condition="330" Description="Tổng số sao đã kích hoạt: 330" Prop="FatalAttack,2.6|DoubleAttack,2.6" />
+  <PetMythCombination ID="17" Condition="350" Description="Tổng số sao đã kích hoạt: 350" Prop="FatalAttack,2.8|DoubleAttack,2.9" />
+  <PetMythCombination ID="18" Condition="370" Description="Tổng số sao đã kích hoạt: 370" Prop="FatalAttack,3|DoubleAttack,3" />
+  <PetMythCombination ID="19" Condition="400" Description="Tổng số sao đã kích hoạt: 400" Prop="FatalAttack,3.5|DoubleAttack,3.5" />
+</Config>"

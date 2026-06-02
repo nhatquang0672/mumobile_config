@@ -1,0 +1,25 @@
+TextAsset Base
+	string m_Name = "MoFaSaoZhouJie"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <MoFaSaoZhouJie ID="1" Name="Chổi Phép Bậc 1" SaoZhouStageLevel="1" SaoZhouModerID="1100" LuckyOne="109975" LuckyTwo="109995" LuckyTwoRate="0.5" NeedGoods="2143|2" NeedZuanShi="20" AttributeNum="4" />
+  <MoFaSaoZhouJie ID="2" Name="Chổi Phép Bậc 2" SaoZhouStageLevel="2" SaoZhouModerID="1100" LuckyOne="109965" LuckyTwo="109995" LuckyTwoRate="0.5" NeedGoods="2143|3" NeedZuanShi="30" AttributeNum="4" />
+  <MoFaSaoZhouJie ID="3" Name="Chổi Phép Bậc 3" SaoZhouStageLevel="3" SaoZhouModerID="1100" LuckyOne="109955" LuckyTwo="109995" LuckyTwoRate="0.4" NeedGoods="2143|4" NeedZuanShi="40" AttributeNum="4" />
+  <MoFaSaoZhouJie ID="4" Name="Chổi Phép Bậc 4" SaoZhouStageLevel="4" SaoZhouModerID="1101" LuckyOne="109940" LuckyTwo="109990" LuckyTwoRate="0.4" NeedGoods="2143|5" NeedZuanShi="50" AttributeNum="4" />
+  <MoFaSaoZhouJie ID="5" Name="Chổi Phép Bậc 5" SaoZhouStageLevel="5" SaoZhouModerID="1101" LuckyOne="109930" LuckyTwo="109990" LuckyTwoRate="0.3" NeedGoods="2143|6" NeedZuanShi="60" AttributeNum="4" />
+  <MoFaSaoZhouJie ID="6" Name="Chổi Phép Bậc 6" SaoZhouStageLevel="6" SaoZhouModerID="1101" LuckyOne="109915" LuckyTwo="109985" LuckyTwoRate="0.3" NeedGoods="2143|7" NeedZuanShi="70" AttributeNum="4" />
+  <MoFaSaoZhouJie ID="7" Name="Chổi Phép Bậc 7" SaoZhouStageLevel="7" SaoZhouModerID="1102" LuckyOne="109905" LuckyTwo="109985" LuckyTwoRate="0.2" NeedGoods="2143|8" NeedZuanShi="80" AttributeNum="4" />
+  <MoFaSaoZhouJie ID="8" Name="Chổi Phép Bậc 8" SaoZhouStageLevel="8" SaoZhouModerID="1102" LuckyOne="109890" LuckyTwo="109980" LuckyTwoRate="0.2" NeedGoods="2143|9" NeedZuanShi="90" AttributeNum="4" />
+  <MoFaSaoZhouJie ID="9" Name="Chổi Phép Bậc 9" SaoZhouStageLevel="9" SaoZhouModerID="1102" LuckyOne="109860" LuckyTwo="109980" LuckyTwoRate="0.1" NeedGoods="2143|10" NeedZuanShi="100" AttributeNum="4" />
+  <MoFaSaoZhouJie ID="10" Name="Chổi Phép Bậc 10" SaoZhouStageLevel="10" SaoZhouModerID="1103" LuckyOne="109830" LuckyTwo="109970" LuckyTwoRate="0.1" NeedGoods="2143|11" NeedZuanShi="110" AttributeNum="4" />
+  <MoFaSaoZhouJie ID="11" Name="Chổi Phép Bậc 11" SaoZhouStageLevel="11" SaoZhouModerID="1103" LuckyOne="109810" LuckyTwo="109970" LuckyTwoRate="0.1" NeedGoods="2143|12" NeedZuanShi="120" AttributeNum="4" />
+  <MoFaSaoZhouJie ID="12" Name="Chổi Phép Bậc 12" SaoZhouStageLevel="12" SaoZhouModerID="1103" LuckyOne="109790" LuckyTwo="109970" LuckyTwoRate="0.1" NeedGoods="2143|13" NeedZuanShi="130" AttributeNum="4" />
+  <MoFaSaoZhouJie ID="13" Name="Chổi Phép Bậc 13" SaoZhouStageLevel="13" SaoZhouModerID="1104" LuckyOne="109770" LuckyTwo="109970" LuckyTwoRate="0.1" NeedGoods="2143|14" NeedZuanShi="140" AttributeNum="4" />
+  <MoFaSaoZhouJie ID="14" Name="Chổi Phép Bậc 14" SaoZhouStageLevel="14" SaoZhouModerID="1104" LuckyOne="109750" LuckyTwo="109970" LuckyTwoRate="0.1" NeedGoods="2143|15" NeedZuanShi="150" AttributeNum="4" />
+  <MoFaSaoZhouJie ID="15" Name="Chổi Phép Bậc 15" SaoZhouStageLevel="15" SaoZhouModerID="1105" LuckyOne="109730" LuckyTwo="109970" LuckyTwoRate="0.1" NeedGoods="2143|16" NeedZuanShi="160" AttributeNum="4" />
+  <MoFaSaoZhouJie ID="16" Name="Chổi Phép Bậc 16" SaoZhouStageLevel="16" SaoZhouModerID="1105" LuckyOne="109710" LuckyTwo="109970" LuckyTwoRate="0.1" NeedGoods="2143|17" NeedZuanShi="170" AttributeNum="4" />
+  <MoFaSaoZhouJie ID="17" Name="Chổi Phép Bậc 17" SaoZhouStageLevel="17" SaoZhouModerID="1106" LuckyOne="109690" LuckyTwo="109970" LuckyTwoRate="0.1" NeedGoods="2143|18" NeedZuanShi="180" AttributeNum="4" />
+  <MoFaSaoZhouJie ID="18" Name="Chổi Phép Bậc 18" SaoZhouStageLevel="18" SaoZhouModerID="1106" LuckyOne="109670" LuckyTwo="109970" LuckyTwoRate="0.1" NeedGoods="2143|19" NeedZuanShi="190" AttributeNum="4" />
+  <MoFaSaoZhouJie ID="19" Name="Chổi Phép Bậc 19" SaoZhouStageLevel="19" SaoZhouModerID="1107" LuckyOne="109670" LuckyTwo="109970" LuckyTwoRate="0.1" NeedGoods="2143|20" NeedZuanShi="200" AttributeNum="4" />
+  <MoFaSaoZhouJie ID="20" Name="Chổi Phép Bậc 20" SaoZhouStageLevel="20" SaoZhouModerID="1107" LuckyOne="-1" LuckyTwo="-1" LuckyTwoRate="-1" NeedGoods="-1" NeedZuanShi="-1" AttributeNum="4" />
+</Config>"

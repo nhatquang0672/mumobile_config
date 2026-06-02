@@ -1,0 +1,7 @@
+TextAsset Base
+	string m_Name = "PetPalaceCombination"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <PetPalaceCombination ID="1" Name="Tổ Hợp Thú Cưng" PetID="1031025,1031029,1031030" Prop="ElementAttackInjurePercent" PropPercent="1,0.15|2,0.3|3,0.5" />
+  <PetPalaceCombination ID="2" Name="Tổ Hợp Thú Cưng Dễ Thương Thiên Cung" PetID="1031047,1031048" Prop="IgnoreMagyAttackPercent" PropPercent="1,0.02|2,0.05" />
+</Config>"

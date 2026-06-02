@@ -1,0 +1,6 @@
+TextAsset Base
+	string m_Name = "CircusMallType"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <CircusMallType ID="1" TypeID="10" TypeName="Hào Lễ Kim Cương" />
+</config>"

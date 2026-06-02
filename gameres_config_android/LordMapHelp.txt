@@ -1,0 +1,13 @@
+TextAsset Base
+	string m_Name = "LordMapHelp"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Hướng dẫn săn tước vị: " Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1. {fac60d}Bản đồ tước vị{dac7ae}: Có thể săn BOSS trên bản đồ tước vị, mỗi bản đồ thuộc tính BOSS và phần thưởng không giống nhau." Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2. {fac60d}Mở khóa bản đồ{dac7ae}: Bản đồ săn tước vị cần đạt tước tương ứng mới mở khóa." Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3. {fac60d}Rơi thưởng{dac7ae}: Mỗi BOSS có danh sách sát thương riêng, khi quái bị tiêu diệt, người hoặc đội hạng 1 sát thương sẽ nhận thưởng rơi ra." Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4. {fac60d}Giới hạn săn{dac7ae}: Mỗi người mỗi ngày được săn 3 BOSS. Trong bản đồ săn tước vị diệt BOSS đạt số chỉ định thì không thể gây sát thương cho bất cứ mục tiêu nào nữa." Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5. {fac60d}Dạng PK{dac7ae}: Trong bản đồ có 3 dạng PK là Hòa Bình, Nhóm, Toàn Thể, có thể chuyển đổi, mặc định Hòa Bình." Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae}6. {fac60d}Tạo mới BOSS{dac7ae}: Mỗi ngày sẽ tạo mớ BOSS định kỳ, mỗi BOSS đều có giới hạn tạo mới, đạt giới hạn sẽ không thể tạo mới nữa." Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae}7. {fac60d}Treo thưởng{dac7ae}: Trong bản đồ chỉ định, diệt quái chỉ định đạt số lần yêu cầu sẽ được nhận thưởng." Bold="0" />
+</Config>"

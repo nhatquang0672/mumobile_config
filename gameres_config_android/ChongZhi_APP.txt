@@ -1,0 +1,24 @@
+TextAsset Base
+	string m_Name = "ChongZhi_APP"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <ChongZhi ID="10000" Icon="10000" XianShi="1" MeiYuan="3.99" RMB="480" ZuanShi="480" FirstBindZuanShi="480" productId="858_0_8_480"       productIdAn="858_8_480"/>
+  <ChongZhi ID="1" Icon="1" XianShi="1" MeiYuan="1.99" RMB="240" ZuanShi="240" FirstBindZuanShi="240" productId="858_0_1_120"       productIdAn="858_1_120"/>
+  <ChongZhi ID="2" Icon="2" XianShi="1" MeiYuan="2.99" RMB="360" ZuanShi="360" FirstBindZuanShi="360" productId="858_0_2_360"   productIdAn="858_2_360"/>
+  <ChongZhi ID="3" Icon="3" XianShi="1" MeiYuan="4.99" RMB="600" ZuanShi="600" FirstBindZuanShi="600" productId="858_0_3_600"   productIdAn="858_3_600" />
+  <ChongZhi ID="4" Icon="4" XianShi="1" MeiYuan="9.99" RMB="1200" ZuanShi="1200" FirstBindZuanShi="1200" productId="858_0_4_1200"   productIdAn="858_4_1200"/>
+  <ChongZhi ID="5" Icon="5" XianShi="1" MeiYuan="19.99" RMB="2400" ZuanShi="2400" FirstBindZuanShi="2400" productId="858_0_5_2400" productIdAn="858_5_2400"/>
+  <ChongZhi ID="6" Icon="6" XianShi="1" MeiYuan="49.99" RMB="6000" ZuanShi="6000" FirstBindZuanShi="6000" productId="858_0_6_6000" productIdAn="858_6_6000"/>
+  <ChongZhi ID="7" Icon="7" XianShi="1" MeiYuan="99.99" RMB="12000" ZuanShi="12000" FirstBindZuanShi="12000" productId="858_0_7_12000" productIdAn="858_7_12000"/>
+  <ChongZhi ID="8" Icon="8" XianShi="0" MeiYuan="1.3" RMB="52" ZuanShi="52" FirstBindZuanShi="52" productId="" productIdAn=""/>
+  <ChongZhi ID="9" Icon="9" XianShi="0" MeiYuan="2.6" RMB="104" ZuanShi="104" FirstBindZuanShi="104" productId="" productIdAn=""/>
+  <ChongZhi ID="10" Icon="10" XianShi="0" MeiYuan="3.9" RMB="156" ZuanShi="156" FirstBindZuanShi="156" productId="" productIdAn=""/>
+  <ChongZhi ID="11" Icon="11" XianShi="0" MeiYuan="6.5" RMB="260" ZuanShi="260" FirstBindZuanShi="260" productId="" productIdAn=""/>
+  <ChongZhi ID="12" Icon="12" XianShi="0" MeiYuan="13" RMB="520" ZuanShi="520" FirstBindZuanShi="520" productId="" productIdAn=""/>
+  <ChongZhi ID="13" Icon="13" XianShi="0" MeiYuan="26" RMB="1040" ZuanShi="1040" FirstBindZuanShi="1040" productId="" productIdAn=""/>
+  <ChongZhi ID="14" Icon="14" XianShi="0" MeiYuan="39" RMB="1560" ZuanShi="1560" FirstBindZuanShi="1560" productId="" productIdAn=""/>
+  <ChongZhi ID="15" Icon="15" XianShi="0" MeiYuan="65" RMB="2600" ZuanShi="2600" FirstBindZuanShi="2600" productId="" productIdAn=""/>
+  <ChongZhi ID="16" Icon="16" XianShi="0" MeiYuan="130" RMB="5200" ZuanShi="5200" FirstBindZuanShi="5200" productId="" productIdAn=""/>
+  <ChongZhi ID="17" Icon="17" XianShi="0" MeiYuan="260" RMB="10400" ZuanShi="10400" FirstBindZuanShi="10400" productId="" productIdAn=""/>
+  <ChongZhi ID="18" Icon="18" XianShi="0" MeiYuan="650" RMB="26000" ZuanShi="26000" FirstBindZuanShi="12500" productId="" productIdAn=""/>
+</config>"

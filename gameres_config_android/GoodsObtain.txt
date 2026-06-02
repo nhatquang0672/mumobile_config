@@ -1,0 +1,536 @@
+TextAsset Base
+	string m_Name = "GoodsObtain"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <GoodsObtain GoodsID="2000" CoinID="-1" Name="Đá Hỗn Nguyên" ObtainSwitch="1" BaoDianID="407,500,406,403" />
+  <GoodsObtain GoodsID="2001" CoinID="-1" Name="Đá Chúc Phúc" ObtainSwitch="1" BaoDianID="407,300,406,403,646,648,649,650" />
+  <GoodsObtain GoodsID="2002" CoinID="-1" Name="Ngọc Tâm Linh" ObtainSwitch="1" BaoDianID="407,500,406,403,646,648,649,650" />
+  <GoodsObtain GoodsID="2003" CoinID="-1" Name="Ngọc Sinh Mệnh" ObtainSwitch="1" BaoDianID="602,500,406,403,646,648,649,650" />
+  <GoodsObtain GoodsID="2004" CoinID="-1" Name="Đá Tái Tạo" ObtainSwitch="1" BaoDianID="403" />
+  <GoodsObtain GoodsID="2005" CoinID="-1" Name="Ngọc Hộ Mệnh" ObtainSwitch="1" BaoDianID="407" />
+  <GoodsObtain GoodsID="2016" CoinID="-1" Name="Lông Vũ" ObtainSwitch="1" BaoDianID="602,504,406" />
+  <GoodsObtain GoodsID="2017" CoinID="-1" Name="Đá Thần Ưng" ObtainSwitch="1" BaoDianID="602,504,406" />
+  <GoodsObtain GoodsID="2018" CoinID="-1" Name="Lông Vũ Locke" ObtainSwitch="1" BaoDianID="606" />
+  <GoodsObtain GoodsID="2019" CoinID="-1" Name="Lông Vũ Màu" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="2020" CoinID="-1" Name="Lông Thần Locke" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="2030" CoinID="-1" Name="Đá Tiến Hóa" ObtainSwitch="1" BaoDianID="403,406,646,647,650" />
+  <GoodsObtain GoodsID="2031" CoinID="-1" Name="Đá Tái Tạo" ObtainSwitch="1" BaoDianID="602" />
+  <GoodsObtain GoodsID="2032" CoinID="-1" Name="Tinh Hoa Thủ Hộ" ObtainSwitch="1" BaoDianID="100" />
+  <GoodsObtain GoodsID="2033" CoinID="-1" Name="Thạch Tụ Linh" ObtainSwitch="1" BaoDianID="614,615,616,632,646,650" />
+  <GoodsObtain GoodsID="2034" CoinID="-1" Name="Thạch Tụ Hồn" ObtainSwitch="1" BaoDianID="614,615,616,632,646,650" />
+  <GoodsObtain GoodsID="2035" CoinID="-1" Name="Huy Chương Thành Tựu" ObtainSwitch="1" BaoDianID="662" />
+  <GoodsObtain GoodsID="2036" CoinID="-1" Name="Huy Chương Quân Hàm" ObtainSwitch="1" BaoDianID="662" />
+  <GoodsObtain GoodsID="2038" CoinID="-1" Name="Huy Chương Linh Vũ" ObtainSwitch="1" BaoDianID="662" />
+  <GoodsObtain GoodsID="2039" CoinID="-1" Name="Huy Chương Thánh Vật" ObtainSwitch="1" BaoDianID="662" />
+  <GoodsObtain GoodsID="2040" CoinID="-1" Name="Huy Chương Bảo Hộ" ObtainSwitch="1" BaoDianID="662" />
+  <GoodsObtain GoodsID="2060" CoinID="-1" Name="Đá Mặt Đất" ObtainSwitch="1" BaoDianID="403" />
+  <GoodsObtain GoodsID="2061" CoinID="-1" Name="Đá Phong Bạo" ObtainSwitch="1" BaoDianID="403" />
+  <GoodsObtain GoodsID="2062" CoinID="-1" Name="Đá Dung Nham" ObtainSwitch="1" BaoDianID="403" />
+  <GoodsObtain GoodsID="2063" CoinID="-1" Name="Đá Thủy Triều" ObtainSwitch="1" BaoDianID="403" />
+  <GoodsObtain GoodsID="2070" CoinID="-1" Name="Mảnh Mũ Thượng Cổ" ObtainSwitch="1" BaoDianID="620" />
+  <GoodsObtain GoodsID="2071" CoinID="-1" Name="Mảnh Giáp Tay Thượng Cổ" ObtainSwitch="1" BaoDianID="620" />
+  <GoodsObtain GoodsID="2072" CoinID="-1" Name="Mảnh Giáp Chân Thượng Cổ" ObtainSwitch="1" BaoDianID="620" />
+  <GoodsObtain GoodsID="2073" CoinID="-1" Name="Mảnh Giày Thượng Cổ" ObtainSwitch="1" BaoDianID="620" />
+  <GoodsObtain GoodsID="2074" CoinID="-1" Name="Mảnh Nhẫn Thượng Cổ" ObtainSwitch="1" BaoDianID="620" />
+  <GoodsObtain GoodsID="2075" CoinID="-1" Name="Mảnh Dây Thượng Cổ" ObtainSwitch="1" BaoDianID="620" />
+  <GoodsObtain GoodsID="2076" CoinID="-1" Name="Mảnh Mũ Viễn Cổ" ObtainSwitch="1" BaoDianID="613" />
+  <GoodsObtain GoodsID="2077" CoinID="-1" Name="Mảnh Giáp Tay Viễn Cổ" ObtainSwitch="1" BaoDianID="613" />
+  <GoodsObtain GoodsID="2078" CoinID="-1" Name="Mảnh Giáp Chân Viễn Cổ" ObtainSwitch="1" BaoDianID="613" />
+  <GoodsObtain GoodsID="2079" CoinID="-1" Name="Mảnh Giày Viễn Cổ" ObtainSwitch="1" BaoDianID="613" />
+  <GoodsObtain GoodsID="2080" CoinID="-1" Name="Mảnh Nhẫn Viễn Cổ" ObtainSwitch="1" BaoDianID="613" />
+  <GoodsObtain GoodsID="2081" CoinID="-1" Name="Mảnh Dây Viễn Cổ" ObtainSwitch="1" BaoDianID="613" />
+  <GoodsObtain GoodsID="2082" CoinID="-1" Name="Mảnh Mũ Thái Cổ" ObtainSwitch="1" BaoDianID="613" />
+  <GoodsObtain GoodsID="2083" CoinID="-1" Name="Mảnh Giáp Tay Thái Cổ" ObtainSwitch="1" BaoDianID="613" />
+  <GoodsObtain GoodsID="2084" CoinID="-1" Name="Mảnh Giáp Chân Thái Cổ" ObtainSwitch="1" BaoDianID="613" />
+  <GoodsObtain GoodsID="2085" CoinID="-1" Name="Mảnh Giày Thái Cổ" ObtainSwitch="1" BaoDianID="613" />
+  <GoodsObtain GoodsID="2086" CoinID="-1" Name="Mảnh Nhẫn Thái Cổ" ObtainSwitch="1" BaoDianID="613" />
+  <GoodsObtain GoodsID="2087" CoinID="-1" Name="Mảnh Dây Thái Cổ" ObtainSwitch="1" BaoDianID="613" />
+  <GoodsObtain GoodsID="2088" CoinID="-1" Name="Mảnh Mũ Hằng Cổ" ObtainSwitch="1" BaoDianID="613" />
+  <GoodsObtain GoodsID="2089" CoinID="-1" Name="Mảnh Giáp Tay Hằng Cổ" ObtainSwitch="1" BaoDianID="613" />
+  <GoodsObtain GoodsID="2090" CoinID="-1" Name="Mảnh Giáp Chân Hằng Cổ" ObtainSwitch="1" BaoDianID="613" />
+  <GoodsObtain GoodsID="2091" CoinID="-1" Name="Mảnh Giày Hằng Cổ" ObtainSwitch="1" BaoDianID="613" />
+  <GoodsObtain GoodsID="2092" CoinID="-1" Name="Mảnh Nhẫn Hằng Cổ" ObtainSwitch="1" BaoDianID="613" />
+  <GoodsObtain GoodsID="2093" CoinID="-1" Name="Mảnh Dây Hằng Cổ" ObtainSwitch="1" BaoDianID="613" />
+  <GoodsObtain GoodsID="2094" CoinID="-1" Name="Mảnh Mũ Vạn Cổ" ObtainSwitch="1" BaoDianID="613" />
+  <GoodsObtain GoodsID="2095" CoinID="-1" Name="Mảnh Giáp Tay Vạn Cổ" ObtainSwitch="1" BaoDianID="613" />
+  <GoodsObtain GoodsID="2096" CoinID="-1" Name="Mảnh Giáp Chân Vạn Cổ" ObtainSwitch="1" BaoDianID="613" />
+  <GoodsObtain GoodsID="2097" CoinID="-1" Name="Mảnh Giày Vạn Cổ" ObtainSwitch="1" BaoDianID="613" />
+  <GoodsObtain GoodsID="2098" CoinID="-1" Name="Mảnh Nhẫn Vạn Cổ" ObtainSwitch="1" BaoDianID="613" />
+  <GoodsObtain GoodsID="2099" CoinID="-1" Name="Mảnh Dây Vạn Cổ" ObtainSwitch="1" BaoDianID="613" />
+  <GoodsObtain GoodsID="2100" CoinID="-1" Name="Sách EXP Ma Pháp" ObtainSwitch="1" BaoDianID="607,632" />
+  <GoodsObtain GoodsID="2101" CoinID="-1" Name="Kết Tinh Ma Pháp" ObtainSwitch="1" BaoDianID="607,632" />
+  <GoodsObtain GoodsID="2102" CoinID="-1" Name="Chổi Phép" ObtainSwitch="1" BaoDianID="607" />
+  <GoodsObtain GoodsID="2103" CoinID="-1" Name="Huy Hiệu Ánh Sáng" ObtainSwitch="1" BaoDianID="623,615,604" />
+  <GoodsObtain GoodsID="2104" CoinID="-1" Name="Huy Hiệu Thủ Vệ" ObtainSwitch="1" BaoDianID="623,615,604" />
+  <GoodsObtain GoodsID="2108" CoinID="-1" Name="Đá Ánh Trăng" ObtainSwitch="1" BaoDianID="635" />
+  <GoodsObtain GoodsID="2109" CoinID="-1" Name="Hộp Ánh Sao" ObtainSwitch="1" BaoDianID="635" />
+  <GoodsObtain GoodsID="2110" CoinID="-1" Name="Kết Tinh Viễn Cổ" ObtainSwitch="1" BaoDianID="616,100,620" />
+  <GoodsObtain GoodsID="2111" CoinID="-1" Name="Kết Tinh Thái Cổ" ObtainSwitch="1" BaoDianID="616,100,620" />
+  <GoodsObtain GoodsID="2112" CoinID="-1" Name="Kết Tinh Hằng Cổ" ObtainSwitch="1" BaoDianID="616,100,620" />
+  <GoodsObtain GoodsID="2113" CoinID="-1" Name="Kết Tinh Vạn Cổ" ObtainSwitch="1" BaoDianID="616,100,620" />
+  <GoodsObtain GoodsID="2130" CoinID="-1" Name="Thật lòng chúc phúc" ObtainSwitch="1" BaoDianID="626" />
+  <GoodsObtain GoodsID="2131" CoinID="-1" Name="Đá Tiến Bậc Thú Cưỡi Sơ" ObtainSwitch="1" BaoDianID="629" />
+  <GoodsObtain GoodsID="2132" CoinID="-1" Name="Đá Tiến Bậc Thú Cưỡi Trung" ObtainSwitch="1" BaoDianID="629" />
+  <GoodsObtain GoodsID="2133" CoinID="-1" Name="Đá Tiến Bậc Thú Cưỡi Cao" ObtainSwitch="1" BaoDianID="629" />
+  <GoodsObtain GoodsID="2140" CoinID="-1" Name="Hãy đến shop Thế Lực Mạnh Nhất để đổi" ObtainSwitch="1" BaoDianID="" />
+  <GoodsObtain GoodsID="2141" CoinID="-1" Name="Hãy đến shop Thế Lực Mạnh Nhất để đổi" ObtainSwitch="1" BaoDianID="" />
+  <GoodsObtain GoodsID="2200" CoinID="-1" Name="Hãy đến shop Lực Nhân để đổi" ObtainSwitch="1" BaoDianID="" />
+  <GoodsObtain GoodsID="2201" CoinID="-1" Name="Hãy đến shop Lực Nhân để đổi" ObtainSwitch="1" BaoDianID="" />
+  <GoodsObtain GoodsID="2202" CoinID="-1" Name="Hãy đến shop Lực Nhân để đổi" ObtainSwitch="1" BaoDianID="" />
+  <GoodsObtain GoodsID="2203" CoinID="-1" Name="Event Thế Lực cho ra" ObtainSwitch="1" BaoDianID="" />
+  <GoodsObtain GoodsID="2300" CoinID="-1" Name="Hãy đến shop Thế Lực Cao Nhất để đổi" ObtainSwitch="1" BaoDianID="" />
+  <GoodsObtain GoodsID="2301" CoinID="-1" Name="Hãy đến shop Thế Lực Mạnh Nhất để đổi" ObtainSwitch="1" BaoDianID="" />
+  <GoodsObtain GoodsID="2303" CoinID="-1" Name="Chìa Khóa May Mắn" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="5000" CoinID="-1" Name="Quả Cao Cấp" ObtainSwitch="1" BaoDianID="203" />
+  <GoodsObtain GoodsID="5001" CoinID="-1" Name="Quả Cực Phẩm" ObtainSwitch="1" BaoDianID="203" />
+  <GoodsObtain GoodsID="5002" CoinID="-1" Name="Quả" ObtainSwitch="1" BaoDianID="203" />
+  <GoodsObtain GoodsID="5100" CoinID="-1" Name="Quả Ngẫu Nhiên" ObtainSwitch="1" BaoDianID="203" />
+  <GoodsObtain GoodsID="5101" CoinID="-1" Name="Quả Sức Mạnh Cao Cấp" ObtainSwitch="1" BaoDianID="203" />
+  <GoodsObtain GoodsID="5102" CoinID="-1" Name="Quả Nhanh Nhẹn Cao Cấp" ObtainSwitch="1" BaoDianID="203" />
+  <GoodsObtain GoodsID="5103" CoinID="-1" Name="Quả Trí Khôn Cao Cấp" ObtainSwitch="1" BaoDianID="203" />
+  <GoodsObtain GoodsID="5104" CoinID="-1" Name="Quả Thể Lực Cao Cấp" ObtainSwitch="1" BaoDianID="203" />
+  <GoodsObtain GoodsID="5105" CoinID="-1" Name="Quả Sức Mạnh" ObtainSwitch="1" BaoDianID="203" />
+  <GoodsObtain GoodsID="5106" CoinID="-1" Name="Quả Nhanh Nhẹn" ObtainSwitch="1" BaoDianID="203" />
+  <GoodsObtain GoodsID="5107" CoinID="-1" Name="Quả Trí Khôn" ObtainSwitch="1" BaoDianID="203" />
+  <GoodsObtain GoodsID="5108" CoinID="-1" Name="Quả Thể Lực" ObtainSwitch="1" BaoDianID="203" />
+  <GoodsObtain GoodsID="6000" CoinID="-1" Name="Chứng Nhận Quỷ" ObtainSwitch="1" BaoDianID="602,622" />
+  <GoodsObtain GoodsID="6001" CoinID="-1" Name="Mắt Quỷ" ObtainSwitch="1" BaoDianID="627" />
+  <GoodsObtain GoodsID="6002" CoinID="-1" Name="Chìa Khóa Quỷ" ObtainSwitch="1" BaoDianID="627" />
+  <GoodsObtain GoodsID="6003" CoinID="-1" Name="Áo Choàng Trong Suốt" ObtainSwitch="1" BaoDianID="602,622" />
+  <GoodsObtain GoodsID="6004" CoinID="-1" Name="Sách Máu" ObtainSwitch="1" BaoDianID="627" />
+  <GoodsObtain GoodsID="6005" CoinID="-1" Name="Nanh Máu" ObtainSwitch="1" BaoDianID="627" />
+  <GoodsObtain GoodsID="8035" CoinID="-1" Name="Chứng Nhận Chiêu Hồn" ObtainSwitch="1" BaoDianID="602" />
+  <GoodsObtain GoodsID="8039" CoinID="-1" Name="Tim Năng Lượng Nhỏ" ObtainSwitch="1" BaoDianID="644" />
+  <GoodsObtain GoodsID="8040" CoinID="-1" Name="Tim Năng Lượng Vừa" ObtainSwitch="1" BaoDianID="644" />
+  <GoodsObtain GoodsID="8041" CoinID="-1" Name="Tim Năng Lượng Lớn" ObtainSwitch="1" BaoDianID="644" />
+  <GoodsObtain GoodsID="8042" CoinID="-1" Name="Tim Năng Lượng Siêu Cấp" ObtainSwitch="1" BaoDianID="644" />
+  <GoodsObtain GoodsID="41400" CoinID="-1" Name="Dấu Sức Mạnh VIP I" ObtainSwitch="1" BaoDianID="203" />
+  <GoodsObtain GoodsID="41401" CoinID="-1" Name="Dấu Nhanh Nhẹn VIP I" ObtainSwitch="1" BaoDianID="203" />
+  <GoodsObtain GoodsID="41402" CoinID="-1" Name="Dấu Trí Khôn VIP I" ObtainSwitch="1" BaoDianID="203" />
+  <GoodsObtain GoodsID="41403" CoinID="-1" Name="Dấu Thể Lực VIP I" ObtainSwitch="1" BaoDianID="203" />
+  <GoodsObtain GoodsID="41404" CoinID="-1" Name="Dấu Thể Lực VIP II" ObtainSwitch="1" BaoDianID="203" />
+  <GoodsObtain GoodsID="64004" CoinID="-1" Name="Bụi Nguyên Tố" ObtainSwitch="1" BaoDianID="610,604" />
+  <GoodsObtain GoodsID="64005" CoinID="-1" Name="Linh Thạch" ObtainSwitch="1" BaoDianID="603,604,644,650" />
+  <GoodsObtain GoodsID="64019" CoinID="-1" Name="Tinh Hoa Thần" ObtainSwitch="1" BaoDianID="617" />
+  <GoodsObtain GoodsID="90000" CoinID="-1" Name="Trang bị trác việt lục bậc 1" ObtainSwitch="1" BaoDianID="403,500" />
+  <GoodsObtain GoodsID="90001" CoinID="-1" Name="Trang bị trác việt lam bậc 1" ObtainSwitch="1" BaoDianID="403,500" />
+  <GoodsObtain GoodsID="90002" CoinID="-1" Name="Trang bị trác việt tím bậc 1" ObtainSwitch="1" BaoDianID="403,500" />
+  <GoodsObtain GoodsID="90003" CoinID="-1" Name="Trang bị trác việt lục bậc 2" ObtainSwitch="1" BaoDianID="403,500,202" />
+  <GoodsObtain GoodsID="90004" CoinID="-1" Name="Trang bị trác việt lam bậc 2" ObtainSwitch="1" BaoDianID="403,500,202" />
+  <GoodsObtain GoodsID="90005" CoinID="-1" Name="Trang bị trác việt tím bậc 2" ObtainSwitch="1" BaoDianID="403,500,202" />
+  <GoodsObtain GoodsID="90006" CoinID="-1" Name="Trang bị trác việt lục bậc 3" ObtainSwitch="1" BaoDianID="403,500,202" />
+  <GoodsObtain GoodsID="90007" CoinID="-1" Name="Trang bị trác việt lam bậc 3" ObtainSwitch="1" BaoDianID="403,500,202" />
+  <GoodsObtain GoodsID="90008" CoinID="-1" Name="Trang bị trác việt tím bậc 3" ObtainSwitch="1" BaoDianID="403,500,202" />
+  <GoodsObtain GoodsID="90009" CoinID="-1" Name="Trang bị trác việt lục bậc 4" ObtainSwitch="1" BaoDianID="403,620,500,202" />
+  <GoodsObtain GoodsID="90010" CoinID="-1" Name="Trang bị trác việt lam bậc 4" ObtainSwitch="1" BaoDianID="403,620,500,202" />
+  <GoodsObtain GoodsID="90011" CoinID="-1" Name="Trang bị trác việt tím bậc 4" ObtainSwitch="1" BaoDianID="403,620,500,202" />
+  <GoodsObtain GoodsID="90012" CoinID="-1" Name="Trang bị trác việt lục bậc 5" ObtainSwitch="1" BaoDianID="403,620,500,202" />
+  <GoodsObtain GoodsID="90013" CoinID="-1" Name="Trang bị trác việt lam bậc 5" ObtainSwitch="1" BaoDianID="403,620,500,202" />
+  <GoodsObtain GoodsID="90014" CoinID="-1" Name="Trang bị trác việt tím bậc 5" ObtainSwitch="1" BaoDianID="403,620,500,202" />
+  <GoodsObtain GoodsID="90015" CoinID="-1" Name="Trang bị trác việt lục bậc 6" ObtainSwitch="1" BaoDianID="403,620,500,202" />
+  <GoodsObtain GoodsID="90016" CoinID="-1" Name="Trang bị trác việt lam bậc 6" ObtainSwitch="1" BaoDianID="403,620,500,202" />
+  <GoodsObtain GoodsID="90017" CoinID="-1" Name="Trang bị trác việt tím bậc 6" ObtainSwitch="1" BaoDianID="403,620,500,202" />
+  <GoodsObtain GoodsID="90018" CoinID="-1" Name="Trang bị trác việt lục bậc 7" ObtainSwitch="1" BaoDianID="400,403,620,202" />
+  <GoodsObtain GoodsID="90019" CoinID="-1" Name="Trang bị trác việt lam bậc 7" ObtainSwitch="1" BaoDianID="400,403,620,202" />
+  <GoodsObtain GoodsID="90020" CoinID="-1" Name="Trang bị trác việt tím bậc 7" ObtainSwitch="1" BaoDianID="400,403,620,202" />
+  <GoodsObtain GoodsID="90021" CoinID="-1" Name="Trang bị trác việt lục bậc 8" ObtainSwitch="1" BaoDianID="400,403,620,202" />
+  <GoodsObtain GoodsID="90022" CoinID="-1" Name="Trang bị trác việt lam bậc 8" ObtainSwitch="1" BaoDianID="400,403,620,202" />
+  <GoodsObtain GoodsID="90023" CoinID="-1" Name="Trang bị trác việt tím bậc 8" ObtainSwitch="1" BaoDianID="400,403,620,202" />
+  <GoodsObtain GoodsID="90024" CoinID="-1" Name="Trang bị trác việt lục bậc 9" ObtainSwitch="1" BaoDianID="400,403,620,202" />
+  <GoodsObtain GoodsID="90025" CoinID="-1" Name="Trang bị trác việt lam bậc 9" ObtainSwitch="1" BaoDianID="400,403,620,202" />
+  <GoodsObtain GoodsID="90026" CoinID="-1" Name="Trang bị trác việt tím bậc 9" ObtainSwitch="1" BaoDianID="400,403,620,202" />
+  <GoodsObtain GoodsID="90027" CoinID="-1" Name="Trang bị trác việt lục bậc 10" ObtainSwitch="1" BaoDianID="202" />
+  <GoodsObtain GoodsID="90028" CoinID="-1" Name="Trang bị trác việt lam bậc 10" ObtainSwitch="1" BaoDianID="202" />
+  <GoodsObtain GoodsID="90029" CoinID="-1" Name="Trang bị trác việt tím bậc 10" ObtainSwitch="1" BaoDianID="202" />
+  <GoodsObtain GoodsID="90050" CoinID="-1" Name="Trang bị trác việt lục" ObtainSwitch="1" BaoDianID="400,403,620,202" />
+  <GoodsObtain GoodsID="90051" CoinID="-1" Name="Trang bị trác việt lam" ObtainSwitch="1" BaoDianID="400,403,620,202" />
+  <GoodsObtain GoodsID="90052" CoinID="-1" Name="Trang bị trác việt tím" ObtainSwitch="1" BaoDianID="400,403,620,202" />
+  <GoodsObtain GoodsID="950000" CoinID="-1" Name="Giác Tỉnh-Mảnh Hủy Diệt (Nón)" ObtainSwitch="1" BaoDianID="619" />
+  <GoodsObtain GoodsID="950001" CoinID="-1" Name="Giác Tỉnh-Mảnh Hủy Diệt (Giáp)" ObtainSwitch="1" BaoDianID="619" />
+  <GoodsObtain GoodsID="950002" CoinID="-1" Name="Giác Tỉnh-Mảnh Hủy Diệt (Tay)" ObtainSwitch="1" BaoDianID="619" />
+  <GoodsObtain GoodsID="950003" CoinID="-1" Name="Giác Tỉnh-Mảnh Hủy Diệt (Chân)" ObtainSwitch="1" BaoDianID="619" />
+  <GoodsObtain GoodsID="950004" CoinID="-1" Name="Giác Tỉnh-Mảnh Hủy Diệt (Giày)" ObtainSwitch="1" BaoDianID="619" />
+  <GoodsObtain GoodsID="950005" CoinID="-1" Name="Giác Tỉnh-Mảnh Sinh Tồn (Nón)" ObtainSwitch="1" BaoDianID="619" />
+  <GoodsObtain GoodsID="950006" CoinID="-1" Name="Giác Tỉnh-Mảnh Sinh Tồn (Giáp)" ObtainSwitch="1" BaoDianID="619" />
+  <GoodsObtain GoodsID="950007" CoinID="-1" Name="Giác Tỉnh-Mảnh Sinh Tồn (Tay)" ObtainSwitch="1" BaoDianID="619" />
+  <GoodsObtain GoodsID="950008" CoinID="-1" Name="Giác Tỉnh-Mảnh Sinh Tồn (Chân)" ObtainSwitch="1" BaoDianID="619" />
+  <GoodsObtain GoodsID="950009" CoinID="-1" Name="Giác Tỉnh-Mảnh Sinh Tồn (Giày)" ObtainSwitch="1" BaoDianID="619" />
+  <GoodsObtain GoodsID="950010" CoinID="-1" Name="Giác Tỉnh-Mảnh Cân Bằng (Nón)" ObtainSwitch="1" BaoDianID="619" />
+  <GoodsObtain GoodsID="950011" CoinID="-1" Name="Giác Tỉnh-Mảnh Cân Bằng (Giáp)" ObtainSwitch="1" BaoDianID="619" />
+  <GoodsObtain GoodsID="950012" CoinID="-1" Name="Giác Tỉnh-Mảnh Cân Bằng (Tay)" ObtainSwitch="1" BaoDianID="619" />
+  <GoodsObtain GoodsID="950013" CoinID="-1" Name="Giác Tỉnh-Mảnh Cân Bằng (Chân)" ObtainSwitch="1" BaoDianID="619" />
+  <GoodsObtain GoodsID="950014" CoinID="-1" Name="Giác Tỉnh-Mảnh Cân Bằng (Giày)" ObtainSwitch="1" BaoDianID="619" />
+  <GoodsObtain GoodsID="951000" CoinID="-1" Name="Giác Tỉnh-Mảnh Lợi Nhẫn (Vũ Khí)" ObtainSwitch="1" BaoDianID="400" />
+  <GoodsObtain GoodsID="951001" CoinID="-1" Name="Giác Tỉnh-Mảnh Lợi Nhẫn (Dây Chuyền)" ObtainSwitch="1" BaoDianID="400" />
+  <GoodsObtain GoodsID="951002" CoinID="-1" Name="Giác Tỉnh-Mảnh Lợi Nhẫn (Nhẫn Trái)" ObtainSwitch="1" BaoDianID="400" />
+  <GoodsObtain GoodsID="951003" CoinID="-1" Name="Giác Tỉnh-Mảnh Lợi Nhẫn (Nhẫn Phải)" ObtainSwitch="1" BaoDianID="400" />
+  <GoodsObtain GoodsID="951004" CoinID="-1" Name="Giác Tỉnh-Mảnh Bạo Liệt (Vũ Khí)" ObtainSwitch="1" BaoDianID="400" />
+  <GoodsObtain GoodsID="951005" CoinID="-1" Name="Giác Tỉnh-Mảnh Bạo Liệt (Dây Chuyền)" ObtainSwitch="1" BaoDianID="400" />
+  <GoodsObtain GoodsID="951006" CoinID="-1" Name="Giác Tỉnh-Mảnh Bạo Liệt (Nhẫn Trái)" ObtainSwitch="1" BaoDianID="400" />
+  <GoodsObtain GoodsID="951007" CoinID="-1" Name="Giác Tỉnh-Mảnh Bạo Liệt (Nhẫn Phải)" ObtainSwitch="1" BaoDianID="400" />
+  <GoodsObtain GoodsID="951008" CoinID="-1" Name="Giác Tỉnh-Mảnh Sắc Nhọn (Vũ Khí)" ObtainSwitch="1" BaoDianID="400" />
+  <GoodsObtain GoodsID="951009" CoinID="-1" Name="Giác Tỉnh-Mảnh Sắc Nhọn (Dây Chuyền)" ObtainSwitch="1" BaoDianID="400" />
+  <GoodsObtain GoodsID="951010" CoinID="-1" Name="Giác Tỉnh-Mảnh Sắc Nhọn (Nhẫn Trái)" ObtainSwitch="1" BaoDianID="400" />
+  <GoodsObtain GoodsID="951011" CoinID="-1" Name="Giác Tỉnh-Mảnh Sắc Nhọn (Nhẫn Phải)" ObtainSwitch="1" BaoDianID="400" />
+  <GoodsObtain GoodsID="2037" CoinID="-1" Name="Kết Tinh Truyền" ObtainSwitch="1" BaoDianID="631" />
+  <GoodsObtain GoodsID="971001" CoinID="-1" Name="Booska.Chim" ObtainSwitch="1" BaoDianID="634" />
+  <GoodsObtain GoodsID="-1" CoinID="0" Name="【Vàng/Vàng Khóa】" ObtainSwitch="1" BaoDianID="602,301,501,300" />
+  <GoodsObtain GoodsID="-2" CoinID="1" Name="【Ma Băng】" ObtainSwitch="1" BaoDianID="405,101,105,643,645,646" />
+  <GoodsObtain GoodsID="-3" CoinID="2" Name="【KC】" ObtainSwitch="1" BaoDianID="601" />
+  <GoodsObtain GoodsID="-4" CoinID="3" Name="【Lông Vũ】" ObtainSwitch="1" BaoDianID="602,504,406" />
+  <GoodsObtain GoodsID="-5" CoinID="4" Name="【Đá Thần Ưng】" ObtainSwitch="1" BaoDianID="602,504,406" />
+  <GoodsObtain GoodsID="-6" CoinID="5" Name="【Ngọc Chúc Phúc】" ObtainSwitch="1" BaoDianID="407,300,406,403" />
+  <GoodsObtain GoodsID="-7" CoinID="6" Name="【Ngọc Tâm Linh】" ObtainSwitch="1" BaoDianID="407,500,406,403" />
+  <GoodsObtain GoodsID="-8" CoinID="7" Name="【Đá Hỗn Nguyên】" ObtainSwitch="1" BaoDianID="407,500,406,403,647,648,649" />
+  <GoodsObtain GoodsID="-9" CoinID="8" Name="【Ngọc Sinh Mệnh】" ObtainSwitch="1" BaoDianID="500,406,403" />
+  <GoodsObtain GoodsID="-10" CoinID="9" Name="【Đá Tái Tạo】" ObtainSwitch="1" BaoDianID="403,647,648,649,650" />
+  <GoodsObtain GoodsID="-11" CoinID="10" Name="【Ngọc Hộ Mệnh】" ObtainSwitch="1" BaoDianID="407" />
+  <GoodsObtain GoodsID="-12" CoinID="11" Name="【Đá Chúc Phúc】" ObtainSwitch="1" BaoDianID="403,406" />
+  <GoodsObtain GoodsID="-14" CoinID="13" Name="【Điểm Cầu Phúc】" ObtainSwitch="1" BaoDianID="400" />
+  <GoodsObtain GoodsID="-15" CoinID="14" Name="" ObtainSwitch="1" BaoDianID="603,604" />
+  <GoodsObtain GoodsID="-16" CoinID="15" Name="" ObtainSwitch="1" BaoDianID="610,604" />
+  <GoodsObtain GoodsID="-17" CoinID="16" Name="【Điểm Tái Tạo】" ObtainSwitch="1" BaoDianID="602,500,405" />
+  <GoodsObtain GoodsID="-18" CoinID="17" Name="【Điểm Thành Tựu】" ObtainSwitch="1" BaoDianID="602,643,646,652" />
+  <GoodsObtain GoodsID="-19" CoinID="18" Name="【Đá Tái Tạo】" ObtainSwitch="1" BaoDianID="602" />
+  <GoodsObtain GoodsID="-20" CoinID="19" Name="【Mảnh Trang Bị Thượng Cổ】" ObtainSwitch="1" BaoDianID="620" />
+  <GoodsObtain GoodsID="-21" CoinID="20" Name="" ObtainSwitch="1" BaoDianID="606" />
+  <GoodsObtain GoodsID="-22" CoinID="21" Name="【Điểm Danh Vọng】" ObtainSwitch="1" BaoDianID="602,643,646,652" />
+  <GoodsObtain GoodsID="-23" CoinID="22" Name="【Tinh Hoa Thủ Hộ】" ObtainSwitch="1" BaoDianID="100" />
+  <GoodsObtain GoodsID="-24" CoinID="23" Name="【Sách EXP Ma Pháp】" ObtainSwitch="1" BaoDianID="607,632,652" />
+  <GoodsObtain GoodsID="-25" CoinID="24" Name="【Kết Tinh Ma Pháp】" ObtainSwitch="1" BaoDianID="607,632,652" />
+  <GoodsObtain GoodsID="-26" CoinID="25" Name="【Chổi Phép】" ObtainSwitch="1" BaoDianID="607" />
+  <GoodsObtain GoodsID="-27" CoinID="26" Name="【Mảnh Linh Kiện】" ObtainSwitch="1" BaoDianID="609,611" />
+  <GoodsObtain GoodsID="-28" CoinID="27" Name="【Bột Huỳnh Quang】" ObtainSwitch="1" BaoDianID="611,646,650" />
+  <GoodsObtain GoodsID="-29" CoinID="28" Name="【Bột Hồn Sói】" ObtainSwitch="1" BaoDianID="612,646,650" />
+  <GoodsObtain GoodsID="-30" CoinID="29" Name="【Mảnh Trang Bị Viễn Cổ】" ObtainSwitch="1" BaoDianID="613" />
+  <GoodsObtain GoodsID="-31" CoinID="30" Name="【Đá Tụ Hồn】" ObtainSwitch="1" BaoDianID="614,615,616,632" />
+  <GoodsObtain GoodsID="-32" CoinID="31" Name="【Đá Thu Thập Pha Lê】" ObtainSwitch="1" BaoDianID="614,615,616,632" />
+  <GoodsObtain GoodsID="-33" CoinID="32" Name="【Tinh Hoa Thần】" ObtainSwitch="1" BaoDianID="617" />
+  <GoodsObtain GoodsID="-34" CoinID="33" Name="【Huy Hiệu Ánh Sáng】" ObtainSwitch="1" BaoDianID="615,604,605" />
+  <GoodsObtain GoodsID="-35" CoinID="34" Name="【Huy Hiệu Thủ Vệ】" ObtainSwitch="1" BaoDianID="615,604,605" />
+  <GoodsObtain GoodsID="-36" CoinID="35" Name="【Sảnh Phù】" ObtainSwitch="1" BaoDianID="618" />
+  <GoodsObtain GoodsID="-37" CoinID="36" Name="【Mảnh Giác Tỉnh】" ObtainSwitch="1" BaoDianID="619" />
+  <GoodsObtain GoodsID="-38" CoinID="37" Name="【Thú Cưỡi】" ObtainSwitch="1" BaoDianID="629,628" />
+  <GoodsObtain GoodsID="-39" CoinID="38" Name="Hãy đến shop Lực Nhân để đổi" ObtainSwitch="1" BaoDianID="" />
+  <GoodsObtain GoodsID="-50" CoinID="50" Name="【KC Khóa】" ObtainSwitch="1" BaoDianID="" />
+  <GoodsObtain GoodsID="5570" CoinID="-1" Name="Tim Ma Thần" ObtainSwitch="1" BaoDianID="632,633" />
+  <GoodsObtain GoodsID="5571" CoinID="-1" Name="Sừng Ma Thần" ObtainSwitch="1" BaoDianID="632,633" />
+  <GoodsObtain GoodsID="5572" CoinID="-1" Name="Lông Ma Thần" ObtainSwitch="1" BaoDianID="632,633" />
+  <GoodsObtain GoodsID="5573" CoinID="-1" Name="Mắt Ma Thần" ObtainSwitch="1" BaoDianID="632,633" />
+  <GoodsObtain GoodsID="5574" CoinID="-1" Name="Ma Thần Chi Nhẫn" ObtainSwitch="1" BaoDianID="642" />
+  <GoodsObtain GoodsID="2302" CoinID="-1" Name="Linh Thạch Pet" ObtainSwitch="1" BaoDianID="631" />
+  <GoodsObtain GoodsID="2142" CoinID="40" Name="Suối Ma Lực" ObtainSwitch="1" BaoDianID="633" />
+  <GoodsObtain GoodsID="2143" CoinID="41" Name="Đai Phép" ObtainSwitch="1" BaoDianID="633" />
+  <GoodsObtain GoodsID="2600000" CoinID="-1" Name="Bảo Đồ Cánh (Sơ)" ObtainSwitch="1" BaoDianID="100" />
+  <GoodsObtain GoodsID="2600003" CoinID="-1" Name="Bảo Đồ Vật Tư (Sơ)" ObtainSwitch="1" BaoDianID="100" />
+  <GoodsObtain GoodsID="2600006" CoinID="-1" Name="Bảo Đồ T.Bị (Sơ)" ObtainSwitch="1" BaoDianID="100" />
+  <GoodsObtain GoodsID="3001" CoinID="-1" Name="Booska.Pha Lê" ObtainSwitch="1" BaoDianID="634" />
+  <GoodsObtain GoodsID="51455" CoinID="-1" Name="Mảnh T.Trang Tàng Linh Dương" ObtainSwitch="1" BaoDianID="636" />
+  <GoodsObtain GoodsID="2800000" CoinID="-1" Name="Ánh Sao" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800001" CoinID="-1" Name="Thần Văn-Thần ThánhⅠ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800002" CoinID="-1" Name="Thần Văn-Thần ThánhⅡ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800003" CoinID="-1" Name="Thần Văn-Thần ThánhⅢ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800004" CoinID="-1" Name="Thần Văn-Thần ThánhⅣ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800005" CoinID="-1" Name="Thần Văn-Thần ThánhⅤ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800006" CoinID="-1" Name="Thần Văn-Thần ThánhⅠ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800007" CoinID="-1" Name="Thần Văn-Thần ThánhⅡ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800008" CoinID="-1" Name="Thần Văn-Thần ThánhⅢ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800009" CoinID="-1" Name="Thần Văn-Thần ThánhⅣ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800010" CoinID="-1" Name="Thần Văn-Thần ThánhⅤ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800011" CoinID="-1" Name="Thần Văn-Thần ThánhⅠ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800012" CoinID="-1" Name="Thần Văn-Thần ThánhⅡ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800013" CoinID="-1" Name="Thần Văn-Thần ThánhⅢ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800014" CoinID="-1" Name="Thần Văn-Thần ThánhⅣ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800015" CoinID="-1" Name="Thần Văn-Thần ThánhⅤ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800016" CoinID="-1" Name="Thần Văn-Ám ẢnhⅠ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800017" CoinID="-1" Name="Thần Văn-Ám ẢnhⅡ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800018" CoinID="-1" Name="Thần Văn-Ám ẢnhⅢ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800019" CoinID="-1" Name="Thần Văn-Ám ẢnhⅣ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800020" CoinID="-1" Name="Thần Văn-Ám ẢnhⅤ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800021" CoinID="-1" Name="Thần Văn-Ám ẢnhⅠ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800022" CoinID="-1" Name="Thần Văn-Ám ẢnhⅡ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800023" CoinID="-1" Name="Thần Văn-Ám ẢnhⅢ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800024" CoinID="-1" Name="Thần Văn-Ám ẢnhⅣ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800025" CoinID="-1" Name="Thần Văn-Ám ẢnhⅤ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800026" CoinID="-1" Name="Thần Văn-Ám ẢnhⅠ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800027" CoinID="-1" Name="Thần Văn-Ám ẢnhⅡ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800028" CoinID="-1" Name="Thần Văn-Ám ẢnhⅢ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800029" CoinID="-1" Name="Thần Văn-Ám ẢnhⅣ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800030" CoinID="-1" Name="Thần Văn-Ám ẢnhⅤ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800031" CoinID="-1" Name="Thần Văn-Tự NhiênⅠ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800032" CoinID="-1" Name="Thần Văn-Tự NhiênⅡ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800033" CoinID="-1" Name="Thần Văn-Tự NhiênⅢ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800034" CoinID="-1" Name="Thần Văn-Tự NhiênⅣ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800035" CoinID="-1" Name="Thần Văn-Tự NhiênⅤ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800036" CoinID="-1" Name="Thần Văn-Tự NhiênⅠ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800037" CoinID="-1" Name="Thần Văn-Tự NhiênⅡ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800038" CoinID="-1" Name="Thần Văn-Tự NhiênⅢ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800039" CoinID="-1" Name="Thần Văn-Tự NhiênⅣ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800040" CoinID="-1" Name="Thần Văn-Tự NhiênⅤ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800041" CoinID="-1" Name="Thần Văn-Tự NhiênⅠ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800042" CoinID="-1" Name="Thần Văn-Tự NhiênⅡ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800043" CoinID="-1" Name="Thần Văn-Tự NhiênⅢ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800044" CoinID="-1" Name="Thần Văn-Tự NhiênⅣ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800045" CoinID="-1" Name="Thần Văn-Tự NhiênⅤ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800046" CoinID="-1" Name="Thần Văn-Hỗn ĐộnⅠ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800047" CoinID="-1" Name="Thần Văn-Hỗn ĐộnⅡ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800048" CoinID="-1" Name="Thần Văn-Hỗn ĐộnⅢ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800049" CoinID="-1" Name="Thần Văn-Hỗn ĐộnⅣ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800050" CoinID="-1" Name="Thần Văn-Hỗn ĐộnⅤ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800051" CoinID="-1" Name="Thần Văn-Hỗn ĐộnⅠ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800052" CoinID="-1" Name="Thần Văn-Hỗn ĐộnⅡ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800053" CoinID="-1" Name="Thần Văn-Hỗn ĐộnⅢ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800054" CoinID="-1" Name="Thần Văn-Hỗn ĐộnⅣ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800055" CoinID="-1" Name="Thần Văn-Hỗn ĐộnⅤ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800056" CoinID="-1" Name="Thần Văn-Hỗn ĐộnⅠ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800057" CoinID="-1" Name="Thần Văn-Hỗn ĐộnⅡ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800058" CoinID="-1" Name="Thần Văn-Hỗn ĐộnⅢ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800059" CoinID="-1" Name="Thần Văn-Hỗn ĐộnⅣ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800060" CoinID="-1" Name="Thần Văn-Hỗn ĐộnⅤ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800061" CoinID="-1" Name="Thần Văn-Ác MộngⅠ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800062" CoinID="-1" Name="Thần Văn-Ác MộngⅡ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800063" CoinID="-1" Name="Thần Văn-Ác MộngⅢ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800064" CoinID="-1" Name="Thần Văn-Ác MộngⅣ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800065" CoinID="-1" Name="Thần Văn-Ác MộngⅤ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800066" CoinID="-1" Name="Thần Văn-Ác MộngⅠ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800067" CoinID="-1" Name="Thần Văn-Ác MộngⅡ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800068" CoinID="-1" Name="Thần Văn-Ác MộngⅢ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800069" CoinID="-1" Name="Thần Văn-Ác MộngⅣ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800070" CoinID="-1" Name="Thần Văn-Ác MộngⅤ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800071" CoinID="-1" Name="Thần Văn-Ác MộngⅠ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800072" CoinID="-1" Name="Thần Văn-Ác MộngⅡ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800073" CoinID="-1" Name="Thần Văn-Ác MộngⅢ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800074" CoinID="-1" Name="Thần Văn-Ác MộngⅣ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="2800075" CoinID="-1" Name="Thần Văn-Ác MộngⅤ" ObtainSwitch="1" BaoDianID="637" />
+  <GoodsObtain GoodsID="999000" CoinID="-1" Name="Mảnh Nữ Vương Thiên Sứ" ObtainSwitch="1" BaoDianID="638,660" />
+  <GoodsObtain GoodsID="999001" CoinID="-1" Name="Mảnh Lãnh Chúa Địa Ngục" ObtainSwitch="1" BaoDianID="638,660" />
+  <GoodsObtain GoodsID="999002" CoinID="-1" Name="Mảnh Anubis" ObtainSwitch="1" BaoDianID="638,660" />
+  <GoodsObtain GoodsID="999003" CoinID="-1" Name="Mảnh Cự Nhân Hơi Nước" ObtainSwitch="1" BaoDianID="638,660" />
+  <GoodsObtain GoodsID="999004" CoinID="-1" Name="Mảnh Phù Thủy Âm Ty" ObtainSwitch="1" BaoDianID="638,660" />
+  <GoodsObtain GoodsID="999005" CoinID="-1" Name="Mảnh Thánh Nữ Ánh Sáng" ObtainSwitch="1" BaoDianID="638,660" />
+  <GoodsObtain GoodsID="999006" CoinID="-1" Name="Mảnh Thống Lĩnh Dũng Sĩ" ObtainSwitch="1" BaoDianID="638,660" />
+  <GoodsObtain GoodsID="999007" CoinID="-1" Name="Mảnh Ma Vương Khát Máu" ObtainSwitch="1" BaoDianID="638,660" />
+  <GoodsObtain GoodsID="999008" CoinID="-1" Name="Mảnh Tế Tư Bóng Tối" ObtainSwitch="1" BaoDianID="638,660" />
+  <GoodsObtain GoodsID="999009" CoinID="-1" Name="Mảnh Quân Sắt Thép" ObtainSwitch="1" BaoDianID="638,660" />
+  <GoodsObtain GoodsID="999010" CoinID="-1" Name="Mảnh Tinh Linh Mất Tích" ObtainSwitch="1" BaoDianID="638,660" />
+  <GoodsObtain GoodsID="8055" CoinID="-1" Name="Thánh Linh Ấn" ObtainSwitch="1" BaoDianID="638" />
+  <GoodsObtain GoodsID="2043" CoinID="-1" Name="Sách Thánh Linh" ObtainSwitch="1" BaoDianID="638" />
+  <GoodsObtain GoodsID="2041" CoinID="-1" Name="Thần Vũ Tinh" ObtainSwitch="1" BaoDianID="638" />
+  <GoodsObtain GoodsID="2042" CoinID="-1" Name="Đá Thần Vũ" ObtainSwitch="1" BaoDianID="638" />
+  <GoodsObtain GoodsID="8101" CoinID="-1" Name="Đá Phòng Thường" ObtainSwitch="1" BaoDianID="639" />
+  <GoodsObtain GoodsID="8102" CoinID="-1" Name="Đá Phòng Sao" ObtainSwitch="1" BaoDianID="639" />
+  <GoodsObtain GoodsID="8103" CoinID="-1" Name="Đá Phòng Ánh Sao" ObtainSwitch="1" BaoDianID="639" />
+  <GoodsObtain GoodsID="8104" CoinID="-1" Name="Đá Trang Sức Thường" ObtainSwitch="1" BaoDianID="639" />
+  <GoodsObtain GoodsID="8105" CoinID="-1" Name="Đá Trang Sức Sao" ObtainSwitch="1" BaoDianID="639" />
+  <GoodsObtain GoodsID="8106" CoinID="-1" Name="Đá T.Sức Ánh Sao" ObtainSwitch="1" BaoDianID="639" />
+  <GoodsObtain GoodsID="8111" CoinID="-1" Name="Mảnh Đá Phòng Thường" ObtainSwitch="1" BaoDianID="639" />
+  <GoodsObtain GoodsID="8112" CoinID="-1" Name="Mảnh Đá Phòng Sao" ObtainSwitch="1" BaoDianID="639" />
+  <GoodsObtain GoodsID="8113" CoinID="-1" Name="Mảnh Đá Phòng Ánh Sao" ObtainSwitch="1" BaoDianID="639" />
+  <GoodsObtain GoodsID="8114" CoinID="-1" Name="Mảnh Đá Trang Sức Thường" ObtainSwitch="1" BaoDianID="639" />
+  <GoodsObtain GoodsID="8115" CoinID="-1" Name="Mảnh Đá Trang Sức Sao" ObtainSwitch="1" BaoDianID="639" />
+  <GoodsObtain GoodsID="8116" CoinID="-1" Name="Mảnh Đá T.Sức Ánh Sao" ObtainSwitch="1" BaoDianID="639" />
+  <GoodsObtain GoodsID="8061" CoinID="-1" Name="Tù Thần Chương" ObtainSwitch="1" BaoDianID="602" />
+  <GoodsObtain GoodsID="8201" CoinID="-1" Name="Khắc Đấu Chí" ObtainSwitch="1" BaoDianID="640" />
+  <GoodsObtain GoodsID="8202" CoinID="-1" Name="Khắc Hình Luật" ObtainSwitch="1" BaoDianID="640" />
+  <GoodsObtain GoodsID="8203" CoinID="-1" Name="Khắc Ưng Thú" ObtainSwitch="1" BaoDianID="640" />
+  <GoodsObtain GoodsID="8204" CoinID="-1" Name="Khắc Luân Hồi" ObtainSwitch="1" BaoDianID="640" />
+  <GoodsObtain GoodsID="8205" CoinID="-1" Name="Khắc Thần Quang" ObtainSwitch="1" BaoDianID="640" />
+  <GoodsObtain GoodsID="8301" CoinID="-1" Name="Rương Khắc Thú Cưỡi" ObtainSwitch="1" BaoDianID="640" />
+  <GoodsObtain GoodsID="8302" CoinID="-1" Name="Rương Đá Phù Lính Thuê" ObtainSwitch="1" BaoDianID="658" />
+  <GoodsObtain GoodsID="8401" CoinID="-1" Name="Huy Hiệu Tước-Sơ I" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8402" CoinID="-1" Name="Huy Hiệu Tước-Sơ II" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8403" CoinID="-1" Name="Huy Hiệu Tước-Sơ III" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8404" CoinID="-1" Name="Huy Hiệu Tước-Trung I" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8405" CoinID="-1" Name="Huy Hiệu Tước-Trung II" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8406" CoinID="-1" Name="Huy Hiệu Tước-Trung III" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8407" CoinID="-1" Name="Huy Hiệu Tước-Cao I" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8408" CoinID="-1" Name="Huy Hiệu Tước-Cao II" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8409" CoinID="-1" Name="Huy Hiệu Tước-Cao III" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8410" CoinID="-1" Name="Huy Chương Tước-Sơ I" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8411" CoinID="-1" Name="Huy Chương Tước-Sơ II" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8412" CoinID="-1" Name="Huy Chương Tước-Sơ III" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8413" CoinID="-1" Name="Huy Chương Tước-Trung I" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8414" CoinID="-1" Name="Huy Chương Tước-Trung II" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8415" CoinID="-1" Name="Huy Chương Tước-Trung III" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8416" CoinID="-1" Name="Huy Chương Tước-Cao I" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8417" CoinID="-1" Name="Huy Chương Tước-Cao II" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8418" CoinID="-1" Name="Huy Chương Tước-Cao III" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8601" CoinID="-1" Name="Tinh Hoa Lửa" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8602" CoinID="-1" Name="Đá Khóa" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8603" CoinID="-1" Name="Ma Linh Quyển" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="23001" CoinID="-1" Name="Đá HP Thần Binh Sơ" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="23002" CoinID="-1" Name="Đá HP Thần Binh Trung " ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="23003" CoinID="-1" Name="Đá HP Thần Binh Cao" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="23004" CoinID="-1" Name="Đá Phòng Thần Binh Sơ" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="23005" CoinID="-1" Name="Đá Phòng Thần Binh Trung " ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="23006" CoinID="-1" Name="Đá Phòng Thần Binh Cao" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="23007" CoinID="-1" Name="Đá Công Thần Binh Sơ" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="23008" CoinID="-1" Name="Đá Công Thần Binh Trung" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="23009" CoinID="-1" Name="Đá Công Thần Binh Cao" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="23010" CoinID="-1" Name="Đá Bạo Thần Binh Sơ" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="23011" CoinID="-1" Name="Đá Bạo Thần Binh Trung" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="23012" CoinID="-1" Name="Đá Bạo Thần Binh Cao" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="23013" CoinID="-1" Name="Quyển Thiên Phú HP" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="23014" CoinID="-1" Name="Quyển Thiên Phú Phòng Thủ" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="23015" CoinID="-1" Name="Quyển Thiên Phú Tấn Công" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="23016" CoinID="-1" Name="Quyển Thiên Phú Bạo Kích" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="8419" CoinID="-1" Name="Huy Hiệu Tước Vị Đặc BiệtⅠ" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8420" CoinID="-1" Name="Huy Hiệu Tước Vị Đặc BiệtⅡ" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8421" CoinID="-1" Name="Huy Hiệu Tước Vị Đặc BiệtⅢ" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8422" CoinID="-1" Name="Huy Hiệu Tước Vị VươngⅠ" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8423" CoinID="-1" Name="Huy Hiệu Tước Vị VươngⅡ" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8424" CoinID="-1" Name="Huy Hiệu Tước Vị VươngⅢ" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8425" CoinID="-1" Name="Huy Hiệu Tước Vị HoàngⅠ" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8426" CoinID="-1" Name="Huy Hiệu Tước Vị HoàngⅡ" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8427" CoinID="-1" Name="Huy Hiệu Tước Vị HoàngⅢ" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8428" CoinID="-1" Name="Huy Chương Tước Vị Đặc BiệtⅠ" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8429" CoinID="-1" Name="Huy Chương Tước Vị Đặc BiệtⅡ" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8430" CoinID="-1" Name="Huy Chương Tước Vị Đặc BiệtⅢ" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8431" CoinID="-1" Name="Huy Chương Tước Vị VươngⅠ" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8432" CoinID="-1" Name="Huy Chương Tước Vị VươngⅡ" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8433" CoinID="-1" Name="Huy Chương Tước Vị VươngⅢ" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8434" CoinID="-1" Name="Huy Chương Tước Vị HoàngⅠ" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8435" CoinID="-1" Name="Huy Chương Tước Vị HoàngⅡ" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8436" CoinID="-1" Name="Huy Chương Tước Vị HoàngⅢ" ObtainSwitch="1" BaoDianID="641" />
+  <GoodsObtain GoodsID="8604" CoinID="-1" Name="Mảnh Tinh Túy Ma Hoang" ObtainSwitch="1" BaoDianID="642" />
+  <GoodsObtain GoodsID="703000" CoinID="-1" Name="Thẻ Quốc Vương" ObtainSwitch="1" BaoDianID="663" />
+  <GoodsObtain GoodsID="52061" CoinID="-1" Name="Mảnh Tinh Phách Thú Cưng" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="5300" CoinID="-1" Name="Tim Năng Lượng Nhỏ" ObtainSwitch="1" BaoDianID="644" />
+  <GoodsObtain GoodsID="5301" CoinID="-1" Name="Tim Năng Lượng Vừa" ObtainSwitch="1" BaoDianID="644" />
+  <GoodsObtain GoodsID="5302" CoinID="-1" Name="Tim Năng Lượng Lớn" ObtainSwitch="1" BaoDianID="644" />
+  <GoodsObtain GoodsID="5303" CoinID="-1" Name="Tim Năng Lượng Siêu Cấp" ObtainSwitch="1" BaoDianID="644" />
+  <GoodsObtain GoodsID="8609" CoinID="-1" Name="Ấn Ký Linh Hồn" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="8610" CoinID="-1" Name="Kết Tinh U Hồn" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="8611" CoinID="-1" Name="Kết Tinh Anh Hồn" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="8612" CoinID="-1" Name="Kết Tinh Thánh Hồn" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="8620" CoinID="-1" Name="Linh Hồn Sài Tân" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="2044" CoinID="-1" Name="Phiếu Anh Hùng" ObtainSwitch="1" BaoDianID="660" />
+  <GoodsObtain GoodsID="30001" CoinID="-1" Name="Nghịch Thủy Cố" ObtainSwitch="1" BaoDianID="665" />
+  <GoodsObtain GoodsID="30002" CoinID="-1" Name="Dung Sơn Lân" ObtainSwitch="1" BaoDianID="665" />
+  <GoodsObtain GoodsID="30003" CoinID="-1" Name="Kinh Lôi Hộ" ObtainSwitch="1" BaoDianID="665" />
+  <GoodsObtain GoodsID="30004" CoinID="-1" Name="Lẫm Độc Khủng Phong" ObtainSwitch="1" BaoDianID="665" />
+  <GoodsObtain GoodsID="30005" CoinID="-1" Name="Nộ Phạt Binh Phong" ObtainSwitch="1" BaoDianID="665" />
+  <GoodsObtain GoodsID="30006" CoinID="-1" Name="Thê Hàn Lãnh Phong" ObtainSwitch="1" BaoDianID="665" />
+  <GoodsObtain GoodsID="30007" CoinID="-1" Name="Bá Nhạc Cương Phong" ObtainSwitch="1" BaoDianID="665" />
+  <GoodsObtain GoodsID="30008" CoinID="-1" Name="Ma Lịch Tinh Phong" ObtainSwitch="1" BaoDianID="665" />
+  <GoodsObtain GoodsID="30009" CoinID="-1" Name="Mệnh Vịnh Thần Duệ" ObtainSwitch="1" BaoDianID="665" />
+  <GoodsObtain GoodsID="30010" CoinID="-1" Name="Diễm Long Cổ Khiếu" ObtainSwitch="1" BaoDianID="665" />
+  <GoodsObtain GoodsID="30011" CoinID="-1" Name="Thần Triều Thương Diệt" ObtainSwitch="1" BaoDianID="665" />
+  <GoodsObtain GoodsID="30012" CoinID="-1" Name="Địa Mẫu Chiến Dũng" ObtainSwitch="1" BaoDianID="665" />
+  <GoodsObtain GoodsID="30013" CoinID="-1" Name="Cực Điện Cuồng Thần" ObtainSwitch="1" BaoDianID="665" />
+  <GoodsObtain GoodsID="30014" CoinID="-1" Name="Thiên Khiển Thánh Hộ" ObtainSwitch="1" BaoDianID="665" />
+  <GoodsObtain GoodsID="30015" CoinID="-1" Name="Địa Ngục Hủy Diệt" ObtainSwitch="1" BaoDianID="665" />
+  <GoodsObtain GoodsID="31001" CoinID="-1" Name="Thương Huyền Cổ Ấn" ObtainSwitch="1" BaoDianID="666" />
+  <GoodsObtain GoodsID="31002" CoinID="-1" Name="Thương Huyền Thánh Ấn" ObtainSwitch="1" BaoDianID="666" />
+  <GoodsObtain GoodsID="31003" CoinID="-1" Name="Thương Huyền Thiên Ấn" ObtainSwitch="1" BaoDianID="666" />
+  <GoodsObtain GoodsID="32000" CoinID="-1" Name="Thương Huyền Chi Kim" ObtainSwitch="1" BaoDianID="666" />
+  <GoodsObtain GoodsID="33001" CoinID="-1" Name="Điểm Kho Báu Băng Tay" ObtainSwitch="1" BaoDianID="665" />
+  <GoodsObtain GoodsID="33002" CoinID="-1" Name="Xu Kho Báu Băng Tay" ObtainSwitch="1" BaoDianID="665" />
+  <GoodsObtain GoodsID="-51" CoinID="191" Name="Thương Huyền Chi Kim" ObtainSwitch="1" BaoDianID="666" />
+  <GoodsObtain GoodsID="-52" CoinID="192" Name="Xu Kho Báu Băng Tay" ObtainSwitch="1" BaoDianID="665" />
+  <GoodsObtain GoodsID="-53" CoinID="193" Name="Điểm Kho Báu Băng Tay" ObtainSwitch="1" BaoDianID="665" />
+  <GoodsObtain GoodsID="35000" CoinID="-1" Name="Ấn Ký Thần Thánh" ObtainSwitch="1" BaoDianID="665" />
+  <GoodsObtain GoodsID="-54" CoinID="194" Name="Xu May Mắn" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="-55" CoinID="195" Name="Mảnh Tinh Thìn" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="-56" CoinID="196" Name="Phiếu Event" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="34001" CoinID="-1" Name="Xu May Mắn" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="34002" CoinID="-1" Name="Mảnh Tinh Thìn" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="34003" CoinID="-1" Name="Phiếu Event" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="400001" CoinID="-1" Name="Mảnh Sinh Mệnh" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="400002" CoinID="-1" Name="Mảnh Vạn Vật" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="400003" CoinID="-1" Name="Mảnh Linh Hồn" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="400004" CoinID="-1" Name="Mảnh Chân Thật" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="400005" CoinID="-1" Name="Mảnh Vận Mệnh" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="400006" CoinID="-1" Name="Mảnh Thời Gian" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="3100" CoinID="-1" Name="Ngọc Thần Giám" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="3500" CoinID="-1" Name="Thoán Thiên Hầu" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="3501" CoinID="-1" Name="Song Hưởng Pháo" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="3502" CoinID="-1" Name="Lễ Pháo" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="-57" CoinID="200" Name="Chìa Khóa Bảo Tàng Công Tước" ObtainSwitch="1" BaoDianID="668" />
+  <GoodsObtain GoodsID="-58" CoinID="201" Name="Chìa Khóa Bảo Tàng Quốc Vương" ObtainSwitch="1" BaoDianID="669" />
+  <GoodsObtain GoodsID="-59" CoinID="202" Name="Chìa Khóa Bảo Tàng Tinh Linh " ObtainSwitch="1" BaoDianID="670" />
+  <GoodsObtain GoodsID="-60" CoinID="203" Name="Chìa Khóa Bảo Tàng Thợ Sơn" ObtainSwitch="1" BaoDianID="671" />
+  <GoodsObtain GoodsID="-61" CoinID="204" Name="Chìa Khóa Bảo Tàng Cự Long" ObtainSwitch="1" BaoDianID="672" />
+  <GoodsObtain GoodsID="-62" CoinID="205" Name="Chìa Khóa Bảo Tàng Thần Lực" ObtainSwitch="1" BaoDianID="673" />
+  <GoodsObtain GoodsID="2400" CoinID="-1" Name="Đá Thần Rèn" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="2500" CoinID="-1" Name="Mảnh Vũ Khí Tinh Trần" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="2501" CoinID="-1" Name="Mảnh Phòng Cụ Tinh Trần" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="2502" CoinID="-1" Name="Mảnh Trang Sức Tinh Thần" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="2503" CoinID="-1" Name="Mảnh Vũ Khí Tinh Huy" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="2504" CoinID="-1" Name="Mảnh Phòng Cụ Tinh Huy" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="2505" CoinID="-1" Name="Mảnh Trang Sức Tinh Huy" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="2506" CoinID="-1" Name="Kết Tinh Tinh Huy" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="-63" CoinID="206" Name="Điểm Bảo Tàng Công Tước" ObtainSwitch="1" BaoDianID="668" />
+  <GoodsObtain GoodsID="-64" CoinID="207" Name="Điểm Bảo Tàng Quốc Vương" ObtainSwitch="1" BaoDianID="668" />
+  <GoodsObtain GoodsID="-65" CoinID="208" Name="Điểm Bảo Tàng Tinh Linh " ObtainSwitch="1" BaoDianID="668" />
+  <GoodsObtain GoodsID="-66" CoinID="209" Name="Điểm Bảo Tàng Thợ Sơn" ObtainSwitch="1" BaoDianID="668" />
+  <GoodsObtain GoodsID="-67" CoinID="210" Name="Điểm Bảo Tàng Cự Long" ObtainSwitch="1" BaoDianID="668" />
+  <GoodsObtain GoodsID="-68" CoinID="212" Name="Xu Trở Về" ObtainSwitch="1" BaoDianID="673" />
+  <GoodsObtain GoodsID="36000" CoinID="-1" Name="Ngọn Nguồn Thiên Sứ" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="36001" CoinID="-1" Name="神源之晶" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="24001" CoinID="-1" Name="初级生命魔卡石" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="24002" CoinID="-1" Name="中级生命魔卡石" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="24003" CoinID="-1" Name="高级生命魔卡石" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="24004" CoinID="-1" Name="初级防御魔卡石" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="24005" CoinID="-1" Name="中级防御魔卡石" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="24006" CoinID="-1" Name="高级防御魔卡石" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="24007" CoinID="-1" Name="初级攻击魔卡石" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="24008" CoinID="-1" Name="中级攻击魔卡石" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="24009" CoinID="-1" Name="高级攻击魔卡石" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="24010" CoinID="-1" Name="初级暴击魔卡石" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="24011" CoinID="-1" Name="中级暴击魔卡石" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="24012" CoinID="-1" Name="高级暴击魔卡石" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="24013" CoinID="-1" Name="Thẻ Thiên Phú HP" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="24014" CoinID="-1" Name="Thẻ Thiên Phú Phòng Ngự" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="24015" CoinID="-1" Name="Thẻ Thiên Phú Công Kích" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="24016" CoinID="-1" Name="Thẻ Thiên Phú Bạo Kích" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="39000" CoinID="-1" Name="Sương Thần Thánh" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="39001" CoinID="-1" Name="Nước Mắt Nguyên Sơ" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="39002" CoinID="-1" Name="Bùa Nguyên Tố" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="42000" CoinID="-1" Name="圣痕晶石" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="2150" CoinID="-1" Name="Vé Vào Đấu Trường Thánh Giả" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="8630" CoinID="-1" Name="Khiên Thánh Kiên Thạch" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="8631" CoinID="-1" Name="Khiên Thánh Linh Thạch" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="8632" CoinID="-1" Name="Khiên Thánh Diệu Thạch" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="8633" CoinID="-1" Name="Khiên Thánh Kiên Tinh" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="8634" CoinID="-1" Name="Khiên Thánh Diệu Tinh" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="12501" CoinID="-1" Name="Thánh Lệnh Guild Bậc Thấp" ObtainSwitch="1" BaoDianID="604" />
+  <GoodsObtain GoodsID="12502" CoinID="-1" Name="Thánh Lệnh Guild Bậc Vừa" ObtainSwitch="1" BaoDianID="604" />
+  <GoodsObtain GoodsID="12503" CoinID="-1" Name="Thánh Lệnh Guild Bậc Cao" ObtainSwitch="1" BaoDianID="604" />
+  <GoodsObtain GoodsID="12504" CoinID="-1" Name="Thánh Lệnh Guild Bậc Thần" ObtainSwitch="1" BaoDianID="604" />
+  <GoodsObtain GoodsID="12601" CoinID="-1" Name="Chạm khắc Thánh lệnh lục" ObtainSwitch="1" BaoDianID="604,661" />
+  <GoodsObtain GoodsID="12701" CoinID="-1" Name="Chạm khắc Thánh lệnh lam" ObtainSwitch="1" BaoDianID="604,661" />
+  <GoodsObtain GoodsID="12801" CoinID="-1" Name="Chạm khắc Thánh lệnh tím" ObtainSwitch="1" BaoDianID="604,661" />
+  <GoodsObtain GoodsID="2151" CoinID="-1" Name="Bảo Thạch Tinh Luyện" ObtainSwitch="1" BaoDianID="604" />
+  <GoodsObtain GoodsID="2152" CoinID="-1" Name="Linh Thạch Tinh Luyện" ObtainSwitch="1" BaoDianID="604" />
+  <GoodsObtain GoodsID="2153" CoinID="-1" Name="Thánh Thạch Tinh Luyện" ObtainSwitch="1" BaoDianID="604" />
+  <GoodsObtain GoodsID="2154" CoinID="-1" Name="Huy Chương Guild" ObtainSwitch="1" BaoDianID="604" />
+  <GoodsObtain GoodsID="2155" CoinID="-1" Name="Vụn Tinh Hoa Sơ" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="2156" CoinID="-1" Name="Vụn Tinh Hoa Trung" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="2157" CoinID="-1" Name="Vụn Tinh Hoa Cao" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="2158" CoinID="-1" Name="Tăng phẩm Bảo Chùy" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="2159" CoinID="-1" Name="Tăng phẩm Linh Chùy" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="2160" CoinID="-1" Name="Tăng phẩm Thánh Chùy" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="-69" CoinID="216" Name="Xu Tinh Trần" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="-70" CoinID="217" Name="Xu Tinh Huy" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="-71" CoinID="218" Name="Bộ Trang Bị Tinh Hoa" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="-72" CoinID="219" Name="Điểm kỳ thú" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="-73" CoinID="220" Name="Vé thưởng kỳ thú" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="6100" CoinID="-1" Name="Tăng Sao Thánh Vật" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="6101" CoinID="-1" Name="Tăng Bậc Thánh Vật" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="6102" CoinID="-1" Name="Tăng Cấp Thánh Chương" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="6103" CoinID="-1" Name="Thôi Linh Thánh Chương" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="6104" CoinID="-1" Name="Thăng Cấp Thánh Phách" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="-74" CoinID="223" Name="Vé đổi Rạp Xiếc" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="-75" CoinID="224" Name="Chìa khóa Rạp Xiếc" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="400007" CoinID="-1" Name="Đá Tinh Long" ObtainSwitch="1" BaoDianID="678" />
+  <GoodsObtain GoodsID="400008" CoinID="-1" Name="Đá Hoàng Long" ObtainSwitch="1" BaoDianID="678" />
+  <GoodsObtain GoodsID="-76" CoinID="222" Name="Chìa Khóa Kho Báu" ObtainSwitch="1" BaoDianID="678" />
+  <GoodsObtain GoodsID="-77" CoinID="221" Name="Thần Tức Tinh Hoa" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="-78" CoinID="226" Name="Hồn Dũng Sĩ" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="5605" CoinID="-1" Name="Chứng Nhận Du Ngoạn" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="5606" CoinID="-1" Name="Ngân Chùy Bí Bảo" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="5607" CoinID="-1" Name="Kim Chùy Bí Bảo" ObtainSwitch="1" BaoDianID="661" />
+  <GoodsObtain GoodsID="-68" CoinID="212" Name="Xu Trở Về" ObtainSwitch="1" BaoDianID="673" />
+  <GoodsObtain GoodsID="36000" CoinID="-1" Name="Nguồn Thiên Sứ" ObtainSwitch="1" BaoDianID="661" />
+</Config>"

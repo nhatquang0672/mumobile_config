@@ -1,0 +1,43 @@
+TextAsset Base
+	string m_Name = "XingYunXingKaiGuan"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HuanLeDaiBi ID="1" ZhongWenMingCheng="祈福系统 " XiTongMingCheng="QiFuXiTong" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="2" ZhongWenMingCheng="精灵猎取" XiTongMingCheng="JingLingLieQu" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="3" ZhongWenMingCheng="坐骑捕捉" XiTongMingCheng="ZuoQiBuHuo" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="4" ZhongWenMingCheng="荧光石抽取" XiTongMingCheng="YingGuanShiChouQu" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="5" ZhongWenMingCheng="符文抽取" XiTongMingCheng="FuWenChouQu" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="6" ZhongWenMingCheng="翅膀升星" XiTongMingCheng="ChiBangShengXing" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="7" ZhongWenMingCheng="翅膀进阶" XiTongMingCheng="ChiBangShengJie" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="8" ZhongWenMingCheng="神器系统" XiTongMingCheng="ShenQiXiTong" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="9" ZhongWenMingCheng="翎羽升星" XiTongMingCheng="LingYuShengXing" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="10" ZhongWenMingCheng="翎羽升阶" XiTongMingCheng="LingYuShengJie" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="11" ZhongWenMingCheng="成就符文" XiTongMingCheng="ChengJieFuWen" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="12" ZhongWenMingCheng="声望印记" XiTongMingCheng="ShengWangYinJi" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="13" ZhongWenMingCheng="梅林之书" XiTongMingCheng="MeiLingZhiShu" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="14" ZhongWenMingCheng="冥想多倍" XiTongMingCheng="MingXiangDuoBei" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="15" ZhongWenMingCheng="恶魔多倍" XiTongMingCheng="EMoDuoBei" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="16" ZhongWenMingCheng="钻石鼓舞" XiTongMingCheng="ZuanShiGuWu" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="17" ZhongWenMingCheng="装备培养" XiTongMingCheng="ZhuangBeiPeiYang" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="18" ZhongWenMingCheng="装备传承" XiTongMingCheng="ZhuangBeiChuanCheng" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="19" ZhongWenMingCheng="精灵技能传承" XiTongMingCheng="JingLingJiNengChuanCheng" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="20" ZhongWenMingCheng="天赋洗点" XiTongMingCheng="TianFuXiDian" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="21" ZhongWenMingCheng="属性洗点" XiTongMingCheng="ShuXingXiDian" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="22" ZhongWenMingCheng="精灵要塞召唤Boss" XiTongMingCheng="JingLingYaoSaiZhaoHuanBoss" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="23" ZhongWenMingCheng="精灵要塞刷新" XiTongMingCheng="JingLingYaoSaiShuaXin" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="24" ZhongWenMingCheng="精灵要塞普通召唤" XiTongMingCheng="JingLingYaoSaiPuTongZhaoHuan" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="25" ZhongWenMingCheng="一件完成日常任务 " XiTongMingCheng="YiJianWanChengRiChang" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="26" ZhongWenMingCheng="徽记升星 " XiTongMingCheng="HuiJiShengXing" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="27" ZhongWenMingCheng="徽记升阶" XiTongMingCheng="HuiJiShengJie" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="28" ZhongWenMingCheng="神圣护盾" XiTongMingCheng="ShenShengHuDun" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="29" ZhongWenMingCheng="梦幻石板" XiTongMingCheng="MengHuanShiBan" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="30" ZhongWenMingCheng="副本" XiTongMingCheng="FuBen" XingYunKaiGuan="0" /><!--截止10.0版本，只包括重生个人boss里的付费挑战-->
+  <!--海外客户端新增-->
+  <HuanLeDaiBi ID="1001" ZhongWenMingCheng="转盘抽取" XiTongMingCheng="ZhuanPanChouQu" XingYunKaiGuan="0" />
+  <HuanLeDaiBi ID="1002" ZhongWenMingCheng="称号商城" XiTongMingCheng="ChengHaoShangCheng" XingYunKaiGuan="0" />
+
+
+
+
+
+</Config>"

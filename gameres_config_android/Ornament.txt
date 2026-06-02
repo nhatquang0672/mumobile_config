@@ -1,0 +1,420 @@
+TextAsset Base
+	string m_Name = "Ornament"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--This is converted via Confdata Lite Tool (Zythe) v1.0.0.0 contact: zythe.info@gmail.com-->
+  <Ornament GoodsID="1034000" Type="1" Name="Hoa Tai MU" Recover="130" Description="Vào túi, sử dụng [Hoa Tai MU] để kích hoạt" GoalType="0" GoalNum="-1" GoalAward="-1" List="10" Show="1" />
+  <Ornament GoodsID="1034001" Type="1" Name="Thanh Niên Ưu Tú" Recover="70" Description="Vào túi, sử dụng [Thanh Niên Ưu Tú] để kích hoạt" GoalType="0" GoalNum="-1" GoalAward="-1" List="220" Show="1" />
+  <Ornament GoodsID="1034002" Type="1" Name="D.Chuyền Ma Thần" Recover="130" Description="Có thể đổi bằng Ma Băng, sau khi sử dụng kích hoạt" GoalType="0" GoalNum="-1" GoalAward="-1" List="60" Show="1" />
+  <Ornament GoodsID="1034003" Type="1" Name="Nhẫn Vinh Diệu" Recover="100" Description="Có thể đổi trong tiệm Vinh Dự, sau khi sử dụng kích hoạt" GoalType="0" GoalNum="-1" GoalAward="-1" List="70" Show="1" />
+  <Ornament GoodsID="1034004" Type="1" Name="D.Chuyền Tinh Linh" Recover="130" Description="Có thể đổi tích điểm Tinh Linh, sau khi sử dụng kích hoạt" GoalType="0" GoalNum="-1" GoalAward="-1" List="80" Show="1" />
+  <Ornament GoodsID="1034005" Type="1" Name="Ấn Ký Chúng Thần" Recover="70" Description="Có thể đổi trong tiệm Tranh Bá, sau khi sử dụng kích hoạt" GoalType="0" GoalNum="-1" GoalAward="-1" List="90" Show="1" />
+  <Ornament GoodsID="1034006" Type="2" Name="Đại Sư Kỳ Tích" Recover="-1" Description="Nhận 30 điểm Thiên Phú" GoalType="1" GoalNum="30" GoalAward="100" List="100" Show="1" />
+  <Ornament GoodsID="1034007" Type="2" Name="Chiến Trường Chí Tôn" Recover="-1" Description="Thắng 10 trận Chiến Trường Vương Giả" GoalType="2" GoalNum="10" GoalAward="70" List="110" Show="1" />
+  <Ornament GoodsID="1034008" Type="2" Name="Dũng Sĩ Chí Tôn" Recover="-1" Description="Thắng 10 trận Đấu Trường Dũng Sĩ" GoalType="3" GoalNum="10" GoalAward="70" List="130" Show="1" />
+  <Ornament GoodsID="1034009" Type="2" Name="Sát Thủ Ảo Ảnh" Recover="-1" Description="Thắng 100 trận Ảo Cảnh Tu Viện" GoalType="4" GoalNum="100" GoalAward="70" List="150" Show="1" />
+  <Ornament GoodsID="1034010" Type="2" Name="Đấu Trường Dũng Sĩ" Recover="-1" Description="Thắng 200 trận Đấu Trường" GoalType="5" GoalNum="200" GoalAward="70" List="160" Show="1" />
+  <Ornament GoodsID="1034011" Type="1" Name="Huy Chương Vàng Olympic" Recover="170" Description="Huy Chương Vàng thuộc về bạn trong event Olympic!" GoalType="0" GoalNum="-1" GoalAward="-1" List="230" Show="-1" />
+  <Ornament GoodsID="1034012" Type="1" Name="Huy Chương Bạc Olympic" Recover="170" Description="Huy Chương Bạc thuộc về bạn trong event Olympic!" GoalType="0" GoalNum="-1" GoalAward="-1" List="240" Show="-1" />
+  <Ornament GoodsID="1034013" Type="1" Name="Huy Chương Đồng Olympic" Recover="130" Description="Huy Chương Đồng thuộc về bạn trong event Olympic!" GoalType="0" GoalNum="-1" GoalAward="-1" List="250" Show="-1" />
+  <Ornament GoodsID="1034014" Type="1" Name="Vòng Sáng Sinh Mệnh" Recover="130" Description="Vòng Sáng Sinh Mệnh soi sáng cho bạn!" GoalType="0" GoalNum="-1" GoalAward="-1" List="260" Show="-1" />
+  <Ornament GoodsID="1034015" Type="1" Name="Nhẫn Thần Ưng" Recover="130" Description="Đây chính là, tốc độ thần thánh!!!" GoalType="0" GoalNum="-1" GoalAward="-1" List="270" Show="-1" />
+  <Ornament GoodsID="1034016" Type="1" Name="Ấn Ký Tái Tạo" Recover="130" Description="Hãy tiếp tục tái tạo, bạn cần mạnh hơn nữa!" GoalType="0" GoalNum="-1" GoalAward="-1" List="280" Show="-1" />
+  <Ornament GoodsID="1034017" Type="1" Name="Huy Chương Tiến Hóa" Recover="130" Description="Cảm giác của tạo hóa quả thật không tồi!" GoalType="0" GoalNum="-1" GoalAward="-1" List="290" Show="-1" />
+  <Ornament GoodsID="1034018" Type="1" Name="Ký Tích Trở Về" Recover="170" Description="Kỳ tích đồng hành cùng bạn!" GoalType="0" GoalNum="-1" GoalAward="-1" List="300" Show="-1" />
+  <Ornament GoodsID="1034019" Type="1" Name="Bá Chủ Kỳ Tích" Recover="230" Description="Khai mở con đường tranh bá của bạn!" GoalType="0" GoalNum="-1" GoalAward="-1" List="310" Show="-1" />
+  <Ornament GoodsID="1034020" Type="2" Name="Cúp Quán Quân" Recover="-1" Description="Guild đoạt giải 1 LM Hoàng Kim Cao 1 lần" GoalType="0" GoalNum="-1" GoalAward="-1" List="20" Show="1" />
+  <Ornament GoodsID="1034021" Type="2" Name="Trang Sức Tân Tinh" Recover="-1" Description="Tham gia 20 trận trong Liên Minh" GoalType="0" GoalNum="-1" GoalAward="-1" List="30" Show="1" />
+  <Ornament GoodsID="1034022" Type="2" Name="Huy Hiệu MVP" Recover="-1" Description="Đạt 3 lần MVP trong Liên Minh Hoàng Kim" GoalType="0" GoalNum="-1" GoalAward="-1" List="40" Show="1" />
+  <Ornament GoodsID="1034023" Type="2" Name="Dấu Ấn Chiến Thắng" Recover="-1" Description="Thắng 20 trận trong Liên Minh Hoàng Kim" GoalType="0" GoalNum="-1" GoalAward="-1" List="50" Show="1" />
+  <Ornament GoodsID="1034024" Type="1" Name="Trí Tuệ Bảo Điển" Recover="170" Description="Trang sức sự kiện" GoalType="0" GoalNum="-1" GoalAward="-1" List="320" Show="1" />
+  <Ornament GoodsID="1034025" Type="1" Name="Lệnh Bài Huyền Hỏa" Recover="170" Description="Trang sức sự kiện" GoalType="0" GoalNum="-1" GoalAward="-1" List="330" Show="1" />
+  <Ornament GoodsID="1034026" Type="1" Name="Huy Hiệu Thập Tử" Recover="170" Description="Trang sức sự kiện" GoalType="0" GoalNum="-1" GoalAward="-1" List="340" Show="1" />
+  <Ornament GoodsID="1034027" Type="1" Name="Hàn Băng Ma Giới" Recover="170" Description="Trang sức sự kiện" GoalType="0" GoalNum="-1" GoalAward="-1" List="350" Show="1" />
+  <Ornament GoodsID="1034028" Type="2" Name="Dùi Hoàng Quyền" Recover="-1" Description="Thắng 10 lần MVP Đấu Trường Vương Giả" GoalType="10" GoalNum="10" GoalAward="70" List="120" Show="1" />
+  <Ornament GoodsID="1034029" Type="2" Name="Bao Tay Dũng Sĩ" Recover="-1" Description="Thắng 10 lần MVP Đấu Trường Dũng Sĩ" GoalType="11" GoalNum="10" GoalAward="70" List="140" Show="1" />
+  <Ornament GoodsID="1034030" Type="2" Name="Huy Hiệu Bạch Kim" Recover="-1" Description="PK Ranking đạt Bạch Kim 1" GoalType="12" GoalNum="1" GoalAward="70" List="170" Show="1" />
+  <Ornament GoodsID="1034031" Type="2" Name="Huy Hiệu Kim Cương" Recover="-1" Description="PK Ranking đạt KC 1" GoalType="13" GoalNum="1" GoalAward="70" List="180" Show="1" />
+  <Ornament GoodsID="1034032" Type="2" Name="Tim Tương Thủ" Recover="-1" Description="Cấp Đấu Trường Couple đạt Tư Thủ" GoalType="14" GoalNum="1" GoalAward="70" List="190" Show="1" />
+  <Ornament GoodsID="1034033" Type="2" Name="Huy Hiệu Thiết Huyết" Recover="-1" Description="T.Đoạt Liên SV diệt 1000 Kẻ Phòng Ngự" GoalType="15" GoalNum="1000" GoalAward="70" List="200" Show="1" />
+  <Ornament GoodsID="1034034" Type="2" Name="Huy Hiệu Cố Thủ" Recover="-1" Description="T.Đoạt Liên SV diệt 1000 Kẻ Xâm Lược" GoalType="16" GoalNum="1000" GoalAward="70" List="210" Show="1" />
+  <Ornament GoodsID="1034035" Type="1" Name="Lông Hoàng Kim" Recover="170" Description="Trang sức sự kiện" GoalType="0" GoalNum="-1" GoalAward="-1" List="360" Show="-1" />
+  <Ornament GoodsID="1034036" Type="1" Name="Nón Ma Lực" Recover="170" Description="Trang sức sự kiện" GoalType="0" GoalNum="-1" GoalAward="-1" List="370" Show="-1" />
+  <Ornament GoodsID="1034037" Type="1" Name="Ngọc Độc Long" Recover="170" Description="Trang sức sự kiện" GoalType="0" GoalNum="-1" GoalAward="-1" List="380" Show="-1" />
+  <Ornament GoodsID="1034038" Type="1" Name="Vòng Kim Cang" Recover="170" Description="Trang sức sự kiện" GoalType="0" GoalNum="-1" GoalAward="-1" List="390" Show="-1" />
+  <Ornament GoodsID="1034039" Type="1" Name="Lửa Địa Ngục" Recover="170" Description="Trang sức sự kiện" GoalType="0" GoalNum="-1" GoalAward="-1" List="400" Show="-1" />
+  <Ornament GoodsID="1034040" Type="1" Name="Trận Hồi Sinh" Recover="170" Description="Trang sức sự kiện" GoalType="0" GoalNum="-1" GoalAward="-1" List="410" Show="-1" />
+  <Ornament GoodsID="1034041" Type="1" Name="Tượng Khổng Lồ" Recover="170" Description="Trang sức sự kiện" GoalType="0" GoalNum="-1" GoalAward="-1" List="420" Show="-1" />
+  <Ornament GoodsID="1034042" Type="1" Name="Chìa Vạn Năng" Recover="170" Description="Trang sức sự kiện" GoalType="0" GoalNum="-1" GoalAward="-1" List="430" Show="-1" />
+  <Ornament GoodsID="1034043" Type="1" Name="Chung Thủy" Recover="200" Description="Trang sức sự kiện" GoalType="0" GoalNum="-1" GoalAward="-1" List="440" Show="-1" />
+  <Ornament GoodsID="1034044" Type="1" Name="Tương Thông" Recover="200" Description="Trang sức sự kiện" GoalType="0" GoalNum="-1" GoalAward="-1" List="450" Show="-1" />
+  <Ornament GoodsID="1034045" Type="1" Name="Tam Sinh Tam Thế" Recover="200" Description="Trang sức sự kiện" GoalType="0" GoalNum="-1" GoalAward="-1" List="460" Show="-1" />
+  <Ornament GoodsID="1034046" Type="1" Name="Chùy Sét" Recover="170" Description="Trang sức sự kiện" GoalType="0" GoalNum="-1" GoalAward="-1" List="470" Show="-1" />
+  <Ornament GoodsID="1034047" Type="1" Name="Huy Chương Giai Mô" Recover="170" Description="Trang sức event đặc biệt." GoalType="0" GoalNum="-1" GoalAward="-1" List="480" Show="-1" />
+  <Ornament GoodsID="1034048" Type="1" Name="九章" Recover="200" Description="活动专属饰品，史上著名诗篇！" GoalType="0" GoalNum="-1" GoalAward="-1" List="490" Show="-1" />
+  <Ornament GoodsID="1034049" Type="1" Name="天问" Recover="200" Description="活动专属饰品，问答解惑也！" GoalType="0" GoalNum="-1" GoalAward="-1" List="500" Show="-1" />
+  <Ornament GoodsID="1034050" Type="1" Name="Đồng Hồ Cát" Recover="180" Description="Trang sức sự kiện, thời gian là vàng bạc, bạn của ta!" GoalType="0" GoalNum="-1" GoalAward="-1" List="510" Show="-1" />
+  <Ornament GoodsID="1034051" Type="1" Name="Bao Kiếm Tinh Tế" Recover="180" Description="Trang sức sự kiện" GoalType="0" GoalNum="-1" GoalAward="-1" List="520" Show="-1" />
+  <Ornament GoodsID="1034052" Type="1" Name="Vuốt Bí Ẩn" Recover="180" Description="Trang sức sự kiện" GoalType="0" GoalNum="-1" GoalAward="-1" List="530" Show="-1" />
+  <Ornament GoodsID="1034053" Type="1" Name="Sao Ngày Nắng" Recover="200" Description="Trang sức sự kiện" GoalType="0" GoalNum="-1" GoalAward="-1" List="540" Show="-1" />
+  <Ornament GoodsID="1034054" Type="1" Name="Quyển Da Dê" Recover="180" Description="Trang sức sự kiện" GoalType="0" GoalNum="-1" GoalAward="-1" List="550" Show="-1" />
+  <Ornament GoodsID="1034055" Type="1" Name="Sách Truyền Kỳ" Recover="180" Description="Trang sức sự kiện" GoalType="0" GoalNum="-1" GoalAward="-1" List="560" Show="-1" />
+  <Ornament GoodsID="1034056" Type="1" Name="Lương 2017" Recover="50" Description="Trang sức sự kiện, lương 2017!" GoalType="0" GoalNum="-1" GoalAward="-1" List="570" Show="-1" />
+  <Ornament GoodsID="1034057" Type="1" Name="Kẻ Trấn Ma" Recover="50" Description="Trang sức sự kiện, ma tộc bé nhỏ mà thôi!" GoalType="0" GoalNum="-1" GoalAward="-1" List="580" Show="-1" />
+  <Ornament GoodsID="1034058" Type="1" Name="Gỗ Hàng Long" Recover="180" Description="Trang sức sự kiện, thần mộc hiếm có trên đời!" GoalType="0" GoalNum="-1" GoalAward="-1" List="590" Show="-1" />
+  <Ornament GoodsID="1034059" Type="1" Name="Túi Thơm" Recover="180" Description="Trang sức sự kiện, lúc nào cũng có thể khiến ngươi động lòng!" GoalType="0" GoalNum="-1" GoalAward="-1" List="600" Show="-1" />
+  <Ornament GoodsID="1034060" Type="1" Name="Bàn Tay Phục Thù" Recover="50" Description="Trang sức sự kiện, đừng để thù hận chi phối đôi tay ngươi!" GoalType="0" GoalNum="-1" GoalAward="-1" List="610" Show="-1" />
+  <Ornament GoodsID="1034061" Type="1" Name="Mắt Quan Sát" Recover="200" Description="Trang sức sự kiện, tứ hải đều thu vào mắt!" GoalType="0" GoalNum="-1" GoalAward="-1" List="620" Show="-1" />
+  <Ornament GoodsID="1034062" Type="1" Name="Nanh Vua Sói" Recover="180" Description="Trang sức sự kiện, tất cả cũng đều là để sinh tồn!" GoalType="0" GoalNum="-1" GoalAward="-1" List="630" Show="-1" />
+  <Ornament GoodsID="1034063" Type="1" Name="Phục Ma Linh" Recover="180" Description="Trang sức sự kiện, Phục Ma Linh né tránh vạn ma!" GoalType="0" GoalNum="-1" GoalAward="-1" List="640" Show="-1" />
+  <Ornament GoodsID="1034064" Type="1" Name="Bù Đồng Đỏ" Recover="180" Description="Trang sức sự kiện, tuyệt thế thần binh đủ cả công phòng!" GoalType="0" GoalNum="-1" GoalAward="-1" List="650" Show="-1" />
+  <Ornament GoodsID="1034065" Type="1" Name="Bút Trạng Nguyên" Recover="200" Description="Trang sức sự kiện, chớ phụ cảnh xuân!" GoalType="0" GoalNum="-1" GoalAward="-1" List="660" Show="-1" />
+  <Ornament GoodsID="1034066" Type="1" Name="Bảng Vàng" Recover="200" Description="Trang sức sự kiện, đêm động phòng, Bảng Vàng đề danh!" GoalType="0" GoalNum="-1" GoalAward="-1" List="670" Show="-1" />
+  <Ornament GoodsID="1034067" Type="1" Name="Mặt Nạ Biến Hình" Recover="200" Description="Trang sức sự kiện, để ngươi cảm nhận đời người lắm thay đổi!" GoalType="0" GoalNum="-1" GoalAward="-1" List="680" Show="-1" />
+  <Ornament GoodsID="1034068" Type="1" Name="Đai Hoàng Kim" Recover="200" Description="Trang sức sự kiện, tiêu chuẩn duy nhất để chứng minh sức mạnh!" GoalType="0" GoalNum="-1" GoalAward="-1" List="690" Show="-1" />
+  <Ornament GoodsID="1034069" Type="1" Name="La Bàn Phép" Recover="200" Description="Trang sức sự kiện, ma pháp sẽ chỉ đường cho ngươi!" GoalType="0" GoalNum="-1" GoalAward="-1" List="700" Show="-1" />
+  <Ornament GoodsID="1034070" Type="1" Name="Ngọc Long Hồn" Recover="200" Description="Trang sức sự kiện, ngọc bội bên người của Thần Long!" GoalType="0" GoalNum="-1" GoalAward="-1" List="710" Show="-1" />
+  <Ornament GoodsID="1034071" Type="1" Name="Ngọc Nguyên Lực" Recover="200" Description="Trang sức sự kiện, xin nguyên lực sẽ luôn ở cùng ngươi!" GoalType="0" GoalNum="-1" GoalAward="-1" List="720" Show="-1" />
+  <Ornament GoodsID="1034072" Type="1" Name="Sen Tim Đỏ" Recover="200" Description="Trang sức sự kiện, Hồng Liên Nghiệp Hỏa sẽ thiêu đốt vạn vật!" GoalType="0" GoalNum="-1" GoalAward="-1" List="730" Show="-1" />
+  <Ornament GoodsID="1034073" Type="1" Name="Ma Đà La" Recover="200" Description="Trang sức sự kiện, hãy cùng nhau điên cuồng lắc lư!" GoalType="0" GoalNum="-1" GoalAward="-1" List="740" Show="-1" />
+  <Ornament GoodsID="1034074" Type="1" Name="Người Yêu Lam" Recover="200" Description="Trang sức sự kiện, làm bạn chính là lời bày tỏ sâu sắc nhất!" GoalType="0" GoalNum="-1" GoalAward="-1" List="750" Show="-1" />
+  <Ornament GoodsID="1034075" Type="1" Name="Mắt Kính Lôi" Recover="200" Description="Trang sức sự kiện, ngươi dám nhìn ta!" GoalType="0" GoalNum="-1" GoalAward="-1" List="760" Show="-1" />
+  <Ornament GoodsID="1034076" Type="1" Name="Nón Bảo Hộ" Recover="200" Description="Trang sức sự kiện, suy nghĩ của ngươi, ngươi làm chủ!" GoalType="0" GoalNum="-1" GoalAward="-1" List="770" Show="-1" />
+  <Ornament GoodsID="1034077" Type="1" Name="Giường Hàn Băng" Recover="200" Description="Trang sức sự kiện, mát quá, thật thoải mái!" GoalType="0" GoalNum="-1" GoalAward="-1" List="780" Show="-1" />
+  <Ornament GoodsID="1034078" Type="1" Name="Dây chuyền Hàn Băng" Recover="200" Description="Trang sức sự kiện, mùa hè nóng bức làm ta khó chịu!" GoalType="0" GoalNum="-1" GoalAward="-1" List="790" Show="-1" />
+  <Ornament GoodsID="1034079" Type="1" Name="Quẹt Lửa Dã Doanh" Recover="200" Description="Trang sức event" GoalType="0" GoalNum="-1" GoalAward="-1" List="800" Show="-1" />
+  <Ornament GoodsID="1034080" Type="1" Name="Ban Bác Điêu Bài" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="810" Show="-1" />
+  <Ornament GoodsID="1034081" Type="1" Name="Dây Chuyền Thùy Hà" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="820" Show="-1" />
+  <Ornament GoodsID="1034082" Type="1" Name="Vịnh Thán Chi Giới" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="830" Show="-1" />
+  <Ornament GoodsID="1034083" Type="1" Name="Đồng Hồ Thời Không" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="840" Show="-1" />
+  <Ornament GoodsID="1034084" Type="1" Name="Kính Viễn Vọng" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="850" Show="-1" />
+  <Ornament GoodsID="1034085" Type="1" Name="Túi Hoa Hải Đường" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="860" Show="-1" />
+  <Ornament GoodsID="1034086" Type="1" Name="Đá Tam Sinh" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="870" Show="-1" />
+  <Ornament GoodsID="1034087" Type="1" Name="Tuyên Ngôn Kháng Chiến" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="880" Show="-1" />
+  <Ornament GoodsID="1034088" Type="1" Name="Bút Bi MacArthur" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="890" Show="-1" />
+  <Ornament GoodsID="1034089" Type="1" Name="Thần Bí Lộ Châu" Recover="200" Description="Trang sức event, thương thương bạch lộ vi sương!" GoalType="0" GoalNum="-1" GoalAward="-1" List="900" Show="-1" />
+  <Ornament GoodsID="1034090" Type="1" Name="Điêu Khắc Kết Sương" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="910" Show="-1" />
+  <Ornament GoodsID="1034091" Type="1" Name="Nước Mắt Ngân Hà" Recover="200" Description="Trang sức event, sản vật thần bí đến từ ngân hà!" GoalType="0" GoalNum="-1" GoalAward="-1" List="920" Show="-1" />
+  <Ornament GoodsID="1034092" Type="1" Name="Cánh Bích Lạc" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="930" Show="-1" />
+  <Ornament GoodsID="1034093" Type="1" Name="Trân Tàng Lá Thu" Recover="200" Description="Trang sức event, nhìn vật nhớ người!" GoalType="0" GoalNum="-1" GoalAward="-1" List="940" Show="-1" />
+  <Ornament GoodsID="1034094" Type="1" Name="Nghiêm Thu Thánh Liêm" Recover="200" Description="Trang sức event, truyền thuyết kể rằng có sức kế thừa của thần nhân!" GoalType="0" GoalNum="-1" GoalAward="-1" List="950" Show="-1" />
+  <Ornament GoodsID="1034095" Type="1" Name="Lệnh Bài Bất Hủ" Recover="200" Description="Trang sức event, thiên thu vạn đại!" GoalType="0" GoalNum="-1" GoalAward="-1" List="960" Show="-1" />
+  <Ornament GoodsID="1034096" Type="1" Name="Hỷ Khánh Hoa Lam" Recover="200" Description="Trang sức event, lam trung tiên hoa!" GoalType="0" GoalNum="-1" GoalAward="-1" List="970" Show="-1" />
+  <Ornament GoodsID="1034097" Type="1" Name="Hạnh Phúc Miên Như" Recover="200" Description="Trang sức event, ấm tim người!" GoalType="0" GoalNum="-1" GoalAward="-1" List="980" Show="-1" />
+  <Ornament GoodsID="1034098" Type="1" Name="Tử Kim Hồ Lô" Recover="200" Description="Trang sức event, thật muốn biết bên trong chứa bảo bối gì!" GoalType="0" GoalNum="-1" GoalAward="-1" List="990" Show="-1" />
+  <Ornament GoodsID="1034099" Type="1" Name="Huy Chương Quý Tộc Kỳ Tích" Recover="200" Description="Trang sức event, quý tộc tạo kỳ tích thế giới!" GoalType="0" GoalNum="-1" GoalAward="-1" List="7" Show="-1" />
+  <Ornament GoodsID="1034100" Type="1" Name="Huy Chương Vương Giả Kỳ Tích" Recover="200" Description="Trang sức event, vinh dự vương giả  tạo kỳ tích thế giới!" GoalType="0" GoalNum="-1" GoalAward="-1" List="5" Show="-1" />
+  <Ornament GoodsID="1034101" Type="1" Name="Thần Sáng Thế Kỳ Tích" Recover="200" Description="Trang sức event, thần minh truyền thuyết tạo kỳ tích thế giới!" GoalType="0" GoalNum="-1" GoalAward="-1" List="3" Show="-1" />
+  <Ornament GoodsID="1034102" Type="1" Name="Trang Sức Gấu Nhỏ" Recover="200" Description="Trang sức event, một ức hồi ức một ít ấm áp!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1000" Show="-1" />
+  <Ornament GoodsID="1034103" Type="1" Name="Duy Mĩ Giải Cấu" Recover="200" Description="Trang sức event, không có sự ngẫu nhiên chỉ có sắp đặt!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1010" Show="-1" />
+  <Ornament GoodsID="1034104" Type="1" Name="Phi Thiên Tảo Trửu" Recover="200" Description="Trang sức event, bay lên nào!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1020" Show="-1" />
+  <Ornament GoodsID="1034105" Type="1" Name="Áo Choàng Tàng Hình" Recover="200" Description="Trang sức đặc biệt, hãy đoán xem tôi ở đâu?" GoalType="0" GoalNum="-1" GoalAward="-1" List="1030" Show="-1" />
+  <Ornament GoodsID="1034106" Type="1" Name="Cốt Lâu Tà Ác" Recover="200" Description="Trang sức đặc biệt, năng lực tà ác cực mạnh!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1040" Show="-1" />
+  <Ornament GoodsID="1034107" Type="1" Name="Mảnh Linh Lung Phỉ Thúy" Recover="200" Description="Trang sức event, vị cao quý kinh dã!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1050" Show="-1" />
+  <Ornament GoodsID="1034108" Type="1" Name="Trắc Cảnh Đỗ Khuê" Recover="200" Description="Trang sức event, thời gian đã đi đâu rồi?" GoalType="0" GoalNum="-1" GoalAward="-1" List="1060" Show="-1" />
+  <Ornament GoodsID="1034109" Type="1" Name="Cài Tóc Khổng Tước" Recover="200" Description="Trang sức event, nhu nhã cao quý!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1070" Show="-1" />
+  <Ornament GoodsID="1034110" Type="1" Name="Thủy Tinh Yêu Hồ" Recover="200" Description="Trang sức event, mỹ lệ tuyệt sắc!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1080" Show="-1" />
+  <Ornament GoodsID="1034111" Type="1" Name="Kim Trâm Khổng Tước" Recover="200" Description="Trang sức event, nhu nhã cao quý!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1090" Show="-1" />
+  <Ornament GoodsID="1034112" Type="1" Name="Cổ Phong Đoàn Phiến" Recover="200" Description="Trang sức event, lay động lòng người!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1100" Show="-1" />
+  <Ornament GoodsID="1034113" Type="1" Name="Bông Tai Trân Châu" Recover="200" Description="Trang sức event, thời gian trôi đi cảnh vật vẫn như cũ!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1110" Show="-1" />
+  <Ornament GoodsID="1034114" Type="1" Name="Bàn Long Ấn" Recover="200" Description="Trang sức event, long ấn trong tay sở hữu thiên hạ!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1120" Show="-1" />
+  <Ornament GoodsID="1034115" Type="1" Name="Cánh Thánh Ấn" Recover="200" Description="Trang sức event, huy chương cần thiết cánh vương giả!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1130" Show="-1" />
+  <Ornament GoodsID="1034116" Type="1" Name="Cường Hóa Thánh Ấn" Recover="200" Description="Trang sức event, huy chương cần thiết cường hóa vương giả!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1140" Show="-1" />
+  <Ornament GoodsID="1034117" Type="1" Name="Gia Cố Thánh Ấn" Recover="200" Description="Trang sức event, huy chương cần thiết gia cố vương giả!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1150" Show="-1" />
+  <Ornament GoodsID="1034118" Type="1" Name="Thành Tựu Thánh Ấn" Recover="200" Description="Trang sức event, huy chương cần thiết thành tựu vương giả!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1160" Show="-1" />
+  <Ornament GoodsID="1034119" Type="1" Name="Quân Hàm Thánh Ấn" Recover="200" Description="Trang sức event, huy chương cần thiết quân hàm vương giả!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1170" Show="-1" />
+  <Ornament GoodsID="1034120" Type="1" Name="Thánh Ấn VIP" Recover="200" Description="Trang sức event, huy chương cần thiết VIP vương giả!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1180" Show="-1" />
+  <Ornament GoodsID="1034121" Type="1" Name="Thánh Ấn Phù" Recover="200" Description="Trang sức event, huy chương cần thiết hộ phù vương giả!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1190" Show="-1" />
+  <Ornament GoodsID="1034122" Type="1" Name="Lồng Đèn Kinh Điển" Recover="200" Description="Trang sức event, lồng đèn đỏ treo cao cao!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1200" Show="-1" />
+  <Ornament GoodsID="1034123" Type="1" Name="Khí Cầu Ngũ Màu" Recover="200" Description="Trang sức event, hoan thiên hỷ địa!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1210" Show="-1" />
+  <Ornament GoodsID="1034124" Type="1" Name="Hoan Lạc Điếu Bài" Recover="200" Description="Trang sức event, lưu giữ niềm vui mỗi giây với bạn!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1220" Show="-1" />
+  <Ornament GoodsID="1034125" Type="1" Name="Phù Điêu Long Cổ" Recover="200" Description="Trang sức event, tiếng trống vang vọng đất trời!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1230" Show="-1" />
+  <Ornament GoodsID="1034126" Type="1" Name="Dũng Sĩ Năm" Recover="200" Description="Trang sức event, quà tặng event 3 năm!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1240" Show="-1" />
+  <Ornament GoodsID="1034127" Type="1" Name="Trang Sức San Hô" Recover="200" Description="Trang sức sự kiện!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1250" Show="-1" />
+  <Ornament GoodsID="1034128" Type="1" Name="Lược Hoàn Kim" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1260" Show="-1" />
+  <Ornament GoodsID="1034129" Type="2" Name="Huy Hiệu Dũng Sĩ" Recover="-1" Description="Tiêu diệt 100 người trong Ma Giới Đại Tháo Sát!" GoalType="17" GoalNum="100" GoalAward="-1" List="15" Show="1" />
+  <Ornament GoodsID="1034130" Type="1" Name="Vòng Tay Ngân Linh" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1270" Show="-1" />
+  <Ornament GoodsID="1034131" Type="1" Name="Dây Chuyền Thuần Lộc" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1280" Show="-1" />
+  <Ornament GoodsID="1034132" Type="1" Name="Đồ Đằng Thư Tín" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1290" Show="-1" />
+  <Ornament GoodsID="1034133" Type="1" Name="Bình Ma Bảy Màu" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1300" Show="-1" />
+  <Ornament GoodsID="1034134" Type="1" Name="Bảo Kim Lam Nguyệt" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1310" Show="-1" />
+  <Ornament GoodsID="1034135" Type="1" Name="Hồng Nhật Bảo Cương" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1320" Show="-1" />
+  <Ornament GoodsID="1034136" Type="1" Name="Thiên Tàm Tuyết Ti" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1330" Show="-1" />
+  <Ornament GoodsID="1034137" Type="1" Name="Kiên Cầm Hoa Lệ" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1340" Show="-1" />
+  <Ornament GoodsID="1034138" Type="1" Name="Dung Nham Địa Tâm" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1350" Show="-1" />
+  <Ornament GoodsID="1034139" Type="1" Name="Phù Thần Lực" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1360" Show="-1" />
+  <Ornament GoodsID="1034140" Type="1" Name="Nước Thần Lai" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1370" Show="-1" />
+  <Ornament GoodsID="1034141" Type="1" Name="Thuốc Tà Ác" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1380" Show="-1" />
+  <Ornament GoodsID="1034142" Type="1" Name="Đồ Đằng Thần Thủy" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1390" Show="-1" />
+  <Ornament GoodsID="1034143" Type="1" Name="Đồ Đằng Hậu Thổ" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1400" Show="-1" />
+  <Ornament GoodsID="1034144" Type="1" Name="Đồ Đằng Sáng Tạo" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1410" Show="-1" />
+  <Ornament GoodsID="1034145" Type="1" Name="Giáng Long Côn" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1420" Show="-1" />
+  <Ornament GoodsID="1034146" Type="1" Name="Dây Khôn Tiên" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1430" Show="-1" />
+  <Ornament GoodsID="1034147" Type="1" Name="Dây Chuyền Cún" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1440" Show="-1" />
+  <Ornament GoodsID="1034148" Type="2" Name="Huy chương săn bắt" Recover="-1" Description="Thắng 10 trận event săn bắt cá nhân！" GoalType="18" GoalNum="10" GoalAward="-1" List="16" Show="1" />
+  <Ornament GoodsID="1034149" Type="1" Name="Nguồn Hoạt Lực" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1450" Show="-1" />
+  <Ornament GoodsID="1034150" Type="1" Name="Quả Lưu Ly" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1460" Show="-1" />
+  <Ornament GoodsID="1034151" Type="1" Name="Đao Hộ Thân" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1470" Show="-1" />
+  <Ornament GoodsID="1034152" Type="1" Name="Tóc Bạc Thanh Tơ" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1480" Show="-1" />
+  <Ornament GoodsID="1034153" Type="1" Name="Bả Tửu Kim Tôn" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1490" Show="-1" />
+  <Ornament GoodsID="1034154" Type="1" Name="Đèn Thần Aladdin" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1500" Show="-1" />
+  <Ornament GoodsID="1034155" Type="1" Name="Bích Thạch Phong" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1510" Show="-1" />
+  <Ornament GoodsID="1034156" Type="1" Name="Vô Tự Thiên Thư" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1520" Show="-1" />
+  <Ornament GoodsID="1034157" Type="1" Name="Vỏ Phong Thạch" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1530" Show="-1" />
+  <Ornament GoodsID="1034158" Type="1" Name="Quả Cấm" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1540" Show="-1" />
+  <Ornament GoodsID="1034159" Type="1" Name="Phong Thạch Chi Lư" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1550" Show="-1" />
+  <Ornament GoodsID="1034160" Type="1" Name="Hoàn Hồn Cam Lộ" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1560" Show="-1" />
+  <Ornament GoodsID="1034161" Type="1" Name="Thiên Niên Linh Căn" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1570" Show="-1" />
+  <Ornament GoodsID="1034162" Type="1" Name="Bảo Thạch Tim" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1580" Show="-1" />
+  <Ornament GoodsID="1034163" Type="1" Name="Sách Cổ" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1590" Show="-1" />
+  <Ornament GoodsID="1034164" Type="1" Name="Phá Hoại Hồn Điệp" Recover="200" Description="Trang sức event!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1600" Show="-1" />
+  <Ornament GoodsID="1034165" Type="1" Name="Bài Phỉ Thúy" Recover="200" Description="Trang sức hoạt động, thời trang không lạc hậu!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1610" Show="-1" />
+  <Ornament GoodsID="1034166" Type="1" Name="Răng Quỷ Mục" Recover="200" Description="Trang sức hoạt động, sự thực chính là khắc họa!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1620" Show="-1" />
+  <Ornament GoodsID="1034167" Type="1" Name="Sắc Lam" Recover="200" Description="Trang sức hoạt động, sắc lam lộng lẫy!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1630" Show="-1" />
+  <Ornament GoodsID="1034168" Type="1" Name="Sắc Đỏ" Recover="200" Description="Trang sức hoạt động, sắc đỏ lộng lẫy!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1640" Show="-1" />
+  <Ornament GoodsID="1034169" Type="1" Name="Răng Voi Quỷ" Recover="200" Description="Trang sức hoạt động, sản vạt ma tộc hiếm!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1650" Show="-1" />
+  <Ornament GoodsID="1034170" Type="1" Name="Trăng Treo" Recover="200" Description="Trang sức hoạt động, ánh trăng soi kênh rạch!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1660" Show="-1" />
+  <Ornament GoodsID="1034171" Type="2" Name="Chư Thần Hoàng Hôn" Recover="-1" Description="Số kích sát tích lũy cá nhân trong thảo phạt đạt" GoalType="21" GoalNum="100" GoalAward="-1" List="17" Show="1" />
+  <Ornament GoodsID="1034172" Type="2" Name="Bất Diệt Chi Ác" Recover="-1" Description="boss Số kích sát boss cá nhân trong thiên thần tranh phong" GoalType="22" GoalNum="80" GoalAward="-1" List="18" Show="1" />
+  <Ornament GoodsID="1034173" Type="1" Name="Sách Niêm Phong" Recover="200" Description="Trang sức hoạt động, ẩn trong bóng tối của dòng lịch sử!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1670" Show="-1" />
+  <Ornament GoodsID="1034174" Type="1" Name="Nhẫn Pha Lê" Recover="200" Description="Trang sức hoạt động, điều quan trọng không phải pha lê mà là nhẫn!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1680" Show="-1" />
+  <Ornament GoodsID="1034175" Type="1" Name="Bội Ma Tộc" Recover="200" Description="Trang sức hoạt động, ma đô vĩnh hằng!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1690" Show="-1" />
+  <Ornament GoodsID="1034176" Type="1" Name="Vòng Mắt" Recover="200" Description="Trang sức hoạt động, có sức mạnh tà ma!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1700" Show="-1" />
+  <Ornament GoodsID="1034177" Type="1" Name="Dây Bộ Lạc" Recover="200" Description="Trang sức hoạt động, tụ hội sức mạnh bộ lạc!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1710" Show="-1" />
+  <Ornament GoodsID="1034178" Type="1" Name="Kính Thời Không" Recover="200" Description="Trang sức hoạt động, điên đảo thời không!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1720" Show="-1" />
+  <Ornament GoodsID="1034179" Type="1" Name="Nguồn Tinh Lực" Recover="200" Description="Trang sức hoạt động, nguồn tinh lực sống cùng ngươi!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1730" Show="-1" />
+  <Ornament GoodsID="1034180" Type="1" Name="Nguồn Ma Lực" Recover="200" Description="Trang sức hoạt động, nguồn ma lực sống cùng ngươi!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1740" Show="-1" />
+  <Ornament GoodsID="1034181" Type="1" Name="Túi Hương Tà Ác" Recover="200" Description="Trang sức hoạt động, ngưng thần chi bảo!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1750" Show="-1" />
+  <Ornament GoodsID="1034182" Type="1" Name="Túi Trừ Bệnh" Recover="200" Description="Trang sức hoạt động, hộ thể chi bảo!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1760" Show="-1" />
+  <Ornament GoodsID="1034183" Type="1" Name="Quạt Khinh La" Recover="200" Description="Trang sức hoạt động, quạt mát sảng khoái!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1770" Show="-1" />
+  <Ornament GoodsID="1034184" Type="1" Name="Sen Thanh Lạc" Recover="200" Description="Trang sức hoạt động, mát rượi hương sen!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1780" Show="-1" />
+  <Ornament GoodsID="1034185" Type="1" Name="Hổ Phù" Recover="200" Description="Trang sức hoạt động, hùng binh bách vạn tướng quân lệnh!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1790" Show="-1" />
+  <Ornament GoodsID="1034186" Type="1" Name="Ngọc Như Ý" Recover="200" Description="Trang sức hoạt động, thiên chân chấp chi!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1800" Show="-1" />
+  <Ornament GoodsID="1034187" Type="1" Name="Huy Hiệu Sao" Recover="200" Description="Trang sức hoạt động, tụ hội lực quần tinh!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1810" Show="-1" />
+  <Ornament GoodsID="1034188" Type="1" Name="Huy Hiệu Trăng" Recover="200" Description="Trang sức hoạt động, ngưng tụ sức mạnh ánh trăng!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1820" Show="-1" />
+  <Ornament GoodsID="1034189" Type="1" Name="La Bàn Sao" Recover="200" Description="Trang sức hoạt động, sức mạnh la bàn!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1830" Show="-1" />
+  <Ornament GoodsID="1034190" Type="1" Name="Mẫu Pháo" Recover="200" Description="Trang sức hoạt động, mẫu pháo trong sa mạc!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1840" Show="-1" />
+  <Ornament GoodsID="1034191" Type="1" Name="Vòng Hoa" Recover="200" Description="活动专属饰品，百花绽放，芳香四溢！" GoalType="0" GoalNum="-1" GoalAward="-1" List="1850" Show="-1" />
+  <Ornament GoodsID="1034192" Type="1" Name="Hoa Tai Đá" Recover="200" Description="活动专属饰品，神秘高贵，耀眼夺目！" GoalType="0" GoalNum="-1" GoalAward="-1" List="1860" Show="-1" />
+  <Ornament GoodsID="1034193" Type="1" Name="Tim Băng" Recover="200" Description="Trang sức hoạt động, cực địa chi bảo!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1870" Show="-1" />
+  <Ornament GoodsID="1034194" Type="1" Name="Nước Mắt Cổ" Recover="200" Description="Trang sức hoạt động, thần khí cổ!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1880" Show="-1" />
+  <Ornament GoodsID="1034195" Type="1" Name="Nhẫn Kiên Định" Recover="200" Description="Trang sức hoạt động, dũng cảm ngoan cường!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1890" Show="-1" />
+  <Ornament GoodsID="1034196" Type="1" Name="Búa Chiến Thần" Recover="200" Description="Trang sức hoạt động, bách chiến bách thắng!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1900" Show="-1" />
+  <Ornament GoodsID="1034197" Type="1" Name="Thương Thất Lạc" Recover="200" Description="Trang sức hoạt động, thần binh thượng cổ!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1910" Show="-1" />
+  <Ornament GoodsID="1034198" Type="1" Name="Túi Đế Vương" Recover="200" Description="Trang sức hoạt động, thần sách đế vương!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1920" Show="-1" />
+  <Ornament GoodsID="1034199" Type="1" Name="Tinh Đồ" Recover="200" Description="Trang sức hoạt động, chiếu sáng đêm đen!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1930" Show="-1" />
+  <Ornament GoodsID="1034200" Type="1" Name="Ngọc Trăng" Recover="200" Description="Trang sức hoạt động, trăng sáng như kính!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1940" Show="-1" />
+  <Ornament GoodsID="1034201" Type="2" Name="Ánh Sáng Thánh Linh" Recover="200" Description="Evnet Động Hắc Ám cá nhân tích lũy thắng 12 trận" GoalType="23" GoalNum="12" GoalAward="-1" List="4" Show="1" />
+  <Ornament GoodsID="1034202" Type="1" Name="Gậy Hình Ảnh" Recover="200" Description="Trang sức hoạt động, hiệu lệnh quỷ hùng!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1950" Show="-1" />
+  <Ornament GoodsID="1034203" Type="1" Name="Hơi Thở Hồn" Recover="200" Description="Trang sức hoạt động, vạn thiên quỷ khí!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1960" Show="-1" />
+  <Ornament GoodsID="1034204" Type="1" Name="Dao Linh Năng" Recover="200" Description="Trang sức hoạt động, một chiêu giết địch!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1970" Show="-1" />
+  <Ornament GoodsID="1034205" Type="1" Name="Tia Sáng" Recover="200" Description="Trang sức hoạt động, kết tinh khoa kỹ!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1980" Show="-1" />
+  <Ornament GoodsID="1034206" Type="1" Name="Áo Trí Thức" Recover="200" Description="Trang sức hoạt động, tượng trưng trí tuệ!" GoalType="0" GoalNum="-1" GoalAward="-1" List="1990" Show="-1" />
+  <Ornament GoodsID="1034207" Type="1" Name="Sách Bí Pháp" Recover="200" Description="Trang sức hoạt động, bí thuật vĩ đại!" GoalType="0" GoalNum="-1" GoalAward="-1" List="2000" Show="-1" />
+  <Ornament GoodsID="1034208" Type="1" Name="Khăn Đội Đầu" Recover="200" Description="Trang sức hoạt động, phất phơ trong gió!" GoalType="0" GoalNum="-1" GoalAward="-1" List="2030" Show="-1" />
+  <Ornament GoodsID="1034209" Type="1" Name="Đai Ngự Linh" Recover="200" Description="Trang sức hoạt động, tiên gia chí bảo!" GoalType="0" GoalNum="-1" GoalAward="-1" List="2040" Show="-1" />
+  <Ornament GoodsID="1034210" Type="1" Name="Bùa Bình An" Recover="200" Description="Trang sức hoạt động, như ý cát tường!" GoalType="0" GoalNum="-1" GoalAward="-1" List="2050" Show="-1" />
+  <Ornament GoodsID="1034211" Type="1" Name="Tim Thần Hộ" Recover="200" Description="Trang sức hoạt động, bảo vật phù hộ!" GoalType="0" GoalNum="-1" GoalAward="-1" List="2060" Show="-1" />
+  <Ornament GoodsID="1034212" Type="1" Name="Búa Khai Sơn" Recover="200" Description="Trang sức hoạt động, thần binh khai sơn!" GoalType="0" GoalNum="-1" GoalAward="-1" List="2070" Show="-1" />
+  <Ornament GoodsID="1034213" Type="1" Name="Kiếm Đoạn Thủy" Recover="200" Description="Trang sức hoạt động, chí bảo có thể chém nước!" GoalType="0" GoalNum="-1" GoalAward="-1" List="2080" Show="-1" />
+  <Ornament GoodsID="1034214" Type="1" Name="Mắt Tà Long" Recover="200" Description="Trang sức hoạt động, có đôi mắt hủy diệt!" GoalType="0" GoalNum="-1" GoalAward="-1" List="2010" Show="-1" />
+  <Ornament GoodsID="1034215" Type="1" Name="Xương Rồng Quỷ" Recover="200" Description="Trang sức hoạt động, chứa sức mạnh bộc phát!" GoalType="0" GoalNum="-1" GoalAward="-1" List="2020" Show="-1" />
+  <Ornament GoodsID="1034216" Type="1" Name="Gậy Gỗ" Recover="200" Description="Trang sức hoạt động, bí bảo tiên nhân!" GoalType="0" GoalNum="-1" GoalAward="-1" List="2090" Show="-1" />
+  <Ornament GoodsID="1034217" Type="1" Name="Trâm Thần Mộng" Recover="200" Description="Trang sức hoạt động, sức mạnh ảo mộng!" GoalType="0" GoalNum="-1" GoalAward="-1" List="2100" Show="-1" />
+  <Ornament GoodsID="1034218" Type="1" Name="翡翠玉佩" Recover="200" Description="活动专属饰品，翡翠所制之精巧饰品！" GoalType="0" GoalNum="-1" GoalAward="-1" List="2110" Show="-1" />
+  <Ornament GoodsID="1034219" Type="1" Name="宝蓝吊坠" Recover="200" Description="活动专属饰品，芳华绝代之宝！" GoalType="0" GoalNum="-1" GoalAward="-1" List="2120" Show="-1" />
+  <Ornament GoodsID="1034220" Type="1" Name="暗月之拥" Recover="200" Description="活动专属饰品，呼唤暗月的力量！" GoalType="0" GoalNum="-1" GoalAward="-1" List="2130" Show="-1" />
+  <Ornament GoodsID="1034221" Type="1" Name="恶魔挂饰" Recover="200" Description="活动专属饰品，恶魔之力，无穷无尽！" GoalType="0" GoalNum="-1" GoalAward="-1" List="2140" Show="-1" />
+  <Ornament GoodsID="1034222" Type="1" Name="省钱护符" Recover="200" Description="活动专属饰品，心诚则灵省大钱！" GoalType="0" GoalNum="-1" GoalAward="-1" List="2150" Show="-1" />
+  <Ornament GoodsID="1034223" Type="1" Name="居家良药" Recover="200" Description="活动专属饰品，居家必备之品！" GoalType="0" GoalNum="-1" GoalAward="-1" List="2160" Show="-1" />
+  <Ornament GoodsID="1034224" Type="1" Name="叶之挂饰" Recover="200" Description="活动专属饰品，千年树叶淬炼成的挂饰！" GoalType="0" GoalNum="-1" GoalAward="-1" List="2170" Show="-1" />
+  <Ornament GoodsID="1034225" Type="1" Name="云之挂饰" Recover="200" Description="活动专属饰品，流云风动，壮美绝伦！" GoalType="0" GoalNum="-1" GoalAward="-1" List="2180" Show="-1" />
+  <Ornament GoodsID="1034226" Type="1" Name="五彩镯" Recover="200" Description="活动专属饰品，五彩斑斓，明艳动人！" GoalType="0" GoalNum="-1" GoalAward="-1" List="2190" Show="-1" />
+  <Ornament GoodsID="1034227" Type="1" Name="炽火之镖" Recover="200" Description="活动专属饰品，炽火附身，威力无穷！" GoalType="0" GoalNum="-1" GoalAward="-1" List="2200" Show="-1" />
+  <Ornament GoodsID="1034228" Type="1" Name="怒火战旗" Recover="200" Description="活动专属饰品，怒火中烧，战意不绝！" GoalType="0" GoalNum="-1" GoalAward="-1" List="2210" Show="-1" />
+  <Ornament GoodsID="1034229" Type="1" Name="鎏金发簪" Recover="200" Description="活动专属饰品，鎏金岁月，佳人如梦！" GoalType="0" GoalNum="-1" GoalAward="-1" List="2220" Show="-1" />
+  <Ornament GoodsID="1034230" Type="1" Name="Tim Vinh Dự" Recover="200" Description="Trang sức event, Tim Vinh Dự!" GoalType="0" GoalNum="-1" GoalAward="-1" List="2230" Show="-1" />
+  <Ornament GoodsID="1034245" Type="1" Name="Bùa Hộ Heo Vàng" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="2380" Show="-1" />
+  <Ornament GoodsID="1034246" Type="1" Name="Tiểu Kim Chùy" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="2390" Show="-1" />
+  <Ornament GoodsID="1034247" Type="1" Name="Heo Vàng" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="2400" Show="-1" />
+  <Ornament GoodsID="1034330" Type="1" Name="Tiền Xu Kỷ Niệm" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="99900" Show="-1" />
+  <Ornament GoodsID="1034335" Type="1" Name="Nhẫn Năm Mới" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="3280" Show="-1" />
+  <Ornament GoodsID="1034336" Type="1" Name="Bùa May Mắn" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90720" Show="-1" />
+  <Ornament GoodsID="1034337" Type="1" Name="Tim Đông Kết" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90730" Show="-1" />
+  <Ornament GoodsID="1034338" Type="1" Name="Bông Tai Hàn Băng" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90740" Show="-1" />
+  <Ornament GoodsID="1034341" Type="1" Name="Trang sức Kim Ngoa" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90750" Show="-1" />
+  <Ornament GoodsID="1034344" Type="1" Name="Mặt Dây Nguyên Đán" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90760" Show="-1" />
+  <Ornament GoodsID="1034345" Type="1" Name="Phỉ Thúy Định Bình" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90770" Show="-1" />
+  <Ornament GoodsID="1034346" Type="1" Name="Trâm Đào Hoa" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90780" Show="-1" />
+  <Ornament GoodsID="1034347" Type="1" Name="Nước Mắt Thiên Không" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90790" Show="-1" />
+  <Ornament GoodsID="1034348" Type="1" Name="Hồ Điệp Phỉ Thúy" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90800" Show="-1" />
+  <Ornament GoodsID="1034349" Type="1" Name="Nhẫn Mừng Xuân" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90810" Show="-1" />
+  <Ornament GoodsID="1034350" Type="1" Name="Dây Chuyền Thơm" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90820" Show="-1" />
+  <Ornament GoodsID="1034351" Type="1" Name="Nhẫn Nữ Thần" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90830" Show="-1" />
+  <Ornament GoodsID="1034352" Type="1" Name="Dây Chuyền Thiên Bình" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90840" Show="-1" />
+  <Ornament GoodsID="1034353" Type="1" Name="Bông Tai Đồng Xu" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90850" Show="-1" />
+  <Ornament GoodsID="1034354" Type="1" Name="Dây Chuyền Lá Liễu" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90860" Show="-1" />
+  <Ornament GoodsID="1034355" Type="1" Name="Nhẫn Hoa Tết" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90870" Show="-1" />
+  <Ornament GoodsID="1034356" Type="1" Name="Dây Chuyền Chú Hề" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90880" Show="-1" />
+  <Ornament GoodsID="1034357" Type="1" Name="Mặt Nạ Cười" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90890" Show="-1" />
+  <Ornament GoodsID="1034358" Type="1" Name="Ngọc Bội Lưu Tô" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90900" Show="-1" />
+  <Ornament GoodsID="1034359" Type="1" Name="杏花簪" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="91000" Show="-1" />
+  <Ornament GoodsID="1034360" Type="1" Name="Nhẫn Chúc Phúc Thỏ Trắng" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="91100" Show="-1" />
+  <Ornament GoodsID="1034361" Type="1" Name="Dây Chuyền Gà May Mắn" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="91200" Show="-1" />
+  <Ornament GoodsID="1034362" Type="1" Name="Dây Chuyền Trà Xuân" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="91300" Show="-1" />
+  <Ornament GoodsID="1034363" Type="1" Name="Nhẫn Mẫu Đơn" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="91400" Show="-1" />
+  <Ornament GoodsID="1034364" Type="1" Name="Nhẫn Sinh Mệnh" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="91500" Show="-1" />
+  <Ornament GoodsID="1034365" Type="1" Name="Dây Chuyền Sinh Mệnh" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="91600" Show="-1" />
+  <Ornament GoodsID="1034366" Type="1" Name="劳动奖章" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="91700" Show="-1" />
+  <Ornament GoodsID="1034367" Type="1" Name="麦穗项链" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="91800" Show="-1" />
+  <Ornament GoodsID="1034368" Type="1" Name="七彩手环" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="91900" Show="-1" />
+  <Ornament GoodsID="1034369" Type="1" Name="放大镜" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="92000" Show="-1" />
+  <Ornament GoodsID="1034370" Type="1" Name="Đồng hồ cổ" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="92100" Show="-1" />
+  <Ornament GoodsID="1034371" Type="1" Name="Vòng cổ hắc thiên nga" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="92200" Show="-1" />
+  <Ornament GoodsID="1034372" Type="1" Name="Nhẫn Đôi Tình Nhân" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="92300" Show="-1" />
+  <Ornament GoodsID="1034373" Type="1" Name="Trang trí khối Rubik" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="92400" Show="-1" />
+  <Ornament GoodsID="1034374" Type="1" Name="Vòng cổ bong bóng" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="92500" Show="-1" />
+  <Ornament GoodsID="1034375" Type="1" Name="Trang trí lá xanh" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="92600" Show="-1" />
+  <Ornament GoodsID="1034376" Type="1" Name="Vòng cổ hoa" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="92700" Show="-1" />
+  <Ornament GoodsID="1034377" Type="1" Name="Mặt dây chuyền bằng đồng" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="92800" Show="-1" />
+  <Ornament GoodsID="1034378" Type="1" Name="白玉头簪" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="92900" Show="-1" />
+  <Ornament GoodsID="1034379" Type="1" Name="Đồng hồ quý giá" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="93000" Show="-1" />
+  <Ornament GoodsID="1034380" Type="1" Name="Huyết cốt địa ngục" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="93100" Show="-1" />
+  <Ornament GoodsID="1034381" Type="1" Name="Dây ngũ sắc" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="93200" Show="-1" />
+  <Ornament GoodsID="1034382" Type="1" Name="Túi hương ngải cứu" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="93300" Show="-1" />
+  <Ornament GoodsID="1034383" Type="1" Name="Trâm cài ngôi sao đỏ" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="93400" Show="-1" />
+  <Ornament GoodsID="1034384" Type="1" Name="Ruy băng sa tanh đỏ" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="93500" Show="-1" />
+  <Ornament GoodsID="1034385" Type="1" Name="Mặt Nạ Cười" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="93600" Show="-1" />
+  <Ornament GoodsID="1034386" Type="1" Name="Ngọc Bội Lưu Tô" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="93700" Show="-1" />
+  <Ornament GoodsID="1034387" Type="1" Name="Kính râm" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="93800" Show="-1" />
+  <Ornament GoodsID="1034388" Type="1" Name="Quạt nhỏ" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="93900" Show="-1" />
+  <Ornament GoodsID="1034389" Type="1" Name="Mũ Rơm Che Nắng" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="94000" Show="-1" />
+  <Ornament GoodsID="1034390" Type="1" Name="Vòng Cổ Mặt Trời" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="94100" Show="-1" />
+  <Ornament GoodsID="1034395" Type="1" Name="Vòng Cổ Bạc Hà Mát Lạnh" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="94100" Show="-1" />
+  <Ornament GoodsID="1034396" Type="1" Name="Mặt Dây Chuyền Lướt Ván" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="94200" Show="-1" />
+  <Ornament GoodsID="1034397" Type="1" Name="Trang Trí Cá Heo" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="94300" Show="-1" />
+  <Ornament GoodsID="1034398" Type="1" Name="Vòng Cổ Chân Ái" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="94400" Show="-1" />
+  <Ornament GoodsID="1034399" Type="1" Name="Hoa Hồng Thủy Tinh" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="95200" Show="-1" />
+  <Ornament GoodsID="1034400" Type="1" Name="Mặt Dây Chuyền Ma" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="95300" Show="-1" />
+  <Ornament GoodsID="1034401" Type="1" Name="Lư Hương Trang Trí" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="95400" Show="-1" />
+  <Ornament GoodsID="1034402" Type="1" Name="Kính Gọng Vàng" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="95500" Show="-1" />
+  <Ornament GoodsID="1034403" Type="1" Name="Bút Bỏ Túi" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="95600" Show="-1" />
+  <Ornament GoodsID="1034404" Type="1" Name="Kẹp Tóc Hoa Quế" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="95700" Show="-1" />
+  <Ornament GoodsID="1034405" Type="1" Name="Vòng Hoa Nguyệt Quý" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="95800" Show="-1" />
+  <Ornament GoodsID="1034406" Type="1" Name="Áo sơ mi Hawaii" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="95900" Show="-1" />
+  <Ornament GoodsID="1034407" Type="1" Name="Búp Bê Nga Matryoshka" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="96000" Show="-1" />
+  <Ornament GoodsID="1034408" Type="1" Name="Kẹp Tóc Hoa Mẫu Đơn" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="96100" Show="-1" />
+  <Ornament GoodsID="1034409" Type="1" Name="Huân Chương Yêu Nước" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="96200" Show="-1" />
+  <Ornament GoodsID="1034410" Type="1" Name="Bông Tai Gấu Trúc" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="96300" Show="-1" />
+  <Ornament GoodsID="1034411" Type="1" Name="Mũ Rơm Chăm Chỉ" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="96400" Show="-1" />
+  <Ornament GoodsID="1034412" Type="1" Name="Bông tai Quả Táo" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="96500" Show="-1" />
+  <Ornament GoodsID="1034413" Type="1" Name="Túi Thơm Thù Du" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="96600" Show="-1" />
+  <Ornament GoodsID="1034414" Type="1" Name="Trâm Cài Hoa Cúc Mùa Thu" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="96700" Show="-1" />
+  <Ornament GoodsID="1034415" Type="1" Name="Trâm Cài Ngực Hình Dơi" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="96800" Show="-1" />
+  <Ornament GoodsID="1034416" Type="1" Name="Mặt Nạ Ngụy Trang" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="96900" Show="-1" />
+  <Ornament GoodsID="1034417" Type="1" Name="Quả Cầu Tuyết Thủy Tinh" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="97000" Show="-1" />
+  <Ornament GoodsID="1034418" Type="1" Name="Kẹp Tóc Hoa Mai" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="97100" Show="-1" />
+  <Ornament GoodsID="1034419" Type="1" Name="Túi Thẻ Thương Hiệu" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="97200" Show="-1" />
+  <Ornament GoodsID="1034420" Type="1" Name="Mặt Dây Chuyền Thỏi" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="97300" Show="-1" />
+  <Ornament GoodsID="1034421" Type="1" Name="Mặt Dây Chuyền Hoa Tuyết" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="97400" Show="-1" />
+  <Ornament GoodsID="1034422" Type="1" Name="Mũ Bông Ấm" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="97500" Show="-1" />
+  <Ornament GoodsID="1034423" Type="1" Name="Mặt dây chuyền Thánh Quang Giáng Lâm" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="97600" Show="-1" />
+  <Ornament GoodsID="1034424" Type="1" Name="Nhẫn Hàn Sương Chi Tinh" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="97700" Show="-1" />
+  <Ornament GoodsID="1034425" Type="1" Name="Vòng Tay Tri Ân" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="97800" Show="-1" />
+  <Ornament GoodsID="1034426" Type="1" Name="Bông Tai Lá Băng" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="97900" Show="-1" />
+  <Ornament GoodsID="1034427" Type="1" Name="Vòng Hoa Tuyết Tùng" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="98000" Show="-1" />
+  <Ornament GoodsID="1034428" Type="1" Name="Trang Trí Sương Lệ" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="98100" Show="-1" />
+  <Ornament GoodsID="1034435" Type="1" Name="Dây Đeo Khóa Bạc" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="98200" Show="-1" />
+  <Ornament GoodsID="1034436" Type="1" Name="Kẹp Tóc Gỗ Mun" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="98300" Show="-1" />
+  <Ornament GoodsID="1034437" Type="1" Name="Hắc Diệu Phật Châu" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="98400" Show="-1" />
+  <Ornament GoodsID="1034438" Type="1" Name="Túi Thơm Sảng Khoái" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="98500" Show="-1" />
+  <Ornament GoodsID="1034439" Type="1" Name="Trâm Cài Phi Ưng" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="98600" Show="-1" />
+  <Ornament GoodsID="1034440" Type="1" Name="Vòng Cổ Hoa Gió" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="98700" Show="-1" />
+  <Ornament GoodsID="1034446" Type="1" Name="Vòng Tay Bách Tà" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="98800" Show="-1" />
+  <Ornament GoodsID="1034447" Type="1" Name="Ngọc Bội Thanh Tâm" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="98900" Show="-1" />
+  <Ornament GoodsID="1034448" Type="1" Name="Trâm Cài Bươm Bướm" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="99000" Show="-1" />
+  <Ornament GoodsID="1034450" Type="1" Name="Hoa Tai Phượng Hoàng" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="99100" Show="-1" />
+  <Ornament GoodsID="1034451" Type="1" Name="Trâm Cài Thiên Bình" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="99200" Show="-1" />
+  <Ornament GoodsID="1034453" Type="1" Name="Chuông Gió Ấm Áp" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="99500" Show="-1" />
+  <Ornament GoodsID="1034456" Type="1" Name="Đạp Thanh Hoa Quán" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="99600" Show="-1" />
+  <Ornament GoodsID="1034461" Type="1" Name="Búp Bê Cô Gái" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="94500" Show="-1" />
+  <Ornament GoodsID="1034462" Type="1" Name="Trang Trí Địa Cầu" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="94800" Show="-1" />
+  <Ornament GoodsID="1034467" Type="1" Name="Bông Tai Thuần Trắng" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="99700" Show="-1" />
+  <Ornament GoodsID="1034468" Type="1" Name="Vòng Cổ Thiên Sứ" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="99800" Show="-1" />
+  <Ornament GoodsID="1034471" Type="1" Name="Vòng Tay Biến Hình" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="94900" Show="-1" />
+  <Ornament GoodsID="1034479" Type="1" Name="Kỷ Niệm Chương Vàng" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="94600" Show="-1" />
+  <Ornament GoodsID="1034480" Type="1" Name="Băng Bao Cổ Tay" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="94700" Show="-1" />
+  <Ornament GoodsID="1034489" Type="1" Name="Kỷ Niệm Chương" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="95000" Show="-1" />
+  <Ornament GoodsID="1034490" Type="1" Name="Xu Vàng Kỷ Niệm" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="95100" Show="-1" />
+  <Ornament GoodsID="1034525" Type="1" Name="Quả Cầu Vàng Trang Trí" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="99300" Show="-1" />
+  <Ornament GoodsID="1034546" Type="1" Name="Vòng Cổ Bạc" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="99400" Show="-1" />
+  <Ornament GoodsID="30151861" Type="1" Name="A Tu La" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90030" Show="-1" />
+  <Ornament GoodsID="30151872" Type="1" Name="Galouro" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90040" Show="-1" />
+  <Ornament GoodsID="30151904" Type="1" Name="Na Tra" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90050" Show="-1" />
+  <Ornament GoodsID="30151933" Type="1" Name="Dạ Xoa" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90060" Show="-1" />
+  <Ornament GoodsID="30152023" Type="1" Name="Huy Hiệu 4 Năm" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90070" Show="-1" />
+  <Ornament GoodsID="30152024" Type="1" Name="Dây Chuyền 4 Năm" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90080" Show="-1" />
+  <Ornament GoodsID="30152063" Type="1" Name="Noel Ly Ly" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90090" Show="-1" />
+  <Ornament GoodsID="30152064" Type="1" Name="Noel Nhiều Nhiều" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90100" Show="-1" />
+  <Ornament GoodsID="30152143" Type="1" Name="Ghép Ảnh Đại Sư" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90110" Show="-1" />
+  <Ornament GoodsID="30152186" Type="1" Name="Bánh Ú Panda" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90120" Show="-1" />
+  <Ornament GoodsID="30152187" Type="1" Name="Thuyền Rồng Đoan Ngọ" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90130" Show="-1" />
+  <Ornament GoodsID="30152309" Type="1" Name="Cà Phê Đen" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90140" Show="-1" />
+  <Ornament GoodsID="30152310" Type="1" Name="Bản Đồ VN" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90150" Show="-1" />
+  <Ornament GoodsID="30152348" Type="1" Name="Bánh Nghệ Tiên Sinh" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90160" Show="-1" />
+  <Ornament GoodsID="30152352" Type="1" Name="Trùng Trùng Giáng Sinh" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90170" Show="-1" />
+  <Ornament GoodsID="30152364" Type="1" Name="Năm Mới Đại Bạch" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90180" Show="-1" />
+  <Ornament GoodsID="30152368" Type="1" Name="Quà Cầu Tuyết" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90190" Show="-1" />
+  <Ornament GoodsID="30152372" Type="1" Name="Cánh Cụt Harry" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90200" Show="-1" />
+  <Ornament GoodsID="30152377" Type="1" Name="Gấu Victor" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90210" Show="-1" />
+  <Ornament GoodsID="30152384" Type="1" Name="Cún Hans" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90220" Show="-1" />
+  <Ornament GoodsID="30152390" Type="1" Name="Thỏ Roger" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90230" Show="-1" />
+  <Ornament GoodsID="30152396" Type="1" Name="Hầu Tử Mãn Cát" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90240" Show="-1" />
+  <Ornament GoodsID="30152402" Type="1" Name="Chú Dê Con" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90250" Show="-1" />
+  <Ornament GoodsID="30152408" Type="1" Name="Goblin Zan" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90260" Show="-1" />
+  <Ornament GoodsID="30152416" Type="1" Name="Phi Hành Gia Jack" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90270" Show="-1" />
+  <Ornament GoodsID="30152424" Type="1" Name="Phi Hành Gia Thứ Bảy" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90280" Show="-1" />
+  <Ornament GoodsID="30152431" Type="1" Name="UFO" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90290" Show="-1" />
+  <Ornament GoodsID="30152435" Type="1" Name="Chuột Không Dây" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90300" Show="-1" />
+  <Ornament GoodsID="30152439" Type="1" Name="Cao Thanh Bình" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90310" Show="-1" />
+  <Ornament GoodsID="30152443" Type="1" Name="Cơ Giới Kiện Bàn" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90320" Show="-1" />
+  <Ornament GoodsID="30152453" Type="1" Name="Máy Ảnh Nhập Môn" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90330" Show="-1" />
+  <Ornament GoodsID="30152459" Type="1" Name="Máy Ảnh Chuyên Nghiệp" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90340" Show="-1" />
+  <Ornament GoodsID="30152467" Type="1" Name="Linh Hồn Sắc Màu" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90350" Show="-1" />
+  <Ornament GoodsID="30152473" Type="1" Name="Tinh Phách Lam" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90360" Show="-1" />
+  <Ornament GoodsID="30152483" Type="1" Name="Nhẫn Lam Bảo Thạch" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90370" Show="-1" />
+  <Ornament GoodsID="30152487" Type="1" Name="Dây Chuyền Lam Bảo Thạch" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90380" Show="-1" />
+  <Ornament GoodsID="30152495" Type="1" Name="Dây Chuyền Hồng Bảo Thạch" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90390" Show="-1" />
+  <Ornament GoodsID="30152499" Type="1" Name="Mã Não Vàng" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90400" Show="-1" />
+  <Ornament GoodsID="30152503" Type="1" Name="Mã Não Lam" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90410" Show="-1" />
+  <Ornament GoodsID="30152511" Type="1" Name="Vàng Tuyệt Bản" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90420" Show="-1" />
+  <Ornament GoodsID="30152515" Type="1" Name="Tiền Tuyệt Bản" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90430" Show="-1" />
+  <Ornament GoodsID="30152526" Type="1" Name="Bóng Đá Hào Nhoáng" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90440" Show="-1" />
+  <Ornament GoodsID="30152530" Type="1" Name="Găng Tay Hoàng Kim" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90450" Show="-1" />
+  <Ornament GoodsID="30152534" Type="1" Name="Huấn Luyện Côn Cầu" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90460" Show="-1" />
+  <Ornament GoodsID="30152538" Type="1" Name="Cuộc Thi Bóng Rổ" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90470" Show="-1" />
+  <Ornament GoodsID="30152539" Type="1" Name="Bài Hoa Tháng 1 A" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90480" Show="-1" />
+  <Ornament GoodsID="30152543" Type="1" Name="Giày Thể Thao Đỏ" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90490" Show="-1" />
+  <Ornament GoodsID="30152544" Type="1" Name="Cờ Hoa Tháng 1 B" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90500" Show="-1" />
+  <Ornament GoodsID="30152545" Type="1" Name="Cờ Hoa Tháng 1 C" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90510" Show="-1" />
+  <Ornament GoodsID="30152549" Type="1" Name="Cờ Hoa Tháng 1 D" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90520" Show="-1" />
+  <Ornament GoodsID="30152550" Type="1" Name="Cờ Hoa Tháng 2 A" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90530" Show="-1" />
+  <Ornament GoodsID="30152554" Type="1" Name="Cờ Hoa Tháng 2 B" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90540" Show="-1" />
+  <Ornament GoodsID="30152555" Type="1" Name="Cờ Hoa Tháng 2 C" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90550" Show="-1" />
+  <Ornament GoodsID="30152560" Type="1" Name="Cờ Hoa Tháng 2 D" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90560" Show="-1" />
+  <Ornament GoodsID="30152561" Type="1" Name="Cờ Hoa Tháng 3 A" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90570" Show="-1" />
+  <Ornament GoodsID="30152566" Type="1" Name="Cờ Hoa Tháng 3 B" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90580" Show="-1" />
+  <Ornament GoodsID="30152567" Type="1" Name="Cờ Hoa Tháng 3 C" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90590" Show="-1" />
+  <Ornament GoodsID="30152571" Type="1" Name="Cờ Hoa Tháng 3 D" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90600" Show="-1" />
+  <Ornament GoodsID="30152572" Type="1" Name="Cờ Hoa Tháng 4 A" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90610" Show="-1" />
+  <Ornament GoodsID="30152576" Type="1" Name="Cờ Hoa Tháng 4 B" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90620" Show="-1" />
+  <Ornament GoodsID="30152577" Type="1" Name="Cờ Hoa Tháng 4 C" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90630" Show="-1" />
+  <Ornament GoodsID="30152581" Type="1" Name="Bài Hoa Tháng 4 D" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90640" Show="-1" />
+  <Ornament GoodsID="30152582" Type="1" Name="Bài Hoa Tháng 5 A" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90650" Show="-1" />
+  <Ornament GoodsID="30152589" Type="1" Name="Bài Hoa Tháng 5 B" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90660" Show="-1" />
+  <Ornament GoodsID="30152590" Type="1" Name="Bài Hoa Tháng 5 C" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90670" Show="-1" />
+  <Ornament GoodsID="30152591" Type="1" Name="Áo Kỷ Niệm 6 Năm" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90680" Show="-1" />
+  <Ornament GoodsID="30152597" Type="1" Name="Bài Hoa Tháng 5 D" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90690" Show="-1" />
+  <Ornament GoodsID="30152605" Type="1" Name="Cờ Hoa Tháng 6 A" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90700" Show="-1" />
+  <Ornament GoodsID="30152609" Type="1" Name="Cờ Hoa Tháng 6 B" Recover="200" Description="Trang sức event！" GoalType="0" GoalNum="-1" GoalAward="-1" List="90710" Show="-1" />
+</Config>"

@@ -1,0 +1,19 @@
+TextAsset Base
+	string m_Name = "XingZuoType"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <XingZuo>
+    <Type ID="1" Name="Bạch Dương" KaiQiLevel="0,1" ShuXiangJiaCheng="Attack,40-50|Mattack,40-50|Defense,16-20|Mdefense,16-20|HitV,10|Dodge,10|MaxLifeV,150" JiaChengBiLie="12,1|24,2|36,4|48,8|60,16" />
+    <Type ID="2" Name="Kim Ngưu" KaiQiLevel="0,1" ShuXiangJiaCheng="Attack,40-50|Mattack,40-50|Defense,16-20|Mdefense,16-20|HitV,10|Dodge,10|MaxLifeV,150" JiaChengBiLie="12,1|24,2|36,4|48,8|60,16" />
+    <Type ID="3" Name="Song Tử" KaiQiLevel="1,1" ShuXiangJiaCheng="Attack,40-50|Mattack,40-50|Defense,16-20|Mdefense,16-20|HitV,10|Dodge,10|MaxLifeV,150" JiaChengBiLie="12,1|24,2|36,4|48,8|60,16" />
+    <Type ID="4" Name="Cự Giải" KaiQiLevel="1,1" ShuXiangJiaCheng="Attack,40-50|Mattack,40-50|Defense,16-20|Mdefense,16-20|HitV,10|Dodge,10|MaxLifeV,150" JiaChengBiLie="12,1|24,2|36,4|48,8|60,16" />
+    <Type ID="5" Name="Sư Tử" KaiQiLevel="2,1" ShuXiangJiaCheng="Attack,40-50|Mattack,40-50|Defense,16-20|Mdefense,16-20|HitV,10|Dodge,10|MaxLifeV,150" JiaChengBiLie="12,1|24,2|36,4|48,8|60,16" />
+    <Type ID="6" Name="Xử Nữ" KaiQiLevel="2,1" ShuXiangJiaCheng="Attack,40-50|Mattack,40-50|Defense,16-20|Mdefense,16-20|HitV,10|Dodge,10|MaxLifeV,150" JiaChengBiLie="12,1|24,2|36,4|48,8|60,16" />
+    <Type ID="7" Name="Thiên Bình" KaiQiLevel="3,1" ShuXiangJiaCheng="Attack,40-50|Mattack,40-50|Defense,16-20|Mdefense,16-20|HitV,10|Dodge,10|MaxLifeV,150" JiaChengBiLie="12,1|24,2|36,4|48,8|60,16" />
+    <Type ID="8" Name="Thiên Yết" KaiQiLevel="3,1" ShuXiangJiaCheng="Attack,40-50|Mattack,40-50|Defense,16-20|Mdefense,16-20|HitV,10|Dodge,10|MaxLifeV,150" JiaChengBiLie="12,1|24,2|36,4|48,8|60,16" />
+    <Type ID="9" Name="Nhân Mã" KaiQiLevel="4,1" ShuXiangJiaCheng="Attack,40-50|Mattack,40-50|Defense,16-20|Mdefense,16-20|HitV,10|Dodge,10|MaxLifeV,150" JiaChengBiLie="12,1|24,2|36,4|48,8|60,16" />
+    <Type ID="10" Name="Ma Kết" KaiQiLevel="4,1" ShuXiangJiaCheng="Attack,40-50|Mattack,40-50|Defense,16-20|Mdefense,16-20|HitV,10|Dodge,10|MaxLifeV,150" JiaChengBiLie="12,1|24,2|36,4|48,8|60,16" />
+    <Type ID="11" Name="Thủy Bình" KaiQiLevel="5,1" ShuXiangJiaCheng="Attack,40-50|Mattack,40-50|Defense,16-20|Mdefense,16-20|HitV,10|Dodge,10|MaxLifeV,150" JiaChengBiLie="12,1|24,2|36,4|48,8|60,16" />
+    <Type ID="12" Name="Song Ngư" KaiQiLevel="5,1" ShuXiangJiaCheng="Attack,40-50|Mattack,40-50|Defense,16-20|Mdefense,16-20|HitV,10|Dodge,10|MaxLifeV,150" JiaChengBiLie="12,1|24,2|36,4|48,8|60,16" />
+  </XingZuo>
+</config>"

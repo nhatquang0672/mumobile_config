@@ -1,0 +1,13 @@
+TextAsset Base
+	string m_Name = "BaoDianTab"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<BaoDianTab>
+  <BaoDian ID="0" Name="Tăng cấp" Show="1" />
+  <BaoDian ID="1" Name="Tăng lực chiến" Show="1" />
+  <BaoDian ID="2" Name="Nhận Vàng" Show="1" />
+  <BaoDian ID="3" Name="Nhận trang bị" Show="1" />
+  <BaoDian ID="4" Name="Nhận Ngọc" Show="1" />
+  <BaoDian ID="5" Name="Kim Cương" Show="0" />
+  <BaoDian ID="6" Name="Mở bộ" Show="0" />
+  <BaoDian ID="100" Name="Hệ thống" Show="1" />
+</BaoDianTab>"

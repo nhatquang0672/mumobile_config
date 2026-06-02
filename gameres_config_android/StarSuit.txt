@@ -1,0 +1,8 @@
+TextAsset Base
+	string m_Name = "StarSuit"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <StarSuit ID="1" StarWeaponType="1" AccumulateStar="2" StarPro="IgnoreDefenseRate,0.02|SpeedDownPercent,0.01|MaxLifePercent,0.1" StarSkill="-1" ActivateArua="-1" Description="" />
+  <StarSuit ID="2" StarWeaponType="1" AccumulateStar="4" StarPro="IgnoreDefenseRate,0.05|SpeedDownPercent,0.02|MaxLifePercent,0.2" StarSkill="-1" ActivateArua="-1" Description="" />
+  <StarSuit ID="3" StarWeaponType="1" AccumulateStar="6" StarPro="IgnoreDefenseRate,0.1|SpeedDownPercent,0.05|MaxLifePercent,0.4" StarSkill="40000" ActivateArua="3" Description="Kỳ Huyễn Tinh Long" />
+</Config>"

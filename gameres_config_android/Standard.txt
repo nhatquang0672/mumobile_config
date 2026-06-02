@@ -1,0 +1,539 @@
+TextAsset Base
+	string m_Name = "Standard"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <BianQiang ID="101" Name="Cấp sao đạt 10 sao" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="1" Value="10" />
+  <BianQiang ID="101" Name="Cấp sao đạt 10 sao" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="1" Value="10" />
+  <BianQiang ID="101" Name="Cấp sao đạt 10 sao" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="1" Value="10" />
+  <BianQiang ID="101" Name="Cấp sao đạt 10 sao" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="1" Value="10" />
+  <BianQiang ID="101" Name="Cấp sao đạt 10 sao" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="1" Value="10" />
+  <BianQiang ID="101" Name="Cấp sao đạt 10 sao" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="1" Value="10" />
+  <BianQiang ID="101" Name="Cấp sao đạt 10 sao" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="1" Value="10" />
+  <BianQiang ID="101" Name="Cấp sao đạt 10 sao" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="1" Value="10" />
+  <BianQiang ID="101" Name="Cấp sao đạt 10 sao" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="1" Value="10" />
+  <BianQiang ID="101" Name="Cấp sao đạt 10 sao" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="1" Value="10" />
+  <BianQiang ID="101" Name="Cấp sao đạt 10 sao" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="1" Value="10" />
+  <BianQiang ID="101" Name="Cấp sao đạt 10 sao" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="1" Value="10" />
+  <BianQiang ID="101" Name="Cấp sao đạt 10 sao" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="1" Value="10" />
+  <BianQiang ID="101" Name="Cấp sao đạt 10 sao" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="1" Value="10" />
+  <BianQiang ID="101" Name="Cấp sao đạt 10 sao" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="1" Value="10" />
+  <BianQiang ID="101" Name="Cấp sao đạt 10 sao" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="1" Value="10" />
+  <BianQiang ID="101" Name="Cấp sao đạt 10 sao" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="1" Value="10" />
+  <BianQiang ID="101" Name="Cấp sao đạt 10 sao" MinZhuanShengLevel="17" MinLevel="1" MaxZhuanShengLevel="17" MaxLevel="100" Type="1" Value="10" />
+  <BianQiang ID="101" Name="Cấp sao đạt 10 sao" MinZhuanShengLevel="18" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="1" Value="10" />
+  <BianQiang ID="101" Name="Cấp sao đạt 10 sao" MinZhuanShengLevel="19" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="1" Value="10" />
+  <BianQiang ID="102" Name="Số cấp đạt cấp 2" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="2" Value="3" />
+  <BianQiang ID="102" Name="Số cấp đạt cấp 3" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="2" Value="4" />
+  <BianQiang ID="102" Name="Số cấp đạt cấp 4" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="2" Value="5" />
+  <BianQiang ID="102" Name="Số cấp đạt cấp 5" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="2" Value="6" />
+  <BianQiang ID="102" Name="Số cấp đạt cấp 3" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="2" Value="6" />
+  <BianQiang ID="102" Name="Số cấp đạt cấp 4" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="2" Value="6" />
+  <BianQiang ID="102" Name="Số cấp đạt cấp 5" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="2" Value="7" />
+  <BianQiang ID="102" Name="Số cấp đạt cấp 6" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="2" Value="7" />
+  <BianQiang ID="102" Name="Số cấp đạt cấp 7" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="2" Value="8" />
+  <BianQiang ID="102" Name="Số cấp đạt cấp 8" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="2" Value="8" />
+  <BianQiang ID="102" Name="Số cấp đạt cấp 9" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="2" Value="9" />
+  <BianQiang ID="102" Name="Số cấp đạt cấp 10" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="2" Value="10" />
+  <BianQiang ID="102" Name="Số cấp đạt cấp 11" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="2" Value="11" />
+  <BianQiang ID="102" Name="Số cấp đạt cấp 12" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="2" Value="12" />
+  <BianQiang ID="102" Name="Số cấp đạt cấp 12" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="2" Value="12" />
+  <BianQiang ID="102" Name="Số cấp đạt cấp 12" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="2" Value="12" />
+  <BianQiang ID="102" Name="Số cấp đạt cấp 12" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="2" Value="12" />
+  <BianQiang ID="102" Name="Số cấp đạt cấp 12" MinZhuanShengLevel="17" MinLevel="1" MaxZhuanShengLevel="17" MaxLevel="100" Type="2" Value="12" />
+  <BianQiang ID="102" Name="Số cấp đạt cấp 12" MinZhuanShengLevel="18" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="2" Value="12" />
+  <BianQiang ID="102" Name="Số cấp đạt cấp 12" MinZhuanShengLevel="19" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="2" Value="12" />
+  <BianQiang ID="201" Name="Cấp đạt cấp 10" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="3" Value="10" />
+  <BianQiang ID="201" Name="Cấp đạt cấp 20" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="3" Value="20" />
+  <BianQiang ID="201" Name="Cấp đạt cấp 30" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="3" Value="30" />
+  <BianQiang ID="201" Name="Cấp đạt cấp 40" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="3" Value="40" />
+  <BianQiang ID="201" Name="Cấp đạt cấp 50" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="3" Value="50" />
+  <BianQiang ID="201" Name="Cấp đạt cấp 60" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="3" Value="60" />
+  <BianQiang ID="201" Name="Cấp đạt cấp 70" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="3" Value="70" />
+  <BianQiang ID="201" Name="Cấp đạt cấp 80" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="3" Value="80" />
+  <BianQiang ID="201" Name="Cấp đạt cấp 90" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="3" Value="90" />
+  <BianQiang ID="201" Name="Cấp đạt cấp 100" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="3" Value="100" />
+  <BianQiang ID="201" Name="Cấp đạt cấp 100" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="3" Value="100" />
+  <BianQiang ID="201" Name="Cấp đạt cấp 100" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="3" Value="100" />
+  <BianQiang ID="301" Name="Cấp trung bình của trang bị đạt cấp 2" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="4" Value="2" />
+  <BianQiang ID="301" Name="Cấp trung bình của trang bị đạt cấp 3" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="4" Value="3" />
+  <BianQiang ID="301" Name="Cấp trung bình của trang bị đạt cấp 4" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="4" Value="4" />
+  <BianQiang ID="301" Name="Cấp trung bình của trang bị đạt cấp 5" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="4" Value="5" />
+  <BianQiang ID="301" Name="Cấp trung bình của trang bị đạt cấp 6" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="4" Value="6" />
+  <BianQiang ID="301" Name="Cấp trung bình của trang bị đạt cấp 7" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="4" Value="7" />
+  <BianQiang ID="301" Name="Cấp trung bình của trang bị đạt cấp 8" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="4" Value="8" />
+  <BianQiang ID="301" Name="Cấp trung bình của trang bị đạt cấp 9" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="4" Value="9" />
+  <BianQiang ID="301" Name="Cấp trung bình của trang bị đạt cấp 9" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="4" Value="9" />
+  <BianQiang ID="301" Name="Cấp trung bình của trang bị đạt cấp 10" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="4" Value="10" />
+  <BianQiang ID="301" Name="Cấp trung bình của trang bị đạt cấp 11" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="4" Value="11" />
+  <BianQiang ID="301" Name="Cấp trung bình của trang bị đạt cấp 12" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="4" Value="12" />
+  <BianQiang ID="301" Name="Cấp trung bình của trang bị đạt cấp 13" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="4" Value="13" />
+  <BianQiang ID="301" Name="Cấp trung bình của trang bị đạt cấp 13" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="4" Value="13" />
+  <BianQiang ID="301" Name="Cấp trung bình của trang bị đạt cấp 13" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="4" Value="13" />
+  <BianQiang ID="301" Name="Cấp trung bình của trang bị đạt cấp 13" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="4" Value="13" />
+  <BianQiang ID="301" Name="Cấp trung bình của trang bị đạt cấp 13" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="4" Value="13" />
+  <BianQiang ID="301" Name="Cấp trung bình của trang bị đạt cấp 13" MinZhuanShengLevel="17" MinLevel="1" MaxZhuanShengLevel="17" MaxLevel="100" Type="4" Value="13" />
+  <BianQiang ID="301" Name="Cấp trung bình của trang bị đạt cấp 13" MinZhuanShengLevel="18" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="4" Value="13" />
+  <BianQiang ID="301" Name="Cấp trung bình của trang bị đạt cấp 13" MinZhuanShengLevel="19" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="4" Value="13" />
+  <BianQiang ID="302" Name="Trang bị toàn thân cường hóa trung bình tới cấp 3" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="5" Value="3" />
+  <BianQiang ID="302" Name="Trang bị toàn thân cường hóa trung bình tới cấp 5" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="5" Value="5" />
+  <BianQiang ID="302" Name="Trang bị toàn thân cường hóa trung bình tới cấp 7" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="5" Value="7" />
+  <BianQiang ID="302" Name="Trang bị toàn thân cường hóa trung bình tới cấp 8" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="5" Value="8" />
+  <BianQiang ID="302" Name="Trang bị toàn thân cường hóa trung bình tới cấp 9" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="5" Value="9" />
+  <BianQiang ID="302" Name="Trang bị toàn thân cường hóa trung bình tới cấp 10" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="5" Value="10" />
+  <BianQiang ID="302" Name="Trang bị toàn thân cường hóa trung bình tới cấp 11" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="5" Value="11" />
+  <BianQiang ID="302" Name="Trang bị toàn thân cường hóa trung bình tới cấp 12" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="5" Value="12" />
+  <BianQiang ID="302" Name="Trang bị toàn thân cường hóa trung bình tới cấp 13" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="5" Value="13" />
+  <BianQiang ID="302" Name="Trang bị toàn thân cường hóa trung bình tới cấp 14" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="5" Value="14" />
+  <BianQiang ID="302" Name="Trang bị toàn thân cường hóa trung bình tới cấp 15" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="5" Value="15" />
+  <BianQiang ID="302" Name="Trang bị toàn thân cường hóa trung bình tới cấp 16" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="5" Value="16" />
+  <BianQiang ID="302" Name="Trang bị toàn thân cường hóa trung bình tới cấp 17" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="5" Value="17" />
+  <BianQiang ID="302" Name="Trang bị toàn thân cường hóa trung bình tới cấp 18" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="5" Value="18" />
+  <BianQiang ID="302" Name="Trang bị toàn thân cường hóa trung bình tới cấp 19" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="5" Value="19" />
+  <BianQiang ID="302" Name="Trang bị toàn thân cường hóa trung bình tới cấp 20" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="5" Value="20" />
+  <BianQiang ID="302" Name="Trang bị toàn thân cường hóa trung bình tới cấp 20" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="5" Value="20" />
+  <BianQiang ID="302" Name="Trang bị toàn thân cường hóa trung bình tới cấp 20" MinZhuanShengLevel="17" MinLevel="1" MaxZhuanShengLevel="17" MaxLevel="100" Type="5" Value="20" />
+  <BianQiang ID="302" Name="Trang bị toàn thân cường hóa trung bình tới cấp 20" MinZhuanShengLevel="18" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="5" Value="20" />
+  <BianQiang ID="302" Name="Trang bị toàn thân cường hóa trung bình tới cấp 20" MinZhuanShengLevel="19" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="5" Value="20" />
+  <BianQiang ID="303" Name="Trang bị toàn thân gia cố trung bình đạt 5" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="6" Value="5" />
+  <BianQiang ID="303" Name="Trang bị toàn thân gia cố trung bình đạt 10" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="6" Value="10" />
+  <BianQiang ID="303" Name="Trang bị toàn thân gia cố trung bình đạt 15" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="6" Value="15" />
+  <BianQiang ID="303" Name="Trang bị toàn thân gia cố trung bình đạt 20" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="6" Value="20" />
+  <BianQiang ID="303" Name="Trang bị toàn thân gia cố trung bình đạt 25" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="6" Value="25" />
+  <BianQiang ID="303" Name="Trang bị toàn thân gia cố trung bình đạt 30" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="6" Value="30" />
+  <BianQiang ID="303" Name="Trang bị toàn thân gia cố trung bình đạt 40" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="6" Value="40" />
+  <BianQiang ID="303" Name="Trang bị toàn thân gia cố trung bình đạt 50" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="6" Value="50" />
+  <BianQiang ID="303" Name="Trang bị toàn thân gia cố trung bình đạt 60" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="6" Value="60" />
+  <BianQiang ID="303" Name="Trang bị toàn thân gia cố trung bình đạt 70" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="6" Value="70" />
+  <BianQiang ID="303" Name="Trang bị toàn thân gia cố trung bình đạt 80" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="6" Value="80" />
+  <BianQiang ID="303" Name="Trang bị toàn thân gia cố trung bình đạt 80" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="6" Value="80" />
+  <BianQiang ID="401" Name="Trang bị Hộ Phù cấp 1" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="7" Value="1" />
+  <BianQiang ID="401" Name="Trang bị Hộ Phù cấp 2" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="7" Value="2" />
+  <BianQiang ID="401" Name="Trang bị Hộ Phù cấp 3" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="7" Value="3" />
+  <BianQiang ID="401" Name="Trang bị Hộ Phù cấp 4" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="7" Value="4" />
+  <BianQiang ID="401" Name="Trang bị Hộ Phù cấp 5" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="7" Value="5" />
+  <BianQiang ID="401" Name="Trang bị Hộ Phù cấp 6" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="7" Value="6" />
+  <BianQiang ID="401" Name="Trang bị Hộ Phù cấp 7" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="7" Value="7" />
+  <BianQiang ID="401" Name="Trang bị Hộ Phù cấp 8" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="7" Value="8" />
+  <BianQiang ID="401" Name="Trang bị Hộ Phù cấp 9" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="7" Value="9" />
+  <BianQiang ID="401" Name="Trang bị Hộ Phù cấp 10" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="7" Value="10" />
+  <BianQiang ID="401" Name="Trang bị Hộ Phù cấp 11" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="7" Value="11" />
+  <BianQiang ID="401" Name="Trang bị Hộ Phù cấp 12" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="7" Value="12" />
+  <BianQiang ID="401" Name="Trang bị Hộ Phù cấp 12" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="7" Value="12" />
+  <BianQiang ID="401" Name="Trang bị Hộ Phù cấp 12" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="7" Value="12" />
+  <BianQiang ID="401" Name="Trang bị Hộ Phù cấp 12" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="7" Value="12" />
+  <BianQiang ID="401" Name="Trang bị Hộ Phù cấp 12" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="7" Value="12" />
+  <BianQiang ID="401" Name="Trang bị Hộ Phù cấp 12" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="7" Value="12" />
+  <BianQiang ID="401" Name="Trang bị Hộ Phù cấp 12" MinZhuanShengLevel="17" MinLevel="1" MaxZhuanShengLevel="17" MaxLevel="100" Type="7" Value="12" />
+  <BianQiang ID="401" Name="Trang bị Hộ Phù cấp 12" MinZhuanShengLevel="18" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="7" Value="12" />
+  <BianQiang ID="401" Name="Trang bị Hộ Phù cấp 12" MinZhuanShengLevel="19" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="7" Value="12" />
+  <BianQiang ID="501" Name="Đạt buff đặc quyền VIP1" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="8" Value="1" />
+  <BianQiang ID="501" Name="Đạt buff đặc quyền VIP3" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="8" Value="3" />
+  <BianQiang ID="501" Name="Đạt buff đặc quyền VIP5" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="8" Value="5" />
+  <BianQiang ID="501" Name="Đạt buff đặc quyền VIP7" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="8" Value="7" />
+  <BianQiang ID="501" Name="Đạt buff đặc quyền VIP9" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="8" Value="9" />
+  <BianQiang ID="501" Name="Đạt buff đặc quyền VIP10" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="8" Value="10" />
+  <BianQiang ID="501" Name="Đạt buff đặc quyền VIP10" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="8" Value="10" />
+  <BianQiang ID="501" Name="Đạt buff đặc quyền VIP11" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="8" Value="11" />
+  <BianQiang ID="501" Name="Đạt buff đặc quyền VIP12" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="8" Value="12" />
+  <BianQiang ID="501" Name="Đạt buff đặc quyền VIP13" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="8" Value="13" />
+  <BianQiang ID="501" Name="Đạt buff đặc quyền VIP14" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="8" Value="14" />
+  <BianQiang ID="501" Name="Đạt buff đặc quyền VIP15" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="8" Value="15" />
+  <BianQiang ID="501" Name="Đạt buff đặc quyền VIP15" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="8" Value="15" />
+  <BianQiang ID="501" Name="Đạt buff đặc quyền VIP15" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="8" Value="15" />
+  <BianQiang ID="501" Name="Đạt buff đặc quyền VIP15" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="8" Value="15" />
+  <BianQiang ID="501" Name="Đạt buff đặc quyền VIP15" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="8" Value="15" />
+  <BianQiang ID="501" Name="Đạt buff đặc quyền VIP15" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="8" Value="15" />
+  <BianQiang ID="501" Name="Đạt buff đặc quyền VIP15" MinZhuanShengLevel="17" MinLevel="1" MaxZhuanShengLevel="17" MaxLevel="100" Type="8" Value="15" />
+  <BianQiang ID="501" Name="Đạt buff đặc quyền VIP15" MinZhuanShengLevel="18" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="8" Value="15" />
+  <BianQiang ID="501" Name="Đạt buff đặc quyền VIP15" MinZhuanShengLevel="19" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="8" Value="15" />
+  <BianQiang ID="601" Name="Đoạt danh hiệu thành tựu [Thủ Hộ]" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="9" Value="1" />
+  <BianQiang ID="601" Name="Đoạt danh hiệu thành tựu [Tiên Phong]" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="9" Value="2" />
+  <BianQiang ID="601" Name="Đoạt danh hiệu thành tựu [Vô Úy]" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="9" Value="3" />
+  <BianQiang ID="601" Name="Đoạt danh hiệu thành tựu [Thảo Phạt]" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="9" Value="4" />
+  <BianQiang ID="601" Name="Đoạt danh hiệu thành tựu [Bất Bại]" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="9" Value="5" />
+  <BianQiang ID="601" Name="Đoạt danh hiệu thành tựu [Chí Cao]" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="9" Value="6" />
+  <BianQiang ID="601" Name="Đoạt danh hiệu thành tựu [Đồ Lục]" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="9" Value="7" />
+  <BianQiang ID="601" Name="Đoạt danh hiệu thành tựu [Tận Diệt]" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="9" Value="8" />
+  <BianQiang ID="601" Name="Đoạt danh hiệu thành tựu [Hủy Diệt]" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="9" Value="9" />
+  <BianQiang ID="601" Name="Đoạt danh hiệu thành tựu [Chinh Phục]" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="9" Value="10" />
+  <BianQiang ID="601" Name="Đoạt danh hiệu thành tựu [Thống Trị]" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="9" Value="11" />
+  <BianQiang ID="601" Name="Đoạt danh hiệu thành tựu [Cứu Thế]" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="9" Value="12" />
+  <BianQiang ID="601" Name="Nhận danh hiệu thành tựu [Phá Quân Giả]" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="9" Value="13" />
+  <BianQiang ID="601" Name="Nhận danh hiệu thành tựu [Tiêm Diệt Giả]" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="9" Value="14" />
+  <BianQiang ID="601" Name="Nhận danh hiệu thành tựu [Bất Diệt Giả]" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="9" Value="15" />
+  <BianQiang ID="601" Name="Nhận danh hiệu thành tựu [Sáng Thế Giả]" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="9" Value="16" />
+  <BianQiang ID="601" Name="Nhận danh hiệu thành tựu [Sáng Thế Giả]" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="9" Value="16" />
+  <BianQiang ID="601" Name="Nhận danh hiệu thành tựu [Sáng Thế Giả]" MinZhuanShengLevel="17" MinLevel="1" MaxZhuanShengLevel="17" MaxLevel="100" Type="9" Value="16" />
+  <BianQiang ID="601" Name="Nhận danh hiệu thành tựu [Sáng Thế Giả]" MinZhuanShengLevel="18" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="9" Value="16" />
+  <BianQiang ID="601" Name="Nhận danh hiệu thành tựu [Sáng Thế Giả]" MinZhuanShengLevel="19" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="9" Value="16" />
+  <BianQiang ID="701" Name="Đoạt quân hàm [Binh Nhì]" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="10" Value="1" />
+  <BianQiang ID="701" Name="Đoạt quân hàm [Hạ Sĩ]" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="10" Value="2" />
+  <BianQiang ID="701" Name="Đoạt quân hàm [Trung Sĩ]" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="10" Value="3" />
+  <BianQiang ID="701" Name="Đoạt quân hàm [Sĩ Quan]" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="10" Value="4" />
+  <BianQiang ID="701" Name="Đoạt quân hàm [Kỵ Sĩ]" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="10" Value="5" />
+  <BianQiang ID="701" Name="Đoạt quân hàm [Trung Úy]" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="10" Value="6" />
+  <BianQiang ID="701" Name="Đoạt quân hàm [Thiếu Tá]" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="10" Value="7" />
+  <BianQiang ID="701" Name="Đoạt quân hàm [Trung Tướng]" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="10" Value="8" />
+  <BianQiang ID="701" Name="Đoạt quân hàm [Tư Lệnh]" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="10" Value="9" />
+  <BianQiang ID="701" Name="Đoạt quân hàm [Thống Soái]" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="10" Value="10" />
+  <BianQiang ID="701" Name="Đoạt quân hàm [Đốc Quân]" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="10" Value="11" />
+  <BianQiang ID="701" Name="Đoạt quân hàm [Nguyên Soái]" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="10" Value="12" />
+  <BianQiang ID="701" Name="Nhận quân hàm [Thượng Tướng]" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="10" Value="13" />
+  <BianQiang ID="701" Name="Nhận quân hàm [Bá Tước]" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="10" Value="14" />
+  <BianQiang ID="701" Name="Nhận quân hàm [Đại Công]" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="10" Value="15" />
+  <BianQiang ID="701" Name="Nhận quân hàm [Thân Vương]" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="10" Value="16" />
+  <BianQiang ID="701" Name="Nhận quân hàm [Thân Vương]" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="10" Value="16" />
+  <BianQiang ID="701" Name="Nhận quân hàm [Thân Vương]" MinZhuanShengLevel="17" MinLevel="1" MaxZhuanShengLevel="17" MaxLevel="100" Type="10" Value="16" />
+  <BianQiang ID="701" Name="Nhận quân hàm [Thân Vương]" MinZhuanShengLevel="18" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="10" Value="16" />
+  <BianQiang ID="701" Name="Nhận quân hàm [Thân Vương]" MinZhuanShengLevel="19" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="10" Value="16" />
+  <BianQiang ID="801" Name="Mở tinh vị 12" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="11" Value="12" />
+  <BianQiang ID="801" Name="Mở tinh vị 48" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="11" Value="48" />
+  <BianQiang ID="801" Name="Mở tinh vị 96" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="11" Value="96" />
+  <BianQiang ID="801" Name="Mở tinh vị 144" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="11" Value="144" />
+  <BianQiang ID="801" Name="Mở tinh vị 192" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="11" Value="192" />
+  <BianQiang ID="801" Name="Mở tinh vị 240" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="11" Value="240" />
+  <BianQiang ID="801" Name="Mở tinh vị 276" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="11" Value="276" />
+  <BianQiang ID="801" Name="Mở tinh vị 276" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="11" Value="276" />
+  <BianQiang ID="801" Name="Mở tinh vị 276" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="11" Value="276" />
+  <BianQiang ID="801" Name="Mở tinh vị 276" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="11" Value="276" />
+  <BianQiang ID="801" Name="Mở tinh vị 276" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="11" Value="276" />
+  <BianQiang ID="801" Name="Mở tinh vị 276" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="11" Value="276" />
+  <BianQiang ID="901" Name="Cấp chuyển sinh đạt cấp 2" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="12" Value="2" />
+  <BianQiang ID="901" Name="Cấp chuyển sinh đạt cấp 3" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="12" Value="3" />
+  <BianQiang ID="901" Name="Cấp chuyển sinh đạt cấp 4" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="12" Value="4" />
+  <BianQiang ID="901" Name="Cấp chuyển sinh đạt cấp 5" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="12" Value="5" />
+  <BianQiang ID="901" Name="Cấp chuyển sinh đạt cấp 6" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="12" Value="6" />
+  <BianQiang ID="901" Name="Cấp chuyển sinh đạt cấp 7" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="12" Value="7" />
+  <BianQiang ID="901" Name="Cấp chuyển sinh đạt cấp 8" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="12" Value="8" />
+  <BianQiang ID="901" Name="Cấp chuyển sinh đạt cấp 9" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="12" Value="9" />
+  <BianQiang ID="901" Name="Cấp chuyển sinh đạt cấp 10" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="12" Value="10" />
+  <BianQiang ID="901" Name="Cấp chuyển sinh đạt cấp 11" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="12" Value="11" />
+  <BianQiang ID="901" Name="Cấp chuyển sinh đạt cấp 12" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="12" Value="12" />
+  <BianQiang ID="901" Name="Cấp chuyển sinh đạt cấp 13" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="12" Value="13" />
+  <BianQiang ID="901" Name="Cấp chuyển sinh đạt cấp 14" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="12" Value="14" />
+  <BianQiang ID="901" Name="Cấp chuyển sinh đạt cấp 15" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="12" Value="15" />
+  <BianQiang ID="901" Name="Cấp chuyển sinh đạt cấp 16" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="12" Value="16" />
+  <BianQiang ID="901" Name="Cấp chuyển sinh đạt cấp 17" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="12" Value="17" />
+  <BianQiang ID="901" Name="Cấp chuyển sinh đạt cấp 18" MinZhuanShengLevel="17" MinLevel="1" MaxZhuanShengLevel="17" MaxLevel="100" Type="12" Value="17" />
+  <BianQiang ID="901" Name="Cấp chuyển sinh đạt cấp 18" MinZhuanShengLevel="18" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="12" Value="17" />
+  <BianQiang ID="901" Name="Cấp chuyển sinh đạt cấp 19" MinZhuanShengLevel="19" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="12" Value="17" />
+  <BianQiang ID="1001" Name="Mặc trang bị 1 cấp thuộc tính bồi dưỡng tối đa" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="13" Value="7118" />
+  <BianQiang ID="1001" Name="Mặc trang bị 2 cấp thuộc tính bồi dưỡng tối đa" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="13" Value="14236" />
+  <BianQiang ID="1001" Name="Mặc trang bị 3 cấp thuộc tính bồi dưỡng tối đa" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="13" Value="21354" />
+  <BianQiang ID="1001" Name="Mặc trang bị 4 cấp thuộc tính bồi dưỡng tối đa" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="13" Value="28472" />
+  <BianQiang ID="1001" Name="Mặc trang bị 5 cấp thuộc tính bồi dưỡng tối đa" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="13" Value="42708" />
+  <BianQiang ID="1001" Name="Mặc trang bị 6 cấp thuộc tính bồi dưỡng tối đa" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="13" Value="56944" />
+  <BianQiang ID="1001" Name="Mặc trang bị 7 cấp thuộc tính bồi dưỡng tối đa" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="13" Value="71180" />
+  <BianQiang ID="1001" Name="Mặc trang bị 8 cấp thuộc tính bồi dưỡng tối đa" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="13" Value="85416" />
+  <BianQiang ID="1001" Name="Mặc trang bị 9 cấp thuộc tính bồi dưỡng tối đa" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="13" Value="99652" />
+  <BianQiang ID="1001" Name="Mặc trang bị 10cấp thuộc tính bồi dưỡng tối đa" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="13" Value="104652" />
+  <BianQiang ID="1001" Name="Mặc trang bị 11cấp thuộc tính bồi dưỡng tối đa" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="13" Value="109652" />
+  <BianQiang ID="1001" Name="Mặc trang bị 11cấp thuộc tính bồi dưỡng tối đa" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="13" Value="109652" />
+  <BianQiang ID="1001" Name="Mặc trang bị 11cấp thuộc tính bồi dưỡng tối đa" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="13" Value="109652" />
+  <BianQiang ID="1001" Name="Mặc trang bị 11cấp thuộc tính bồi dưỡng tối đa" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="13" Value="109652" />
+  <BianQiang ID="1001" Name="Mặc trang bị 11cấp thuộc tính bồi dưỡng tối đa" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="13" Value="109652" />
+  <BianQiang ID="1001" Name="Mặc trang bị 11cấp thuộc tính bồi dưỡng tối đa" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="13" Value="109652" />
+  <BianQiang ID="1001" Name="Mặc trang bị 11cấp thuộc tính bồi dưỡng tối đa" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="13" Value="109652" />
+  <BianQiang ID="1001" Name="Mặc trang bị 11cấp thuộc tính bồi dưỡng tối đa" MinZhuanShengLevel="17" MinLevel="1" MaxZhuanShengLevel="17" MaxLevel="100" Type="13" Value="109652" />
+  <BianQiang ID="1001" Name="Mặc trang bị 11cấp thuộc tính bồi dưỡng tối đa" MinZhuanShengLevel="18" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="13" Value="109652" />
+  <BianQiang ID="1001" Name="Mặc trang bị 11cấp thuộc tính bồi dưỡng tối đa" MinZhuanShengLevel="19" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="13" Value="109652" />
+  <BianQiang ID="1101" Name="Pet xuất chiến đạt Lv 10" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="14" Value="10" />
+  <BianQiang ID="1101" Name="Pet xuất chiến đạt Lv 20" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="14" Value="20" />
+  <BianQiang ID="1101" Name="Pet xuất chiến đạt Lv 30" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="14" Value="30" />
+  <BianQiang ID="1101" Name="Pet xuất chiến đạt Lv 40" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="14" Value="40" />
+  <BianQiang ID="1101" Name="Pet xuất chiến đạt Lv 50" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="14" Value="50" />
+  <BianQiang ID="1101" Name="Pet xuất chiến đạt Lv 50" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="14" Value="50" />
+  <BianQiang ID="1101" Name="Pet xuất chiến đạt Lv 60" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="14" Value="60" />
+  <BianQiang ID="1101" Name="Pet xuất chiến đạt Lv 60" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="14" Value="60" />
+  <BianQiang ID="1101" Name="Pet xuất chiến đạt Lv 60" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="14" Value="60" />
+  <BianQiang ID="1101" Name="Pet xuất chiến đạt Lv 60" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="14" Value="60" />
+  <BianQiang ID="1101" Name="Pet xuất chiến đạt Lv 60" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="14" Value="60" />
+  <BianQiang ID="1101" Name="Pet xuất chiến đạt Lv 60" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="14" Value="60" />
+  <BianQiang ID="1201" Name="Tổng lv tim nguyên tố đeo đạt 160" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="15" Value="160" />
+  <BianQiang ID="1201" Name="Tổng lv tim nguyên tố đeo đạt 160" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="15" Value="160" />
+  <BianQiang ID="1201" Name="Tổng lv tim nguyên tố đeo đạt 240" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="15" Value="240" />
+  <BianQiang ID="1201" Name="Tổng lv tim nguyên tố đeo đạt 320" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="15" Value="320" />
+  <BianQiang ID="1201" Name="Tổng lv tim nguyên tố đeo đạt 400" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="15" Value="400" />
+  <BianQiang ID="1201" Name="Tổng lv tim nguyên tố đeo đạt 480" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="15" Value="480" />
+  <BianQiang ID="1201" Name="Tổng lv tim nguyên tố đeo đạt 560" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="15" Value="560" />
+  <BianQiang ID="1201" Name="Tổng lv tim nguyên tố đeo đạt 640" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="15" Value="640" />
+  <BianQiang ID="1201" Name="Tổng lv tim nguyên tố đeo đạt 720" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="15" Value="720" />
+  <BianQiang ID="1201" Name="Tổng lv tim nguyên tố đeo đạt 800" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="15" Value="800" />
+  <BianQiang ID="1201" Name="Tổng lv tim nguyên tố đeo đạt 800" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="15" Value="800" />
+  <BianQiang ID="1201" Name="Tổng lv tim nguyên tố đeo đạt 800" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="15" Value="800" />
+  <BianQiang ID="1301" Name="Tổng cấp Linh Vũ cánh đạt 3" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="16" Value="3" />
+  <BianQiang ID="1301" Name="Tổng cấp Linh Vũ cánh đạt 6" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="16" Value="6" />
+  <BianQiang ID="1301" Name="Tổng cấp Linh Vũ cánh đạt 10" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="16" Value="10" />
+  <BianQiang ID="1301" Name="Tổng cấp Linh Vũ cánh đạt 15" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="16" Value="15" />
+  <BianQiang ID="1301" Name="Tổng cấp Linh Vũ cánh đạt 22" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="16" Value="22" />
+  <BianQiang ID="1301" Name="Tổng cấp Linh Vũ cánh đạt 30" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="16" Value="30" />
+  <BianQiang ID="1301" Name="Tổng cấp Linh Vũ cánh đạt 38" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="16" Value="38" />
+  <BianQiang ID="1301" Name="Tổng cấp Linh Vũ cánh đạt 45" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="16" Value="45" />
+  <BianQiang ID="1301" Name="Tổng cấp Linh Vũ cánh đạt 54" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="16" Value="54" />
+  <BianQiang ID="1301" Name="Tổng cấp Linh Vũ cánh đạt 54" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="16" Value="54" />
+  <BianQiang ID="1301" Name="Tổng cấp Linh Vũ cánh đạt 54" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="16" Value="54" />
+  <BianQiang ID="1301" Name="Tổng cấp Linh Vũ cánh đạt 54" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="16" Value="54" />
+  <BianQiang ID="1302" Name="Độ hoàn thành Chú Linh đạt 100%" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="17" Value="400" />
+  <BianQiang ID="1302" Name="Độ hoàn thành Chú Linh đạt 100%" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="17" Value="400" />
+  <BianQiang ID="1302" Name="Độ hoàn thành Chú Linh đạt 100%" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="17" Value="400" />
+  <BianQiang ID="1302" Name="Độ hoàn thành Chú Linh đạt 100%" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="17" Value="400" />
+  <BianQiang ID="1302" Name="Độ hoàn thành Chú Linh đạt 100%" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="17" Value="400" />
+  <BianQiang ID="1302" Name="Độ hoàn thành Chú Linh đạt 100%" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="17" Value="400" />
+  <BianQiang ID="1302" Name="Độ hoàn thành Chú Linh đạt 100%" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="17" Value="400" />
+  <BianQiang ID="1302" Name="Độ hoàn thành Chú Linh đạt 100%" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="17" Value="400" />
+  <BianQiang ID="1302" Name="Độ hoàn thành Chú Linh đạt 100%" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="17" Value="400" />
+  <BianQiang ID="1302" Name="Độ hoàn thành Chú Linh đạt 100%" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="17" Value="400" />
+  <BianQiang ID="1302" Name="Độ hoàn thành Chú Linh đạt 100%" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="17" Value="400" />
+  <BianQiang ID="1302" Name="Độ hoàn thành Chú Linh đạt 100%%" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="17" Value="400" />
+  <BianQiang ID="1303" Name="Độ hoàn thành Chú Hồn đạt 100%" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="18" Value="50" />
+  <BianQiang ID="1303" Name="Độ hoàn thành Chú Hồn đạt 100%" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="18" Value="50" />
+  <BianQiang ID="1303" Name="Độ hoàn thành Chú Hồn đạt 100%" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="18" Value="50" />
+  <BianQiang ID="1303" Name="Độ hoàn thành Chú Hồn đạt 100%" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="18" Value="50" />
+  <BianQiang ID="1303" Name="Độ hoàn thành Chú Hồn đạt 100%" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="18" Value="50" />
+  <BianQiang ID="1303" Name="Độ hoàn thành Chú Hồn đạt 100%" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="18" Value="50" />
+  <BianQiang ID="1303" Name="Độ hoàn thành Chú Hồn đạt 100%" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="18" Value="50" />
+  <BianQiang ID="1303" Name="Độ hoàn thành Chú Hồn đạt 100%" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="18" Value="50" />
+  <BianQiang ID="1303" Name="Độ hoàn thành Chú Hồn đạt 100%" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="18" Value="50" />
+  <BianQiang ID="1303" Name="Độ hoàn thành Chú Hồn đạt 100%" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="18" Value="50" />
+  <BianQiang ID="1303" Name="Độ hoàn thành Chú Hồn đạt 100%" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="18" Value="50" />
+  <BianQiang ID="1303" Name="Độ hoàn thành Chú Hồn đạt 100%" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="18" Value="50" />
+  <BianQiang ID="1401" Name="Bùa Thành Tựu 1 cái đạt max" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="19" Value="1" />
+  <BianQiang ID="1401" Name="Bùa Thành Tựu 1 cái đạt max" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="19" Value="1" />
+  <BianQiang ID="1401" Name="Bùa Thành Tựu 2 cái đạt max" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="19" Value="2" />
+  <BianQiang ID="1401" Name="Bùa Thành Tựu 2 cái đạt max" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="19" Value="2" />
+  <BianQiang ID="1401" Name="Bùa Thành Tựu 3 cái đạt max" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="19" Value="3" />
+  <BianQiang ID="1401" Name="Bùa Thành Tựu 3 cái đạt max" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="19" Value="3" />
+  <BianQiang ID="1401" Name="Bùa Thành Tựu 4 cái đạt max" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="19" Value="4" />
+  <BianQiang ID="1401" Name="Bùa Thành Tựu 4 cái đạt max" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="19" Value="4" />
+  <BianQiang ID="1401" Name="Bùa Thành Tựu 5 cái đạt max" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="19" Value="5" />
+  <BianQiang ID="1401" Name="Bùa Thành Tựu 6 cái đạt max" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="19" Value="6" />
+  <BianQiang ID="1401" Name="Bùa Thành Tựu 6 cái đạt max" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="19" Value="6" />
+  <BianQiang ID="1401" Name="Bùa Thành Tựu 6 cái đạt max" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="19" Value="6" />
+  <BianQiang ID="1501" Name="Cấp trang bị trung bình đạt 11" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="4" Value="11" />
+  <BianQiang ID="1501" Name="Cấp trang bị trung bình đạt 11" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="4" Value="11" />
+  <BianQiang ID="1501" Name="Cấp trang bị trung bình đạt 11" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="4" Value="11" />
+  <BianQiang ID="1501" Name="Cấp trang bị trung bình đạt 11" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="4" Value="11" />
+  <BianQiang ID="1501" Name="Cấp trang bị trung bình đạt 11" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="4" Value="11" />
+  <BianQiang ID="1501" Name="Cấp trang bị trung bình đạt 11" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="4" Value="11" />
+  <BianQiang ID="1501" Name="Cấp trang bị trung bình đạt 11" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="4" Value="11" />
+  <BianQiang ID="1501" Name="Cấp trang bị trung bình đạt 11" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="4" Value="11" />
+  <BianQiang ID="1501" Name="Cấp trang bị trung bình đạt 11" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="4" Value="11" />
+  <BianQiang ID="1501" Name="Cấp trang bị trung bình đạt 11" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="4" Value="11" />
+  <BianQiang ID="1501" Name="Cấp trang bị trung bình đạt 11" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="4" Value="11" />
+  <BianQiang ID="1501" Name="Cấp trang bị trung bình đạt 12" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="4" Value="12" />
+  <BianQiang ID="1501" Name="Cấp trang bị trung bình đạt 13" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="4" Value="13" />
+  <BianQiang ID="1501" Name="Cấp trang bị trung bình đạt 13" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="4" Value="13" />
+  <BianQiang ID="1501" Name="Cấp trang bị trung bình đạt 13" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="4" Value="13" />
+  <BianQiang ID="1501" Name="Cấp trang bị trung bình đạt 13" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="4" Value="13" />
+  <BianQiang ID="1501" Name="Cấp trang bị trung bình đạt 13" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="4" Value="13" />
+  <BianQiang ID="1501" Name="Cấp trang bị trung bình đạt 13" MinZhuanShengLevel="17" MinLevel="1" MaxZhuanShengLevel="17" MaxLevel="100" Type="4" Value="13" />
+  <BianQiang ID="1501" Name="Cấp trang bị trung bình đạt 13" MinZhuanShengLevel="18" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="4" Value="13" />
+  <BianQiang ID="1501" Name="Cấp trang bị trung bình đạt 13" MinZhuanShengLevel="19" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="4" Value="13" />
+  <BianQiang ID="1601" Name="Huy chương quân hàm 1 cái đạt max" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="20" Value="1" />
+  <BianQiang ID="1601" Name="Huy chương quân hàm 1 cái đạt max" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="20" Value="1" />
+  <BianQiang ID="1601" Name="Huy chương quân hàm 2 cái đạt max" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="20" Value="2" />
+  <BianQiang ID="1601" Name="Huy chương quân hàm 2 cái đạt max" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="20" Value="2" />
+  <BianQiang ID="1601" Name="Huy chương quân hàm 3 cái đạt max" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="20" Value="3" />
+  <BianQiang ID="1601" Name="Huy chương quân hàm 3 cái đạt max" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="20" Value="3" />
+  <BianQiang ID="1601" Name="Huy chương quân hàm 4 cái đạt max" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="20" Value="4" />
+  <BianQiang ID="1601" Name="Huy chương quân hàm 4 cái đạt max" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="20" Value="4" />
+  <BianQiang ID="1601" Name="Huy chương quân hàm 5 cái đạt max" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="20" Value="5" />
+  <BianQiang ID="1601" Name="Huy chương quân hàm 6 cái đạt max" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="20" Value="6" />
+  <BianQiang ID="1601" Name="Huy chương quân hàm 6 cái đạt max" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="20" Value="6" />
+  <BianQiang ID="1601" Name="Huy chương quân hàm 6 cái đạt max" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="20" Value="6" />
+  <BianQiang ID="1701" Name="Số cấp sách Merlin đạt 2" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="21" Value="2" />
+  <BianQiang ID="1701" Name="Số cấp sách Merlin đạt 2" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="21" Value="2" />
+  <BianQiang ID="1701" Name="Số cấp sách Merlin đạt 2" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="21" Value="2" />
+  <BianQiang ID="1701" Name="Số cấp sách Merlin đạt 2" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="21" Value="2" />
+  <BianQiang ID="1701" Name="Số cấp sách Merlin đạt 2" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="21" Value="2" />
+  <BianQiang ID="1701" Name="Số cấp sách Merlin đạt 4" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="21" Value="4" />
+  <BianQiang ID="1701" Name="Số cấp sách Merlin đạt 6" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="21" Value="6" />
+  <BianQiang ID="1701" Name="Số cấp sách Merlin đạt 8" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="21" Value="8" />
+  <BianQiang ID="1701" Name="Số cấp sách Merlin đạt 10" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="21" Value="10" />
+  <BianQiang ID="1701" Name="Số cấp sách Merlin đạt 12" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="21" Value="12" />
+  <BianQiang ID="1701" Name="Số cấp sách Merlin đạt 14" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="21" Value="14" />
+  <BianQiang ID="1701" Name="Số cấp sách Merlin đạt 16" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="21" Value="16" />
+  <BianQiang ID="1701" Name="Số cấp sách Merlin đạt 18" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="21" Value="18" />
+  <BianQiang ID="1701" Name="Số cấp sách Merlin đạt 20" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="21" Value="20" />
+  <BianQiang ID="1701" Name="Số cấp sách Merlin đạt 20" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="21" Value="20" />
+  <BianQiang ID="1701" Name="Số cấp sách Merlin đạt 20" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="21" Value="20" />
+  <BianQiang ID="1701" Name="Số cấp sách Merlin đạt 20" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="21" Value="20" />
+  <BianQiang ID="1701" Name="Số cấp sách Merlin đạt 20" MinZhuanShengLevel="17" MinLevel="1" MaxZhuanShengLevel="17" MaxLevel="100" Type="21" Value="20" />
+  <BianQiang ID="1701" Name="Số cấp sách Merlin đạt 20" MinZhuanShengLevel="18" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="21" Value="20" />
+  <BianQiang ID="1701" Name="Số cấp sách Merlin đạt 20" MinZhuanShengLevel="19" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="21" Value="20" />
+  <BianQiang ID="1801" Name="Số cấp Thủ Hộ Thần đạt 2" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="22" Value="2" />
+  <BianQiang ID="1801" Name="Số cấp Thủ Hộ Thần đạt 2" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="22" Value="2" />
+  <BianQiang ID="1801" Name="Số cấp Thủ Hộ Thần đạt 2" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="22" Value="2" />
+  <BianQiang ID="1801" Name="Số cấp Thủ Hộ Thần đạt 2" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="22" Value="2" />
+  <BianQiang ID="1801" Name="Số cấp Thủ Hộ Thần đạt 3" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="22" Value="3" />
+  <BianQiang ID="1801" Name="Số cấp Thủ Hộ Thần đạt 4" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="22" Value="4" />
+  <BianQiang ID="1801" Name="Số cấp Thủ Hộ Thần đạt 5" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="22" Value="5" />
+  <BianQiang ID="1801" Name="Số cấp Thủ Hộ Thần đạt 6" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="22" Value="6" />
+  <BianQiang ID="1801" Name="Số cấp Thủ Hộ Thần đạt 7" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="22" Value="7" />
+  <BianQiang ID="1801" Name="Số cấp Thủ Hộ Thần đạt 8" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="22" Value="8" />
+  <BianQiang ID="1801" Name="Số cấp Thủ Hộ Thần đạt 9" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="22" Value="9" />
+  <BianQiang ID="1801" Name="Số cấp Thủ Hộ Thần đạt 10" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="22" Value="10" />
+  <BianQiang ID="1801" Name="Số cấp Thủ Hộ Thần đạt 10" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="22" Value="10" />
+  <BianQiang ID="1801" Name="Số cấp Thủ Hộ Thần đạt 10" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="22" Value="10" />
+  <BianQiang ID="1801" Name="Số cấp Thủ Hộ Thần đạt 10" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="22" Value="10" />
+  <BianQiang ID="1801" Name="Số cấp Thủ Hộ Thần đạt 10" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="22" Value="10" />
+  <BianQiang ID="1801" Name="Số cấp Thủ Hộ Thần đạt 10" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="22" Value="10" />
+  <BianQiang ID="1801" Name="Số cấp Thủ Hộ Thần đạt 10" MinZhuanShengLevel="17" MinLevel="1" MaxZhuanShengLevel="17" MaxLevel="100" Type="22" Value="10" />
+  <BianQiang ID="1801" Name="Số cấp Thủ Hộ Thần đạt 10" MinZhuanShengLevel="18" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="22" Value="10" />
+  <BianQiang ID="1801" Name="Số cấp Thủ Hộ Thần đạt 10" MinZhuanShengLevel="19" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="22" Value="10" />
+  <BianQiang ID="1901" Name="Tổng Lv Đá Huỳnh Quang 90" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="23" Value="90" />
+  <BianQiang ID="1901" Name="Tổng Lv Đá Huỳnh Quang 90" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="23" Value="90" />
+  <BianQiang ID="1901" Name="Tổng Lv Đá Huỳnh Quang 90" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="23" Value="90" />
+  <BianQiang ID="1901" Name="Tổng Lv Đá Huỳnh Quang 90" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="23" Value="90" />
+  <BianQiang ID="1901" Name="Tổng Lv Đá Huỳnh Quang 90" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="23" Value="90" />
+  <BianQiang ID="1901" Name="Tổng Lv Đá Huỳnh Quang 90" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="23" Value="90" />
+  <BianQiang ID="1901" Name="Tổng Lv Đá Huỳnh Quang 90" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="23" Value="90" />
+  <BianQiang ID="1901" Name="Tổng Lv Đá Huỳnh Quang 120" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="23" Value="120" />
+  <BianQiang ID="1901" Name="Tổng Lv Đá Huỳnh Quang 137" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="23" Value="137" />
+  <BianQiang ID="1901" Name="Tổng Lv Đá Huỳnh Quang 156" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="23" Value="156" />
+  <BianQiang ID="1901" Name="Tổng Lv Đá Huỳnh Quang 174" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="23" Value="174" />
+  <BianQiang ID="1901" Name="Tổng Lv Đá Huỳnh Quang 192" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="23" Value="192" />
+  <BianQiang ID="1901" Name="Tổng Lv Đá Huỳnh Quang 210" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="23" Value="210" />
+  <BianQiang ID="1901" Name="Tổng Lv Đá Huỳnh Quang 227" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="23" Value="227" />
+  <BianQiang ID="1901" Name="Tổng Lv Đá Huỳnh Quang 251" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="23" Value="251" />
+  <BianQiang ID="1901" Name="Tổng Lv Đá Huỳnh Quang 270" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="23" Value="270" />
+  <BianQiang ID="1901" Name="Tổng Lv Đá Huỳnh Quang 270" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="23" Value="270" />
+  <BianQiang ID="1901" Name="Tổng Lv Đá Huỳnh Quang 270" MinZhuanShengLevel="17" MinLevel="1" MaxZhuanShengLevel="17" MaxLevel="100" Type="23" Value="270" />
+  <BianQiang ID="1901" Name="Tổng Lv Đá Huỳnh Quang 270" MinZhuanShengLevel="18" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="23" Value="270" />
+  <BianQiang ID="1901" Name="Tổng Lv Đá Huỳnh Quang 270" MinZhuanShengLevel="19" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="23" Value="270" />
+  <BianQiang ID="2001" Name="Tổng Lv Thánh Vật 72" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="24" Value="72" />
+  <BianQiang ID="2001" Name="Tổng Lv Thánh Vật 72" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="24" Value="72" />
+  <BianQiang ID="2001" Name="Tổng Lv Thánh Vật 72" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="24" Value="72" />
+  <BianQiang ID="2001" Name="Tổng Lv Thánh Vật 72" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="24" Value="72" />
+  <BianQiang ID="2001" Name="Tổng Lv Thánh Vật 72" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="24" Value="72" />
+  <BianQiang ID="2001" Name="Tổng Lv Thánh Vật 72" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="24" Value="72" />
+  <BianQiang ID="2001" Name="Tổng Lv Thánh Vật 96" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="24" Value="96" />
+  <BianQiang ID="2001" Name="Tổng Lv Thánh Vật 110" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="24" Value="110" />
+  <BianQiang ID="2001" Name="Tổng Lv Thánh Vật 125" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="24" Value="125" />
+  <BianQiang ID="2001" Name="Tổng Lv Thánh Vật 139" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="24" Value="139" />
+  <BianQiang ID="2001" Name="Tổng Lv Thánh Vật 154" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="24" Value="154" />
+  <BianQiang ID="2001" Name="Tổng Lv Thánh Vật 168" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="24" Value="168" />
+  <BianQiang ID="2001" Name="Tổng Lv Thánh Vật 182" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="24" Value="182" />
+  <BianQiang ID="2001" Name="Tổng Lv Thánh Vật 201" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="24" Value="201" />
+  <BianQiang ID="2001" Name="Tổng Lv Thánh Vật 216" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="24" Value="216" />
+  <BianQiang ID="2001" Name="Tổng Lv Thánh Vật 216" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="24" Value="216" />
+  <BianQiang ID="2001" Name="Tổng Lv Thánh Vật 216" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="24" Value="216" />
+  <BianQiang ID="2001" Name="Tổng Lv Thánh Vật 216" MinZhuanShengLevel="17" MinLevel="1" MaxZhuanShengLevel="17" MaxLevel="100" Type="24" Value="216" />
+  <BianQiang ID="2001" Name="Tổng Lv Thánh Vật 216" MinZhuanShengLevel="18" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="24" Value="216" />
+  <BianQiang ID="2001" Name="Tổng Lv Thánh Vật 216" MinZhuanShengLevel="19" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="24" Value="216" />
+  <BianQiang ID="2101" Name="Tổng cấp kỹ năng tinh linh xuất chiến đạt 14" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="0" MaxLevel="100" Type="26" Value="14" />
+  <BianQiang ID="2101" Name="Tổng cấp kỹ năng tinh linh xuất chiến đạt 16" MinZhuanShengLevel="1" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="26" Value="16" />
+  <BianQiang ID="2101" Name="Tổng cấp kỹ năng tinh linh xuất chiến đạt 18" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="26" Value="18" />
+  <BianQiang ID="2101" Name="Tổng cấp kỹ năng tinh linh xuất chiến đạt 20" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="26" Value="20" />
+  <BianQiang ID="2101" Name="Tổng cấp kỹ năng tinh linh xuất chiến đạt 23" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="26" Value="13" />
+  <BianQiang ID="2101" Name="Tổng cấp kỹ năng tinh linh xuất chiến đạt 26" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="26" Value="26" />
+  <BianQiang ID="2101" Name="Tổng cấp kỹ năng Tinh Linh xuất chiến 28" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="26" Value="28" />
+  <BianQiang ID="2101" Name="Tổng cấp kỹ năng Tinh Linh xuất chiến 48" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="26" Value="48" />
+  <BianQiang ID="2101" Name="Tổng cấp kỹ năng Tinh Linh xuất chiến 60" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="26" Value="60" />
+  <BianQiang ID="2101" Name="Tổng cấp kỹ năng Tinh Linh xuất chiến 72" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="26" Value="72" />
+  <BianQiang ID="2101" Name="Tổng cấp kỹ năng Tinh Linh xuất chiến 80" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="26" Value="80" />
+  <BianQiang ID="2101" Name="Tổng cấp kỹ năng Tinh Linh xuất chiến 88" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="26" Value="88" />
+  <BianQiang ID="2101" Name="Tổng cấp kỹ năng Tinh Linh xuất chiến 96" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="26" Value="96" />
+  <BianQiang ID="2101" Name="Tổng cấp kỹ năng Tinh Linh xuất chiến 104" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="26" Value="104" />
+  <BianQiang ID="2101" Name="Tổng cấp kỹ năng Tinh Linh xuất chiến 112" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="26" Value="112" />
+  <BianQiang ID="2101" Name="Tổng cấp kỹ năng Tinh Linh xuất chiến 120" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="26" Value="120" />
+  <BianQiang ID="2101" Name="Tổng cấp kỹ năng Tinh Linh xuất chiến 120" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="26" Value="120" />
+  <BianQiang ID="2101" Name="Tổng cấp kỹ năng Tinh Linh xuất chiến 120" MinZhuanShengLevel="17" MinLevel="1" MaxZhuanShengLevel="17" MaxLevel="100" Type="26" Value="120" />
+  <BianQiang ID="2101" Name="Tổng cấp kỹ năng Tinh Linh xuất chiến 120" MinZhuanShengLevel="18" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="26" Value="120" />
+  <BianQiang ID="2101" Name="Tổng cấp kỹ năng Tinh Linh xuất chiến 120" MinZhuanShengLevel="19" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="26" Value="120" />
+  <BianQiang ID="2201" Name="Thần Điện Chiến Minh đạt Lv1" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="25" Value="1" />
+  <BianQiang ID="2201" Name="Thần Điện Chiến Minh đạt Lv2" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="25" Value="2" />
+  <BianQiang ID="2201" Name="Thần Điện Chiến Minh đạt Lv3" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="25" Value="3" />
+  <BianQiang ID="2201" Name="Thần Điện Chiến Minh đạt Lv4" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="25" Value="4" />
+  <BianQiang ID="2201" Name="Thần Điện Chiến Minh đạt Lv5" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="25" Value="5" />
+  <BianQiang ID="2201" Name="Thần Điện Chiến Minh đạt Lv5" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="25" Value="5" />
+  <BianQiang ID="2301" Name="Tổng Lv trang bị Tarot" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="27" Value="50" />
+  <BianQiang ID="2301" Name="Tổng Lv trang bị Tarot" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="27" Value="100" />
+  <BianQiang ID="2301" Name="Tổng Lv trang bị Tarot" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="27" Value="150" />
+  <BianQiang ID="2301" Name="Tổng Lv trang bị Tarot" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="27" Value="200" />
+  <BianQiang ID="2301" Name="Tổng Lv trang bị Tarot" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="27" Value="300" />
+  <BianQiang ID="2301" Name="Tổng Lv trang bị Tarot" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="27" Value="300" />
+  <BianQiang ID="2401" Name="1 Thần Khí tăng cấp max" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="28" Value="1" />
+  <BianQiang ID="2401" Name="2 Thần Khí tăng cấp max" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="28" Value="2" />
+  <BianQiang ID="2401" Name="3 Thần Khí tăng cấp max" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="28" Value="3" />
+  <BianQiang ID="2401" Name="4 Thần Khí tăng cấp max" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="28" Value="4" />
+  <BianQiang ID="2401" Name="5 Thần Khí tăng cấp max" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="28" Value="5" />
+  <BianQiang ID="2401" Name="6 Thần Khí tăng cấp max" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="28" Value="6" />
+  <BianQiang ID="2401" Name="7 Thần Khí tăng cấp max" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="28" Value="7" />
+  <BianQiang ID="2401" Name="8 Thần Khí tăng cấp max" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="28" Value="8" />
+  <BianQiang ID="2401" Name="9 Thần Khí tăng cấp max" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="28" Value="9" />
+  <BianQiang ID="2401" Name="10 Thần Khí tăng cấp max" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="28" Value="10" />
+  <BianQiang ID="2401" Name="11 Thần Khí tăng cấp max" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="28" Value="11" />
+  <BianQiang ID="2401" Name="12 Thần Khí tăng cấp max" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="28" Value="12" />
+  <BianQiang ID="2401" Name="12 Thần Khí tăng cấp max" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="28" Value="12" />
+  <BianQiang ID="2501" Name="Trong Thần Tích Tinh Linh nhận 3 điểm Thần Tích" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="29" Value="3" />
+  <BianQiang ID="2501" Name="Trong Thần Tích Tinh Linh nhận 13 điểm Thần Tích" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="29" Value="13" />
+  <BianQiang ID="2501" Name="Trong Thần Tích Tinh Linh nhận 23 điểm Thần Tích" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="29" Value="23" />
+  <BianQiang ID="2501" Name="Trong Thần Tích Tinh Linh nhận 33 điểm Thần Tích" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="29" Value="33" />
+  <BianQiang ID="2501" Name="Trong Thần Tích Tinh Linh nhận 38 điểm Thần Tích" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="29" Value="38" />
+  <BianQiang ID="2501" Name="Trong Thần Tích Tinh Linh nhận 43 điểm Thần Tích" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="29" Value="43" />
+  <BianQiang ID="2501" Name="Trong Thần Tích Tinh Linh nhận 48 điểm Thần Tích" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="29" Value="48" />
+  <BianQiang ID="2501" Name="Trong Thần Tích Tinh Linh nhận 53 điểm Thần Tích" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="29" Value="53" />
+  <BianQiang ID="2501" Name="Trong Thần Tích Tinh Linh nhận 58 điểm Thần Tích" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="29" Value="58" />
+  <BianQiang ID="2501" Name="Trong Thần Tích Tinh Linh nhận 63 điểm Thần Tích" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="29" Value="63" />
+  <BianQiang ID="2501" Name="Trong Thần Tích Tinh Linh nhận 68 điểm Thần Tích" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="29" Value="68" />
+  <BianQiang ID="2501" Name="Trong Thần Tích Tinh Linh nhận 73 điểm Thần Tích" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="29" Value="73" />
+  <BianQiang ID="2501" Name="Trong Thần Tích Tinh Linh nhận 78 điểm Thần Tích" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="29" Value="78" />
+  <BianQiang ID="2501" Name="Trong Thần Tích Tinh Linh nhận 83 điểm Thần Tích" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="29" Value="83" />
+  <BianQiang ID="2501" Name="Trong Thần Tích Tinh Linh nhận 88 điểm Thần Tích" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="29" Value="88" />
+  <BianQiang ID="2501" Name="Trong Thần Tích Tinh Linh nhận 90 điểm Thần Tích" MinZhuanShengLevel="17" MinLevel="1" MaxZhuanShengLevel="17" MaxLevel="100" Type="29" Value="90" />
+  <BianQiang ID="2501" Name="Trong Thần Tích Tinh Linh nhận 90 điểm Thần Tích" MinZhuanShengLevel="18" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="29" Value="90" />
+  <BianQiang ID="2501" Name="Trong Thần Tích Tinh Linh nhận 90 điểm Thần Tích" MinZhuanShengLevel="19" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="29" Value="90" />
+  <BianQiang ID="2601" Name="Tăng huy hiệu đến bậc 4" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="30" Value="4" />
+  <BianQiang ID="2601" Name="Tăng huy hiệu đến bậc 6" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="9" MaxLevel="100" Type="30" Value="6" />
+  <BianQiang ID="2601" Name="Tăng huy hiệu đến bậc 8" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="30" Value="8" />
+  <BianQiang ID="2601" Name="Tăng huy hiệu đến bậc 9" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="30" Value="9" />
+  <BianQiang ID="2601" Name="Tăng huy hiệu đến bậc 10" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="30" Value="10" />
+  <BianQiang ID="2601" Name="Tăng huy hiệu đến bậc 10" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="30" Value="10" />
+  <BianQiang ID="2701" Name="Cấp khung thú cưỡi đạt 10" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="1" MaxLevel="100" Type="31" Value="10" />
+  <BianQiang ID="2701" Name="Cấp khung thú cưỡi đạt 20" MinZhuanShengLevel="2" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="31" Value="20" />
+  <BianQiang ID="2701" Name="Cấp khung thú cưỡi đạt 30" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="3" MaxLevel="100" Type="31" Value="30" />
+  <BianQiang ID="2701" Name="Cấp khung thú cưỡi đạt 40" MinZhuanShengLevel="4" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="31" Value="40" />
+  <BianQiang ID="2701" Name="Cấp khung thú cưỡi đạt 50" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="5" MaxLevel="100" Type="31" Value="50" />
+  <BianQiang ID="2701" Name="Cấp khung thú cưỡi đạt 60" MinZhuanShengLevel="6" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="31" Value="60" />
+  <BianQiang ID="2701" Name="Cấp khung thú cưỡi đạt 70" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="7" MaxLevel="100" Type="31" Value="70" />
+  <BianQiang ID="2701" Name="Cấp khung thú cưỡi đạt 80" MinZhuanShengLevel="8" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="31" Value="80" />
+  <BianQiang ID="2701" Name="Cấp khung thú cưỡi đạt 80" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="31" Value="80" />
+  <BianQiang ID="2801" Name="Tổng Lv Tái Sinh đạt 10" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="32" Value="10" />
+  <BianQiang ID="2801" Name="Tổng Lv Tái Sinh đạt 20" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="32" Value="20" />
+  <BianQiang ID="2801" Name="Tổng Lv Tái Sinh đạt 30" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="32" Value="30" />
+  <BianQiang ID="2801" Name="Tổng Lv Tái Sinh đạt 40" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="32" Value="40" />
+  <BianQiang ID="2801" Name="Tổng Lv Tái Sinh đạt 50" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="32" Value="50" />
+  <BianQiang ID="2801" Name="Tổng Lv Tái Sinh đạt 60" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="32" Value="60" />
+  <BianQiang ID="2801" Name="Tổng Lv Tái Sinh đạt 60" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="32" Value="60" />
+  <BianQiang ID="2901" Name="Thần Ma Mật Bảo tổng Lv đạt 10" MinZhuanShengLevel="10" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="33" Value="10" />
+  <BianQiang ID="2901" Name="Thần Ma Mật Bảo tổng Lv đạt 20" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="11" MaxLevel="100" Type="33" Value="20" />
+  <BianQiang ID="2901" Name="Thần Ma Mật Bảo tổng Lv đạt 30" MinZhuanShengLevel="12" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="33" Value="30" />
+  <BianQiang ID="2901" Name="Thần Ma Mật Bảo tổng Lv đạt 40" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="13" MaxLevel="100" Type="33" Value="40" />
+  <BianQiang ID="2901" Name="Thần Ma Mật Bảo tổng Lv đạt 50" MinZhuanShengLevel="14" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="33" Value="50" />
+  <BianQiang ID="2901" Name="Thần Ma Mật Bảo tổng Lv đạt 55" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="33" Value="55" />
+  <BianQiang ID="2901" Name="Thần Ma Mật Bảo tổng Lv đạt 60" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="33" Value="60" />
+  <BianQiang ID="2901" Name="Thần Ma Mật Bảo tổng Lv đạt 60" MinZhuanShengLevel="17" MinLevel="1" MaxZhuanShengLevel="17" MaxLevel="100" Type="33" Value="60" />
+  <BianQiang ID="2901" Name="Thần Ma Mật Bảo tổng Lv đạt 60" MinZhuanShengLevel="18" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="33" Value="60" />
+  <BianQiang ID="2901" Name="Thần Ma Mật Bảo tổng Lv đạt 60" MinZhuanShengLevel="19" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="33" Value="60" />
+  <BianQiang ID="3001" Name="Tăng chổi ma pháp đến lv3" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="35" Value="3" />
+  <BianQiang ID="3001" Name="Tăng chổi ma pháp đến lv6" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="35" Value="6" />
+  <BianQiang ID="3001" Name="Tăng chổi ma pháp đến lv8" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="35" Value="8" />
+  <BianQiang ID="3001" Name="Tăng chổi ma pháp đến lv10" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="35" Value="10" />
+  <BianQiang ID="3001" Name="Tăng chổi ma pháp đến lv13" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="35" Value="13" />
+  <BianQiang ID="3001" Name="Tăng chổi ma pháp đến lv16" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="15" MaxLevel="100" Type="35" Value="16" />
+  <BianQiang ID="3001" Name="Tăng chổi ma pháp đến lv18" MinZhuanShengLevel="16" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="35" Value="18" />
+  <BianQiang ID="3001" Name="Tăng chổi ma pháp đến lv20" MinZhuanShengLevel="17" MinLevel="1" MaxZhuanShengLevel="17" MaxLevel="100" Type="35" Value="20" />
+  <BianQiang ID="3001" Name="Tăng chổi ma pháp đến lv20" MinZhuanShengLevel="18" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="35" Value="20" />
+  <BianQiang ID="3001" Name="Tăng chổi ma pháp đến lv20" MinZhuanShengLevel="19" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="35" Value="20" />
+  <BianQiang ID="4001" Name="Đặc Quyền Quốc Vương tăng đến bậc 2" MinZhuanShengLevel="0" MinLevel="1" MaxZhuanShengLevel="2" MaxLevel="100" Type="36" Value="2" />
+  <BianQiang ID="4001" Name="Đặc Quyền Quốc Vương tăng đến bậc 4" MinZhuanShengLevel="3" MinLevel="1" MaxZhuanShengLevel="4" MaxLevel="100" Type="36" Value="4" />
+  <BianQiang ID="4001" Name="Đặc Quyền Quốc Vương tăng đến bậc 6" MinZhuanShengLevel="5" MinLevel="1" MaxZhuanShengLevel="6" MaxLevel="100" Type="36" Value="6" />
+  <BianQiang ID="4001" Name="Đặc Quyền Quốc Vương tăng đến bậc 8" MinZhuanShengLevel="7" MinLevel="1" MaxZhuanShengLevel="8" MaxLevel="100" Type="36" Value="8" />
+  <BianQiang ID="4001" Name="Đặc Quyền Quốc Vương tăng đến bậc 10" MinZhuanShengLevel="9" MinLevel="1" MaxZhuanShengLevel="10" MaxLevel="100" Type="36" Value="10" />
+  <BianQiang ID="4001" Name="Đặc Quyền Quốc Vương tăng đến bậc 12" MinZhuanShengLevel="11" MinLevel="1" MaxZhuanShengLevel="12" MaxLevel="100" Type="36" Value="12" />
+  <BianQiang ID="4001" Name="Đặc Quyền Quốc Vương tăng đến bậc 14" MinZhuanShengLevel="13" MinLevel="1" MaxZhuanShengLevel="14" MaxLevel="100" Type="36" Value="14" />
+  <BianQiang ID="4001" Name="Đặc Quyền Quốc Vương tăng đến bậc 16" MinZhuanShengLevel="15" MinLevel="1" MaxZhuanShengLevel="16" MaxLevel="100" Type="36" Value="16" />
+  <BianQiang ID="4001" Name="Đặc Quyền Quốc Vương tăng đến bậc 18" MinZhuanShengLevel="17" MinLevel="1" MaxZhuanShengLevel="18" MaxLevel="100" Type="36" Value="18" />
+  <BianQiang ID="4001" Name="Đặc Quyền Quốc Vương tăng đến bậc 20" MinZhuanShengLevel="19" MinLevel="1" MaxZhuanShengLevel="1000" MaxLevel="100" Type="36" Value="20" />
+</config>"

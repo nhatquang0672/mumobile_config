@@ -1,0 +1,15 @@
+TextAsset Base
+	string m_Name = "GuardFuWenHelp"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Hướng dẫn Phù Dụng Binh:" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Phù Dụng Binh có {3681f3}5{dac7ae} loại, Đá Bão, Đá Lửa, Đá Băng Nhẫn, Đá Vinh Dự, Đá Sấm Sét" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, Bùa có cấp tối đa là Lv{fac60d}50{dac7ae}, nuốt bùa khác để tăng cấp, nuốt bùa khác loại, EXP nhận được sẽ khác" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, Bùa có thuộc tính cơ bản và thuộc tính thuộc tính đặc biệt, cấp sẽ ảnh hưởng hiệu quả thuộc tính cơ bản, thuộc tính đặc biệt sau khi nhận sẽ không thay đổi" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, Phẩm chất bùa gồm {b266ff}3{dac7ae} loại lam, tím, cam" Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5, Bùa đạt cấp chỉ định, nhận được thuộc tính đặc biệt ngẫu nhiên" Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae}6, Bùa tối đa được đeo {fac60d}5{dac7ae} cái, có thể đeo bùa cùng loại" Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae}7, Đeo bùa được nhận điểm tinh thần, điểm tinh thần đạt điểm chỉ định được kích hoạt hiệu quả Thánh Thức" Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae}8, Hiệu quả Thánh Thức có {3681f3}3{dac7ae} loại, lần lượt là Tín Ngưỡng, Cường Giả, Trí Giả" Bold="0" />
+  <HelpIntro ID="10" Intro="{dac7ae}9, Cấp bùa tăng, điểm tinh thần cũng tăng" Bold="0" />
+</Config>"

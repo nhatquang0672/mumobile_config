@@ -1,0 +1,65 @@
+TextAsset Base
+	string m_Name = "TreasureCompass"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <TreasureCompass ID="1" LunShu="1" WeiZhi="1" Name="Thần Đèn" GoodsID="-1" Weight="5" IsShenDeng="shendeng" />
+  <TreasureCompass ID="2" LunShu="1" WeiZhi="2" Name="Đá Tiến Cấp Thú Cưỡi Sơ" GoodsID="2131,1,1,0,0,0,0" Weight="60" IsShenDeng="-1" />
+  <TreasureCompass ID="3" LunShu="1" WeiZhi="3" Name="Đá Tiến Cấp Thú Cưỡi Trung" GoodsID="2132,1,1,0,0,0,0" Weight="70" IsShenDeng="-1" />
+  <TreasureCompass ID="4" LunShu="1" WeiZhi="4" Name="Đá Tiến Cấp Thú Cưỡi Cao" GoodsID="2133,1,1,0,0,0,0" Weight="80" IsShenDeng="-1" />
+  <TreasureCompass ID="5" LunShu="1" WeiZhi="5" Name="Đá Tiến Cấp Thú Cưỡi Siêu" GoodsID="2134,15,1,0,0,0,0" Weight="90" IsShenDeng="-1" />
+  <TreasureCompass ID="6" LunShu="1" WeiZhi="6" Name="Đá Hoán Linh Thú Cưỡi" GoodsID="2135,10,1,0,0,0,0" Weight="100" IsShenDeng="-1" />
+  <TreasureCompass ID="7" LunShu="2" WeiZhi="1" Name="Thần Đèn" GoodsID="-1" Weight="5" IsShenDeng="shendeng" />
+  <TreasureCompass ID="8" LunShu="2" WeiZhi="2" Name="Lông Vũ" GoodsID="2016,1,1,0,0,0,0" Weight="60" IsShenDeng="-1" />
+  <TreasureCompass ID="9" LunShu="2" WeiZhi="3" Name="Đá Thần Ưng" GoodsID="2017,1,1,0,0,0,0" Weight="70" IsShenDeng="-1" />
+  <TreasureCompass ID="10" LunShu="2" WeiZhi="4" Name="Lông Vũ Locke" GoodsID="2018,1,1,0,0,0,0" Weight="80" IsShenDeng="-1" />
+  <TreasureCompass ID="11" LunShu="2" WeiZhi="5" Name="Lông Vũ Màu" GoodsID="2019,1,1,0,0,0,0" Weight="90" IsShenDeng="-1" />
+  <TreasureCompass ID="12" LunShu="2" WeiZhi="6" Name="Thần Vũ Locke" GoodsID="2020,1,1,0,0,0,0" Weight="100" IsShenDeng="-1" />
+  <TreasureCompass ID="13" LunShu="3" WeiZhi="1" Name="Thần Đèn" GoodsID="-1" Weight="5" IsShenDeng="shendeng" />
+  <TreasureCompass ID="14" LunShu="3" WeiZhi="2" Name="Lông Vũ" GoodsID="2016,1,1,0,0,0,0" Weight="60" IsShenDeng="-1" />
+  <TreasureCompass ID="15" LunShu="3" WeiZhi="3" Name="Đá Thần Ưng" GoodsID="2017,1,1,0,0,0,0" Weight="70" IsShenDeng="-1" />
+  <TreasureCompass ID="16" LunShu="3" WeiZhi="4" Name="Lông Vũ Locke" GoodsID="2018,1,1,0,0,0,0" Weight="80" IsShenDeng="-1" />
+  <TreasureCompass ID="17" LunShu="3" WeiZhi="5" Name="Lông Vũ Màu" GoodsID="2019,1,1,0,0,0,0" Weight="90" IsShenDeng="-1" />
+  <TreasureCompass ID="18" LunShu="3" WeiZhi="6" Name="Thần Vũ Locke" GoodsID="2020,1,1,0,0,0,0" Weight="100" IsShenDeng="-1" />
+  <TreasureCompass ID="19" LunShu="4" WeiZhi="1" Name="Thần Đèn" GoodsID="-1" Weight="5" IsShenDeng="shendeng" />
+  <TreasureCompass ID="20" LunShu="4" WeiZhi="2" Name="Lông Vũ" GoodsID="2016,1,1,0,0,0,0" Weight="60" IsShenDeng="-1" />
+  <TreasureCompass ID="21" LunShu="4" WeiZhi="3" Name="Đá Thần Ưng" GoodsID="2017,1,1,0,0,0,0" Weight="70" IsShenDeng="-1" />
+  <TreasureCompass ID="22" LunShu="4" WeiZhi="4" Name="Lông Vũ Locke" GoodsID="2018,1,1,0,0,0,0" Weight="80" IsShenDeng="-1" />
+  <TreasureCompass ID="23" LunShu="4" WeiZhi="5" Name="Lông Vũ Màu" GoodsID="2019,1,1,0,0,0,0" Weight="90" IsShenDeng="-1" />
+  <TreasureCompass ID="24" LunShu="4" WeiZhi="6" Name="Thần Vũ Locke" GoodsID="2020,1,1,0,0,0,0" Weight="100" IsShenDeng="-1" />
+  <TreasureCompass ID="25" LunShu="5" WeiZhi="1" Name="Thần Đèn" GoodsID="-1" Weight="5" IsShenDeng="shendeng" />
+  <TreasureCompass ID="26" LunShu="5" WeiZhi="2" Name="Lông Vũ" GoodsID="2016,1,1,0,0,0,0" Weight="60" IsShenDeng="-1" />
+  <TreasureCompass ID="27" LunShu="5" WeiZhi="3" Name="Đá Thần Ưng" GoodsID="2017,1,1,0,0,0,0" Weight="70" IsShenDeng="-1" />
+  <TreasureCompass ID="28" LunShu="5" WeiZhi="4" Name="Lông Vũ Locke" GoodsID="2018,1,1,0,0,0,0" Weight="80" IsShenDeng="-1" />
+  <TreasureCompass ID="29" LunShu="5" WeiZhi="5" Name="Lông Vũ Màu" GoodsID="2019,1,1,0,0,0,0" Weight="90" IsShenDeng="-1" />
+  <TreasureCompass ID="30" LunShu="5" WeiZhi="6" Name="Thần Vũ Locke" GoodsID="2020,1,1,0,0,0,0" Weight="100" IsShenDeng="-1" />
+  <TreasureCompass ID="31" LunShu="6" WeiZhi="1" Name="Thần Đèn" GoodsID="-1" Weight="5" IsShenDeng="shendeng" />
+  <TreasureCompass ID="32" LunShu="6" WeiZhi="2" Name="Lông Vũ" GoodsID="2016,1,1,0,0,0,0" Weight="60" IsShenDeng="-1" />
+  <TreasureCompass ID="33" LunShu="6" WeiZhi="3" Name="Đá Thần Ưng" GoodsID="2017,1,1,0,0,0,0" Weight="70" IsShenDeng="-1" />
+  <TreasureCompass ID="34" LunShu="6" WeiZhi="4" Name="Lông Vũ Locke" GoodsID="2018,1,1,0,0,0,0" Weight="80" IsShenDeng="-1" />
+  <TreasureCompass ID="35" LunShu="6" WeiZhi="5" Name="Lông Vũ Màu" GoodsID="2019,1,1,0,0,0,0" Weight="90" IsShenDeng="-1" />
+  <TreasureCompass ID="36" LunShu="6" WeiZhi="6" Name="Thần Vũ Locke" GoodsID="2020,1,1,0,0,0,0" Weight="100" IsShenDeng="-1" />
+  <TreasureCompass ID="37" LunShu="7" WeiZhi="1" Name="Thần Đèn" GoodsID="-1" Weight="5" IsShenDeng="shendeng" />
+  <TreasureCompass ID="38" LunShu="7" WeiZhi="2" Name="Lông Vũ" GoodsID="2016,1,1,0,0,0,0" Weight="60" IsShenDeng="-1" />
+  <TreasureCompass ID="39" LunShu="7" WeiZhi="3" Name="Đá Thần Ưng" GoodsID="2017,1,1,0,0,0,0" Weight="70" IsShenDeng="-1" />
+  <TreasureCompass ID="40" LunShu="7" WeiZhi="4" Name="Lông Vũ Locke" GoodsID="2018,1,1,0,0,0,0" Weight="80" IsShenDeng="-1" />
+  <TreasureCompass ID="41" LunShu="7" WeiZhi="5" Name="Lông Vũ Màu" GoodsID="2019,1,1,0,0,0,0" Weight="90" IsShenDeng="-1" />
+  <TreasureCompass ID="42" LunShu="7" WeiZhi="6" Name="Thần Vũ Locke" GoodsID="2020,1,1,0,0,0,0" Weight="100" IsShenDeng="-1" />
+  <TreasureCompass ID="43" LunShu="8" WeiZhi="1" Name="Thần Đèn" GoodsID="-1" Weight="5" IsShenDeng="shendeng" />
+  <TreasureCompass ID="44" LunShu="8" WeiZhi="2" Name="Lông Vũ" GoodsID="2016,1,1,0,0,0,0" Weight="60" IsShenDeng="-1" />
+  <TreasureCompass ID="45" LunShu="8" WeiZhi="3" Name="Đá Thần Ưng" GoodsID="2017,1,1,0,0,0,0" Weight="70" IsShenDeng="-1" />
+  <TreasureCompass ID="46" LunShu="8" WeiZhi="4" Name="Lông Vũ Locke" GoodsID="2018,1,1,0,0,0,0" Weight="80" IsShenDeng="-1" />
+  <TreasureCompass ID="47" LunShu="8" WeiZhi="5" Name="Lông Vũ Màu" GoodsID="2019,1,1,0,0,0,0" Weight="90" IsShenDeng="-1" />
+  <TreasureCompass ID="48" LunShu="8" WeiZhi="6" Name="Thần Vũ Locke" GoodsID="2020,1,1,0,0,0,0" Weight="100" IsShenDeng="-1" />
+  <TreasureCompass ID="49" LunShu="9" WeiZhi="1" Name="Thần Đèn" GoodsID="-1" Weight="5" IsShenDeng="shendeng" />
+  <TreasureCompass ID="50" LunShu="9" WeiZhi="2" Name="Lông Vũ" GoodsID="2016,1,1,0,0,0,0" Weight="60" IsShenDeng="-1" />
+  <TreasureCompass ID="51" LunShu="9" WeiZhi="3" Name="Đá Thần Ưng" GoodsID="2017,1,1,0,0,0,0" Weight="70" IsShenDeng="-1" />
+  <TreasureCompass ID="52" LunShu="9" WeiZhi="4" Name="Lông Vũ Locke" GoodsID="2018,1,1,0,0,0,0" Weight="80" IsShenDeng="-1" />
+  <TreasureCompass ID="53" LunShu="9" WeiZhi="5" Name="Lông Vũ Màu" GoodsID="2019,1,1,0,0,0,0" Weight="90" IsShenDeng="-1" />
+  <TreasureCompass ID="54" LunShu="9" WeiZhi="6" Name="Thần Vũ Locke" GoodsID="2020,1,1,0,0,0,0" Weight="100" IsShenDeng="-1" />
+  <TreasureCompass ID="55" LunShu="10" WeiZhi="1" Name="Thần Đèn" GoodsID="-1" Weight="5" IsShenDeng="shendeng" />
+  <TreasureCompass ID="56" LunShu="10" WeiZhi="2" Name="Lông Vũ" GoodsID="2016,1,1,0,0,0,0" Weight="60" IsShenDeng="-1" />
+  <TreasureCompass ID="57" LunShu="10" WeiZhi="3" Name="Đá Thần Ưng" GoodsID="2017,1,1,0,0,0,0" Weight="70" IsShenDeng="-1" />
+  <TreasureCompass ID="58" LunShu="10" WeiZhi="4" Name="Lông Vũ Locke" GoodsID="2018,1,1,0,0,0,0" Weight="80" IsShenDeng="-1" />
+  <TreasureCompass ID="59" LunShu="10" WeiZhi="5" Name="Lông Vũ Màu" GoodsID="2019,1,1,0,0,0,0" Weight="90" IsShenDeng="-1" />
+  <TreasureCompass ID="60" LunShu="10" WeiZhi="6" Name="Thần Vũ Locke" GoodsID="2020,1,1,0,0,0,0" Weight="100" IsShenDeng="-1" />
+</Config>"

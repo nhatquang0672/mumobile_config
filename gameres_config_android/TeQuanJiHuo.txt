@@ -1,0 +1,187 @@
+TextAsset Base
+	string m_Name = "TeQuanJiHuo"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <JingLing ID="1" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="1000" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="2" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="2" Tips="" UIAnNiu="1" />
+  <JingLing ID="3" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="800" Tips="Tranh mua Thần Bí có lượng lớn túi quà hiếm, khuyến mãi" UIAnNiu="1" />
+  <JingLing ID="4" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="600" Tips="Tiệm Thần Bí sẽ có lượng lớn Thú Cưỡi và Pet hiếm" UIAnNiu="1" />
+  <JingLing ID="5" HuoDongName="Buff đặc quyền" HuoDongTuBiao="Bufftequan" tips="5" CanShu="1" Tips="" UIAnNiu="1" />
+  <JingLing ID="6" HuoDongName="Lì Xì đặc quyền" HuoDongTuBiao="Hongbaotequan" tips="6" CanShu="400" Tips="Mưa Lì Xì, niềm vui rộn ràng" UIAnNiu="0" />
+  <JingLing ID="7" HuoDongName="Rút thưởng đặc quyền" HuoDongTuBiao="Choujiangtequan" tips="7" CanShu="3" Tips="" UIAnNiu="0" />
+
+  <JingLing ID="8" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="1500" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="9" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="2" Tips="" UIAnNiu="1" />
+  <JingLing ID="10" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="1200" Tips="Tranh mua Thần Bí có lượng lớn túi quà hiếm, khuyến mãi" UIAnNiu="1" />
+  <JingLing ID="11" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="900" Tips="Tiệm Thần Bí sẽ có lượng lớn Thú Cưỡi và Pet hiếm" UIAnNiu="1" />
+  <JingLing ID="12" HuoDongName="Buff đặc quyền" HuoDongTuBiao="Bufftequan" tips="5" CanShu="1" Tips="" UIAnNiu="1" />
+  <JingLing ID="13" HuoDongName="Lì Xì đặc quyền" HuoDongTuBiao="Hongbaotequan" tips="6" CanShu="400" Tips="Mưa Lì Xì, niềm vui rộn ràng" UIAnNiu="0" />
+  <JingLing ID="14" HuoDongName="Rút thưởng đặc quyền" HuoDongTuBiao="Choujiangtequan" tips="7" CanShu="3" Tips="" UIAnNiu="0" />
+
+  <JingLing ID="23" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="800" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="20" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="100" Tips="Trong event, khi nạp 240KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="22" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="500" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="21" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="300" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+
+  <JingLing ID="27" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="800" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="24" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="100" Tips="Trong event, khi nạp 240KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="26" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="500" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="25" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="300" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  
+  <JingLing ID="31" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="800" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="28" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="100" Tips="Trong event, khi nạp 240KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="30" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="500" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="29" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="300" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+
+  <JingLing ID="35" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="600" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="32" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="100" Tips="Trong event, khi nạp 600KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="34" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="400" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="33" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="300" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+ 
+  <JingLing ID="39" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="600" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="36" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="100" Tips="Trong event, khi nạp 600KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="38" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="400" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="37" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="300" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  
+  <JingLing ID="43" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="600" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="40" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="100" Tips="Trong event, khi nạp 600KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="42" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="400" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="41" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="300" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  
+  <JingLing ID="47" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="300" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="44" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="75" Tips="Trong event, khi nạp 600KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="46" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="225" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="45" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="150" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  
+  <JingLing ID="51" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="300" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="48" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="75" Tips="Trong event, khi nạp 600KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="50" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="225" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="49" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="150" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  
+  <JingLing ID="55" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="300" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="52" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="75" Tips="Trong event, khi nạp 600KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="54" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="225" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="53" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="150" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  
+  <JingLing ID="59" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="200" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="56" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="50" Tips="Trong event, khi nạp 600KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="58" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="150" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="57" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="100" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  
+  <JingLing ID="63" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="200" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="60" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="50" Tips="Trong event, khi nạp 600KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="62" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="150" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="61" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="100" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  
+  <JingLing ID="67" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="200" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="64" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="50" Tips="Trong event, khi nạp 600KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="66" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="150" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="65" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="100" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  
+  <JingLing ID="71" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="200" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="68" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="50" Tips="Trong event, khi nạp 600KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="70" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="150" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="69" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="100" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  
+  <JingLing ID="75" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="200" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="72" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="50" Tips="Trong event, khi nạp 600KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="74" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="150" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="73" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="100" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  
+  <JingLing ID="79" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="200" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="76" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="50" Tips="Trong event, khi nạp 600KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="78" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="150" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="77" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="100" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  
+  <JingLing ID="83" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="200" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="80" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="50" Tips="Trong event, khi nạp 600KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="82" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="150" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="81" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="100" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+ 
+  <JingLing ID="87" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="200" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="84" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="50" Tips="Trong event, khi nạp 600KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="86" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="150" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="85" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="100" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  
+  <JingLing ID="91" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="200" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="88" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="50" Tips="Trong event, khi nạp 600KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="90" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="150" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="89" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="100" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  
+  <JingLing ID="95" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="200" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="92" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="50" Tips="Trong event, khi nạp 600KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="94" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="150" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="93" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="100" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  
+  <JingLing ID="99" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="200" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="96" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="50" Tips="Trong event, khi nạp 600KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="98" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="150" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="97" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="100" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  
+  <JingLing ID="103" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="200" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="100" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="50" Tips="Trong event, khi nạp 1200KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="102" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="150" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="101" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="100" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  <JingLing ID="104" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="50" Tips="Trong event, khi nạp 1200KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="105" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="100" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  <JingLing ID="106" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="150" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="107" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="200" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="108" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="50" Tips="Trong event, khi nạp 1200KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="109" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="100" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  <JingLing ID="110" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="150" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="111" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="200" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="112" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="50" Tips="Trong event, khi nạp 1200KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="113" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="100" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  <JingLing ID="114" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="150" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="115" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="200" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+
+  <JingLing ID="116" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="50" Tips="Trong event, khi nạp 1200KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="117" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="100" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  <JingLing ID="118" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="150" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="119" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="200" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+
+  <JingLing ID="120" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="50" Tips="Trong event, khi nạp 1200KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="121" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="100" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  <JingLing ID="122" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="150" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="123" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="200" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+
+  <JingLing ID="124" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="50" Tips="Trong event, khi nạp 1200KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="125" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="100" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  <JingLing ID="126" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="150" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="127" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="200" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="128" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="50" Tips="Trong event, khi nạp 1200KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="129" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="100" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  <JingLing ID="130" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="150" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="131" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="200" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+
+  <JingLing ID="132" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="50" Tips="Trong event, khi nạp 1200KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="133" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="100" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  <JingLing ID="134" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="150" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="135" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="200" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+
+  <JingLing ID="136" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="50" Tips="Trong event, khi nạp 1200KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="137" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="100" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  <JingLing ID="138" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="150" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="139" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="200" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+
+  <JingLing ID="140" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="50" Tips="Trong event, khi nạp 1200KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="141" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="100" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  <JingLing ID="142" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="150" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="143" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="200" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+
+  <JingLing ID="144" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="50" Tips="Trong event, khi nạp 1200KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="145" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="100" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  <JingLing ID="146" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="150" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="147" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="200" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="148" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="50" Tips="Trong event, khi nạp 1200KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="149" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="100" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  <JingLing ID="150" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="150" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="151" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="200" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+  <JingLing ID="152" HuoDongName="Nhận thưởng" HuoDongTuBiao="Lingqujiangli" tips="2" CanShu="50" Tips="Trong event, khi nạp 1200KC kích hoạt đặc quyền nhận thưởng, người chơi đạt yêu cầu đều có thể nhận" UIAnNiu="1" />
+  <JingLing ID="153" HuoDongName="Kích hoạt Shop" HuoDongTuBiao="Jihuoshangcheng" tips="4" CanShu="100" Tips="Tiệm thần bí bán rương quà hiếm" UIAnNiu="1" />
+  <JingLing ID="154" HuoDongName="Kích hoạt Tranh Mua" HuoDongTuBiao="Jihuozhigou" tips="3" CanShu="150" Tips="Tranh mua thần bí bán cánh chuyên thuộc hiếm" UIAnNiu="1" />
+  <JingLing ID="155" HuoDongName="BOSS đặc quyền" HuoDongTuBiao="Bosstequan" tips="1" CanShu="200" Tips="Sau khi kích hoạt đặc quyền, tại các map Lorencia, Noria, Devias, Dungeon, Lost Tower, Atlans, Tarkan sẽ ngẫu nhiên làm mới lượng lớn Quái Vật Thiên Mã, kích sát sẽ có cơ hội cao nhận được thời trang Thú Cưỡi Tàng Linh Dương" UIAnNiu="0" />
+
+</Config>
+
+"

@@ -1,0 +1,6 @@
+TextAsset Base
+	string m_Name = "LegionsHuoDongTab"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<HuoDongList>
+  <HuoDong ID="1" Name="Tranh Đoạt Lãnh Địa" />
+</HuoDongList>"

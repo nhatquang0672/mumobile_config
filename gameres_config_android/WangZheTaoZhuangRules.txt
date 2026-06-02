@@ -1,0 +1,9 @@
+TextAsset Base
+	string m_Name = "WangZheTaoZhuangRules"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <WangZheTaoZhuangRules ID="1" Intro="Chi Tiết Bộ Trang Bị Vương Giả" Bold="1" Type="5" />
+  <WangZheTaoZhuangRules ID="2" Intro="{dac7ae}1/{fac60d}Bộ trang bị Vương Giả:{dac7ae} Tiêu hao tinh hoa bộ trang bị để tiến hành tăng bậc, sau khi tăng bậc nhận tăng thuộc tính cơ bản.{dac7ae}" Bold="0" Type="5" />
+  <WangZheTaoZhuangRules ID="3" Intro="{dac7ae}2/{fac60d}Thuộc tính bộ trang bị:{dac7ae} Mỗi một bậc bộ trang bị có thuộc tính bộ trang bị riêng biệt, sau khi kích hoạt vĩnh viễn không mất.{dac7ae}" Bold="0" Type="5" />
+  <WangZheTaoZhuangRules ID="4" Intro="{dac7ae}3/{fac60d}Bộ trang bị tiêu hao:{dac7ae} Không cùng bộ trang bị thì xu tiêu hao cũng không giống nhau.{dac7ae}" Bold="0" Type="5" />
+</Config>"

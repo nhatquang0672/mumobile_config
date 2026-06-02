@@ -1,0 +1,8 @@
+TextAsset Base
+	string m_Name = "TianXingLongHun"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <TianXingLongHun ID="1" LongHunName="Long Hồn Thiên Tinh" LongHunJie="0" NeedStarlv="5" GetProperty="" NeedGoods="400008,1|400007,5" ShowTips="Bậc 1 sẽ nhận được ngoại quan của \nLôi Diệt Tinh Hồn " IsGet="-1" />
+  <TianXingLongHun ID="2" LongHunName="Tinh Hồn Lôi Diệt" LongHunJie="1" NeedStarlv="10" GetProperty="ElementInjurePercent,0.1|ElementAttackInjurePercent,0.1|SPAttackInjurePercent,0.05" NeedGoods="400008,3|400007,20" ShowTips="Bậc 2 sẽ nhận được ngoại quan của \nDương Diễm Thiên Hồn " IsGet="1" />
+  <TianXingLongHun ID="3" LongHunName="Thiên Hồn Dương Diễm" LongHunJie="2" NeedStarlv="15" GetProperty="ElementInjurePercent,0.2|ElementAttackInjurePercent,0.15|SPAttackInjurePercent,0.05|ElementPenetration,0.1" NeedGoods="400008,10|400007,100" ShowTips="Đã nhận được toàn bộ ngoại quan hiện tại" IsGet="2" />
+</config>"

@@ -1,0 +1,55 @@
+TextAsset Base
+	string m_Name = "QiQuLotteryBase"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <QiQuLotteryBase ID="1" LotteryID="10" LotteryName="Tuyển Thủ Sơ Cấp" LotteryResultID="1" LotteryResult="1" />
+  <QiQuLotteryBase ID="2" LotteryID="10" LotteryName="Tuyển Thủ Sơ Cấp" LotteryResultID="2" LotteryResult="0" />
+  <QiQuLotteryBase ID="3" LotteryID="10" LotteryName="Tuyển Thủ Sơ Cấp" LotteryResultID="3" LotteryResult="0" />
+  <QiQuLotteryBase ID="4" LotteryID="10" LotteryName="Tuyển Thủ Sơ Cấp" LotteryResultID="4" LotteryResult="0" />
+  <QiQuLotteryBase ID="5" LotteryID="10" LotteryName="Tuyển Thủ Sơ Cấp" LotteryResultID="5" LotteryResult="0" />
+  <QiQuLotteryBase ID="6" LotteryID="10" LotteryName="Tuyển Thủ Sơ Cấp" LotteryResultID="6" LotteryResult="0" />
+  <QiQuLotteryBase ID="7" LotteryID="10" LotteryName="Tuyển Thủ Sơ Cấp" LotteryResultID="7" LotteryResult="-1" />
+  <QiQuLotteryBase ID="8" LotteryID="10" LotteryName="Tuyển Thủ Sơ Cấp" LotteryResultID="8" LotteryResult="-1" />
+  <QiQuLotteryBase ID="9" LotteryID="10" LotteryName="Tuyển Thủ Sơ Cấp" LotteryResultID="9" LotteryResult="-1" />
+  <QiQuLotteryBase ID="10" LotteryID="10" LotteryName="Tuyển Thủ Sơ Cấp" LotteryResultID="10" LotteryResult="-1" />
+  <QiQuLotteryBase ID="11" LotteryID="20" LotteryName="Tuyển Thủ Trung Cấp" LotteryResultID="1" LotteryResult="1" />
+  <QiQuLotteryBase ID="12" LotteryID="20" LotteryName="Tuyển Thủ Trung Cấp" LotteryResultID="2" LotteryResult="1" />
+  <QiQuLotteryBase ID="13" LotteryID="20" LotteryName="Tuyển Thủ Trung Cấp" LotteryResultID="3" LotteryResult="1" />
+  <QiQuLotteryBase ID="14" LotteryID="20" LotteryName="Tuyển Thủ Trung Cấp" LotteryResultID="4" LotteryResult="0" />
+  <QiQuLotteryBase ID="15" LotteryID="20" LotteryName="Tuyển Thủ Trung Cấp" LotteryResultID="5" LotteryResult="0" />
+  <QiQuLotteryBase ID="16" LotteryID="20" LotteryName="Tuyển Thủ Trung Cấp" LotteryResultID="6" LotteryResult="0" />
+  <QiQuLotteryBase ID="17" LotteryID="20" LotteryName="Tuyển Thủ Trung Cấp" LotteryResultID="7" LotteryResult="0" />
+  <QiQuLotteryBase ID="18" LotteryID="20" LotteryName="Tuyển Thủ Trung Cấp" LotteryResultID="8" LotteryResult="0" />
+  <QiQuLotteryBase ID="19" LotteryID="20" LotteryName="Tuyển Thủ Trung Cấp" LotteryResultID="9" LotteryResult="-1" />
+  <QiQuLotteryBase ID="20" LotteryID="20" LotteryName="Tuyển Thủ Trung Cấp" LotteryResultID="10" LotteryResult="-1" />
+  <QiQuLotteryBase ID="21" LotteryID="20" LotteryName="Tuyển Thủ Trung Cấp" LotteryResultID="11" LotteryResult="-1" />
+  <QiQuLotteryBase ID="22" LotteryID="20" LotteryName="Tuyển Thủ Trung Cấp" LotteryResultID="12" LotteryResult="-1" />
+  <QiQuLotteryBase ID="23" LotteryID="20" LotteryName="Tuyển Thủ Trung Cấp" LotteryResultID="13" LotteryResult="-1" />
+  <QiQuLotteryBase ID="24" LotteryID="20" LotteryName="Tuyển Thủ Trung Cấp" LotteryResultID="14" LotteryResult="-1" />
+  <QiQuLotteryBase ID="25" LotteryID="20" LotteryName="Tuyển Thủ Trung Cấp" LotteryResultID="15" LotteryResult="-1" />
+  <QiQuLotteryBase ID="26" LotteryID="20" LotteryName="Tuyển Thủ Trung Cấp" LotteryResultID="16" LotteryResult="-1" />
+  <QiQuLotteryBase ID="27" LotteryID="20" LotteryName="Tuyển Thủ Trung Cấp" LotteryResultID="17" LotteryResult="-1" />
+  <QiQuLotteryBase ID="28" LotteryID="20" LotteryName="Tuyển Thủ Trung Cấp" LotteryResultID="18" LotteryResult="-1" />
+  <QiQuLotteryBase ID="29" LotteryID="20" LotteryName="Tuyển Thủ Trung Cấp" LotteryResultID="19" LotteryResult="-1" />
+  <QiQuLotteryBase ID="30" LotteryID="20" LotteryName="Tuyển Thủ Trung Cấp" LotteryResultID="20" LotteryResult="-1" />
+  <QiQuLotteryBase ID="31" LotteryID="30" LotteryName="Tuyển Thủ Cao Cấp" LotteryResultID="1" LotteryResult="1" />
+  <QiQuLotteryBase ID="32" LotteryID="30" LotteryName="Tuyển Thủ Cao Cấp" LotteryResultID="2" LotteryResult="0" />
+  <QiQuLotteryBase ID="33" LotteryID="30" LotteryName="Tuyển Thủ Cao Cấp" LotteryResultID="3" LotteryResult="0" />
+  <QiQuLotteryBase ID="34" LotteryID="30" LotteryName="Tuyển Thủ Cao Cấp" LotteryResultID="4" LotteryResult="0" />
+  <QiQuLotteryBase ID="35" LotteryID="30" LotteryName="Tuyển Thủ Cao Cấp" LotteryResultID="5" LotteryResult="0" />
+  <QiQuLotteryBase ID="36" LotteryID="30" LotteryName="Tuyển Thủ Cao Cấp" LotteryResultID="6" LotteryResult="0" />
+  <QiQuLotteryBase ID="37" LotteryID="30" LotteryName="Tuyển Thủ Cao Cấp" LotteryResultID="7" LotteryResult="-1" />
+  <QiQuLotteryBase ID="38" LotteryID="30" LotteryName="Tuyển Thủ Cao Cấp" LotteryResultID="8" LotteryResult="-1" />
+  <QiQuLotteryBase ID="39" LotteryID="30" LotteryName="Tuyển Thủ Cao Cấp" LotteryResultID="9" LotteryResult="-1" />
+  <QiQuLotteryBase ID="40" LotteryID="30" LotteryName="Tuyển Thủ Cao Cấp" LotteryResultID="10" LotteryResult="-1" />
+  <QiQuLotteryBase ID="41" LotteryID="30" LotteryName="Tuyển Thủ Cao Cấp" LotteryResultID="11" LotteryResult="1" />
+  <QiQuLotteryBase ID="42" LotteryID="30" LotteryName="Tuyển Thủ Cao Cấp" LotteryResultID="12" LotteryResult="1" />
+  <QiQuLotteryBase ID="43" LotteryID="30" LotteryName="Tuyển Thủ Cao Cấp" LotteryResultID="13" LotteryResult="1" />
+  <QiQuLotteryBase ID="44" LotteryID="30" LotteryName="Tuyển Thủ Cao Cấp" LotteryResultID="14" LotteryResult="0" />
+  <QiQuLotteryBase ID="45" LotteryID="30" LotteryName="Tuyển Thủ Cao Cấp" LotteryResultID="15" LotteryResult="0" />
+  <QiQuLotteryBase ID="46" LotteryID="30" LotteryName="Tuyển Thủ Cao Cấp" LotteryResultID="16" LotteryResult="0" />
+  <QiQuLotteryBase ID="47" LotteryID="30" LotteryName="Tuyển Thủ Cao Cấp" LotteryResultID="17" LotteryResult="0" />
+  <QiQuLotteryBase ID="48" LotteryID="30" LotteryName="Tuyển Thủ Cao Cấp" LotteryResultID="18" LotteryResult="0" />
+  <QiQuLotteryBase ID="49" LotteryID="30" LotteryName="Tuyển Thủ Cao Cấp" LotteryResultID="19" LotteryResult="-1" />
+  <QiQuLotteryBase ID="50" LotteryID="30" LotteryName="Tuyển Thủ Cao Cấp" LotteryResultID="20" LotteryResult="-1" />
+</config>"

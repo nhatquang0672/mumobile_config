@@ -1,0 +1,16 @@
+TextAsset Base
+	string m_Name = "CurrencyConversion"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <CurrencyConversion ID="1" Type="1" Name="Ma Băng" Unit="60000" Element="100" Limit="180000000" />
+  <CurrencyConversion ID="2" Type="2" Name="Thành Tựu" Unit="1500" Element="100" Limit="4500000" />
+  <CurrencyConversion ID="3" Type="3" Name="Danh Vọng" Unit="3000" Element="100" Limit="27000000" />
+  <CurrencyConversion ID="4" Type="4" Name="Tinh Hồn" Unit="15000" Element="100" Limit="4500000" />
+  <CurrencyConversion ID="5" Type="8" Name="Điểm Thủ Hộ" Unit="100" Element="100" Limit="30000" />
+  <CurrencyConversion ID="6" Type="13" Name="Lực Chiến" Unit="300" Element="100" Limit="90000" />
+  <CurrencyConversion ID="7" Type="9" Name="Phồn Thịnh" Unit="30" Element="100" Limit="45000" />
+  <CurrencyConversion ID="8" Type="2016" Name="Lông Vũ" Unit="6" Element="100" Limit="36000" />
+  <CurrencyConversion ID="9" Type="2017" Name="Đá Thần Ưng" Unit="3" Element="100" Limit="18000" />
+  <CurrencyConversion ID="10" Type="2003" Name="Ngọc Sinh Mệnh" Unit="1" Element="100" Limit="35640" />
+  <CurrencyConversion ID="11" Type="2030" Name="Ngọc Tiến Hóa" Unit="1" Element="100" Limit="24660" />
+</Config>"

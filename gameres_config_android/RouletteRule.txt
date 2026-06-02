@@ -1,0 +1,13 @@
+TextAsset Base
+	string m_Name = "RouletteRule"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Roulette1Rule ID="1" Intro="" Bold="0" Type="5" />
+  <Roulette1Rule ID="2" Intro="1, Người chơi có thể dùng Tim Áo Thuật để rút thưởng trong vòng xoay Ma Pháp, Tim Áo Thuật có thể nhận được khi mua Túi Quà Ma Pháp" Bold="0" Type="5" />
+  <Roulette1Rule ID="3" Intro="2, Người chơi rót Ma Pháp, khai mở một vòng Ma Pháp, sẽ quay trúng một trong ba loại Bóng Phép là Nhật, Nguyệt, Tinh, và cấp Sao ngẫu nhiên" Bold="0" Type="5" />
+  <Roulette1Rule ID="4" Intro="3, Sau khi người chơi rút trúng Bóng Phép có thể nhận đạo cụ thưởng, hoặc nhận Bụi Ma Pháp tương đương với phần thưởng, sau khi nhận phần thưởng sẽ không còn xuất hiện trong Hồ Thưởng nữa" Bold="0" Type="5" />
+  <Roulette1Rule ID="5" Intro="4, Người chơi có thể chọn không nhận thưởng để tiếp tục phù hộ Bóng Phép, cấp sao càng cao, phần thưởng càng ngon" Bold="0" Type="5" />
+  <Roulette1Rule ID="6" Intro="5, Phù hộ miễn phí không tiêu hao đạo cụ, nếu rút trúng Bóng Phép khác với phần thưởng, thất bại sẽ giáng sao, và kết thúc vòng đó " Bold="0" Type="5" />
+  <Roulette1Rule ID="7" Intro="6, Phù hộ Ma Pháp tiêu hao càng nhiều Tim Áo Thuật, nếu thất bại sẽ không rớt sao, cũng không kết thúc vòng đó, phù hộ Ma Pháp thất bại 3 lần sẽ tăng sao" Bold="0" Type="5" />
+  <Roulette1Rule ID="8" Intro="7, Dùng Bụi Ma Thuật để đổi thưởng trong Tiệm" Bold="0" Type="5" />
+</Config>"

@@ -1,0 +1,19 @@
+TextAsset Base
+	string m_Name = "ChongShengTaoZhuangHelp"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Hướng dẫn bộ trang bị tái sinh:" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Bộ tái sinh có 2 loại, gồm Bộ phòng cụ tái sinh và Bộ trang sức tái sinh." Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, Bộ phòng cụ tái sinh do {fac60d}5{dac7ae} bộ vị như Nón, Giáp, Tay, Chân, Giày  hợp thành, Bộ trang sức tái sinh do {fac60d}3{dac7ae} bộ vị như Dây, Nhẫn, Nhẫn hợp thành" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, Bộ trang bị tái sinh cùng bậc thì cùng bộ" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, Điều kiện tạo Bộ phòng cụ tái sinh: " Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}  Tạo bộ t.bị {17e43e}Thường{dac7ae} cần Đá Phòng Cụ-Thường" Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae}  Tạo bộ t.bị {3681f3}Tinh Thần{dac7ae} cần Đá Phòng Cụ-Tinh Thần" Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae}  Tạo bộ t.bị {b266ff}Tinh Diệu{dac7ae} cần Đá Phòng Cụ-Tinh Diệu" Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae}5, Điều kiện tạo Bộ trang sức tái sinh: " Bold="0" />
+  <HelpIntro ID="10" Intro="{dac7ae} Tạo bộ t.bị {17e43e}Thường{dac7ae} cần Đá Trang Sức-Thường" Bold="0" />
+  <HelpIntro ID="11" Intro="{dac7ae} Tạo bộ t.bị {3681f3}Tinh Thần{dac7ae} cần Đá Trang Sức-Tinh Thần" Bold="0" />
+  <HelpIntro ID="12" Intro="{dac7ae} Tạo bộ t.bị {b266ff}Tinh Diệu{dac7ae} cần Đá Trang Sức-Tinh Diệu" Bold="0" />
+  <HelpIntro ID="13" Intro="{dac7ae}6, Điều kiện mở bộ: Cùng lúc đeo Bộ phòng cụ và Bộ trang sức cùng bậc đạt số lượng chỉ định được mở thuộc tính Bộ tái sinh" Bold="0" />
+  <HelpIntro ID="14" Intro="{dac7ae}7, Hiệu quả bộ: Cùng lúc mở hiệu quả bộ số lượng bằng nhau, hiệu quả cấp tối đa có hiệu lực, cấp thấp không sinh hiệu lực" Bold="0" />
+</Config>"

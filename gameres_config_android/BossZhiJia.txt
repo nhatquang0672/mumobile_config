@@ -1,0 +1,8 @@
+TextAsset Base
+	string m_Name = "BossZhiJia"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <BossZhiJias>
+    <BossZhiJia MapCode="30000" Name="BOSS House" KaiQiVipLevel="3" MinChangeLife="0" MinLevel="40" MaxChangeLife="100" MaxLevel="100" ZhanLi="10000" Award="90050|90051|90052|2001|2002|2003" Image="30000" EnterNeedZuanShi="10" MapTimeNeedZuanShi="0" />
+  </BossZhiJias>
+</Config>"

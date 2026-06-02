@@ -1,0 +1,9 @@
+TextAsset Base
+	string m_Name = "TrialFieldRankIntro"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Hướng dẫn hạng Vùng Thần Phạt" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Sau khi Vùng Thần Phạt kết thúc, hạng Chiến Đội khác nhau, Chiến Đội sẽ có điểm khác nhau, điểm quyết định hạng, hạng càng cao thưởng càng nhiều, sau khi mùa giải kết thúc, vào giao diện Vùng Thần Phạt để nhận, hãy chú ý" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, Chiến đội hạng {17e43e}1{dac7ae} BXH điểm sẽ nhận danh hiệu có thời hạn, người hạng {17e43e}1{dac7ae} BXH cá nhân sẽ nhận danh hiệu có thời hạn, hãy chú ý hộp thư" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, BXH sẽ hiển thị thông tin của đội và cá nhân mạnh nhất của mùa giải trước" Bold="0" />
+</Config>"

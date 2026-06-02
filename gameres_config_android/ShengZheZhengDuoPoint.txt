@@ -1,0 +1,8 @@
+TextAsset Base
+	string m_Name = "ShengZheZhengDuoPoint"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ShengZheZhengDuoPoint ID="1" Position="17800,9300,1500,40|11000,18300,1500,40|2500,8200,1500,40|10000,2000,1500,40" Random="2" RefreshTime="00:01:00" OpenTime="00:01:00" AnnouncementTime="20" />
+  <ShengZheZhengDuoPoint ID="2" Position="17800,9300,1500,40|11000,18300,1500,40|2500,8200,1500,40|10000,2000,1500,40" Random="2" RefreshTime="00:02:30" OpenTime="00:01:00" AnnouncementTime="20" />
+  <ShengZheZhengDuoPoint ID="3" Position="10400,10900,1500,40" Random="1" RefreshTime="00:04:00" OpenTime="00:01:00" AnnouncementTime="20" />
+</Config>"

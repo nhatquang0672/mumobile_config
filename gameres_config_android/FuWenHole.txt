@@ -1,0 +1,29 @@
+TextAsset Base
+	string m_Name = "FuWenHole"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <FuWenHole HoleID="1" Name="Lam" Type="Blue" OpenLevel="7|1" />
+  <FuWenHole HoleID="2" Name="Lam" Type="Blue" OpenLevel="7|1" />
+  <FuWenHole HoleID="3" Name="Lam" Type="Blue" OpenLevel="7|1" />
+  <FuWenHole HoleID="4" Name="Lam" Type="Blue" OpenLevel="7|1" />
+  <FuWenHole HoleID="5" Name="Lam" Type="Blue" OpenLevel="8|1" />
+  <FuWenHole HoleID="6" Name="Lam" Type="Blue" OpenLevel="8|1" />
+  <FuWenHole HoleID="7" Name="Lam" Type="Blue" OpenLevel="9|1" />
+  <FuWenHole HoleID="8" Name="Lam" Type="Blue" OpenLevel="9|1" />
+  <FuWenHole HoleID="9" Name="Lục" Type="Green" OpenLevel="7|1" />
+  <FuWenHole HoleID="10" Name="Lục" Type="Green" OpenLevel="7|1" />
+  <FuWenHole HoleID="11" Name="Lục" Type="Green" OpenLevel="7|1" />
+  <FuWenHole HoleID="12" Name="Lục" Type="Green" OpenLevel="7|1" />
+  <FuWenHole HoleID="13" Name="Lục" Type="Green" OpenLevel="8|1" />
+  <FuWenHole HoleID="14" Name="Lục" Type="Green" OpenLevel="8|1" />
+  <FuWenHole HoleID="15" Name="Lục" Type="Green" OpenLevel="9|1" />
+  <FuWenHole HoleID="16" Name="Lục" Type="Green" OpenLevel="9|1" />
+  <FuWenHole HoleID="17" Name="Đỏ" Type="Red" OpenLevel="7|1" />
+  <FuWenHole HoleID="18" Name="Đỏ" Type="Red" OpenLevel="7|1" />
+  <FuWenHole HoleID="19" Name="Đỏ" Type="Red" OpenLevel="7|1" />
+  <FuWenHole HoleID="20" Name="Đỏ" Type="Red" OpenLevel="7|1" />
+  <FuWenHole HoleID="21" Name="Đỏ" Type="Red" OpenLevel="8|1" />
+  <FuWenHole HoleID="22" Name="Đỏ" Type="Red" OpenLevel="8|1" />
+  <FuWenHole HoleID="23" Name="Đỏ" Type="Red" OpenLevel="9|1" />
+  <FuWenHole HoleID="24" Name="Đỏ" Type="Red" OpenLevel="9|1" />
+</Config>"

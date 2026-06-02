@@ -1,0 +1,18 @@
+TextAsset Base
+	string m_Name = "TrialFieldIntro"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Vùng Thần Phạt" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1、Vùng Thần Phạt là hệ thống Chiến Đội {17e43e}5V5V5{dac7ae}, sau khi vào Chiến Đội phải tham gia tối thiểu 1 trận mới được nhận thưởng" Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, Vùng Thần Phạt do đội trưởng đội báo danh và trong đội ít nhất {17e43e}1{dac7ae} thành viên Tái Sinh đạt Lv{17e43e}1{dac7ae} mới có thể báo danh tham gia hoạt động" Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, Chiến Trường Vùng Thần Phạt" Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}   Quy tắc cơ bản: Tất cả thành viên trong event đều sở hữu cùng điểm HP, khi có thành viên chết, tổng HP đội{17e43e}-1{dac7ae}，sau khi kết thúc sẽ thống kê điểm HP còn lại, đội có HP cao sẽ dành chiến thắng" Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}   Quy tắc chiến đấu: Chủ yếu chia làm 2 giai đoạn chiến đấu: chiến đấu và Thần Phạt. Người chơi có thể chiến đấu tự do trong giai đoạn chiến đấu. Giai đoạn Thần Phạt sẽ cho ra sát thương toàn map, người chơi cần vào khu vực an toàn để tránh (điểm tái sinh cũng chịu sát thương), người chơi khu vực an toàn không thể PK, nhưng có thể nhận buff tái sinh và hái quả HP, trạng thái buff mỗi khu vực an toàn khác nhau. Giai đoạn Thần Phạt kết thúc, khu an toàn cũng sẽ kết thúc, người chơi có thể tiếp tục chiến đấu tự do. {ff0000}Chú ý: Trong thời gian event người chơi lag, thoát khỏi sẽ không thể vào lại chiến trường{ff0000}" Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae}   Quy tác thắng bại：" Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae}   1. Thời gian chiến đấu kết thúc, thống kê kết quả, căn cứ điểm HP còn lại trong đội tiến hành xếp hạng" Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae}   2.Nếu điểm HP cả 3 đội giống nhau, sẽ căn cứ tổng kích sát của đội để xếp hạng, tổng kích sát giống nhau, sẽ dựa vào đội đạt điểm này trước thắng" Bold="0" />
+  <HelpIntro ID="10" Intro="{dac7ae}   &#xA;3.Căn cứ xếp hạng đội viên để tiến hành tăng hoặc giảm tích điểm" Bold="0" />
+  <HelpIntro ID="11" Intro="{dac7ae}   Khu an toàn: Có tổng 6 khu vực an toàn, giai đoạn chiến đấu khu vực an toàn vô hiệu, trong giai đoạn Thần Phạt sẽ ngẫu nhiên kích hoạt 3 khu vực an toàn, người chơi có thể nhận buff thuộc tính tái sinh tại đó gồm: toàn hệ công, toàn hệ phòng, toàn hệ DMG, sau khi chết buff nhận được sẽ bị mất, buff duy trì có hiệu trong{17e43e}60{dac7ae}s.Đồng thời người chơi còn có thể tiến hành hái quả HP trong khu vực an toàn, sẽ tăng điểm HP toàn đội.{ff0000}Chú ý: Khi có người chơi chết, điểm HP chiến đội còn lúc ấy là{17e43e}0{dac7ae}{ff0000}thì trong giai đoạn Thần Phạt, những thành viên sống hái quả HP, người đã chết sẽ không có quyền hạn hồi sinh, chỉ có người chơi còn sống mới có thể hưởng quyền hồi sinh. {ff0000}" Bold="0" />
+  <HelpIntro ID="12" Intro="{dac7ae}4, Sau khi Vùng Thần Phạt kết thúc, hạng Chiến Đội khác nhau, Chiến Đội sẽ có điểm khác nhau, điểm quyết định hạng, hạng càng cao thưởng càng nhiều, sau khi mùa giải kết thúc, vào giao diện Vùng Thần Phạt để nhận, hãy chú ý" Bold="0" />
+  <HelpIntro ID="13" Intro="{dac7ae}5, Chiến Đội hạng {17e43e}1{dac7ae} BXH điểm sẽ nhận danh hiệu có thời hạn, người hạng {17e43e}1{dac7ae} BXH cá nhân sẽ nhận danh hiệu có thời hạn, hãy chú ý hộp thư" Bold="0" />
+</Config>"

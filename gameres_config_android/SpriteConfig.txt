@@ -1,0 +1,6 @@
+TextAsset Base
+	string m_Name = "SpriteConfig"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <SpriteConfig ID="1" LifeTotalWidth="40" HoldWidth="2" HoldHeight="1" />
+</Config>"

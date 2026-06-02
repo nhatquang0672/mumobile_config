@@ -1,0 +1,10 @@
+TextAsset Base
+	string m_Name = "ArathiZhanLiGroup"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <ArathiZhanLiGroup ID="1" ZhanLi="1,100000" />
+  <ArathiZhanLiGroup ID="2" ZhanLi="100001,200000" />
+  <ArathiZhanLiGroup ID="3" ZhanLi="200001,300000" />
+  <ArathiZhanLiGroup ID="4" ZhanLi="300001,500000" />
+  <ArathiZhanLiGroup ID="5" ZhanLi="500001,-1" />
+</config>"

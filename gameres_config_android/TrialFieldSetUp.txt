@@ -1,0 +1,7 @@
+TextAsset Base
+	string m_Name = "TrialFieldSetUp"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <TrialFieldSetUp ID="1" MapID="97006" PunishTime="120" PunishTimeContinue="15" PunishHurt="0.15" MapSafetyZonePoint="5578,7678,325|7887,6586,325|8130,4043,325|2959,4029,325|5561,2772,325|3080,6574,325" MaxSafetyZoneNum="3" MaxLifeFruit="4100001,1|4100001,2|4100001,3" BuffID="2000868,60|2000869,60|2000870,60" />
+  <TrialFieldSetUp ID="2" MapID="97006" PunishTime="260" PunishTimeContinue="15" PunishHurt="0.15" MapSafetyZonePoint="5578,7678,325|7887,6586,325|8130,4043,325|2959,4029,325|5561,2772,325|3080,6574,325" MaxSafetyZoneNum="3" MaxLifeFruit="4100001,1|4100001,2|4100001,3" BuffID="2000868,60|2000869,60|2000870,60" />
+</Config>"

@@ -1,0 +1,79 @@
+TextAsset Base
+	string m_Name = "RebornSuperiorType"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <RebornSuperiorType ID="101" Name="Tấn công tím-1-Thần Thánh-Công" Type="HolyAttack" Parameter="6870,0.5|10305,0.5" />
+  <RebornSuperiorType ID="102" Name="Tấn công tím-1-Ám Ảnh-Công" Type="ShadowAttack" Parameter="6870,0.5|10305,0.5" />
+  <RebornSuperiorType ID="103" Name="Tấn công tím-1-Tự Nhiên-Công" Type="NatureAttack" Parameter="6870,0.5|10305,0.5" />
+  <RebornSuperiorType ID="104" Name="Tấn công tím-1-Hỗn Độn-Công" Type="ChaosAttack" Parameter="6870,0.5|10305,0.5" />
+  <RebornSuperiorType ID="105" Name="Tấn công tím-1-Ác Mộng-Công" Type="IncubusAttack" Parameter="6870,0.5|10305,0.5" />
+  <RebornSuperiorType ID="106" Name="Tấn công tím-1-Tái Sinh Cả Hệ-Công" Type="RebornAttack" Parameter="6870,0.5|10305,0.5" />
+  <RebornSuperiorType ID="107" Name="Tấn công tím-2-Thần Thánh-Xuyên Thích ST" Type="HolyPenetratePercent" Parameter="0.03,0.5|0.04,0.5" />
+  <RebornSuperiorType ID="108" Name="Tấn công tím-2-Ám Ảnh-Xuyên Thích ST" Type="ShadowPenetratePercent" Parameter="0.03,0.5|0.04,0.5" />
+  <RebornSuperiorType ID="109" Name="Tấn công tím-2-Tự Nhiên-Xuyên Thích ST" Type="NaturePenetratePercent" Parameter="0.03,0.5|0.04,0.5" />
+  <RebornSuperiorType ID="110" Name="Tấn công tím-2-Hỗn Độn-Xuyên Thích ST" Type="ChaosPenetratePercent" Parameter="0.03,0.5|0.04,0.5" />
+  <RebornSuperiorType ID="111" Name="Tấn công tím-2-Ác Mộng-Xuyên Thích ST" Type="IncubusPenetratePercent" Parameter="0.03,0.5|0.04,0.5" />
+  <RebornSuperiorType ID="112" Name="Tấn công tím-2-Tái Sinh Cả Hệ-Xuyên Thích ST" Type="RebornPenetratePercent" Parameter="0.03,0.5|0.04,0.5" />
+  <RebornSuperiorType ID="113" Name="Tấn công tím-3-Thần Thánh-Tỷ lệ bạo" Type="HolyDoubleAttackPercent" Parameter="0.03,0.5|0.04,0.5" />
+  <RebornSuperiorType ID="114" Name="Tấn công tím-3-Ám Ảnh-Tỷ lệ bạo" Type="ShadowDoubleAttackPercent" Parameter="0.03,0.5|0.04,0.5" />
+  <RebornSuperiorType ID="115" Name="Tấn công tím-3-Tự Nhiên-Tỷ lệ bạo" Type="NatureDoubleAttackPercent" Parameter="0.03,0.5|0.04,0.5" />
+  <RebornSuperiorType ID="116" Name="Tấn công tím-3-Hỗn Độn-Tỷ lệ bạo" Type="ChaosDoubleAttackPercent" Parameter="0.03,0.5|0.04,0.5" />
+  <RebornSuperiorType ID="117" Name="Tấn công tím-3-Ác Mộng-Tỷ lệ bạo" Type="IncubusDoubleAttackPercent" Parameter="0.03,0.5|0.04,0.5" />
+  <RebornSuperiorType ID="118" Name="Tấn công tím-3-Tái Sinh Cả Hệ-Tỷ lệ bạo" Type="RebornDoubleAttackPercent" Parameter="0.03,0.5|0.04,0.5" />
+  <RebornSuperiorType ID="201" Name="Phòng thủ tím-1-Thủ thần thánh" Type="HolyDefense" Parameter="2289,0.5|3434,0.5" />
+  <RebornSuperiorType ID="202" Name="Phòng thủ tím-1-Thủ ám ảnh" Type="ShadowDefense" Parameter="2289,0.5|3434,0.5" />
+  <RebornSuperiorType ID="203" Name="Phòng thủ tím-1-Thủ tự nhiên" Type="NatureDefense" Parameter="2289,0.5|3434,0.5" />
+  <RebornSuperiorType ID="204" Name="Phòng thủ tím-1-Thủ hỗn độn" Type="ChaosDefense" Parameter="2289,0.5|3434,0.5" />
+  <RebornSuperiorType ID="205" Name="Phòng thủ tím-1-Thủ mộng mị" Type="IncubusDefense" Parameter="2289,0.5|3434,0.5" />
+  <RebornSuperiorType ID="206" Name="Phòng thủ tím-1-Tái Sinh Cả Hệ-Thủ" Type="RebornDefense" Parameter="2289,0.5|3434,0.5" />
+  <RebornSuperiorType ID="207" Name="Phòng thủ tím-2-Thần Thánh-Hấp Thu ST" Type="HolyAbsorbPercent" Parameter="0.04,0.5|0.06,0.5" />
+  <RebornSuperiorType ID="208" Name="Phòng thủ tím-2-Ám Ảnh-Hấp Thu ST" Type="ShadowAbsorbPercent" Parameter="0.04,0.5|0.06,0.5" />
+  <RebornSuperiorType ID="209" Name="Phòng thủ tím-2-Tự Nhiên-Hấp Thu ST" Type="NatureAbsorbPercent" Parameter="0.04,0.5|0.06,0.5" />
+  <RebornSuperiorType ID="210" Name="Phòng thủ tím-2-Hỗn Độn-Hấp Thu ST" Type="ChaosAbsorbPercent" Parameter="0.04,0.5|0.06,0.5" />
+  <RebornSuperiorType ID="211" Name="Phòng thủ tím-2-Ác Mộng-Hấp Thu ST" Type="IncubusAbsorbPercent" Parameter="0.04,0.5|0.06,0.5" />
+  <RebornSuperiorType ID="212" Name="Phòng thủ tím-2-Tái Sinh Cả Hệ-Hấp Thu ST" Type="RebornAbsorbPercent" Parameter="0.04,0.5|0.06,0.5" />
+  <RebornSuperiorType ID="213" Name="Phòng thủ tím-3-Thần Thánh-ST Bạo" Type="HolyDoubleAttackInjure" Parameter="0.04,0.5|0.06,0.5" />
+  <RebornSuperiorType ID="214" Name="Phòng thủ tím-3-Ám Ảnh-ST Bạo" Type="ShadowDoubleAttackInjure" Parameter="0.04,0.5|0.06,0.5" />
+  <RebornSuperiorType ID="215" Name="Phòng thủ tím-3-Tự Nhiên-ST Bạo" Type="NatureDoubleAttackInjure" Parameter="0.04,0.5|0.06,0.5" />
+  <RebornSuperiorType ID="216" Name="Phòng thủ tím-3-Hỗn Độn-ST Bạo" Type="ChaosDoubleAttackInjure" Parameter="0.04,0.5|0.06,0.5" />
+  <RebornSuperiorType ID="217" Name="Phòng thủ tím-3-Ác Mộng-ST Bạo" Type="IncubusDoubleAttackInjure" Parameter="0.04,0.5|0.06,0.5" />
+  <RebornSuperiorType ID="218" Name="Phòng thủ tím-3-Tái Sinh Cả Hệ-ST Bạo" Type="RebornDoubleAttackInjure" Parameter="0.04,0.5|0.06,0.5" />
+  <RebornSuperiorType ID="301" Name="Tấn công lam-tím-1-Thần Thánh-Công" Type="HolyAttack" Parameter="3435,0.5|5152,0.5" />
+  <RebornSuperiorType ID="302" Name="Tấn công lam-tím-1-Ám Ảnh-Công" Type="ShadowAttack" Parameter="3435,0.5|5152,0.5" />
+  <RebornSuperiorType ID="303" Name="Tấn công lam-tím-1-Tự Nhiên-Công" Type="NatureAttack" Parameter="3435,0.5|5152,0.5" />
+  <RebornSuperiorType ID="304" Name="Tấn công lam-tím-1-Hỗn Độn-Công" Type="ChaosAttack" Parameter="3435,0.5|5152,0.5" />
+  <RebornSuperiorType ID="305" Name="Tấn công lam-tím-1-Ác Mộng-Công" Type="IncubusAttack" Parameter="3435,0.5|5152,0.5" />
+  <RebornSuperiorType ID="306" Name="Tấn công lam-tím-1-Tái Sinh Cả Hệ-Công" Type="RebornAttack" Parameter="3435,0.5|5152,0.5" />
+  <RebornSuperiorType ID="307" Name="Tấn công lam-tím-2-Thần Thánh-Xuyên Thích ST" Type="HolyPenetratePercent" Parameter="0.02,0.5|0.03,0.5" />
+  <RebornSuperiorType ID="308" Name="Tấn công lam-tím-2-Ám Ảnh-Xuyên Thích ST" Type="ShadowPenetratePercent" Parameter="0.02,0.5|0.03,0.5" />
+  <RebornSuperiorType ID="309" Name="Tấn công lam-tím-2-Tự Nhiên-Xuyên Thích ST" Type="NaturePenetratePercent" Parameter="0.02,0.5|0.03,0.5" />
+  <RebornSuperiorType ID="310" Name="Tấn công lam-tím-2-Hỗn Độn-Xuyên Thích ST" Type="ChaosPenetratePercent" Parameter="0.02,0.5|0.03,0.5" />
+  <RebornSuperiorType ID="311" Name="Tấn công lam-tím-2-Ác Mộng-Xuyên Thích ST" Type="IncubusPenetratePercent" Parameter="0.02,0.5|0.03,0.5" />
+  <RebornSuperiorType ID="312" Name="Tấn công lam-tím-2-Tái Sinh Cả Hệ-Xuyên Thích ST" Type="RebornPenetratePercent" Parameter="0.02,0.5|0.03,0.5" />
+  <RebornSuperiorType ID="313" Name="Tấn công lam-tím-3-Thần Thánh-Tỷ lệ bạo" Type="HolyDoubleAttackPercent" Parameter="0.02,0.5|0.03,0.5" />
+  <RebornSuperiorType ID="314" Name="Tấn công lam-tím-3-Ám Ảnh-Tỷ lệ bạo" Type="ShadowDoubleAttackPercent" Parameter="0.02,0.5|0.03,0.5" />
+  <RebornSuperiorType ID="315" Name="Tấn công lam-tím-3-Tự Nhiên-Tỷ lệ bạo" Type="NatureDoubleAttackPercent" Parameter="0.02,0.5|0.03,0.5" />
+  <RebornSuperiorType ID="316" Name="Tấn công lam-tím-3-Hỗn Độn-Tỷ lệ bạo" Type="ChaosDoubleAttackPercent" Parameter="0.02,0.5|0.03,0.5" />
+  <RebornSuperiorType ID="317" Name="Tấn công lam-tím-3-Ác Mộng-Tỷ lệ bạo" Type="IncubusDoubleAttackPercent" Parameter="0.02,0.5|0.03,0.5" />
+  <RebornSuperiorType ID="318" Name="Tấn công lam-tím-3-Tái Sinh Cả Hệ-Tỷ lệ bạo" Type="RebornDoubleAttackPercent" Parameter="0.02,0.5|0.03,0.5" />
+  <RebornSuperiorType ID="401" Name="Phòng thủ lam-tím-1-Thủ thần thánh" Type="HolyDefense" Parameter="1144,0.5|1717,0.5" />
+  <RebornSuperiorType ID="402" Name="Phòng thủ lam-tím-1-Thủ ám ảnh" Type="ShadowDefense" Parameter="1144,0.5|1717,0.5" />
+  <RebornSuperiorType ID="403" Name="Phòng thủ lam-tím-1-Thủ tự nhiên" Type="NatureDefense" Parameter="1144,0.5|1717,0.5" />
+  <RebornSuperiorType ID="404" Name="Phòng thủ lam-tím-1-Thủ hỗn độn" Type="ChaosDefense" Parameter="1144,0.5|1717,0.5" />
+  <RebornSuperiorType ID="405" Name="Phòng thủ lam-tím-1-Thủ mộng mị" Type="IncubusDefense" Parameter="1144,0.5|1717,0.5" />
+  <RebornSuperiorType ID="406" Name="Phòng thủ lam-tím-1-Tái Sinh Cả Hệ-Thủ" Type="RebornDefense" Parameter="1144,0.5|1717,0.5" />
+  <RebornSuperiorType ID="407" Name="Phòng thủ lam-tím-2-Thần Thánh-Hấp Thu ST" Type="HolyAbsorbPercent" Parameter="0.02,0.5|0.03,0.5" />
+  <RebornSuperiorType ID="408" Name="Phòng thủ lam-tím-2-Ám Ảnh-Hấp Thu ST" Type="ShadowAbsorbPercent" Parameter="0.02,0.5|0.03,0.5" />
+  <RebornSuperiorType ID="409" Name="Phòng thủ lam-tím-2-Tự Nhiên-Hấp Thu ST" Type="NatureAbsorbPercent" Parameter="0.02,0.5|0.03,0.5" />
+  <RebornSuperiorType ID="410" Name="Phòng thủ lam-tím-2-Hỗn Độn-Hấp Thu ST" Type="ChaosAbsorbPercent" Parameter="0.02,0.5|0.03,0.5" />
+  <RebornSuperiorType ID="411" Name="Phòng thủ lam-tím-2-Ác Mộng-Hấp Thu ST" Type="IncubusAbsorbPercent" Parameter="0.02,0.5|0.03,0.5" />
+  <RebornSuperiorType ID="412" Name="Phòng thủ lam-tím-2-Tái Sinh Cả Hệ-Hấp Thu ST" Type="RebornAbsorbPercent" Parameter="0.02,0.5|0.03,0.5" />
+  <RebornSuperiorType ID="413" Name="Phòng thủ lam-tím-3-Thần Thánh-ST Bạo" Type="HolyDoubleAttackInjure" Parameter="0.02,0.5|0.03,0.5" />
+  <RebornSuperiorType ID="414" Name="Phòng thủ lam-tím-3-Ám Ảnh-ST Bạo" Type="ShadowDoubleAttackInjure" Parameter="0.02,0.5|0.03,0.5" />
+  <RebornSuperiorType ID="415" Name="Phòng thủ lam-tím-3-Tự Nhiên-ST Bạo" Type="NatureDoubleAttackInjure" Parameter="0.02,0.5|0.03,0.5" />
+  <RebornSuperiorType ID="416" Name="Phòng thủ lam-tím-3-Hỗn Độn-ST Bạo" Type="ChaosDoubleAttackInjure" Parameter="0.02,0.5|0.03,0.5" />
+  <RebornSuperiorType ID="417" Name="Phòng thủ lam-tím-3-Ác Mộng-ST Bạo" Type="IncubusDoubleAttackInjure" Parameter="0.02,0.5|0.03,0.5" />
+  <RebornSuperiorType ID="418" Name="Phòng thủ lam-tím-3-Tái Sinh Cả Hệ-ST Bạo" Type="RebornDoubleAttackInjure" Parameter="0.02,0.5|0.03,0.5" />
+  <RebornSuperiorType ID="500" Name="Tấn công lam-1-Tái Sinh Cả Hệ-Công" Type="RebornAttack" Parameter="215,1" />
+  <RebornSuperiorType ID="501" Name="Phòng thủ lam-1-Tái Sinh Cả Hệ-Thủ" Type="RebornDefense" Parameter="72,1" />
+</Config>"

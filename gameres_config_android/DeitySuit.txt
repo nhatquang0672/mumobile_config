@@ -1,0 +1,20 @@
+TextAsset Base
+	string m_Name = "DeitySuit"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <DeitySuit ID="1" Name="Thần Thánh Thần Vân-Lục" DeityType="1" PinZhi="3" TwoAttributes="HolyAttack,1000" FourAttributes="HolyAbsorbPercent,0.01" FiveAttributes="HolyPenetratePercent,0.01" SuitAttributes="" />
+  <DeitySuit ID="2" Name="Thần Thánh Thần Vân-Lam" DeityType="1" PinZhi="4" TwoAttributes="HolyAttack,2000" FourAttributes="HolyAbsorbPercent,0.02" FiveAttributes="HolyPenetratePercent,0.02" SuitAttributes="" />
+  <DeitySuit ID="3" Name="Thần Thánh Thần Vân-Tím" DeityType="1" PinZhi="6" TwoAttributes="HolyAttack,4000" FourAttributes="HolyAbsorbPercent,0.04" FiveAttributes="HolyPenetratePercent,0.04" SuitAttributes="" />
+  <DeitySuit ID="4" Name="Ám Ảnh Thần Vân-Lục" DeityType="2" PinZhi="3" TwoAttributes="ShadowAttack,1000" FourAttributes="ShadowAbsorbPercent,0.01" FiveAttributes="ShadowPenetratePercent,0.01" SuitAttributes="" />
+  <DeitySuit ID="5" Name="Ám Ảnh Thần Vân-Lam" DeityType="2" PinZhi="4" TwoAttributes="ShadowAttack,2000" FourAttributes="ShadowAbsorbPercent,0.02" FiveAttributes="ShadowPenetratePercent,0.02" SuitAttributes="" />
+  <DeitySuit ID="6" Name="Ám Ảnh Thần Vân-Tím" DeityType="2" PinZhi="6" TwoAttributes="ShadowAttack,4000" FourAttributes="ShadowAbsorbPercent,0.04" FiveAttributes="ShadowPenetratePercent,0.04" SuitAttributes="" />
+  <DeitySuit ID="7" Name="Tự Nhiên Thần Vân-Lục" DeityType="3" PinZhi="3" TwoAttributes="NatureAttack,1000" FourAttributes="NatureAbsorbPercent,0.01" FiveAttributes="NaturePenetratePercent,0.01" SuitAttributes="" />
+  <DeitySuit ID="8" Name="Tự Nhiên Thần Vân-Lam" DeityType="3" PinZhi="4" TwoAttributes="NatureAttack,2000" FourAttributes="NatureAbsorbPercent,0.02" FiveAttributes="NaturePenetratePercent,0.02" SuitAttributes="" />
+  <DeitySuit ID="9" Name="Tự Nhiên Thần Vân-Tím" DeityType="3" PinZhi="6" TwoAttributes="NatureAttack,4000" FourAttributes="NatureAbsorbPercent,0.04" FiveAttributes="NaturePenetratePercent,0.04" SuitAttributes="" />
+  <DeitySuit ID="10" Name="Hỗn ĐộnThần Vân-Lục" DeityType="4" PinZhi="3" TwoAttributes="ChaosAttack,1000" FourAttributes="ChaosAbsorbPercent,0.01" FiveAttributes="ChaosPenetratePercent,0.01" SuitAttributes="" />
+  <DeitySuit ID="11" Name="Hỗn ĐộnThần Vân-Lam" DeityType="4" PinZhi="4" TwoAttributes="ChaosAttack,2000" FourAttributes="ChaosAbsorbPercent,0.02" FiveAttributes="ChaosPenetratePercent,0.02" SuitAttributes="" />
+  <DeitySuit ID="12" Name="Hỗn ĐộnThần Vân-Tím" DeityType="4" PinZhi="6" TwoAttributes="ChaosAttack,4000" FourAttributes="ChaosAbsorbPercent,0.04" FiveAttributes="ChaosPenetratePercent,0.04" SuitAttributes="" />
+  <DeitySuit ID="13" Name="Ác MộngThần Vân-Lục" DeityType="5" PinZhi="3" TwoAttributes="IncubusAttack,1000" FourAttributes="IncubusAbsorbPercent,0.01" FiveAttributes="IncubusPenetratePercent,0.01" SuitAttributes="" />
+  <DeitySuit ID="14" Name="Ác MộngThần Vân-Lam" DeityType="5" PinZhi="4" TwoAttributes="IncubusAttack,2000" FourAttributes="IncubusAbsorbPercent,0.02" FiveAttributes="IncubusPenetratePercent,0.02" SuitAttributes="" />
+  <DeitySuit ID="15" Name="Ác MộngThần Vân-Tím" DeityType="5" PinZhi="6" TwoAttributes="IncubusAttack,4000" FourAttributes="IncubusAbsorbPercent,0.04" FiveAttributes="IncubusPenetratePercent,0.04" SuitAttributes="" />
+</Config>"

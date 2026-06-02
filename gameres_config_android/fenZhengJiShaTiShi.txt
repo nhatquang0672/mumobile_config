@@ -1,0 +1,11 @@
+TextAsset Base
+	string m_Name = "fenZhengJiShaTiShi"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <fenZhengJiShaTiShi ID="1" Number="5" textContent="Đang tàn sát!" maxNumber="-1" />
+  <fenZhengJiShaTiShi ID="2" Number="10" textContent="Đã bạo tẩu!" maxNumber="-1" />
+  <fenZhengJiShaTiShi ID="3" Number="15" textContent="Không còn ai địch nổi!" maxNumber="-1" />
+  <fenZhengJiShaTiShi ID="4" Number="20" textContent="Đã thống trị chiến trường!" maxNumber="-1" />
+  <fenZhengJiShaTiShi ID="5" Number="25" textContent="Đã gần thần rồi!" maxNumber="-1" />
+  <fenZhengJiShaTiShi ID="6" Number="30" textContent="Đã vượt thần rồi!" maxNumber="50" />
+</Config>"

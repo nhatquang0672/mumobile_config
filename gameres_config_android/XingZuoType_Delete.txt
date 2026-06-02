@@ -1,0 +1,19 @@
+TextAsset Base
+	string m_Name = "XingZuoType_Delete"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <XingZuo>
+    <Type ID="0" Name="Bạch Dương" KaiQiLevel="0,40" ShuXiangJiaCheng="Defense,3-5|MDefense,3-5" />
+    <Type ID="1" Name="Kim Ngưu" KaiQiLevel="1,1" ShuXiangJiaCheng="Defense,3-5|MDefense,3-6" />
+    <Type ID="2" Name="Song Tử" KaiQiLevel="1,1" ShuXiangJiaCheng="Defense,3-5|MDefense,3-7" />
+    <Type ID="3" Name="Cự Giải" KaiQiLevel="1,1" ShuXiangJiaCheng="Defense,3-5|MDefense,3-8" />
+    <Type ID="4" Name="Sư Tử" KaiQiLevel="1,1" ShuXiangJiaCheng="Defense,3-5|MDefense,3-9" />
+    <Type ID="5" Name="Xử Nữ" KaiQiLevel="1,1" ShuXiangJiaCheng="Defense,3-5|MDefense,3-10" />
+    <Type ID="6" Name="Thiên Bình" KaiQiLevel="1,1" ShuXiangJiaCheng="Defense,3-5|MDefense,3-11" />
+    <Type ID="7" Name="Thiên Yết" KaiQiLevel="1,1" ShuXiangJiaCheng="Defense,3-5|MDefense,3-12" />
+    <Type ID="8" Name="Nhân Mã" KaiQiLevel="1,1" ShuXiangJiaCheng="Defense,3-5|MDefense,3-13" />
+    <Type ID="9" Name="Ma Kết" KaiQiLevel="1,1" ShuXiangJiaCheng="Defense,3-5|MDefense,3-14" />
+    <Type ID="10" Name="Thủy Bình" KaiQiLevel="1,1" ShuXiangJiaCheng="Defense,3-5|MDefense,3-15" />
+    <Type ID="11" Name="Song Ngư" KaiQiLevel="1,1" ShuXiangJiaCheng="Defense,3-5|MDefense,3-16" />
+  </XingZuo>
+</config>"

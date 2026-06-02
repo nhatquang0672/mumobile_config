@@ -1,0 +1,33 @@
+TextAsset Base
+	string m_Name = "ChongZhiDuiHuan"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="64" FromDate="2022-11-01 00:00:00" ToDate="2022-11-07 23:59:59" AwardStartDate="2022-11-01 00:00:00" AwardEndDate="2022-11-07 23:59:59" />
+  <GiftList Description2="Trong event, nạp KC sẽ nhận điểm nạp dựa theo tỉ lệ 1:1">
+    <Award ID="1" NewGoodsID="4026,1,1,0,0,0,0" NeedChongZhiDianShu="500" MaxNum="3" />
+    <Award ID="2" NewGoodsID="2016,180,1,0,0,0,0|2017,180,1,0,0,0,0" NeedChongZhiDianShu="300" MaxNum="3" />
+    <Award ID="3" NewGoodsID="63064,25,1,0,0,0,0" NeedChongZhiDianShu="300" MaxNum="3" />
+    <Award ID="4" NewGoodsID="63067,40,1,0,0,0,0" NeedChongZhiDianShu="300" MaxNum="3" />
+    <Award ID="5" NewGoodsID="63032,40,1,0,0,0,0" NeedChongZhiDianShu="300" MaxNum="3" />
+    <Award ID="6" NewGoodsID="5031,20,1,0,0,0,0" NeedChongZhiDianShu="300" MaxNum="3" />
+    <Award ID="7" NewGoodsID="5041,20,1,0,0,0,0" NeedChongZhiDianShu="300" MaxNum="3" />
+    <Award ID="8" NewGoodsID="2005,10,1,0,0,0,0|30152792,10,1,0,0,0,0" NeedChongZhiDianShu="800" MaxNum="3" />
+    <Award ID="9" NewGoodsID="2005,40,1,0,0,0,0" NeedChongZhiDianShu="2500" MaxNum="3" />
+    <Award ID="10" NewGoodsID="7050,600,1,0,0,0,0|30152792,20,1,0,0,0,0" NeedChongZhiDianShu="1000" MaxNum="3" />
+    <Award ID="11" NewGoodsID="7050,2000,1,0,0,0,0" NeedChongZhiDianShu="3000" MaxNum="3" />
+    <Award ID="12" NewGoodsID="1030916,1,1,0,0,0,11272192" NeedChongZhiDianShu="3500" MaxNum="1" />
+    <Award ID="13" NewGoodsID="2101,60,1,0,0,0,0|2100,100,1,0,0,0,0" NeedChongZhiDianShu="400" MaxNum="3" />
+    <Award ID="14" NewGoodsID="2101,250,1,0,0,0,0|2100,500,1,0,0,0,0" NeedChongZhiDianShu="1600" MaxNum="3" />
+    <Award ID="15" NewGoodsID="5203,40,1,0,0,0,0|5171,150,1,0,0,0,0" NeedChongZhiDianShu="1000" MaxNum="3" />
+    <Award ID="16" NewGoodsID="5203,160,1,0,0,0,0|5171,600,1,0,0,0,0" NeedChongZhiDianShu="5000" MaxNum="3" />
+    <Award ID="17" NewGoodsID="5220,300,1,0,0,0,0" NeedChongZhiDianShu="5000" MaxNum="3" />
+    <Award ID="18" NewGoodsID="5220,500,1,0,0,0,0" NeedChongZhiDianShu="10000" MaxNum="3" />
+    <Award ID="19" NewGoodsID="5251,100,1,0,0,0,0" NeedChongZhiDianShu="10000" MaxNum="3" />
+    <Award ID="20" NewGoodsID="5251,210,1,0,0,0,0" NeedChongZhiDianShu="20000" MaxNum="3" />
+    <Award ID="21" NewGoodsID="5220,150,1,0,0,0,0|5270,300,1,0,0,0,0" NeedChongZhiDianShu="3000" MaxNum="3" />
+    <Award ID="22" NewGoodsID="5220,600,1,0,0,0,0|5270,1200,1,0,0,0,0" NeedChongZhiDianShu="15000" MaxNum="3" />
+    <Award ID="23" NewGoodsID="5110,40,1,0,0,0,0|5120,20,1,0,0,0,0" NeedChongZhiDianShu="300" MaxNum="5" />
+    <Award ID="24" NewGoodsID="5110,150,1,0,0,0,0|5120,100,1,0,0,0,0" NeedChongZhiDianShu="1000" MaxNum="5" />
+    <Award ID="25" NewGoodsID="5110,450,1,0,0,0,0|5120,400,1,0,0,0,0" NeedChongZhiDianShu="3000" MaxNum="5" />
+  </GiftList>
+</Config>"

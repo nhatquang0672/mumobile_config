@@ -1,0 +1,18 @@
+TextAsset Base
+	string m_Name = "HuntingRankAward"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HuntingRankAward ID="1" StarRank="1" EndRank="1" Award="50033,50,1,0,0,0,0|63195,3,1,0,0,0,0|51382,36,1,0,0,0,0" ScoreGet="1000" />
+  <HuntingRankAward ID="2" StarRank="2" EndRank="2" Award="50033,45,1,0,0,0,0|63195,2,1,0,0,0,0|51382,36,1,0,0,0,0" ScoreGet="900" />
+  <HuntingRankAward ID="3" StarRank="3" EndRank="3" Award="50033,40,1,0,0,0,0|63195,2,1,0,0,0,0|51382,36,1,0,0,0,0" ScoreGet="800" />
+  <HuntingRankAward ID="4" StarRank="4" EndRank="4" Award="50033,35,1,0,0,0,0|63195,1,1,0,0,0,0|51382,30,1,0,0,0,0" ScoreGet="700" />
+  <HuntingRankAward ID="5" StarRank="5" EndRank="5" Award="50033,30,1,0,0,0,0|63195,1,1,0,0,0,0|51382,24,1,0,0,0,0" ScoreGet="600" />
+  <HuntingRankAward ID="6" StarRank="6" EndRank="10" Award="50033,28,1,0,0,0,0|50160,6,1,0,0,0,0|51382,24,1,0,0,0,0" ScoreGet="500" />
+  <HuntingRankAward ID="7" StarRank="11" EndRank="20" Award="50033,25,1,0,0,0,0|50159,11,1,0,0,0,0|51382,12,1,0,0,0,0" ScoreGet="450" />
+  <HuntingRankAward ID="8" StarRank="21" EndRank="30" Award="50033,20,1,0,0,0,0|50163,1,1,0,0,0,0|2302,30,1,0,0,0,0" ScoreGet="400" />
+  <HuntingRankAward ID="9" StarRank="31" EndRank="50" Award="50033,18,1,0,0,0,0|50159,9,1,0,0,0,0|2302,30,1,0,0,0,0" ScoreGet="350" />
+  <HuntingRankAward ID="10" StarRank="51" EndRank="100" Award="50033,15,1,0,0,0,0|50161,2,1,0,0,0,0|2302,20,1,0,0,0,0" ScoreGet="300" />
+  <HuntingRankAward ID="11" StarRank="101" EndRank="150" Award="50033,14,1,0,0,0,0|50159,7,1,0,0,0,0|2302,10,1,0,0,0,0" ScoreGet="250" />
+  <HuntingRankAward ID="12" StarRank="151" EndRank="200" Award="50033,13,1,0,0,0,0|50162,1,1,0,0,0,0|2302,5,1,0,0,0,0" ScoreGet="200" />
+  <HuntingRankAward ID="13" StarRank="201" EndRank="-1" Award="50033,12,1,0,0,0,0|50159,5,1,0,0,0,0|2302,5,1,0,0,0,0" ScoreGet="150" />
+</Config>"

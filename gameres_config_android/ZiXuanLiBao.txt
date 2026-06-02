@@ -1,0 +1,6 @@
+TextAsset Base
+	string m_Name = "ZiXuanLiBao"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <ZiXuanLiBao ID="1" ZiXuan="63782,1,1,0,0,0,0|63783,1,1,0,0,0,0|63784,1,1,0,0,0,0" />
+</config>"

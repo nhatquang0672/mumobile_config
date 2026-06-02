@@ -1,0 +1,15 @@
+TextAsset Base
+	string m_Name = "ForceCraftIntro"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Chi tiếtThế Lực Tranh Bá" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1,Thế Lực Tranh Bá mở mỗi {17e43e}T7 19:00-19:30{-}." Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, Trong event sẽ cùng lúc mở {17e43e}5{dac7ae} chiến trường, có thể căn cứ theo tình trạng chiến trường {17e43e}tự do{dac7ae} chọn vào, có thể {17e43e}đổi chiến trường{dac7ae} bất kỳ lúc nào." Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, Mỗi chiến trường có {17e43e}7{dac7ae} cứ điểm, mỗi cứ điểm đại diện {17e43e}tỷ lệ chiếm giữ{dac7ae} nhất định, {17e43e}chiếm lĩnh{dac7ae}căn cứ nhận được tỷ lệ chiếm lĩnh tương ứng. " Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, Tại {17e43e}cột cờ{dac7ae} cứ điểm cấm {17e43e}cờ{dac7ae} Thế Lực, đại diện Thế Lực này đã {17e43e}chiếm lĩnh {dac7ae}cứ điểm này." Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5, Công kích cờ của Thế Lực khác có thể {17e43e}phá hoại{dac7ae} cờ đó, sau khi phá hoại có thể cắm cờ của Thế Lực mình để chiếm lĩnh. Hoạt động kết thúc cứ điểm chiếm lĩnh sẽ {17e43e}được bảo lưu{dac7ae}, kỳ sau, căn cứ kết quả chiếm giữ của {17e43e}hoạt động lần trước {dac7ae} để bắt đầu. " Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae}6, {17e43e}Cùng 1 chiến trường {dac7ae}Thế Lực chiếm lĩnh nhiều cứ điểm, tỷ lệ chiếm lĩnh sẽ {17e43e}cộng dồn{dac7ae}, căn cứ vào tỷ lệ chiếm lĩnh {17e43e}cá nhân {dac7ae}trong chiến trường Thế Lực sẽ tiến hành xếp hạng, hoạt động kết thúc, Thế Lực xếp hạng {17e43e}1 {dac7ae} sẽ nhận quyền chiếm lĩnh. " Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae}7, Trong chiến trình {17e43e}kích sát người chơi Thế Lực khác{dac7ae}, {17e43e}công kích cờ Thế Lực khác {dac7ae}cũng sẽ nhận được tích điểm, đổi chiến trường tích điểm cũng sẽ {17e43e}cộng dồn{dac7ae}, căn cứ tích điểm trong Thế Lực sẽ tiến hành xếp hạng, hạng càng cao {17e43e}quà cơ bản{dac7ae} của chiến trường càng cao." Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae}8, {17e43e}T7 19:30-CN 23:55 {dac7ae}nhận thưởng chiến trường sẽ nhận được thưởng {17e43e}Quân Hàm Thế Lực{dac7ae}, {17e43e}CN 23:56-T7 19:00{dac7ae}nhận thưởng sẽ {ff0000}không {dac7ae}nhận được thưởng {17e43e}Quân Hàm Thế Lực{dac7ae}." Bold="0" />
+  <HelpIntro ID="10" Intro="{dac7ae}9, Mỗi chiến trường Thế Lực đều đối ứng 1{17e43e}shop chuyên thuộc{dac7ae}, chiếm lĩnh chiến trường, {17e43e}trong thời gian chiếm lĩnh{dac7ae} người chơi trong Thế Lực có thể mua vạt phẩm trong shop chuyên thuộc. Thế Lực chiếm giữ nhiều nhất còn có thể {17e43e}nhận thêm {dac7ae}một shop chuyên thuộc. " Bold="0" />
+</Config>"

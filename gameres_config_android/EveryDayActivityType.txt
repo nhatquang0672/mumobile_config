@@ -1,0 +1,14 @@
+TextAsset Base
+	string m_Name = "EveryDayActivityType"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <EveryDayActivityType TypeID="1" Name="Rebirth Level" OpenLevel="0|1" CloseLevel="100|100" />
+  <EveryDayActivityType TypeID="2" Name="Wing" OpenLevel="2|1" CloseLevel="100|100" />
+  <EveryDayActivityType TypeID="3" Name="Achievement" OpenLevel="2|1" CloseLevel="100|100" />
+  <EveryDayActivityType TypeID="5" Name="Fame" OpenLevel="3|1" CloseLevel="100|100" />
+  <EveryDayActivityType TypeID="6" Name="Muren‘s Book" OpenLevel="5|1" CloseLevel="100|100" />
+  <EveryDayActivityType TypeID="7" Name="Relic" OpenLevel="5|1" CloseLevel="100|100" />
+  <EveryDayActivityType TypeID="8" Name="Companion Ring" OpenLevel="3|1" CloseLevel="100|100" />
+  <EveryDayActivityType TypeID="9" Name="Guardian" OpenLevel="3|1" CloseLevel="100|100" />
+  <EveryDayActivityType TypeID="10" Name="Purchase" OpenLevel="2|1" CloseLevel="100|100" />
+</Config>"

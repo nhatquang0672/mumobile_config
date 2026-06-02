@@ -1,0 +1,17 @@
+TextAsset Base
+	string m_Name = "MengZhanSkill"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <MengZhanSkill ID="1" Goods="2000875" GoodsRefreshWeight="100" MagicQuality="1" Time="30" />
+  <MengZhanSkill ID="2" Goods="2000876" GoodsRefreshWeight="200" MagicQuality="2" Time="30" />
+  <MengZhanSkill ID="3" Goods="2000877" GoodsRefreshWeight="100" MagicQuality="3" Time="30" />
+  <MengZhanSkill ID="4" Goods="2000878" GoodsRefreshWeight="100" MagicQuality="4" Time="30" />
+  <MengZhanSkill ID="5" Goods="2000879" GoodsRefreshWeight="100" MagicQuality="1" Time="30" />
+  <MengZhanSkill ID="6" Goods="2000880" GoodsRefreshWeight="100" MagicQuality="2" Time="30" />
+  <MengZhanSkill ID="7" Goods="2000881" GoodsRefreshWeight="100" MagicQuality="3" Time="30" />
+  <MengZhanSkill ID="8" Goods="2000882" GoodsRefreshWeight="100" MagicQuality="4" Time="30" />
+  <MengZhanSkill ID="9" Goods="2000883" GoodsRefreshWeight="100" MagicQuality="1" Time="30" />
+  <MengZhanSkill ID="10" Goods="2000884" GoodsRefreshWeight="100" MagicQuality="2" Time="30" />
+  <MengZhanSkill ID="11" Goods="2000885" GoodsRefreshWeight="100" MagicQuality="3" Time="30" />
+  <MengZhanSkill ID="12" Goods="2000886" GoodsRefreshWeight="100" MagicQuality="4" Time="30" />
+</Config>"

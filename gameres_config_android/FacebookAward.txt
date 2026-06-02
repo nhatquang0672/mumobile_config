@@ -1,0 +1,12 @@
+TextAsset Base
+	string m_Name = "FacebookAward"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Type ID="1" DbKey="facebook1" Name="Thưởng mời hảo hữu" DayMaxNum="5" OnlyNum="0" AwardGoods="50016,1,1,0,0,0,0" MailTitle="Thưởng mời hảo hữu" MailContent="Chúc mừng đạt được phần thưởng mời hảo hữu, hãy vào hộp thư nhận quà." />
+  <Type ID="2" DbKey="facebook2" Name="Thưởng tặng quà" DayMaxNum="5" OnlyNum="0" AwardGoods="50016,1,1,0,0,0,0" MailTitle="Thưởng tặng quà" MailContent="Chúc mừng đạt được phần thưởng tặng quà hảo hữu, hãy vào hộp thư nhận quà." />
+  <Type ID="3" DbKey="facebook3" Name="Thưởng chia sẽ mỗi ngày" DayMaxNum="1" OnlyNum="0" AwardGoods="12003000,1,1,0,0,0,0"  MailTitle="Thưởng chia sẽ mỗi ngày" MailContent="Chúc mừng đạt được phần thưởng chia sẽ mỗi ngày, hãy vào hộp thư nhận quà." />
+  <Type ID="4" DbKey="facebook4" Name="Thưởng tích lũy mời" DayMaxNum="0" OnlyNum="1" AwardGoods="12003001,1,1,0,0,0,0"  MailTitle="Thưởng tích lũy mời" MailContent="Chúc mừng đạt được phần thưởng mời tích lũy 5 người, hãy vào hộp thư để nhận quà. " />
+  <Type ID="5" DbKey="facebook5" Name="Thưởng tích lũy mời" DayMaxNum="0" OnlyNum="1" AwardGoods="12003002,1,1,0,0,0,0"  MailTitle="Thưởng tích lũy mời" MailContent="Chúc mừng đạt được phần thưởng mời tích lũy 10 người, hãy vào hộp thư để nhận quà. " />
+  <Type ID="6" DbKey="facebook6" Name="Thưởng tích lũy mời" DayMaxNum="0" OnlyNum="1" AwardGoods="12003003,1,1,0,0,0,0"  MailTitle="Thưởng tích lũy mời" MailContent="Chúc mừng đạt được phần thưởng mời tích lũy 20 người, hãy vào hộp thư để nhận quà. " />
+  <Type ID="7" DbKey="facebook7" Name="Thưởng tích lũy mời" DayMaxNum="0" OnlyNum="1" AwardGoods="12003004,1,1,0,0,0,0"  MailTitle="Thưởng tích lũy mời" MailContent="Chúc mừng đạt được phần thưởng mời tích lũy 30 người, hãy vào hộp thư để nhận quà. " />
+</Config>"

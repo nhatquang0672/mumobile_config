@@ -1,0 +1,9 @@
+TextAsset Base
+	string m_Name = "CircusMallList"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <CircusMallList ID="1" TypeID="10" MallID="10" Goods="5605,1,1,0,0,0,0" HuodongLimit="-1" DayLimit="5" CurrencyNeed="40,50" ZhiGou="" IsShow="1" />
+  <CircusMallList ID="2" TypeID="10" MallID="20" Goods="5606,1,1,0,0,0,0" HuodongLimit="10" DayLimit="-1" CurrencyNeed="40,300" ZhiGou="" IsShow="1" />
+  <CircusMallList ID="3" TypeID="10" MallID="30" Goods="5607,1,1,0,0,0,0" HuodongLimit="10" DayLimit="-1" CurrencyNeed="40,1000" ZhiGou="" IsShow="1" />
+
+</config>"

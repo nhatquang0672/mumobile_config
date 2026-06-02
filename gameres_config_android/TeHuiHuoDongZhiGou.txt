@@ -1,0 +1,9 @@
+TextAsset Base
+	string m_Name = "TeHuiHuoDongZhiGou"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <TeHuiHuoDongZhiGou ID="1" ZhiGouID="1000000" TitlePic="wenzi.png" TitleName="Ưu Đãi Thú Cưỡi" ShowGoods="Horse_001.unity3d" ShowGoodsID="" IsRole="0" ShowGoodsPos="0,0,0" ShowGoodsSize="1,1,1" ShowGoodsRot="0,0,0" ShowLeftPic="tehui_3.png" ShowTips="wenzi2.png" ActivityTime="2021-05-10 00:00:00,2021-05-10 23:59:59" />
+  <TeHuiHuoDongZhiGou ID="2" ZhiGouID="1000001" TitlePic="wenzi.png" TitleName="Ưu Đãi Danh Hiệu" ShowGoods="Horse_002.unity3d" ShowGoodsID="" IsRole="0" ShowGoodsPos="0,0,0" ShowGoodsSize="1,1,1" ShowGoodsRot="0,0,0" ShowLeftPic="tehui_3.png" ShowTips="wenzi2.png" ActivityTime="2021-05-11 00:00:00,2021-05-11 23:59:59" />
+  <TeHuiHuoDongZhiGou ID="3" ZhiGouID="1000002" TitlePic="wenzi.png" TitleName="Ưu Đãi Thời Trang" ShowGoods="Horse_127.unity3d" ShowGoodsID="" IsRole="0" ShowGoodsPos="0,0,0" ShowGoodsSize="1,1,1" ShowGoodsRot="0,0,0" ShowLeftPic="tehui_3.png" ShowTips="wenzi2.png" ActivityTime="2021-05-12 00:00:00,2021-05-12 23:59:59" />
+  <TeHuiHuoDongZhiGou ID="4" ZhiGouID="1000003" TitlePic="wenzi.png" TitleName="Ưu Đãi Dấu Chân" ShowGoods="" ShowGoodsID="1050002" IsRole="1" ShowGoodsPos="0,0,0" ShowGoodsSize="1,1,1" ShowGoodsRot="0,0,0" ShowLeftPic="tehui_3.png" ShowTips="wenzi2.png" ActivityTime="2021-05-13 00:00:00,2021-05-13 23:59:59" />
+</config>"

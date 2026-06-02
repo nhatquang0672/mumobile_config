@@ -1,0 +1,20 @@
+TextAsset Base
+	string m_Name = "GodStriveRankAward"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <GodStriveRankAward ID="1" StarRank="1" EndRank="1" Award="64018,2000,1,0,0,0,0|64024,20000,1,0,0,0,0" ScoreGet="1000" />
+  <GodStriveRankAward ID="2" StarRank="2" EndRank="2" Award="64018,1800,1,0,0,0,0|64024,18000,1,0,0,0,0" ScoreGet="900" />
+  <GodStriveRankAward ID="3" StarRank="3" EndRank="3" Award="64018,1700,1,0,0,0,0|64024,17000,1,0,0,0,0" ScoreGet="800" />
+  <GodStriveRankAward ID="4" StarRank="4" EndRank="4" Award="64018,1600,1,0,0,0,0|64024,16000,1,0,0,0,0" ScoreGet="700" />
+  <GodStriveRankAward ID="5" StarRank="5" EndRank="5" Award="64018,1400,1,0,0,0,0|64024,14000,1,0,0,0,0" ScoreGet="600" />
+  <GodStriveRankAward ID="6" StarRank="6" EndRank="6" Award="64018,1300,1,0,0,0,0|64024,13000,1,0,0,0,0" ScoreGet="500" />
+  <GodStriveRankAward ID="7" StarRank="7" EndRank="7" Award="64018,1200,1,0,0,0,0|64024,12000,1,0,0,0,0" ScoreGet="450" />
+  <GodStriveRankAward ID="8" StarRank="8" EndRank="8" Award="64018,1100,1,0,0,0,0|64024,11000,1,0,0,0,0" ScoreGet="400" />
+  <GodStriveRankAward ID="9" StarRank="9" EndRank="9" Award="64018,1000,1,0,0,0,0|64024,10000,1,0,0,0,0" ScoreGet="350" />
+  <GodStriveRankAward ID="10" StarRank="10" EndRank="10" Award="64018,800,1,0,0,0,0|64024,8000,1,0,0,0,0" ScoreGet="300" />
+  <GodStriveRankAward ID="11" StarRank="11" EndRank="20" Award="64018,600,1,0,0,0,0|64024,6000,1,0,0,0,0" ScoreGet="250" />
+  <GodStriveRankAward ID="12" StarRank="21" EndRank="50" Award="64018,500,1,0,0,0,0|64024,5000,1,0,0,0,0" ScoreGet="200" />
+  <GodStriveRankAward ID="13" StarRank="51" EndRank="100" Award="64018,400,1,0,0,0,0|64024,4000,1,0,0,0,0" ScoreGet="150" />
+  <GodStriveRankAward ID="14" StarRank="100" EndRank="200" Award="64018,200,1,0,0,0,0|64024,2000,1,0,0,0,0" ScoreGet="100" />
+  <GodStriveRankAward ID="15" StarRank="201" EndRank="-1" Award="64018,100,1,0,0,0,0|64024,1000,1,0,0,0,0" ScoreGet="50" />
+</Config>"

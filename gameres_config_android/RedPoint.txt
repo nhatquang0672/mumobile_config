@@ -1,0 +1,11 @@
+TextAsset Base
+	string m_Name = "RedPoint"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <RedPoint ID="1" Name="Kỹ năng" OrderID="1" SystemID="" Type="1" Parameter="10" />
+  <RedPoint ID="2" Name="Cánh" OrderID="1" SystemID="19" Type="2" Parameter="5,0" />
+  <RedPoint ID="3" Name="Tinh Hồn" OrderID="1" SystemID="32" Type="3" Parameter="10" />
+  <RedPoint ID="4" Name="Cường hóa" OrderID="3" SystemID="6" Type="4" Parameter="15" />
+  <RedPoint ID="5" Name="Tăng" OrderID="3" SystemID="37" Type="5" Parameter="5" />
+  <RedPoint ID="6" Name="Bồi dưỡng" OrderID="3" SystemID="99" Type="6" Parameter="5" />
+</Config>"

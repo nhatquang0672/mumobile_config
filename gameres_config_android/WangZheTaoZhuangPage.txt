@@ -1,0 +1,9 @@
+TextAsset Base
+	string m_Name = "WangZheTaoZhuangPage"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <WangZheTaoZhuangPage ID="1" Name="Bộ Trang Bị Kỵ Sĩ" NeedRank="0" IsOpen="1" CoinType="218" />
+  <WangZheTaoZhuangPage ID="2" Name="Bộ Trang Bị Vương Giả" NeedRank="10" IsOpen="1" CoinType="218" />
+  <WangZheTaoZhuangPage ID="3" Name="Bộ Trang Bị Thần Thánh" NeedRank="20" IsOpen="1" CoinType="218" />
+  <WangZheTaoZhuangPage ID="4" Name="Bộ Trang Bị Thần Tiên" NeedRank="30" IsOpen="0" CoinType="218" />
+</config>"

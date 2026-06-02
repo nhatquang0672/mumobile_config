@@ -1,0 +1,6 @@
+TextAsset Base
+	string m_Name = "GodStriveActivitySet"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <GodStriveActivitySet ID="1" Name="Thiên Thần Chiến" MapCode="97007" TimePoints="1,21:30:00-22:00:00|4,21:30:00-22:00:00" SeasonFightDay="4" BattleSignSecs="120" PrepareSecs="60" FightingSecs="360" ClearRolesSecs="60" DemandPersonNum="1" SignCondition="1|5,100" MaxEnterNum="2" RewardView="64018,0,0,0,0,0,0|64024,0,0,0,0,0,0" />
+</Config>"

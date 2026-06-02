@@ -1,0 +1,8 @@
+TextAsset Base
+	string m_Name = "HuiLiuLevel"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HuiLiuLevel Level="1" Time="2019-11-01" Award="2032,1,1,0,0,0,0|2033,1,1,0,0,0,0|2034,1,1,0,0,0,0|2035,1,1,0,0,0,0" />
+  <HuiLiuLevel Level="2" Time="2020-11-01" Award="2037,1,1,0,0,0,0|2038,1,1,0,0,0,0|2039,1,1,0,0,0,0|2040,1,1,0,0,0,0" />
+  <HuiLiuLevel Level="3" Time="-1" Award="2037,1,1,0,0,0,0|2038,1,1,0,0,0,0|2039,1,1,0,0,0,0|2040,1,1,0,0,0,0" />
+</Config>"

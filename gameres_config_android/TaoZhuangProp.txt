@@ -1,0 +1,65 @@
+TextAsset Base
+	string m_Name = "TaoZhuangProp"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <TaoZhuangProp ID="1" SlotID="1" Rank="1" GoodsID="2" TaoZhuangType="MaxLifeV,1000" />
+  <TaoZhuangProp ID="2" SlotID="2" Rank="1" GoodsID="2" TaoZhuangType="MaxLifeV,1001" />
+  <TaoZhuangProp ID="3" SlotID="3" Rank="1" GoodsID="2" TaoZhuangType="MaxLifeV,1002" />
+  <TaoZhuangProp ID="4" SlotID="4" Rank="1" GoodsID="2" TaoZhuangType="MaxLifeV,1003" />
+  <TaoZhuangProp ID="5" SlotID="5" Rank="1" GoodsID="2" TaoZhuangType="MaxLifeV,1004" />
+  <TaoZhuangProp ID="6" SlotID="6" Rank="1" GoodsID="2" TaoZhuangType="MaxLifeV,1005" />
+  <TaoZhuangProp ID="7" SlotID="7" Rank="1" GoodsID="2" TaoZhuangType="MaxLifeV,1006" />
+  <TaoZhuangProp ID="8" SlotID="8" Rank="1" GoodsID="2" TaoZhuangType="MaxLifeV,1007" />
+  <TaoZhuangProp ID="9" SlotID="9" Rank="1" GoodsID="2" TaoZhuangType="MaxLifeV,1008" />
+  <TaoZhuangProp ID="10" SlotID="10" Rank="1" GoodsID="2" TaoZhuangType="MaxLifeV,1009" />
+  <TaoZhuangProp ID="11" SlotID="1" Rank="1" GoodsID="3" TaoZhuangType="MaxLifeV,1010" />
+  <TaoZhuangProp ID="12" SlotID="2" Rank="1" GoodsID="3" TaoZhuangType="MaxLifeV,1011" />
+  <TaoZhuangProp ID="13" SlotID="3" Rank="1" GoodsID="3" TaoZhuangType="MaxLifeV,1012" />
+  <TaoZhuangProp ID="14" SlotID="4" Rank="1" GoodsID="3" TaoZhuangType="MaxLifeV,1013" />
+  <TaoZhuangProp ID="15" SlotID="5" Rank="1" GoodsID="3" TaoZhuangType="MaxLifeV,1014" />
+  <TaoZhuangProp ID="16" SlotID="6" Rank="1" GoodsID="3" TaoZhuangType="MaxLifeV,1015" />
+  <TaoZhuangProp ID="17" SlotID="7" Rank="1" GoodsID="3" TaoZhuangType="MaxLifeV,1016" />
+  <TaoZhuangProp ID="18" SlotID="8" Rank="1" GoodsID="3" TaoZhuangType="MaxLifeV,1017" />
+  <TaoZhuangProp ID="19" SlotID="9" Rank="1" GoodsID="3" TaoZhuangType="MaxLifeV,1018" />
+  <TaoZhuangProp ID="20" SlotID="10" Rank="1" GoodsID="3" TaoZhuangType="MaxLifeV,1019" />
+  <TaoZhuangProp ID="21" SlotID="1" Rank="1" GoodsID="5" TaoZhuangType="MaxLifeV,1020" />
+  <TaoZhuangProp ID="22" SlotID="2" Rank="1" GoodsID="5" TaoZhuangType="MaxLifeV,1021" />
+  <TaoZhuangProp ID="23" SlotID="3" Rank="1" GoodsID="5" TaoZhuangType="MaxLifeV,1022" />
+  <TaoZhuangProp ID="24" SlotID="4" Rank="1" GoodsID="5" TaoZhuangType="MaxLifeV,1023" />
+  <TaoZhuangProp ID="25" SlotID="5" Rank="1" GoodsID="5" TaoZhuangType="MaxLifeV,1024" />
+  <TaoZhuangProp ID="26" SlotID="6" Rank="1" GoodsID="5" TaoZhuangType="MaxLifeV,1025" />
+  <TaoZhuangProp ID="27" SlotID="7" Rank="1" GoodsID="5" TaoZhuangType="MaxLifeV,1026" />
+  <TaoZhuangProp ID="28" SlotID="8" Rank="1" GoodsID="5" TaoZhuangType="MaxLifeV,1027" />
+  <TaoZhuangProp ID="29" SlotID="9" Rank="1" GoodsID="5" TaoZhuangType="MaxLifeV,1028" />
+  <TaoZhuangProp ID="30" SlotID="10" Rank="1" GoodsID="5" TaoZhuangType="MaxLifeV,1029" />
+  <TaoZhuangProp ID="31" SlotID="1" Rank="2" GoodsID="2" TaoZhuangType="MaxLifeV,1030" />
+  <TaoZhuangProp ID="32" SlotID="2" Rank="2" GoodsID="2" TaoZhuangType="MaxLifeV,1031" />
+  <TaoZhuangProp ID="33" SlotID="3" Rank="2" GoodsID="2" TaoZhuangType="MaxLifeV,1032" />
+  <TaoZhuangProp ID="34" SlotID="4" Rank="2" GoodsID="2" TaoZhuangType="MaxLifeV,1033" />
+  <TaoZhuangProp ID="35" SlotID="5" Rank="2" GoodsID="2" TaoZhuangType="MaxLifeV,1034" />
+  <TaoZhuangProp ID="36" SlotID="6" Rank="2" GoodsID="2" TaoZhuangType="MaxLifeV,1035" />
+  <TaoZhuangProp ID="37" SlotID="7" Rank="2" GoodsID="2" TaoZhuangType="MaxLifeV,1036" />
+  <TaoZhuangProp ID="38" SlotID="8" Rank="2" GoodsID="2" TaoZhuangType="MaxLifeV,1037" />
+  <TaoZhuangProp ID="39" SlotID="9" Rank="2" GoodsID="2" TaoZhuangType="MaxLifeV,1038" />
+  <TaoZhuangProp ID="40" SlotID="10" Rank="2" GoodsID="2" TaoZhuangType="MaxLifeV,1039" />
+  <TaoZhuangProp ID="41" SlotID="1" Rank="2" GoodsID="3" TaoZhuangType="MaxLifeV,1040" />
+  <TaoZhuangProp ID="42" SlotID="2" Rank="2" GoodsID="3" TaoZhuangType="MaxLifeV,1041" />
+  <TaoZhuangProp ID="43" SlotID="3" Rank="2" GoodsID="3" TaoZhuangType="MaxLifeV,1042" />
+  <TaoZhuangProp ID="44" SlotID="4" Rank="2" GoodsID="3" TaoZhuangType="MaxLifeV,1043" />
+  <TaoZhuangProp ID="45" SlotID="5" Rank="2" GoodsID="3" TaoZhuangType="MaxLifeV,1044" />
+  <TaoZhuangProp ID="46" SlotID="6" Rank="2" GoodsID="3" TaoZhuangType="MaxLifeV,1045" />
+  <TaoZhuangProp ID="47" SlotID="7" Rank="2" GoodsID="3" TaoZhuangType="MaxLifeV,1046" />
+  <TaoZhuangProp ID="48" SlotID="8" Rank="2" GoodsID="3" TaoZhuangType="MaxLifeV,1047" />
+  <TaoZhuangProp ID="49" SlotID="9" Rank="2" GoodsID="3" TaoZhuangType="MaxLifeV,1048" />
+  <TaoZhuangProp ID="50" SlotID="10" Rank="2" GoodsID="3" TaoZhuangType="MaxLifeV,1049" />
+  <TaoZhuangProp ID="51" SlotID="1" Rank="2" GoodsID="5" TaoZhuangType="MaxLifeV,1050" />
+  <TaoZhuangProp ID="52" SlotID="2" Rank="2" GoodsID="5" TaoZhuangType="MaxLifeV,1051" />
+  <TaoZhuangProp ID="53" SlotID="3" Rank="2" GoodsID="5" TaoZhuangType="MaxLifeV,1052" />
+  <TaoZhuangProp ID="54" SlotID="4" Rank="2" GoodsID="5" TaoZhuangType="MaxLifeV,1053" />
+  <TaoZhuangProp ID="55" SlotID="5" Rank="2" GoodsID="5" TaoZhuangType="MaxLifeV,1054" />
+  <TaoZhuangProp ID="56" SlotID="6" Rank="2" GoodsID="5" TaoZhuangType="MaxLifeV,1055" />
+  <TaoZhuangProp ID="57" SlotID="7" Rank="2" GoodsID="5" TaoZhuangType="MaxLifeV,1056" />
+  <TaoZhuangProp ID="58" SlotID="8" Rank="2" GoodsID="5" TaoZhuangType="MaxLifeV,1057" />
+  <TaoZhuangProp ID="59" SlotID="9" Rank="2" GoodsID="5" TaoZhuangType="MaxLifeV,1058" />
+  <TaoZhuangProp ID="60" SlotID="10" Rank="2" GoodsID="5" TaoZhuangType="MaxLifeV,1059" />
+</config>"

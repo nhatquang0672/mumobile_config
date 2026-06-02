@@ -1,0 +1,37 @@
+TextAsset Base
+	string m_Name = "CrusadeStore"
+	string m_Script = "﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <CrusadeStore ID="1" Type="1" GoodsID="951002,1,1,0,0,0,0" JueXingNum="24" ZuanShiNum="0" SinglePurchase="10" BeginNum="-1" EndNum="-1" />
+  <CrusadeStore ID="2" Type="1" GoodsID="951003,1,1,0,0,0,0" JueXingNum="24" ZuanShiNum="0" SinglePurchase="10" BeginNum="-1" EndNum="-1" />
+  <CrusadeStore ID="3" Type="1" GoodsID="951006,1,1,0,0,0,0" JueXingNum="24" ZuanShiNum="0" SinglePurchase="10" BeginNum="-1" EndNum="-1" />
+  <CrusadeStore ID="4" Type="1" GoodsID="951007,1,1,0,0,0,0" JueXingNum="24" ZuanShiNum="0" SinglePurchase="10" BeginNum="-1" EndNum="-1" />
+  <CrusadeStore ID="5" Type="2" GoodsID="951000,1,1,0,0,0,0" JueXingNum="24" ZuanShiNum="0" SinglePurchase="10" BeginNum="1" EndNum="1000" />
+  <CrusadeStore ID="6" Type="2" GoodsID="951001,1,1,0,0,0,0" JueXingNum="24" ZuanShiNum="0" SinglePurchase="10" BeginNum="1001" EndNum="2000" />
+  <CrusadeStore ID="7" Type="2" GoodsID="951004,1,1,0,0,0,0" JueXingNum="24" ZuanShiNum="0" SinglePurchase="10" BeginNum="2001" EndNum="3000" />
+  <CrusadeStore ID="8" Type="2" GoodsID="951005,1,1,0,0,0,0" JueXingNum="24" ZuanShiNum="0" SinglePurchase="10" BeginNum="3001" EndNum="4000" />
+  <CrusadeStore ID="9" Type="2" GoodsID="950002,1,1,0,0,0,0" JueXingNum="4" ZuanShiNum="0" SinglePurchase="20" BeginNum="4001" EndNum="5000" />
+  <CrusadeStore ID="10" Type="2" GoodsID="950004,1,1,0,0,0,0" JueXingNum="4" ZuanShiNum="0" SinglePurchase="20" BeginNum="5001" EndNum="10000" />
+  <CrusadeStore ID="11" Type="2" GoodsID="950000,1,1,0,0,0,0" JueXingNum="4" ZuanShiNum="0" SinglePurchase="20" BeginNum="10001" EndNum="15000" />
+  <CrusadeStore ID="12" Type="2" GoodsID="950001,1,1,0,0,0,0" JueXingNum="4" ZuanShiNum="0" SinglePurchase="20" BeginNum="15001" EndNum="20000" />
+  <CrusadeStore ID="13" Type="2" GoodsID="950003,1,1,0,0,0,0" JueXingNum="4" ZuanShiNum="0" SinglePurchase="20" BeginNum="20001" EndNum="25000" />
+  <CrusadeStore ID="14" Type="2" GoodsID="950007,1,1,0,0,0,0" JueXingNum="4" ZuanShiNum="0" SinglePurchase="20" BeginNum="25001" EndNum="30000" />
+  <CrusadeStore ID="15" Type="2" GoodsID="950009,1,1,0,0,0,0" JueXingNum="4" ZuanShiNum="0" SinglePurchase="20" BeginNum="30001" EndNum="35000" />
+  <CrusadeStore ID="16" Type="2" GoodsID="950005,1,1,0,0,0,0" JueXingNum="4" ZuanShiNum="0" SinglePurchase="20" BeginNum="35001" EndNum="40000" />
+  <CrusadeStore ID="17" Type="2" GoodsID="950006,1,1,0,0,0,0" JueXingNum="4" ZuanShiNum="0" SinglePurchase="20" BeginNum="40001" EndNum="45000" />
+  <CrusadeStore ID="18" Type="2" GoodsID="950008,1,1,0,0,0,0" JueXingNum="4" ZuanShiNum="0" SinglePurchase="20" BeginNum="45001" EndNum="50000" />
+  <CrusadeStore ID="19" Type="2" GoodsID="950002,1,1,0,0,0,0" JueXingNum="12" ZuanShiNum="0" SinglePurchase="10" BeginNum="50001" EndNum="55000" />
+  <CrusadeStore ID="20" Type="2" GoodsID="950004,1,1,0,0,0,0" JueXingNum="12" ZuanShiNum="0" SinglePurchase="10" BeginNum="55001" EndNum="60000" />
+  <CrusadeStore ID="21" Type="2" GoodsID="950000,1,1,0,0,0,0" JueXingNum="12" ZuanShiNum="0" SinglePurchase="10" BeginNum="60001" EndNum="65000" />
+  <CrusadeStore ID="22" Type="2" GoodsID="950001,1,1,0,0,0,0" JueXingNum="12" ZuanShiNum="0" SinglePurchase="10" BeginNum="65001" EndNum="70000" />
+  <CrusadeStore ID="23" Type="2" GoodsID="950003,1,1,0,0,0,0" JueXingNum="12" ZuanShiNum="0" SinglePurchase="10" BeginNum="70001" EndNum="75000" />
+  <CrusadeStore ID="24" Type="2" GoodsID="950007,1,1,0,0,0,0" JueXingNum="12" ZuanShiNum="0" SinglePurchase="10" BeginNum="75001" EndNum="80000" />
+  <CrusadeStore ID="25" Type="2" GoodsID="950009,1,1,0,0,0,0" JueXingNum="12" ZuanShiNum="0" SinglePurchase="10" BeginNum="80001" EndNum="85000" />
+  <CrusadeStore ID="26" Type="2" GoodsID="950005,1,1,0,0,0,0" JueXingNum="12" ZuanShiNum="0" SinglePurchase="10" BeginNum="85001" EndNum="90000" />
+  <CrusadeStore ID="27" Type="2" GoodsID="950006,1,1,0,0,0,0" JueXingNum="12" ZuanShiNum="0" SinglePurchase="10" BeginNum="90001" EndNum="95000" />
+  <CrusadeStore ID="28" Type="2" GoodsID="950008,1,1,0,0,0,0" JueXingNum="12" ZuanShiNum="0" SinglePurchase="10" BeginNum="95001" EndNum="100000" />
+  <CrusadeStore ID="29" Type="2" GoodsID="951000,1,1,0,0,0,0" JueXingNum="8" ZuanShiNum="0" SinglePurchase="20" BeginNum="101001" EndNum="102000" />
+  <CrusadeStore ID="30" Type="2" GoodsID="951001,1,1,0,0,0,0" JueXingNum="8" ZuanShiNum="0" SinglePurchase="20" BeginNum="102001" EndNum="103000" />
+  <CrusadeStore ID="31" Type="2" GoodsID="951004,1,1,0,0,0,0" JueXingNum="8" ZuanShiNum="0" SinglePurchase="20" BeginNum="103001" EndNum="104000" />
+  <CrusadeStore ID="32" Type="2" GoodsID="951005,1,1,0,0,0,0" JueXingNum="8" ZuanShiNum="0" SinglePurchase="20" BeginNum="104001" EndNum="105000" />
+</Config>"

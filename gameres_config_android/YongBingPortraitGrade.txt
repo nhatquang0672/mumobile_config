@@ -1,0 +1,49 @@
+TextAsset Base
+	string m_Name = "YongBingPortraitGrade"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <YongBingPortraitGrade ID="20001" GuardID="999000" Grade="1" NeedGoods="2044,1" NextGrade="20002" />
+  <YongBingPortraitGrade ID="20002" GuardID="999000" Grade="2" NeedGoods="2044,5" NextGrade="20003" />
+  <YongBingPortraitGrade ID="20003" GuardID="999000" Grade="3" NeedGoods="2044,10" NextGrade="20004" />
+  <YongBingPortraitGrade ID="20004" GuardID="999000" Grade="4" NeedGoods="2044,20" NextGrade="20005" />
+  <YongBingPortraitGrade ID="20005" GuardID="999000" Grade="5" NeedGoods="-1" NextGrade="-1" />
+  <YongBingPortraitGrade ID="20101" GuardID="999001" Grade="1" NeedGoods="2044,1" NextGrade="20102" />
+  <YongBingPortraitGrade ID="20102" GuardID="999001" Grade="2" NeedGoods="2044,5" NextGrade="20103" />
+  <YongBingPortraitGrade ID="20103" GuardID="999001" Grade="3" NeedGoods="2044,10" NextGrade="20104" />
+  <YongBingPortraitGrade ID="20104" GuardID="999001" Grade="4" NeedGoods="2044,20" NextGrade="20105" />
+  <YongBingPortraitGrade ID="20105" GuardID="999001" Grade="5" NeedGoods="-1" NextGrade="-1" />
+  <YongBingPortraitGrade ID="20201" GuardID="999002" Grade="1" NeedGoods="2044,1" NextGrade="20202" />
+  <YongBingPortraitGrade ID="20202" GuardID="999002" Grade="2" NeedGoods="2044,5" NextGrade="20203" />
+  <YongBingPortraitGrade ID="20203" GuardID="999002" Grade="3" NeedGoods="2044,10" NextGrade="20204" />
+  <YongBingPortraitGrade ID="20204" GuardID="999002" Grade="4" NeedGoods="2044,20" NextGrade="20205" />
+  <YongBingPortraitGrade ID="20205" GuardID="999002" Grade="5" NeedGoods="-1" NextGrade="-1" />
+  <YongBingPortraitGrade ID="20301" GuardID="999003" Grade="1" NeedGoods="2044,1" NextGrade="20302" />
+  <YongBingPortraitGrade ID="20302" GuardID="999003" Grade="2" NeedGoods="2044,5" NextGrade="20303" />
+  <YongBingPortraitGrade ID="20303" GuardID="999003" Grade="3" NeedGoods="2044,10" NextGrade="20304" />
+  <YongBingPortraitGrade ID="20304" GuardID="999003" Grade="4" NeedGoods="2044,20" NextGrade="20305" />
+  <YongBingPortraitGrade ID="20305" GuardID="999003" Grade="5" NeedGoods="-1" NextGrade="-1" />
+  <YongBingPortraitGrade ID="20401" GuardID="999004" Grade="1" NeedGoods="2044,1" NextGrade="20402" />
+  <YongBingPortraitGrade ID="20402" GuardID="999004" Grade="2" NeedGoods="2044,5" NextGrade="20403" />
+  <YongBingPortraitGrade ID="20403" GuardID="999004" Grade="3" NeedGoods="2044,10" NextGrade="20404" />
+  <YongBingPortraitGrade ID="20404" GuardID="999004" Grade="4" NeedGoods="-1" NextGrade="-1" />
+  <YongBingPortraitGrade ID="20501" GuardID="999005" Grade="1" NeedGoods="2044,1" NextGrade="20502" />
+  <YongBingPortraitGrade ID="20502" GuardID="999005" Grade="2" NeedGoods="2044,5" NextGrade="20503" />
+  <YongBingPortraitGrade ID="20503" GuardID="999005" Grade="3" NeedGoods="2044,10" NextGrade="20504" />
+  <YongBingPortraitGrade ID="20504" GuardID="999005" Grade="4" NeedGoods="-1" NextGrade="-1" />
+  <YongBingPortraitGrade ID="20601" GuardID="999006" Grade="1" NeedGoods="2044,1" NextGrade="20602" />
+  <YongBingPortraitGrade ID="20602" GuardID="999006" Grade="2" NeedGoods="2044,5" NextGrade="20603" />
+  <YongBingPortraitGrade ID="20603" GuardID="999006" Grade="3" NeedGoods="2044,10" NextGrade="20604" />
+  <YongBingPortraitGrade ID="20604" GuardID="999006" Grade="4" NeedGoods="-1" NextGrade="-1" />
+  <YongBingPortraitGrade ID="20701" GuardID="999007" Grade="1" NeedGoods="2044,1" NextGrade="20702" />
+  <YongBingPortraitGrade ID="20702" GuardID="999007" Grade="2" NeedGoods="2044,5" NextGrade="20703" />
+  <YongBingPortraitGrade ID="20703" GuardID="999007" Grade="3" NeedGoods="-1" NextGrade="-1" />
+  <YongBingPortraitGrade ID="20801" GuardID="999008" Grade="1" NeedGoods="2044,1" NextGrade="20802" />
+  <YongBingPortraitGrade ID="20802" GuardID="999008" Grade="2" NeedGoods="2044,5" NextGrade="20803" />
+  <YongBingPortraitGrade ID="20803" GuardID="999008" Grade="3" NeedGoods="-1" NextGrade="-1" />
+  <YongBingPortraitGrade ID="20901" GuardID="999009" Grade="1" NeedGoods="2044,1" NextGrade="20902" />
+  <YongBingPortraitGrade ID="20902" GuardID="999009" Grade="2" NeedGoods="2044,5" NextGrade="20903" />
+  <YongBingPortraitGrade ID="20903" GuardID="999009" Grade="3" NeedGoods="-1" NextGrade="-1" />
+  <YongBingPortraitGrade ID="21001" GuardID="999010" Grade="1" NeedGoods="2044,1" NextGrade="21002" />
+  <YongBingPortraitGrade ID="21002" GuardID="999010" Grade="2" NeedGoods="2044,5" NextGrade="21003" />
+  <YongBingPortraitGrade ID="21003" GuardID="999010" Grade="3" NeedGoods="-1" NextGrade="-1" />
+</config>"

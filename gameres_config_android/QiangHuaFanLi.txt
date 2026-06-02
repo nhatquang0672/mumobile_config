@@ -1,0 +1,14 @@
+TextAsset Base
+	string m_Name = "QiangHuaFanLi"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="55" FromDate="2022-11-01 00:00:00" ToDate="2022-11-07 23:59:59" AwardStartDate="2022-11-01 00:00:00" AwardEndDate="2022-11-07 23:59:59" />
+  <GiftList Description="Trong event, tổng cấp cường hóa các t.bị đang đeo đạt yêu cầu sẽ nhận quà!">
+    <Award ID="1" QiangHuaLevel="130" GoodsOne="2003,99,1,0,0,0,0|30151053,1,1,0,0,0,0|63120,1,1,0,0,0,0|50033,5,1,0,0,0,0|4023,2,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="2" QiangHuaLevel="150" GoodsOne="2003,199,1,0,0,0,0|30151053,2,1,0,0,0,0|63120,2,1,0,0,0,0|50033,6,1,0,0,0,0|4023,4,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="3" QiangHuaLevel="160" GoodsOne="2003,299,1,0,0,0,0|30151053,3,1,0,0,0,0|63120,3,1,0,0,0,0|50033,7,1,0,0,0,0|4023,5,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="4" QiangHuaLevel="170" GoodsOne="2003,399,1,0,0,0,0|30151053,4,1,0,0,0,0|63120,4,1,0,0,0,0|50033,8,1,0,0,0,0|4023,6,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="5" QiangHuaLevel="180" GoodsOne="2003,499,1,0,0,0,0|30151053,5,1,0,0,0,0|63120,5,1,0,0,0,0|50033,9,1,0,0,0,0|4023,7,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+    <Award ID="6" QiangHuaLevel="190" GoodsOne="2003,599,1,0,0,0,0|30151053,6,1,0,0,0,0|63120,6,1,0,0,0,0|50033,10,1,0,0,0,0|4023,10,1,0,0,0,0" GoodsTwo="" GoodsThr="" EffectiveTime="" />
+  </GiftList>
+</Config>"

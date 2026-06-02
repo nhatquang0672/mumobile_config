@@ -1,0 +1,85 @@
+TextAsset Base
+	string m_Name = "MoShenMiBaoJie"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <MoShenMiBaoJie ID="1" Name="Sừng Ma Thần Bậc 1" MiBaoStageLevel="1" MibaoModerID="1001" MiBaoType="1" LuckyOne="109984" LuckyTwo="109994" LuckyTwoRate="0.6" NeedGoods="5570|1" />
+  <MoShenMiBaoJie ID="2" Name="Sừng Ma Thần Bậc 2" MiBaoStageLevel="2" MibaoModerID="1001" MiBaoType="1" LuckyOne="109977" LuckyTwo="109993" LuckyTwoRate="0.5" NeedGoods="5570|2" />
+  <MoShenMiBaoJie ID="3" Name="Sừng Ma Thần Bậc 3" MiBaoStageLevel="3" MibaoModerID="1001" MiBaoType="1" LuckyOne="109968" LuckyTwo="109990" LuckyTwoRate="0.4" NeedGoods="5570|3" />
+  <MoShenMiBaoJie ID="4" Name="Sừng Ma Thần Bậc 4" MiBaoStageLevel="4" MibaoModerID="1001" MiBaoType="1" LuckyOne="109959" LuckyTwo="109987" LuckyTwoRate="0.3" NeedGoods="5570|4" />
+  <MoShenMiBaoJie ID="5" Name="Sừng Ma Thần Bậc 5" MiBaoStageLevel="5" MibaoModerID="1001" MiBaoType="1" LuckyOne="109945" LuckyTwo="109983" LuckyTwoRate="0.25" NeedGoods="5570|5" />
+  <MoShenMiBaoJie ID="6" Name="Sừng Ma Thần Bậc 6" MiBaoStageLevel="6" MibaoModerID="1002" MiBaoType="1" LuckyOne="109931" LuckyTwo="109979" LuckyTwoRate="0.2" NeedGoods="5570|6" />
+  <MoShenMiBaoJie ID="7" Name="Sừng Ma Thần Bậc 7" MiBaoStageLevel="7" MibaoModerID="1002" MiBaoType="1" LuckyOne="109913" LuckyTwo="109971" LuckyTwoRate="0.15" NeedGoods="5570|7" />
+  <MoShenMiBaoJie ID="8" Name="Sừng Ma Thần Bậc 8" MiBaoStageLevel="8" MibaoModerID="1002" MiBaoType="1" LuckyOne="109891" LuckyTwo="109965" LuckyTwoRate="0.125" NeedGoods="5570|8" />
+  <MoShenMiBaoJie ID="9" Name="Sừng Ma Thần Bậc 9" MiBaoStageLevel="9" MibaoModerID="1002" MiBaoType="1" LuckyOne="109873" LuckyTwo="109963" LuckyTwoRate="0.12" NeedGoods="5570|9" />
+  <MoShenMiBaoJie ID="10" Name="Sừng Ma Thần Bậc 10" MiBaoStageLevel="10" MibaoModerID="1002" MiBaoType="1" LuckyOne="109856" LuckyTwo="109962" LuckyTwoRate="0.115" NeedGoods="5570|10" />
+  <MoShenMiBaoJie ID="11" Name="Sừng Ma Thần Bậc 11" MiBaoStageLevel="11" MibaoModerID="1003" MiBaoType="1" LuckyOne="109830" LuckyTwo="109960" LuckyTwoRate="0.11" NeedGoods="5570|11" />
+  <MoShenMiBaoJie ID="12" Name="Sừng Ma Thần Bậc 12" MiBaoStageLevel="12" MibaoModerID="1003" MiBaoType="1" LuckyOne="109804" LuckyTwo="109958" LuckyTwoRate="0.105" NeedGoods="5570|12" />
+  <MoShenMiBaoJie ID="13" Name="Sừng Ma Thần Bậc 13" MiBaoStageLevel="13" MibaoModerID="1003" MiBaoType="1" LuckyOne="109766" LuckyTwo="109956" LuckyTwoRate="0.1" NeedGoods="5570|13" />
+  <MoShenMiBaoJie ID="14" Name="Sừng Ma Thần Bậc 14" MiBaoStageLevel="14" MibaoModerID="1003" MiBaoType="1" LuckyOne="109727" LuckyTwo="109953" LuckyTwoRate="0.095" NeedGoods="5570|14" />
+  <MoShenMiBaoJie ID="15" Name="Sừng Ma Thần Bậc 15" MiBaoStageLevel="15" MibaoModerID="1003" MiBaoType="1" LuckyOne="109689" LuckyTwo="109951" LuckyTwoRate="0.09" NeedGoods="5570|15" />
+  <MoShenMiBaoJie ID="16" Name="Sừng Ma Thần Bậc 16" MiBaoStageLevel="16" MibaoModerID="1004" MiBaoType="1" LuckyOne="109636" LuckyTwo="109948" LuckyTwoRate="0.085" NeedGoods="5570|16" />
+  <MoShenMiBaoJie ID="17" Name="Sừng Ma Thần Bậc 17" MiBaoStageLevel="17" MibaoModerID="1004" MiBaoType="1" LuckyOne="109582" LuckyTwo="109944" LuckyTwoRate="0.08" NeedGoods="5570|17" />
+  <MoShenMiBaoJie ID="18" Name="Sừng Ma Thần Bậc 18" MiBaoStageLevel="18" MibaoModerID="1004" MiBaoType="1" LuckyOne="109528" LuckyTwo="109940" LuckyTwoRate="0.075" NeedGoods="5570|18" />
+  <MoShenMiBaoJie ID="19" Name="Sừng Ma Thần Bậc 19" MiBaoStageLevel="19" MibaoModerID="1004" MiBaoType="1" LuckyOne="109444" LuckyTwo="109936" LuckyTwoRate="0.07" NeedGoods="5570|19" />
+  <MoShenMiBaoJie ID="20" Name="Sừng Ma Thần Bậc 20" MiBaoStageLevel="20" MibaoModerID="1004" MiBaoType="1" LuckyOne="-1" LuckyTwo="-1" LuckyTwoRate="-1" NeedGoods="5570|20" />
+  <MoShenMiBaoJie ID="21" Name="Lông Ma Thần Bậc 1" MiBaoStageLevel="1" MibaoModerID="1005" MiBaoType="2" LuckyOne="109985" LuckyTwo="109993" LuckyTwoRate="0.6" NeedGoods="5570|1" />
+  <MoShenMiBaoJie ID="22" Name="Lông Ma Thần Bậc 2" MiBaoStageLevel="2" MibaoModerID="1005" MiBaoType="2" LuckyOne="109979" LuckyTwo="109990" LuckyTwoRate="0.5" NeedGoods="5570|2" />
+  <MoShenMiBaoJie ID="23" Name="Lông Ma Thần Bậc 3" MiBaoStageLevel="3" MibaoModerID="1005" MiBaoType="2" LuckyOne="109973" LuckyTwo="109987" LuckyTwoRate="0.4" NeedGoods="5570|3" />
+  <MoShenMiBaoJie ID="24" Name="Lông Ma Thần Bậc 4" MiBaoStageLevel="4" MibaoModerID="1005" MiBaoType="2" LuckyOne="109964" LuckyTwo="109983" LuckyTwoRate="0.3" NeedGoods="5570|4" />
+  <MoShenMiBaoJie ID="25" Name="Lông Ma Thần Bậc 5" MiBaoStageLevel="5" MibaoModerID="1005" MiBaoType="2" LuckyOne="109955" LuckyTwo="109979" LuckyTwoRate="0.25" NeedGoods="5570|5" />
+  <MoShenMiBaoJie ID="26" Name="Lông Ma Thần Bậc 6" MiBaoStageLevel="6" MibaoModerID="1006" MiBaoType="2" LuckyOne="109942" LuckyTwo="109971" LuckyTwoRate="0.2" NeedGoods="5570|6" />
+  <MoShenMiBaoJie ID="27" Name="Lông Ma Thần Bậc 7" MiBaoStageLevel="7" MibaoModerID="1006" MiBaoType="2" LuckyOne="109928" LuckyTwo="109965" LuckyTwoRate="0.15" NeedGoods="5570|7" />
+  <MoShenMiBaoJie ID="28" Name="Lông Ma Thần Bậc 8" MiBaoStageLevel="8" MibaoModerID="1006" MiBaoType="2" LuckyOne="109918" LuckyTwo="109963" LuckyTwoRate="0.125" NeedGoods="5570|8" />
+  <MoShenMiBaoJie ID="29" Name="Lông Ma Thần Bậc 9" MiBaoStageLevel="9" MibaoModerID="1006" MiBaoType="2" LuckyOne="109909" LuckyTwo="109962" LuckyTwoRate="0.12" NeedGoods="5570|9" />
+  <MoShenMiBaoJie ID="30" Name="Lông Ma Thần Bậc 10" MiBaoStageLevel="10" MibaoModerID="1006" MiBaoType="2" LuckyOne="109895" LuckyTwo="109960" LuckyTwoRate="0.115" NeedGoods="5570|10" />
+  <MoShenMiBaoJie ID="31" Name="Lông Ma Thần Bậc 11" MiBaoStageLevel="11" MibaoModerID="1007" MiBaoType="2" LuckyOne="109881" LuckyTwo="109958" LuckyTwoRate="0.11" NeedGoods="5570|11" />
+  <MoShenMiBaoJie ID="32" Name="Lông Ma Thần Bậc 12" MiBaoStageLevel="12" MibaoModerID="1007" MiBaoType="2" LuckyOne="109861" LuckyTwo="109956" LuckyTwoRate="0.105" NeedGoods="5570|12" />
+  <MoShenMiBaoJie ID="33" Name="Lông Ma Thần Bậc 13" MiBaoStageLevel="13" MibaoModerID="1007" MiBaoType="2" LuckyOne="109840" LuckyTwo="109953" LuckyTwoRate="0.1" NeedGoods="5570|13" />
+  <MoShenMiBaoJie ID="34" Name="Lông Ma Thần Bậc 14" MiBaoStageLevel="14" MibaoModerID="1007" MiBaoType="2" LuckyOne="109818" LuckyTwo="109951" LuckyTwoRate="0.095" NeedGoods="5570|14" />
+  <MoShenMiBaoJie ID="35" Name="Lông Ma Thần Bậc 15" MiBaoStageLevel="15" MibaoModerID="1007" MiBaoType="2" LuckyOne="109790" LuckyTwo="109948" LuckyTwoRate="0.09" NeedGoods="5570|15" />
+  <MoShenMiBaoJie ID="36" Name="Lông Ma Thần Bậc 16" MiBaoStageLevel="16" MibaoModerID="1008" MiBaoType="2" LuckyOne="109756" LuckyTwo="109944" LuckyTwoRate="0.085" NeedGoods="5570|16" />
+  <MoShenMiBaoJie ID="37" Name="Lông Ma Thần Bậc 17" MiBaoStageLevel="17" MibaoModerID="1008" MiBaoType="2" LuckyOne="109712" LuckyTwo="109940" LuckyTwoRate="0.08" NeedGoods="5570|17" />
+  <MoShenMiBaoJie ID="38" Name="Lông Ma Thần Bậc 18" MiBaoStageLevel="18" MibaoModerID="1008" MiBaoType="2" LuckyOne="109658" LuckyTwo="109936" LuckyTwoRate="0.075" NeedGoods="5570|18" />
+  <MoShenMiBaoJie ID="39" Name="Lông Ma Thần Bậc 19" MiBaoStageLevel="19" MibaoModerID="1008" MiBaoType="2" LuckyOne="109593" LuckyTwo="109931" LuckyTwoRate="0.07" NeedGoods="5570|19" />
+  <MoShenMiBaoJie ID="40" Name="Lông Ma Thần Bậc 20" MiBaoStageLevel="20" MibaoModerID="1008" MiBaoType="2" LuckyOne="-1" LuckyTwo="-1" LuckyTwoRate="-1" NeedGoods="5570|20" />
+  <MoShenMiBaoJie ID="41" Name="Mắt Ma Thần Bậc 1" MiBaoStageLevel="1" MibaoModerID="1009" MiBaoType="3" LuckyOne="109989" LuckyTwo="109993" LuckyTwoRate="0.6" NeedGoods="5570|1" />
+  <MoShenMiBaoJie ID="42" Name="Mắt Ma Thần Bậc 2" MiBaoStageLevel="2" MibaoModerID="1009" MiBaoType="3" LuckyOne="109984" LuckyTwo="109990" LuckyTwoRate="0.5" NeedGoods="5570|2" />
+  <MoShenMiBaoJie ID="43" Name="Mắt Ma Thần Bậc 3" MiBaoStageLevel="3" MibaoModerID="1009" MiBaoType="3" LuckyOne="109980" LuckyTwo="109987" LuckyTwoRate="0.4" NeedGoods="5570|3" />
+  <MoShenMiBaoJie ID="44" Name="Mắt Ma Thần Bậc 4" MiBaoStageLevel="4" MibaoModerID="1009" MiBaoType="3" LuckyOne="109973" LuckyTwo="109983" LuckyTwoRate="0.3" NeedGoods="5570|4" />
+  <MoShenMiBaoJie ID="45" Name="Mắt Ma Thần Bậc 5" MiBaoStageLevel="5" MibaoModerID="1009" MiBaoType="3" LuckyOne="109967" LuckyTwo="109979" LuckyTwoRate="0.25" NeedGoods="5570|5" />
+  <MoShenMiBaoJie ID="46" Name="Mắt Ma Thần Bậc 6" MiBaoStageLevel="6" MibaoModerID="1010" MiBaoType="3" LuckyOne="109956" LuckyTwo="109971" LuckyTwoRate="0.2" NeedGoods="5570|6" />
+  <MoShenMiBaoJie ID="47" Name="Mắt Ma Thần Bậc 7" MiBaoStageLevel="7" MibaoModerID="1010" MiBaoType="3" LuckyOne="109946" LuckyTwo="109965" LuckyTwoRate="0.15" NeedGoods="5570|7" />
+  <MoShenMiBaoJie ID="48" Name="Mắt Ma Thần Bậc 8" MiBaoStageLevel="8" MibaoModerID="1010" MiBaoType="3" LuckyOne="109940" LuckyTwo="109963" LuckyTwoRate="0.125" NeedGoods="5570|8" />
+  <MoShenMiBaoJie ID="49" Name="Mắt Ma Thần Bậc 9" MiBaoStageLevel="9" MibaoModerID="1010" MiBaoType="3" LuckyOne="109935" LuckyTwo="109962" LuckyTwoRate="0.12" NeedGoods="5570|9" />
+  <MoShenMiBaoJie ID="50" Name="Mắt Ma Thần Bậc 10" MiBaoStageLevel="10" MibaoModerID="1010" MiBaoType="3" LuckyOne="109927" LuckyTwo="109960" LuckyTwoRate="0.115" NeedGoods="5570|10" />
+  <MoShenMiBaoJie ID="51" Name="Mắt Ma Thần Bậc 11" MiBaoStageLevel="11" MibaoModerID="1011" MiBaoType="3" LuckyOne="109919" LuckyTwo="109958" LuckyTwoRate="0.11" NeedGoods="5570|11" />
+  <MoShenMiBaoJie ID="52" Name="Mắt Ma Thần Bậc 12" MiBaoStageLevel="12" MibaoModerID="1011" MiBaoType="3" LuckyOne="109908" LuckyTwo="109956" LuckyTwoRate="0.105" NeedGoods="5570|12" />
+  <MoShenMiBaoJie ID="53" Name="Mắt Ma Thần Bậc 13" MiBaoStageLevel="13" MibaoModerID="1011" MiBaoType="3" LuckyOne="109896" LuckyTwo="109953" LuckyTwoRate="0.1" NeedGoods="5570|13" />
+  <MoShenMiBaoJie ID="54" Name="Mắt Ma Thần Bậc 14" MiBaoStageLevel="14" MibaoModerID="1011" MiBaoType="3" LuckyOne="109884" LuckyTwo="109951" LuckyTwoRate="0.095" NeedGoods="5570|14" />
+  <MoShenMiBaoJie ID="55" Name="Mắt Ma Thần Bậc 15" MiBaoStageLevel="15" MibaoModerID="1011" MiBaoType="3" LuckyOne="109869" LuckyTwo="109948" LuckyTwoRate="0.09" NeedGoods="5570|15" />
+  <MoShenMiBaoJie ID="56" Name="Mắt Ma Thần Bậc 16" MiBaoStageLevel="16" MibaoModerID="1012" MiBaoType="3" LuckyOne="109850" LuckyTwo="109944" LuckyTwoRate="0.085" NeedGoods="5570|16" />
+  <MoShenMiBaoJie ID="57" Name="Mắt Ma Thần Bậc 17" MiBaoStageLevel="17" MibaoModerID="1012" MiBaoType="3" LuckyOne="109826" LuckyTwo="109940" LuckyTwoRate="0.08" NeedGoods="5570|17" />
+  <MoShenMiBaoJie ID="58" Name="Mắt Ma Thần Bậc 18" MiBaoStageLevel="18" MibaoModerID="1012" MiBaoType="3" LuckyOne="109797" LuckyTwo="109936" LuckyTwoRate="0.075" NeedGoods="5570|18" />
+  <MoShenMiBaoJie ID="59" Name="Mắt Ma Thần Bậc 19" MiBaoStageLevel="19" MibaoModerID="1012" MiBaoType="3" LuckyOne="109762" LuckyTwo="109931" LuckyTwoRate="0.07" NeedGoods="5570|19" />
+  <MoShenMiBaoJie ID="60" Name="Mắt Ma Thần Bậc 20" MiBaoStageLevel="20" MibaoModerID="1012" MiBaoType="3" LuckyOne="-1" LuckyTwo="-1" LuckyTwoRate="-1" NeedGoods="5570|20" />
+  <MoShenMiBaoJie ID="61" Name="Ma Thần Chi Nhẫn Bậc 1" MiBaoStageLevel="1" MibaoModerID="1013" MiBaoType="4" LuckyOne="109984" LuckyTwo="109994" LuckyTwoRate="0.6" NeedGoods="5570|1" />
+  <MoShenMiBaoJie ID="62" Name="Ma Thần Chi Nhẫn Bậc 2" MiBaoStageLevel="2" MibaoModerID="1013" MiBaoType="4" LuckyOne="109977" LuckyTwo="109993" LuckyTwoRate="0.5" NeedGoods="5570|2" />
+  <MoShenMiBaoJie ID="63" Name="Ma Thần Chi Nhẫn Bậc 3" MiBaoStageLevel="3" MibaoModerID="1013" MiBaoType="4" LuckyOne="109968" LuckyTwo="109990" LuckyTwoRate="0.4" NeedGoods="5570|3" />
+  <MoShenMiBaoJie ID="64" Name="Ma Thần Chi Nhẫn Bậc 4" MiBaoStageLevel="4" MibaoModerID="1013" MiBaoType="4" LuckyOne="109959" LuckyTwo="109987" LuckyTwoRate="0.3" NeedGoods="5570|4" />
+  <MoShenMiBaoJie ID="65" Name="Ma Thần Chi Nhẫn Bậc 5" MiBaoStageLevel="5" MibaoModerID="1013" MiBaoType="4" LuckyOne="109945" LuckyTwo="109983" LuckyTwoRate="0.25" NeedGoods="5570|5" />
+  <MoShenMiBaoJie ID="66" Name="Ma Thần Chi Nhẫn Bậc 6" MiBaoStageLevel="6" MibaoModerID="1014" MiBaoType="4" LuckyOne="109931" LuckyTwo="109979" LuckyTwoRate="0.2" NeedGoods="5570|6" />
+  <MoShenMiBaoJie ID="67" Name="Ma Thần Chi Nhẫn Bậc 7" MiBaoStageLevel="7" MibaoModerID="1014" MiBaoType="4" LuckyOne="109913" LuckyTwo="109971" LuckyTwoRate="0.15" NeedGoods="5570|7" />
+  <MoShenMiBaoJie ID="68" Name="Ma Thần Chi Nhẫn Bậc 8" MiBaoStageLevel="8" MibaoModerID="1014" MiBaoType="4" LuckyOne="109891" LuckyTwo="109965" LuckyTwoRate="0.125" NeedGoods="5570|8" />
+  <MoShenMiBaoJie ID="69" Name="Ma Thần Chi Nhẫn Bậc 9" MiBaoStageLevel="9" MibaoModerID="1014" MiBaoType="4" LuckyOne="109873" LuckyTwo="109963" LuckyTwoRate="0.12" NeedGoods="5570|9" />
+  <MoShenMiBaoJie ID="70" Name="Ma Thần Chi Nhẫn Bậc 10" MiBaoStageLevel="10" MibaoModerID="1014" MiBaoType="4" LuckyOne="109856" LuckyTwo="109962" LuckyTwoRate="0.115" NeedGoods="5570|10" />
+  <MoShenMiBaoJie ID="71" Name="Ma Thần Chi Nhẫn Bậc 11" MiBaoStageLevel="11" MibaoModerID="1015" MiBaoType="4" LuckyOne="109830" LuckyTwo="109960" LuckyTwoRate="0.11" NeedGoods="5570|11" />
+  <MoShenMiBaoJie ID="72" Name="Ma Thần Chi Nhẫn Bậc 12" MiBaoStageLevel="12" MibaoModerID="1015" MiBaoType="4" LuckyOne="109804" LuckyTwo="109958" LuckyTwoRate="0.105" NeedGoods="5570|12" />
+  <MoShenMiBaoJie ID="73" Name="Ma Thần Chi Nhẫn Bậc 13" MiBaoStageLevel="13" MibaoModerID="1015" MiBaoType="4" LuckyOne="109766" LuckyTwo="109956" LuckyTwoRate="0.1" NeedGoods="5570|13" />
+  <MoShenMiBaoJie ID="74" Name="Ma Thần Chi Nhẫn Bậc 14" MiBaoStageLevel="14" MibaoModerID="1015" MiBaoType="4" LuckyOne="109727" LuckyTwo="109953" LuckyTwoRate="0.095" NeedGoods="5570|14" />
+  <MoShenMiBaoJie ID="75" Name="Ma Thần Chi Nhẫn Bậc 15" MiBaoStageLevel="15" MibaoModerID="1015" MiBaoType="4" LuckyOne="109689" LuckyTwo="109951" LuckyTwoRate="0.09" NeedGoods="5570|15" />
+  <MoShenMiBaoJie ID="76" Name="Ma Thần Chi Nhẫn Bậc 16" MiBaoStageLevel="16" MibaoModerID="1016" MiBaoType="4" LuckyOne="109636" LuckyTwo="109948" LuckyTwoRate="0.085" NeedGoods="5570|16" />
+  <MoShenMiBaoJie ID="77" Name="Ma Thần Chi Nhẫn Bậc 17" MiBaoStageLevel="17" MibaoModerID="1016" MiBaoType="4" LuckyOne="109582" LuckyTwo="109944" LuckyTwoRate="0.08" NeedGoods="5570|17" />
+  <MoShenMiBaoJie ID="78" Name="Ma Thần Chi Nhẫn Bậc 18" MiBaoStageLevel="18" MibaoModerID="1016" MiBaoType="4" LuckyOne="109528" LuckyTwo="109940" LuckyTwoRate="0.075" NeedGoods="5570|18" />
+  <MoShenMiBaoJie ID="79" Name="Ma Thần Chi Nhẫn Bậc 19" MiBaoStageLevel="19" MibaoModerID="1016" MiBaoType="4" LuckyOne="109444" LuckyTwo="109936" LuckyTwoRate="0.07" NeedGoods="5570|19" />
+  <MoShenMiBaoJie ID="80" Name="Ma Thần Chi Nhẫn Bậc 20" MiBaoStageLevel="20" MibaoModerID="1016" MiBaoType="4" LuckyOne="-1" LuckyTwo="-1" LuckyTwoRate="-1" NeedGoods="5570|20" />
+</Config>"

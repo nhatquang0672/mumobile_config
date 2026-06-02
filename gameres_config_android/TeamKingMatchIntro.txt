@@ -1,0 +1,18 @@
+TextAsset Base
+	string m_Name = "TeamKingMatchIntro"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Quy tắc trận đấu" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1/ Mỗi tháng từ {00ff33}ngày 1 đến ngày 2{dac7ae} sẽ là thời gian báo danh tổ đội Chư Thần Quyết Đấu, người chơi có thể mời những người chơi khác lập đội để báo danh tham đấu." Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2/ Trong thời gian báo danh, người chơi có thể thay đổi thành viên đội tùy ý, hệ thống sẽ dựa vào các thành viên đội cuối cùng khi báo danh kết thúc để xét làm đội hình tham đấu chính." Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3/ Mỗi tháng từ {00ff33}ngày 3{dac7ae} sẽ là thời gian đấu chọn Chư Thần Quyết Đấu, trong thời gian đấu chọn người chơi báo danh tham đấu có {00ff33}5 phút{dac7ae} khiêu chiến trong PB Đấu Chọn (Có thể một mình đến)." Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4/ Hệ thống sẽ ghi lại DMG do người chơi gây ra cho Sứ Giả Thí Luyện trong PB Đấu Chọn, xếp hạng theo tổ đội, đội có xếp hạng trong Top {00ff33}16{dac7ae} sẽ nhận được tư cách tham đấu Chư Thần Quyết Đấu." Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5/ Mỗi tháng từ {00ff33}ngày 4 đến ngày 6{dac7ae} sẽ là thời gian đấu chính Chư Thần Quyết Đấu, đội nhận được tư cách tham đấu đấu chính Chư Thần Quyết Đấu sẽ được ghép chiến đấu ngẫu nhiên 2v2, người thắng tấn cấp/ kẻ bại đào thải." Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae}6/ Điều kiện chiến thắng: (1) Người chơi phe ta đánh bại toàn bộ người chơi phe địch (2) Khi hết thời gian, tổng DMG của người chơi phe ta cao hơn tổng DMG của người chơi phe địch." Bold="0" />
+  <HelpIntro ID="8" Intro="{fac60d}Thưởng SK" Bold="1" />
+  <HelpIntro ID="9" Intro="{dac7ae}1/ Sau khi toàn bộ giải đấu kết thúc, sẽ dựa vào thành tích {00ff33}để nhận thưởng{dac7ae} (Phát qua thư)." Bold="0" />
+  <HelpIntro ID="10" Intro="{dac7ae}2/ Thành viên đội giành Quán Quân có thể nhận {00ff33}danh hiệu đặc biệt tôn quý{dac7ae}, cho tới khi bắt đầu SK Chư Thần Quyết Đấu lần tiếp theo." Bold="0" />
+  <HelpIntro ID="11" Intro="{fac60d}Cuộc Thi Đố" Bold="1" />
+  <HelpIntro ID="12" Intro="{dac7ae}1/ {00ff33}Trước khi mỗi vòng đấu bắt đầu{dac7ae}, tất cả người chơi có thể tiến hành thi đố." Bold="0" />
+  <HelpIntro ID="13" Intro="{dac7ae}2/ Đoán đúng/ sai sẽ nhận được {00ff33}điểm quyết đấu{dac7ae}, có thể đổi đạo cụ quý hiếm trong Cửa hàng Quyết Đấu." Bold="0" />
+</Config>"

@@ -1,0 +1,14 @@
+TextAsset Base
+	string m_Name = "HuiLiuScoreAward"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HuiLiuScoreAward ID="1001" Level="1" Score="50" Award="2003,1,1,0,0,0,0" />
+  <HuiLiuScoreAward ID="1002" Level="1" Score="100" Award="2004,1,1,0,0,0,0" />
+  <HuiLiuScoreAward ID="1003" Level="1" Score="200" Award="2005,1,1,0,0,0,0" />
+  <HuiLiuScoreAward ID="2001" Level="2" Score="50" Award="2003,1,1,0,0,0,0" />
+  <HuiLiuScoreAward ID="2002" Level="2" Score="100" Award="2004,1,1,0,0,0,0" />
+  <HuiLiuScoreAward ID="2003" Level="2" Score="200" Award="2005,1,1,0,0,0,0" />
+  <HuiLiuScoreAward ID="3001" Level="3" Score="50" Award="2003,1,1,0,0,0,0" />
+  <HuiLiuScoreAward ID="3002" Level="3" Score="100" Award="2004,1,1,0,0,0,0" />
+  <HuiLiuScoreAward ID="3003" Level="3" Score="200" Award="2005,1,1,0,0,0,0" />
+</Config>"

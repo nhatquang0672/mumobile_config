@@ -1,0 +1,10 @@
+TextAsset Base
+	string m_Name = "ChatFilterVip"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ChatFilterVip ID="1" VipLevel="0,2" BanChatTime="1-5:1|6-10:2|11-20:3|21-33:4" />
+  <ChatFilterVip ID="2" VipLevel="3,4" BanChatTime="1-5:1|6-10:2|11-20:3|21-33:5" />
+  <ChatFilterVip ID="3" VipLevel="5,7" BanChatTime="1-5:1|6-10:2|11-20:3|21-33:6" />
+  <ChatFilterVip ID="4" VipLevel="8,10" BanChatTime="1-5:1|6-10:2|11-20:3|21-33:7" />
+  <ChatFilterVip ID="5" VipLevel="11,100" BanChatTime="1-5:1|6-10:2|11-20:3|21-33:8" />
+</Config>"

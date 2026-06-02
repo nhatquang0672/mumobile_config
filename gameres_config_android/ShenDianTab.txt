@@ -1,0 +1,13 @@
+TextAsset Base
+	string m_Name = "ShenDianTab"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<ShenDianTab>
+  <ShenDian Type="1" Name="Thủ Hộ Dũng Khí" />
+  <ShenDian Type="2" Name="Thủ Hộ Tình Hữu" />
+  <ShenDian Type="3" Name="Thủ Hộ Trái Tim" />
+  <ShenDian Type="4" Name="Thủ Hộ Tri Thức" /> 
+  <ShenDian Type="5" Name="Thủ Hộ Trung Thực" />
+  <ShenDian Type="6" Name="Thủ Hộ Thuần Khiết" />
+  <ShenDian Type="7" Name="Thủ Hộ Hi Vọng" />
+  <ShenDian Type="8" Name="Thủ Hộ Quang Minh" /> 
+</ShenDianTab>"

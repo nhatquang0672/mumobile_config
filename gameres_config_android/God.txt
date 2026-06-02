@@ -1,0 +1,9 @@
+TextAsset Base
+	string m_Name = "God"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <God ID="1" Name="Sứ Giả Thần" GodIcon="God_001" OpenCondition="1|2|3" ActivationProperty="AddAttackInjurePercent,0.1|Holywater,1|AddDefensePercent,0.05" />
+  <God ID="2" Name="Thần Chiến Đấu" GodIcon="God_002" OpenCondition="4|5|6" ActivationProperty="IgnoreDefensePercent,0.03|IgnorePhyAttackPercent,0.02|IgnoreMagyAttackPercent,0.02" />
+  <God ID="3" Name="Thần Mặt Trời" GodIcon="God_003" OpenCondition="7|8|9" ActivationProperty="DamageThornPercent,0.05|AddAttackPercent,0.05|InjurePenetrationPercent,0.02" />
+  <God ID="4" Name="Nữ Thần Trí Tuệ" GodIcon="God_004" OpenCondition="10|11|12" ActivationProperty="MaxLifePercent,0.1|Potion,2|ElementInjurePercent,0.2" />
+</Config>"

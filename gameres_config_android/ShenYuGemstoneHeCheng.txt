@@ -1,0 +1,11 @@
+TextAsset Base
+	string m_Name = "ShenYuGemstoneHeCheng"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <Level Level="1" GoodsID="2403000" BaoShiNum="1" HeChengShenHuo="2404000,10|2404001,1" FenJieShenHuo="2404000,9|2404001,1" />
+  <Level Level="2" GoodsID="2403001" BaoShiNum="1" HeChengShenHuo="2404000,30|2404001,1" FenJieShenHuo="2404000,27|2404001,1" />
+  <Level Level="3" GoodsID="2403002" BaoShiNum="1" HeChengShenHuo="2404000,50|2404001,2" FenJieShenHuo="2404000,45|2404001,1" />
+  <Level Level="4" GoodsID="2403003" BaoShiNum="1" HeChengShenHuo="2404000,100|2404001,3" FenJieShenHuo="2404000,90|2404001,2" />
+  <Level Level="5" GoodsID="2403004" BaoShiNum="1" HeChengShenHuo="2404000,200|2404001,5" FenJieShenHuo="2404000,180|2404001,4" />
+  <Level Level="6" GoodsID="2403005" BaoShiNum="1" HeChengShenHuo="2404000,300|2404001,8" FenJieShenHuo="2404000,270|2404001,7" />
+</config>"

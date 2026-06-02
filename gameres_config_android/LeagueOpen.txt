@@ -1,0 +1,9 @@
+TextAsset Base
+	string m_Name = "LeagueOpen"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <LeagueOpen ID="1" PingTai="APP" OpenDate="2018-01-01" EndDate="-1" />
+  <LeagueOpen ID="2" PingTai="YueYu" OpenDate="2018-01-01" EndDate="-1" />
+  <LeagueOpen ID="3" PingTai="Android" OpenDate="2018-01-01" EndDate="-1" />
+  <LeagueOpen ID="4" PingTai="YYB" OpenDate="2018-01-01" EndDate="-1" />
+</Config>"

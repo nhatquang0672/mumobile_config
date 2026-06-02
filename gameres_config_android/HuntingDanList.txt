@@ -1,0 +1,10 @@
+TextAsset Base
+	string m_Name = "HuntingDanList"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HuntingDanList ID="0" RankValue="400" WinRankValue="50" LoseRankValue="50" WinRankReward="50033,10,1,0,0,0,0" LoseRankReward="50033,2,1,0,0,0,0" FirstWinRankReward="51455,1,1,0,0,0,0" />
+  <HuntingDanList ID="1" RankValue="300" WinRankValue="50" LoseRankValue="40" WinRankReward="50033,10,1,0,0,0,0" LoseRankReward="50033,2,1,0,0,0,0" FirstWinRankReward="51455,1,1,0,0,0,0" />
+  <HuntingDanList ID="2" RankValue="200" WinRankValue="50" LoseRankValue="30" WinRankReward="50033,10,1,0,0,0,0" LoseRankReward="50033,2,1,0,0,0,0" FirstWinRankReward="51455,1,1,0,0,0,0" />
+  <HuntingDanList ID="3" RankValue="100" WinRankValue="50" LoseRankValue="20" WinRankReward="50033,10,1,0,0,0,0" LoseRankReward="50033,2,1,0,0,0,0" FirstWinRankReward="51455,1,1,0,0,0,0" />
+  <HuntingDanList ID="4" RankValue="-1" WinRankValue="50" LoseRankValue="0" WinRankReward="50033,10,1,0,0,0,0" LoseRankReward="50033,2,1,0,0,0,0" FirstWinRankReward="51455,1,1,0,0,0,0" />
+</Config>"

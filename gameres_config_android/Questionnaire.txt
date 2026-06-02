@@ -1,0 +1,11 @@
+TextAsset Base
+	string m_Name = "Questionnaire"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <Questionnaire ID="1" QuestionnaireID="1" QuestionnaireName="Bảng Khảo Sát Gộp SV" QuestionID="1" QuestionInfo="1. Nếu SV bạn đang ở tiến hành Gộp SV, bạn có muốn không?" Option1="Muốn" Option2="Không muốn" Option3="" Option4="" OptionOther="0" />
+  <Questionnaire ID="2" QuestionnaireID="1" QuestionnaireName="Bảng Khảo Sát Gộp SV" QuestionID="2" QuestionInfo="2. Xin hỏi lý do bạn đồng ý Gộp SV là?" Option1="SV đang ở ít người" Option2="Có thể quen nhiều bạn bè hơn" Option3="Áp lực cạnh tranh ít, không thú vị" Option4="" OptionOther="1" />
+  <Questionnaire ID="3" QuestionnaireID="1" QuestionnaireName="Bảng Khảo Sát Gộp SV" QuestionID="3" QuestionInfo="3. Xin hỏi lý do bạn phản đối Gộp SV là?" Option1="SV đang ở quá nhiều người" Option2="Thích xưng bá toàn SV" Option3="Không thích tranh BOSS với người khác" Option4="" OptionOther="1" />
+  <Questionnaire ID="4" QuestionnaireID="1" QuestionnaireName="Bảng Khảo Sát Gộp SV" QuestionID="4" QuestionInfo="4. Bạn có kiến nghị gì về việc Gộp SV không?" Option1="Thực lực tương đương với SV này" Option2="Thực lực tổng hợp mạnh hơn SV tôi" Option3="Thực lực tổng hợp yếu hơn SV tôi" Option4="Không hề gì" OptionOther="0" />
+  <Questionnaire ID="5" QuestionnaireID="1" QuestionnaireName="Bảng Khảo Sát Gộp SV" QuestionID="5" QuestionInfo="5. Về việc Gộp SV, bạn quan tâm đến khía cạnh nào hơn? " Option1="SV sắp gộp đông người, náo nhiệt" Option2="Người chơi SV sắp gộp rất tốt, quen biết thêm bạn mới" Option3="SV sắp gộp nhiều đại lão hơn, có thể giúp đỡ tôi" Option4="" OptionOther="1" />
+  <Questionnaire ID="6" QuestionnaireID="1" QuestionnaireName="Bảng Khảo Sát Gộp SV" QuestionID="6" QuestionInfo="6. Sau khi Gộp SV có thể xuất hiện hiện tượng tranh BOSS, bạn có suy nghĩ gì?" Option1="Tôi rất mạnh, giành lấy tôi nào" Option2="Tôi không muốn điều này xảy ra" Option3="Người chơi hệ phật, đánh được thì đánh" Option4="" OptionOther="1" />
+</config>"

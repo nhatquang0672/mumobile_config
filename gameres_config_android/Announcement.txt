@@ -1,0 +1,7 @@
+TextAsset Base
+	string m_Name = "Announcement"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Announcement ID="1" OpenTime="2021-02-01 00:00:00,2021-02-05 23:59:59" ActivityTime="2021-02-01 00:00:00,2021-02-05 23:59:59" Link="50016" />
+  <Announcement ID="2" OpenTime="2021-02-06 00:00:00,2021-02-09 23:59:59" ActivityTime="2021-02-06 00:00:00,2021-02-09 23:59:59" Link="50023" />
+</Config>"

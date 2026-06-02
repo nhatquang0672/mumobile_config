@@ -1,0 +1,6 @@
+TextAsset Base
+	string m_Name = "TrialFieldSet"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <TrialFieldSet ID="1" Name="Vùng Thần Phạt" MapCode="97006" TimePoints="2,21:30:00-22:00:00|5,21:30:00-22:00:00" SeasonFightDay="4" BattleSignSecs="120" PrepareSecs="60" FightingSecs="360" ClearRolesSecs="60" DemandPersonNum="1" SignCondition="1|1" MaxEnterNum="3" RewardView="64024,1,0,0,0,0,0|50400,1,0,0,0,0,0" />
+</Config>"

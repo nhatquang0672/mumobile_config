@@ -1,0 +1,6 @@
+TextAsset Base
+	string m_Name = "BuChang"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <BuChang ID="1" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="19" MaxLevel="100" AwardExp="0" MoJing="0" Goods="50160,2,1,0,0,0,0|50016,2,1,0,0,0,0" />
+</Config>"

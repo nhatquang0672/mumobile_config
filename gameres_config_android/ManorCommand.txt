@@ -1,0 +1,8 @@
+TextAsset Base
+	string m_Name = "ManorCommand"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ManorCommand ID="1" Name="Dọn nhà vệ sinh" Award="1|0.4|0.4" />
+  <ManorCommand ID="2" Name="Làm ấm chăn" Award="2|0.3|0.3" />
+  <ManorCommand ID="3" Name="Nhặt xà phòng" Award="3|0.06|0.06" />
+</Config>"

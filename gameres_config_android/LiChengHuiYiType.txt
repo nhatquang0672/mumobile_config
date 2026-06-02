@@ -1,0 +1,9 @@
+TextAsset Base
+	string m_Name = "LiChengHuiYiType"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <LiChengHuiYiType ID="1" Type="1" Name="Chúng Thần Tranh Bá " IsOpen="1" />
+  <LiChengHuiYiType ID="2" Type="2" Name="Thiên Tai Giáng Lâm" IsOpen="1" />
+  <LiChengHuiYiType ID="3" Type="3" Name="Hãy chờ" IsOpen="0" />
+  <LiChengHuiYiType ID="4" Type="4" Name="Hãy chờ" IsOpen="0" />
+</config>"

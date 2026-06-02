@@ -1,0 +1,6 @@
+TextAsset Base
+	string m_Name = "XingYunShuZi"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <XingYunShuZi GroupID="20190611" OpenTime="2019-06-11 00:00:00" CloseTime="2019-06-14 23:59:59" ReceiveTimeClose="-1" LucyShuZiGe="1,2|2,1|3,1|4,1|5,1|6,1|7,1|8,1|9,1" LucyShuZiShi="1,2|2,1|3,1|4,1|5,1|6,1|7,1|8,1|9,1" LucyShuZiBai="1,2|2,1|3,1|4,1|5,1|6,1|7,1|8,1|9,1" GoodsReward="5250,1,1,0,0,0,0" NeedGoods="2303,2|2303,4|2303,8" />
+</Config>"

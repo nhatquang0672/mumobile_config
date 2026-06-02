@@ -1,0 +1,8 @@
+TextAsset Base
+	string m_Name = "GroupShopping"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <GroupShopping ID="1" GroupZhiGouID="100000" FullZhiGouID="100001" ReturnPrice="1000" LimitType="2" Limit="3" GroupPlayerNum="2" GroupMaxTime="3600" RobotLaunchGroupTime="180,300" RobotJoinGroupTime="180,300" RobotMaxNum="3" GroupZhiGouPrice="68" FullZhiGouPrice="648" />
+  <GroupShopping ID="2" GroupZhiGouID="100002" FullZhiGouID="100003" ReturnPrice="1000" LimitType="2" Limit="3" GroupPlayerNum="2" GroupMaxTime="3600" RobotLaunchGroupTime="180,300" RobotJoinGroupTime="180,300" RobotMaxNum="4" GroupZhiGouPrice="68" FullZhiGouPrice="648" />
+  <GroupShopping ID="3" GroupZhiGouID="100004" FullZhiGouID="100005" ReturnPrice="1000" LimitType="1" Limit="3" GroupPlayerNum="3" GroupMaxTime="3600" RobotLaunchGroupTime="180,300" RobotJoinGroupTime="180,300" RobotMaxNum="4" GroupZhiGouPrice="68" FullZhiGouPrice="648" />
+</Config>"

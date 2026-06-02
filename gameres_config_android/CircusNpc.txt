@@ -1,0 +1,10 @@
+TextAsset Base
+	string m_Name = "CircusNpc"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <CircusNpc ID="1" ShowText="Người Tiếp Đón Rạp Xiếc" NPC="100001" />
+  <CircusNpc ID="2" ShowText="Khiêu Chiến Trái Cây" NPC="100002" />
+  <CircusNpc ID="3" ShowText="Xạ Kích Thú Vị" NPC="100003" />
+  <CircusNpc ID="4" ShowText="Kho Báu Thứ Nguyên" NPC="100004" />
+  <CircusNpc ID="5" ShowText="Tiệm Đổi" NPC="100005" />
+</config>"

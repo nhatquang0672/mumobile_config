@@ -1,0 +1,29 @@
+TextAsset Base
+	string m_Name = "HongBao"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HongBao ID="1" AwardLib="1" GoodsID="2035,2,1,0,0,0,0" Weight="300" RemoveTurn="0" Announcement="0" />
+  <HongBao ID="2" AwardLib="1" GoodsID="2036,2,1,0,0,0,0" Weight="300" RemoveTurn="1" Announcement="0" />
+  <HongBao ID="3" AwardLib="1" GoodsID="2005,10,1,0,0,0,0" Weight="300" RemoveTurn="10" Announcement="0" />
+  <HongBao ID="4" AwardLib="1" GoodsID="2003,100,1,0,0,0,0" Weight="300" RemoveTurn="0" Announcement="0" />
+  <HongBao ID="5" AwardLib="1" GoodsID="63258,8,1,0,0,0,0" Weight="200" RemoveTurn="0" Announcement="1" />
+  <HongBao ID="6" AwardLib="1" GoodsID="63261,1,1,0,0,0,0" Weight="100" RemoveTurn="2" Announcement="1" />
+  <HongBao ID="7" AwardLib="1" GoodsID="63594,1,1,0,0,0,0" Weight="10" RemoveTurn="2" Announcement="1" />
+  <HongBao ID="8" AwardLib="1" GoodsID="63595,1,1,0,0,0,0" Weight="10" RemoveTurn="2" Announcement="1" />
+  <HongBao ID="9" AwardLib="1" GoodsID="63596,1,1,0,0,0,0" Weight="10" RemoveTurn="2" Announcement="1" />
+  <HongBao ID="10" AwardLib="2" GoodsID="2005,10,1,0,0,0,0" Weight="300" RemoveTurn="2" Announcement="0" />
+  <HongBao ID="11" AwardLib="2" GoodsID="2003,100,1,0,0,0,0" Weight="300" RemoveTurn="2" Announcement="0" />
+  <HongBao ID="12" AwardLib="2" GoodsID="970022,1,1,0,0,0,0" Weight="30" RemoveTurn="2" Announcement="1" />
+  <HongBao ID="13" AwardLib="2" GoodsID="1033690,1,1,0,0,0,0" Weight="30" RemoveTurn="2" Announcement="1" />
+  <HongBao ID="14" AwardLib="2" GoodsID="970012,1,1,0,0,0,0" Weight="30" RemoveTurn="2" Announcement="1" />
+  <HongBao ID="15" AwardLib="2" GoodsID="1033780,1,1,0,0,0,0" Weight="10" RemoveTurn="2" Announcement="1" />
+  <HongBao ID="16" AwardLib="3" GoodsID="2035,2,1,0,0,0,0" Weight="1000" RemoveTurn="0" Announcement="0" />
+  <HongBao ID="17" AwardLib="3" GoodsID="2036,2,1,0,0,0,0" Weight="1000" RemoveTurn="1" Announcement="0" />
+  <HongBao ID="18" AwardLib="3" GoodsID="2005,10,1,0,0,0,0" Weight="300" RemoveTurn="10" Announcement="0" />
+  <HongBao ID="19" AwardLib="3" GoodsID="2003,100,1,0,0,0,0" Weight="1000" RemoveTurn="0" Announcement="0" />
+  <HongBao ID="20" AwardLib="3" GoodsID="63258,8,1,0,0,0,0" Weight="100" RemoveTurn="0" Announcement="1" />
+  <HongBao ID="21" AwardLib="3" GoodsID="63261,1,1,0,0,0,0" Weight="100" RemoveTurn="2" Announcement="1" />
+  <HongBao ID="22" AwardLib="3" GoodsID="63594,1,1,0,0,0,0" Weight="10" RemoveTurn="2" Announcement="1" />
+  <HongBao ID="23" AwardLib="3" GoodsID="63595,1,1,0,0,0,0" Weight="10" RemoveTurn="2" Announcement="1" />
+  <HongBao ID="24" AwardLib="3" GoodsID="63596,1,1,0,0,0,0" Weight="10" RemoveTurn="2" Announcement="1" />
+</Config>"

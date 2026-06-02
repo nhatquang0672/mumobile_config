@@ -1,0 +1,14 @@
+TextAsset Base
+	string m_Name = "QiQuMall"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <QiQuMall QiQuMallID="10" GoodsID="8610" GoodsName="Tên Vật Phẩm 1" ExchangeNeed="219,10" ExchangeLimit="-1" />
+  <QiQuMall QiQuMallID="20" GoodsID="8609" GoodsName="Tên Vật Phẩm 2" ExchangeNeed="219,20" ExchangeLimit="1" />
+  <QiQuMall QiQuMallID="30" GoodsID="23014" GoodsName="Tên Vật Phẩm 3" ExchangeNeed="219,30" ExchangeLimit="10" />
+  <QiQuMall QiQuMallID="40" GoodsID="23014" GoodsName="Tên Vật Phẩm 4" ExchangeNeed="219,40" ExchangeLimit="10" />
+  <QiQuMall QiQuMallID="50" GoodsID="23014" GoodsName="Tên Vật Phẩm 5" ExchangeNeed="219,50" ExchangeLimit="10" />
+  <QiQuMall QiQuMallID="60" GoodsID="23014" GoodsName="Tên Vật Phẩm 6" ExchangeNeed="219,60" ExchangeLimit="10" />
+  <QiQuMall QiQuMallID="70" GoodsID="23014" GoodsName="Tên Vật Phẩm 7" ExchangeNeed="219,70" ExchangeLimit="10" />
+  <QiQuMall QiQuMallID="80" GoodsID="23014" GoodsName="Tên Vật Phẩm 8" ExchangeNeed="219,80" ExchangeLimit="10" />
+  <QiQuMall QiQuMallID="90" GoodsID="23014" GoodsName="Tên Vật Phẩm 9" ExchangeNeed="219,90" ExchangeLimit="10" />
+</config>"

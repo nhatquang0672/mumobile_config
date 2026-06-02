@@ -1,0 +1,46 @@
+TextAsset Base
+	string m_Name = "AutoSystemChat"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Item ID="1" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="2" MaxLevel="100" Content="Tips: Khiêu chiến phó bản cốt truyện nhận trang bị và Ngọc" />
+  <Item ID="2" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="2" MaxLevel="100" Content="Tips: Khi treo máy có thể nhấp chọn trạng thái trên đầu nhân vật để thiết lập treo máy" />
+  <Item ID="3" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="2" MaxLevel="100" Content="Tips: TuThiền có thể tích lũy EXP tối đa 12 giờ, hỗ trợ offline" />
+  <Item ID="4" MinZhuanSheng="0" MinLevel="5" MaxZhuanSheng="2" MaxLevel="100" Content="Tips: Tăng cấp kỹ năng có thể tăng hiệu quả kỹ năng" />
+  <Item ID="5" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="2" MaxLevel="100" Content="Tips: Kích hoạt danh hiệu thành tựu tăng lực chiến vĩnh viễn" />
+  <Item ID="6" MinZhuanSheng="0" MinLevel="11" MaxZhuanSheng="2" MaxLevel="100" Content="Tips: Tăng cấp sao và cấp của cánh để tăng lực chiến" />
+  <Item ID="7" MinZhuanSheng="0" MinLevel="61" MaxZhuanSheng="2" MaxLevel="100" Content="Tips: Cường hóa tăng thuộc tính và hiệu quả vòng sáng trang bị" />
+  <Item ID="8" MinZhuanSheng="0" MinLevel="85" MaxZhuanSheng="2" MaxLevel="100" Content="Tips: Cầu phúc nhận đạo cụ quý và nhiều trang bị mạnh" />
+  <Item ID="9" MinZhuanSheng="0" MinLevel="85" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Mỗi 36 giờ được cầu phúc miễn phí 1 lần" />
+  <Item ID="10" MinZhuanSheng="0" MinLevel="88" MaxZhuanSheng="2" MaxLevel="100" Content="Tips: Kích hoạt chòm sao tăng lực chiến vĩnh viễn" />
+  <Item ID="11" MinZhuanSheng="1" MinLevel="50" MaxZhuanSheng="2" MaxLevel="100" Content="Tips: Hoàn thành nhiệm vụ ngày nhận Tinh Hồn và EXP" />
+  <Item ID="12" MinZhuanSheng="1" MinLevel="44" MaxZhuanSheng="2" MaxLevel="100" Content="Tips: Gia cố tăng thuộc tính cho trang bị" />
+  <Item ID="13" MinZhuanSheng="1" MinLevel="61" MaxZhuanSheng="2" MaxLevel="100" Content="Tips: Kích hoạt quân hàm tăng lực chiến vĩnh viễn" />
+  <Item ID="14" MinZhuanSheng="1" MinLevel="67" MaxZhuanSheng="2" MaxLevel="100" Content="Tips: Khiêu chiến phó bản EXP nhận lượng lớn EXP" />
+  <Item ID="15" MinZhuanSheng="1" MinLevel="72" MaxZhuanSheng="2" MaxLevel="100" Content="Tips: Diệt quái trong phó bản Vàng rơi Vàng Khóa" />
+  <Item ID="16" MinZhuanSheng="1" MinLevel="90" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Triệu tập đồng đội khiêu chiến phó bản tổ đội nhận Ngọc Sáng Tạo" />
+  <Item ID="17" MinZhuanSheng="1" MinLevel="93" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Khiêu chiến Tháp Quỷ là cách chính để nhận Lông Vũ, Ngọn Lửa Chim Thần " />
+  <Item ID="18" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Mỗi 30 phút bản đồ chính tạo mới quái tinh anh 1 lần" />
+  <Item ID="19" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="2" MaxLevel="100" Content="Tips: Nhấn giữ thanh kỹ năng và trượt ra ngoài để đổi kỹ năng" />
+  <Item ID="20" MinZhuanSheng="0" MinLevel="90" MaxZhuanSheng="2" MaxLevel="100" Content="Tips: Đạt cấp 100 có thể đến Lorencia [Chuyển Sinh·Roseate] để chuyển sinh" />
+  <Item ID="21" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="2" MaxLevel="100" Content="Tips: Laya - Lorencia có bán [Thuốc HP] và [Thuốc MP]" />
+  <Item ID="22" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Có thể vào giao diện [Nhân Vật]- [Tiền] xem tất cả tiền và cách dùng" />
+  <Item ID="23" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: BOSS thế giới và BOSS hoạt động rơi trang bị không khóa" />
+  <Item ID="24" MinZhuanSheng="1" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Giao dịch chợ thành công sẽ bị thu 5% thuế giao dịch" />
+  <Item ID="25" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Thanh lý trang bị không dùng để nhận được Ma Băng, có thể đổi đạo cụ quý" />
+  <Item ID="26" MinZhuanSheng="2" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Sử dụng Huy Chương EXP trong Chiến Trường Cổ đem lại hiệu quả gấp bội" />
+  <Item ID="27" MinZhuanSheng="1" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Trong tài khoản có bất kỳ 1 nhân vật 3 chuyển lv1 là tạo được nhân vật Đấu Sĩ" />
+  <Item ID="28" MinZhuanSheng="1" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Đấu Sĩ không chỉ có trang bị của bản thân, còn mang trang bị của Kiếm Sĩ, Ma Pháp Sư" />
+  <Item ID="29" MinZhuanSheng="2" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Đấu Sĩ có thể mang 2 cây trượng đơn" />
+  <Item ID="30" MinZhuanSheng="2" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Đấu Sĩ có thể thông qua phân phối điểm trở thành Ma Kiếm sức mạnh hoặc Ma Kiếm trí lực" />
+  <Item ID="31" MinZhuanSheng="2" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Khi Đấu Sĩ mang vũ khí sát thương vật lý chỉ được chọn kỹ năng Ma Kiếm sức mạnh" />
+  <Item ID="32" MinZhuanSheng="2" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Khi Đấu Sĩ mang vũ khí sát thương ma pháp chỉ được chọn kỹ năng Ma Kiếm trí lực" />
+  <Item ID="33" MinZhuanSheng="3" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Thuộc tính tín vật cưới tăng thêm chỉ có hiệu lực khi nhân vật đã kết hôn" />
+  <Item ID="34" MinZhuanSheng="3" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Bồi dưỡng tín vật cưới tăng thuộc tính bản thân, 30% thuộc tính của tín vật cũng tăng cho bạn đời" />
+  <Item ID="35" MinZhuanSheng="3" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Kết hôn xong mỗi ngày ở giao diện hôn nhân khiêu chiến PB Đôi nhận Hoa Tươi" />
+  <Item ID="36" MinZhuanSheng="3" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Kết hôn xong bày Tiệc Cưới, sau khi Tiệc Cưới kết thúc sẽ đổi tiền thu được thành độ cống hiến" />
+  <Item ID="37" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Lv và thiên phú của Tinh Linh trong kho đạt yêu cầu chỉ định là kích hoạt Buff thuộc tính đặc biệt" />
+  <Item ID="38" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Mua thẻ tháng xong liên tục 30 ngày mỗi ngày nhận thưởng cao cấp" />
+  <Item ID="39" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Sau khi thành tựu đạt [Thảo Phạt] mở hệ thống bùa thành tựu" />
+  <Item ID="40" MinZhuanSheng="0" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Sau khi quân hàm đạt [Quân Sĩ] mở hệ thống huy chương quân hàm" />
+  <Item ID="41" MinZhuanSheng="3" MinLevel="1" MaxZhuanSheng="100" MaxLevel="100" Content="Tips: Ảo Ảnh Tự Viện hoạt động liên server, mỗi ngày 3 lần thắng đầu tiên được thưởng x10" />
+</Config>"

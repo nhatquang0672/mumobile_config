@@ -1,0 +1,9 @@
+TextAsset Base
+	string m_Name = "RouletteActivityGet"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <RouletteActivityGet ID="1" ZhiGouID="50009" ZhiGouName="Tranh Mua Quyển SK" />
+  <RouletteActivityGet ID="2" ZhiGouID="50010" ZhiGouName="Tranh Mua Quyển SK" />
+  <RouletteActivityGet ID="3" ZhiGouID="50011" ZhiGouName="Tranh Mua Quyển SK" />
+  <RouletteActivityGet ID="4" ZhiGouID="50012" ZhiGouName="Tranh Mua Quyển SK" />
+</Config>"

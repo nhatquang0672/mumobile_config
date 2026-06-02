@@ -1,0 +1,17 @@
+TextAsset Base
+	string m_Name = "MoKaUnlock"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <MoKaUnlock ID="1" Type="1" GoodsID="24001" RateAdd="2.6" />
+  <MoKaUnlock ID="2" Type="1" GoodsID="24002" RateAdd="15.7" />
+  <MoKaUnlock ID="3" Type="1" GoodsID="24003" RateAdd="52.6" />
+  <MoKaUnlock ID="4" Type="2" GoodsID="24004" RateAdd="3.5" />
+  <MoKaUnlock ID="5" Type="2" GoodsID="24005" RateAdd="21.4" />
+  <MoKaUnlock ID="6" Type="2" GoodsID="24006" RateAdd="71.4" />
+  <MoKaUnlock ID="7" Type="3" GoodsID="24007" RateAdd="2.2" />
+  <MoKaUnlock ID="8" Type="3" GoodsID="24008" RateAdd="13.6" />
+  <MoKaUnlock ID="9" Type="3" GoodsID="24009" RateAdd="45.4" />
+  <MoKaUnlock ID="10" Type="4" GoodsID="24010" RateAdd="1.3" />
+  <MoKaUnlock ID="11" Type="4" GoodsID="24011" RateAdd="7.8" />
+  <MoKaUnlock ID="12" Type="4" GoodsID="24012" RateAdd="26.3" />
+</config>"

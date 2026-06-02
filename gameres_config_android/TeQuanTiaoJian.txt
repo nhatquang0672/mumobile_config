@@ -1,0 +1,25 @@
+TextAsset Base
+	string m_Name = "TeQuanTiaoJian"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!-- 条件类型：奇数本服，偶数跨服
+1&2：HuoDongNiCheng="全民充值" JieMianTips="单笔充值500钻石达到指定人数,可激活特权！"
+3&4：HuoDongNiCheng="全民直购" JieMianTips="累计购买“特权直购”达到指定份数,可激活特权！"
+5&6：HuoDongNiCheng="全民捐赠" JieMianTips="捐赠指定道具或钻石达到指定份数,可激活特权！"
+7&8：HuoDongNiCheng="全民累充" JieMianTips="指定人数累计充值钻石达到指定数量,可激活特权！"
+9&10：HuoDongNiCheng="全民消费" JieMianTips="指定人数累计消费钻石达到指定数量,可激活特权！"
+-->
+<!--
+  <JingLing ID="1" KaiQiShiJian="2018-07-10 00:00:00" JieShuShiJian="2018-07-16 23:59:59" TiaoJianLeiXing="1" HuoDongNiCheng="全民充值" JieMianTips="单笔充值500钻石达到指定人数,可激活特权！" GuDingLeiXing="500" AnNiuName="-1" TiaoZhanLianJie="1000" JiHuoID="1|2|3|4" JiangLiFanKui="" MeiRiShangXian="-1" />
+  <JingLing ID="2" KaiQiShiJian="2018-07-10 00:00:00" JieShuShiJian="2018-07-16 23:59:59" TiaoJianLeiXing="2" HuoDongNiCheng="全民充值" JieMianTips="单笔充值600钻石达到指定人数,可激活特权！" GuDingLeiXing="600" AnNiuName="-1" TiaoZhanLianJie="1000" JiHuoID="5|6|7|8" JiangLiFanKui="" MeiRiShangXian="-1" />
+  <JingLing ID="3" KaiQiShiJian="2018-07-10 00:00:00" JieShuShiJian="2018-07-16 23:59:59" TiaoJianLeiXing="3" HuoDongNiCheng="全民直购" JieMianTips="累计购买“特权直购”达到指定份数,可激活特权！" GuDingLeiXing="4458,4459,4460,4461,4462,4463" AnNiuName="-1" TiaoZhanLianJie="1000" JiHuoID="9|10|11|12" JiangLiFanKui="" MeiRiShangXian="-1" />
+  <JingLing ID="4" KaiQiShiJian="2018-07-10 00:00:00" JieShuShiJian="2018-07-16 23:59:59" TiaoJianLeiXing="4" HuoDongNiCheng="全民直购" JieMianTips="累计购买“特权直购”达到指定份数,可激活特权！" GuDingLeiXing="4458,4459,4460,4461,4462,4463" AnNiuName="-1" TiaoZhanLianJie="1000" JiHuoID="13|14|15|16" JiangLiFanKui="" MeiRiShangXian="-1" />
+  <JingLing ID="5" KaiQiShiJian="2018-07-10 00:00:00" JieShuShiJian="2018-07-16 23:59:59" TiaoJianLeiXing="5" HuoDongNiCheng="全民捐赠" JieMianTips="捐赠指定道具或钻石达到指定份数,可激活特权！" GuDingLeiXing="2001,1|50" AnNiuName="-1" TiaoZhanLianJie="1000" JiHuoID="17|18|19|20" JiangLiFanKui="2000,0.5,1,0,0,0,0|2002,0.2,1,0,0,0,0|2003,0.2,1,0,0,0,0|2004,0.1,1,0,0,0,0" MeiRiShangXian="-1" />
+  <JingLing ID="6" KaiQiShiJian="2018-07-10 00:00:00" JieShuShiJian="2018-07-16 23:59:59" TiaoJianLeiXing="6" HuoDongNiCheng="全民捐赠" JieMianTips="捐赠指定道具或钻石达到指定份数,可激活特权！" GuDingLeiXing="2001,1|50" AnNiuName="-1" TiaoZhanLianJie="1000" JiHuoID="21|22|23|24" JiangLiFanKui="2000,0.5,1,0,0,0,0|2002,0.2,1,0,0,0,0|2003,0.2,1,0,0,0,0|2004,0.1,1,0,0,0,0" MeiRiShangXian="-1" />
+  <JingLing ID="7" KaiQiShiJian="2018-07-10 00:00:00" JieShuShiJian="2018-07-16 23:59:59" TiaoJianLeiXing="7" HuoDongNiCheng="全民累充" JieMianTips="指定人数累计充值钻石达到指定数量,可激活特权！" GuDingLeiXing="500" AnNiuName="-1" TiaoZhanLianJie="1000" JiHuoID="25|26|27|28" JiangLiFanKui="" MeiRiShangXian="-1" />
+  <JingLing ID="8" KaiQiShiJian="2018-07-10 00:00:00" JieShuShiJian="2018-07-16 23:59:59" TiaoJianLeiXing="8" HuoDongNiCheng="全民累充" JieMianTips="指定人数累计充值钻石达到指定数量,可激活特权！" GuDingLeiXing="500" AnNiuName="-1" TiaoZhanLianJie="1000" JiHuoID="29|30|31|32" JiangLiFanKui="" MeiRiShangXian="-1" />
+  <JingLing ID="9" KaiQiShiJian="2018-07-10 00:00:00" JieShuShiJian="2018-07-16 23:59:59" TiaoJianLeiXing="9" HuoDongNiCheng="全民消费" JieMianTips="指定人数累计消费钻石达到指定数量,可激活特权！" GuDingLeiXing="500" AnNiuName="-1" TiaoZhanLianJie="1000" JiHuoID="33|34|35|36" JiangLiFanKui="" MeiRiShangXian="-1" />
+  <JingLing ID="10" KaiQiShiJian="2018-07-10 00:00:00" JieShuShiJian="2018-07-16 23:59:59" TiaoJianLeiXing="10" HuoDongNiCheng="全民消费" JieMianTips="指定人数累计消费钻石达到指定数量,可激活特权！" GuDingLeiXing="500" AnNiuName="-1" TiaoZhanLianJie="1000" JiHuoID="37|38|39|40" JiangLiFanKui="" MeiRiShangXian="-1" />
+-->
+  <JingLing ID="221109" KaiQiShiJian="2022-11-09 00:00:00" JieShuShiJian="2022-11-14 23:59:59" TiaoJianLeiXing="8" HuoDongNiCheng="Tích nạp toàn sv" JieMianTips="Trong event, số lượng người nạp đầy 240KC đủ yêu cầu, sẽ mở đặc quyền！" GuDingLeiXing="240" AnNiuName="-1" TiaoZhanLianJie="1000" JiHuoID="152|153|154|155" JiangLiFanKui="" MeiRiShangXian="-1" />
+</Config>"

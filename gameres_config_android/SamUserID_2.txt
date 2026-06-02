@@ -1,0 +1,3 @@
+TextAsset Base
+	string m_Name = "SamUserID_2"
+	string m_Script = ""

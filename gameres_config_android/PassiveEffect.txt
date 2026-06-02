@@ -1,0 +1,9 @@
+TextAsset Base
+	string m_Name = "PassiveEffect"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <PassiveEffect ID="100" Name="Nguyên Tố Bạo" Description="Khi tấn công có xác suất phát DMG nguyên tố +100%" Type="4" Rate="10" MagicScripts="MU_ADD_OWN_ELEMENT_DAMAGE(1)" />
+  <PassiveEffect ID="101" Name="Điều khiển nguyên tố" Description="Khi tấn công có xác suất phát bỏ qua kháng nguyên tố của đối phương" Type="4" Rate="10" MagicScripts="MU_REDUCE_TARGET_ELEMENT_REDUCTION(1)" />
+  <PassiveEffect ID="102" Name="Phản thương" Description="Bị tấn công có xác suất phát phản DMG +50%" Type="5" Rate="8" MagicScripts="MU_ADD_OWN_DAMAGE_REBOUND(0.5)" />
+  <PassiveEffect ID="103" Name="Giảm nguyên tố" Description="HP thấp hơn 30%, giảm sát thương nguyên tố +50%" Type="5" Rate="100" MagicScripts="MU_ADD_OWN_ELEMENT_REDUCTION(0.3,0.5)" />
+</Config>"

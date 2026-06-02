@@ -1,0 +1,137 @@
+TextAsset Base
+	string m_Name = "FuWen"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <FuWen ID="100" GoodsID="940100" Name="Ảnh Lợi Nhẫn I" Type="Red" Level="1" Blue="0" Red="5" Green="0" PayNum="15" SendNum="15" />
+  <FuWen ID="101" GoodsID="940101" Name="Ảnh Lợi Nhẫn II" Type="Red" Level="2" Blue="0" Red="10" Green="0" PayNum="60" SendNum="55" />
+  <FuWen ID="102" GoodsID="940102" Name="Ảnh Lợi Nhẫn III" Type="Red" Level="3" Blue="0" Red="15" Green="0" PayNum="240" SendNum="215" />
+  <FuWen ID="103" GoodsID="940103" Name="Ảnh Phá Quân IV" Type="Red" Level="4" Blue="0" Red="20" Green="0" PayNum="1000" SendNum="850" />
+  <FuWen ID="104" GoodsID="940104" Name="Ảnh Phá Quân V" Type="Red" Level="5" Blue="0" Red="30" Green="0" PayNum="4500" SendNum="3600" />
+  <FuWen ID="105" GoodsID="940105" Name="Ảnh Phá Quân VI" Type="Red" Level="6" Blue="0" Red="40" Green="0" PayNum="20000" SendNum="16000" />
+  <FuWen ID="106" GoodsID="940106" Name="Ảnh Tham Lang IV" Type="Red" Level="4" Blue="0" Red="20" Green="0" PayNum="1000" SendNum="850" />
+  <FuWen ID="107" GoodsID="940107" Name="Ảnh Tham Lang V" Type="Red" Level="5" Blue="0" Red="30" Green="0" PayNum="4500" SendNum="3600" />
+  <FuWen ID="108" GoodsID="940108" Name="Ảnh Tham Lang VI" Type="Red" Level="6" Blue="0" Red="40" Green="0" PayNum="20000" SendNum="16000" />
+  <FuWen ID="109" GoodsID="940109" Name="Ảnh Phá Quân VII" Type="Red" Level="7" Blue="0" Red="50" Green="0" PayNum="80000" SendNum="64000" />
+  <FuWen ID="110" GoodsID="940110" Name="Ảnh Tham Lang VII" Type="Red" Level="7" Blue="0" Red="50" Green="0" PayNum="80000" SendNum="64000" />
+  <FuWen ID="200" GoodsID="940200" Name="Ảnh Bí Pháp I" Type="Red" Level="1" Blue="0" Red="5" Green="0" PayNum="15" SendNum="15" />
+  <FuWen ID="201" GoodsID="940201" Name="Ảnh Bí Pháp II" Type="Red" Level="2" Blue="0" Red="10" Green="0" PayNum="60" SendNum="55" />
+  <FuWen ID="202" GoodsID="940202" Name="Ảnh Bí Pháp III" Type="Red" Level="3" Blue="0" Red="15" Green="0" PayNum="240" SendNum="215" />
+  <FuWen ID="203" GoodsID="940203" Name="Ảnh Điện Phóng IV" Type="Red" Level="4" Blue="0" Red="20" Green="0" PayNum="1000" SendNum="850" />
+  <FuWen ID="204" GoodsID="940204" Name="Ảnh Điện Phóng V" Type="Red" Level="5" Blue="0" Red="30" Green="0" PayNum="4500" SendNum="3600" />
+  <FuWen ID="205" GoodsID="940205" Name="Ảnh Điện Phóng VI" Type="Red" Level="6" Blue="0" Red="40" Green="0" PayNum="20000" SendNum="16000" />
+  <FuWen ID="206" GoodsID="940206" Name="Ảnh Nghê Hồng IV" Type="Red" Level="4" Blue="0" Red="20" Green="0" PayNum="1000" SendNum="850" />
+  <FuWen ID="207" GoodsID="940207" Name="Ảnh Nghê Hồng V" Type="Red" Level="5" Blue="0" Red="30" Green="0" PayNum="4500" SendNum="3600" />
+  <FuWen ID="208" GoodsID="940208" Name="Ảnh Nghê Hồng VI" Type="Red" Level="6" Blue="0" Red="40" Green="0" PayNum="20000" SendNum="16000" />
+  <FuWen ID="209" GoodsID="940209" Name="Ảnh Tràn Phóng VII" Type="Red" Level="7" Blue="0" Red="50" Green="0" PayNum="80000" SendNum="64000" />
+  <FuWen ID="210" GoodsID="940210" Name="Ảnh Nghê Hồng VII" Type="Red" Level="7" Blue="0" Red="50" Green="0" PayNum="80000" SendNum="64000" />
+  <FuWen ID="300" GoodsID="940300" Name="Quang Lợi Nhẫn I" Type="Red" Level="1" Blue="0" Red="10" Green="0" PayNum="15" SendNum="15" />
+  <FuWen ID="301" GoodsID="940301" Name="Quang Lợi Nhẫn II" Type="Red" Level="2" Blue="0" Red="15" Green="0" PayNum="60" SendNum="55" />
+  <FuWen ID="302" GoodsID="940302" Name="Quang Lợi Nhẫn III" Type="Red" Level="3" Blue="0" Red="20" Green="0" PayNum="240" SendNum="215" />
+  <FuWen ID="303" GoodsID="940303" Name="Quang Phá Quân IV" Type="Red" Level="4" Blue="0" Red="30" Green="0" PayNum="1000" SendNum="850" />
+  <FuWen ID="304" GoodsID="940304" Name="Quang Phá Quân V" Type="Red" Level="5" Blue="0" Red="40" Green="0" PayNum="4500" SendNum="3600" />
+  <FuWen ID="305" GoodsID="940305" Name="Quang Phá Quân VI" Type="Red" Level="6" Blue="0" Red="50" Green="0" PayNum="20000" SendNum="16000" />
+  <FuWen ID="306" GoodsID="940306" Name="Quang Tham Lang IV" Type="Red" Level="4" Blue="0" Red="30" Green="0" PayNum="1000" SendNum="850" />
+  <FuWen ID="307" GoodsID="940307" Name="Quang Tham Lang V" Type="Red" Level="5" Blue="0" Red="40" Green="0" PayNum="4500" SendNum="3600" />
+  <FuWen ID="308" GoodsID="940308" Name="Quang Tham Lang VI" Type="Red" Level="6" Blue="0" Red="50" Green="0" PayNum="20000" SendNum="16000" />
+  <FuWen ID="309" GoodsID="940309" Name="Ánh Phá Quân VII" Type="Red" Level="7" Blue="0" Red="60" Green="0" PayNum="80000" SendNum="64000" />
+  <FuWen ID="310" GoodsID="940310" Name="Ánh Tham Lang VII" Type="Red" Level="7" Blue="0" Red="50" Green="0" PayNum="80000" SendNum="64000" />
+  <FuWen ID="400" GoodsID="940400" Name="Quang Bí Pháp I" Type="Red" Level="1" Blue="0" Red="10" Green="0" PayNum="15" SendNum="15" />
+  <FuWen ID="401" GoodsID="940401" Name="Quang Bí Pháp II" Type="Red" Level="2" Blue="0" Red="15" Green="0" PayNum="60" SendNum="55" />
+  <FuWen ID="402" GoodsID="940402" Name="Quang Bí Pháp III" Type="Red" Level="3" Blue="0" Red="20" Green="0" PayNum="240" SendNum="215" />
+  <FuWen ID="403" GoodsID="940403" Name="Quang Điện Phóng IV" Type="Red" Level="4" Blue="0" Red="30" Green="0" PayNum="1000" SendNum="850" />
+  <FuWen ID="404" GoodsID="940404" Name="Quang Điện Phóng V" Type="Red" Level="5" Blue="0" Red="40" Green="0" PayNum="4500" SendNum="3600" />
+  <FuWen ID="405" GoodsID="940405" Name="Quang Điện Phóng VI" Type="Red" Level="6" Blue="0" Red="50" Green="0" PayNum="20000" SendNum="16000" />
+  <FuWen ID="406" GoodsID="940406" Name="Quang Nghê Hồng IV" Type="Red" Level="4" Blue="0" Red="30" Green="0" PayNum="1000" SendNum="850" />
+  <FuWen ID="407" GoodsID="940407" Name="Quang Nghê Hồng V" Type="Red" Level="5" Blue="0" Red="40" Green="0" PayNum="4500" SendNum="3600" />
+  <FuWen ID="408" GoodsID="940408" Name="Quang Nghê Hồng VI" Type="Red" Level="6" Blue="0" Red="50" Green="0" PayNum="20000" SendNum="16000" />
+  <FuWen ID="409" GoodsID="940409" Name="Ánh Tràn Phóng VII" Type="Red" Level="7" Blue="0" Red="60" Green="0" PayNum="80000" SendNum="64000" />
+  <FuWen ID="410" GoodsID="940410" Name="Ánh Nghê Hồng VII" Type="Red" Level="7" Blue="0" Red="60" Green="0" PayNum="80000" SendNum="64000" />
+  <FuWen ID="500" GoodsID="940500" Name="Ảnh Kiên Thuẫn I" Type="Blue" Level="1" Blue="5" Red="0" Green="0" PayNum="15" SendNum="15" />
+  <FuWen ID="501" GoodsID="940501" Name="Ảnh Kiên Thuẫn II" Type="Blue" Level="2" Blue="10" Red="0" Green="0" PayNum="60" SendNum="55" />
+  <FuWen ID="502" GoodsID="940502" Name="Ảnh Kiên Thuẫn III" Type="Blue" Level="3" Blue="15" Red="0" Green="0" PayNum="240" SendNum="215" />
+  <FuWen ID="503" GoodsID="940503" Name="Ảnh Thống Ngự IV" Type="Blue" Level="4" Blue="20" Red="0" Green="0" PayNum="1000" SendNum="850" />
+  <FuWen ID="504" GoodsID="940504" Name="Ảnh Thống Ngự V" Type="Blue" Level="5" Blue="30" Red="0" Green="0" PayNum="4500" SendNum="3600" />
+  <FuWen ID="505" GoodsID="940505" Name="Ảnh Thống Ngự VI" Type="Blue" Level="6" Blue="40" Red="0" Green="0" PayNum="20000" SendNum="16000" />
+  <FuWen ID="506" GoodsID="940506" Name="Ảnh Lực phòng Hộ IV" Type="Blue" Level="4" Blue="20" Red="0" Green="0" PayNum="1000" SendNum="850" />
+  <FuWen ID="507" GoodsID="940507" Name="Ảnh Lực phòng Hộ V" Type="Blue" Level="5" Blue="30" Red="0" Green="0" PayNum="4500" SendNum="3600" />
+  <FuWen ID="508" GoodsID="940508" Name="Ảnh Lực phòng Hộ VI" Type="Blue" Level="6" Blue="40" Red="0" Green="0" PayNum="20000" SendNum="16000" />
+  <FuWen ID="509" GoodsID="940509" Name="Ảnh Thống Ngự VII" Type="Blue" Level="7" Blue="50" Red="0" Green="0" PayNum="80000" SendNum="64000" />
+  <FuWen ID="510" GoodsID="940510" Name="Ảnh Thủ Hộ VII" Type="Blue" Level="7" Blue="50" Red="0" Green="0" PayNum="80000" SendNum="64000" />
+  <FuWen ID="600" GoodsID="940600" Name="Ảnh Bình Chướng I" Type="Blue" Level="1" Blue="5" Red="0" Green="0" PayNum="15" SendNum="15" />
+  <FuWen ID="601" GoodsID="940601" Name="Ảnh Bình Chướng II" Type="Blue" Level="2" Blue="10" Red="0" Green="0" PayNum="60" SendNum="55" />
+  <FuWen ID="602" GoodsID="940602" Name="Ảnh Bình Chướng III" Type="Blue" Level="3" Blue="15" Red="0" Green="0" PayNum="240" SendNum="215" />
+  <FuWen ID="603" GoodsID="940603" Name="Ảnh Hư Ảo IV" Type="Blue" Level="4" Blue="20" Red="0" Green="0" PayNum="1000" SendNum="850" />
+  <FuWen ID="604" GoodsID="940604" Name="Ảnh Hư Ảo V" Type="Blue" Level="5" Blue="30" Red="0" Green="0" PayNum="4500" SendNum="3600" />
+  <FuWen ID="605" GoodsID="940605" Name="Ảnh Hư Ảo VI" Type="Blue" Level="6" Blue="40" Red="0" Green="0" PayNum="20000" SendNum="16000" />
+  <FuWen ID="606" GoodsID="940606" Name="Ảnh Mộng Cảnh IV" Type="Blue" Level="4" Blue="20" Red="0" Green="0" PayNum="1000" SendNum="850" />
+  <FuWen ID="607" GoodsID="940607" Name="Ảnh Mộng Cảnh V" Type="Blue" Level="5" Blue="30" Red="0" Green="0" PayNum="4500" SendNum="3600" />
+  <FuWen ID="608" GoodsID="940608" Name="Ảnh Mộng Cảnh VI" Type="Blue" Level="6" Blue="40" Red="0" Green="0" PayNum="20000" SendNum="16000" />
+  <FuWen ID="609" GoodsID="940609" Name="Ảnh Hư Ảo VII" Type="Blue" Level="7" Blue="50" Red="0" Green="0" PayNum="80000" SendNum="64000" />
+  <FuWen ID="610" GoodsID="940610" Name="Ảnh Mộng Cảnh VII" Type="Blue" Level="7" Blue="50" Red="0" Green="0" PayNum="80000" SendNum="64000" />
+  <FuWen ID="700" GoodsID="940700" Name="Quang Kiên Thuẫn I" Type="Blue" Level="1" Blue="10" Red="0" Green="0" PayNum="15" SendNum="15" />
+  <FuWen ID="701" GoodsID="940701" Name="Quang Kiên Thuẫn II" Type="Blue" Level="2" Blue="15" Red="0" Green="0" PayNum="60" SendNum="55" />
+  <FuWen ID="702" GoodsID="940702" Name="Quang Kiên Thuẫn III" Type="Blue" Level="3" Blue="20" Red="0" Green="0" PayNum="240" SendNum="215" />
+  <FuWen ID="703" GoodsID="940703" Name="Quang Thống Ngự IV" Type="Blue" Level="4" Blue="30" Red="0" Green="0" PayNum="1000" SendNum="850" />
+  <FuWen ID="704" GoodsID="940704" Name="Quang Thống Ngự V" Type="Blue" Level="5" Blue="40" Red="0" Green="0" PayNum="4500" SendNum="3600" />
+  <FuWen ID="705" GoodsID="940705" Name="Quang Thống Ngự VI" Type="Blue" Level="6" Blue="50" Red="0" Green="0" PayNum="20000" SendNum="16000" />
+  <FuWen ID="706" GoodsID="940706" Name="Quang Lực phòng Hộ IV" Type="Blue" Level="4" Blue="30" Red="0" Green="0" PayNum="1000" SendNum="850" />
+  <FuWen ID="707" GoodsID="940707" Name="Quang Lực phòng Hộ V" Type="Blue" Level="5" Blue="40" Red="0" Green="0" PayNum="4500" SendNum="3600" />
+  <FuWen ID="708" GoodsID="940708" Name="Quang Lực phòng Hộ VI" Type="Blue" Level="6" Blue="50" Red="0" Green="0" PayNum="20000" SendNum="16000" />
+  <FuWen ID="709" GoodsID="940709" Name="Ánh Thống Ngự VII" Type="Blue" Level="7" Blue="60" Red="0" Green="0" PayNum="80000" SendNum="64000" />
+  <FuWen ID="710" GoodsID="940710" Name="Ánh Thủ Hộ VII" Type="Blue" Level="7" Blue="60" Red="0" Green="0" PayNum="80000" SendNum="64000" />
+  <FuWen ID="800" GoodsID="940800" Name="Quang Bình Chướng I" Type="Blue" Level="1" Blue="10" Red="0" Green="0" PayNum="15" SendNum="15" />
+  <FuWen ID="801" GoodsID="940801" Name="Quang Bình Chướng II" Type="Blue" Level="2" Blue="15" Red="0" Green="0" PayNum="60" SendNum="55" />
+  <FuWen ID="802" GoodsID="940802" Name="Quang Bình Chướng III" Type="Blue" Level="3" Blue="20" Red="0" Green="0" PayNum="240" SendNum="215" />
+  <FuWen ID="803" GoodsID="940803" Name="Quang Hư Ảo IV" Type="Blue" Level="4" Blue="30" Red="0" Green="0" PayNum="1000" SendNum="850" />
+  <FuWen ID="804" GoodsID="940804" Name="Quang Hư Ảo V" Type="Blue" Level="5" Blue="40" Red="0" Green="0" PayNum="4500" SendNum="3600" />
+  <FuWen ID="805" GoodsID="940805" Name="Quang Hư Ảo VI" Type="Blue" Level="6" Blue="50" Red="0" Green="0" PayNum="20000" SendNum="16000" />
+  <FuWen ID="806" GoodsID="940806" Name="Quang Mộng Cảnh IV" Type="Blue" Level="4" Blue="30" Red="0" Green="0" PayNum="1000" SendNum="850" />
+  <FuWen ID="807" GoodsID="940807" Name="Quang Mộng Cảnh V" Type="Blue" Level="5" Blue="40" Red="0" Green="0" PayNum="4500" SendNum="3600" />
+  <FuWen ID="808" GoodsID="940808" Name="Quang Mộng Cảnh VI" Type="Blue" Level="6" Blue="50" Red="0" Green="0" PayNum="20000" SendNum="16000" />
+  <FuWen ID="809" GoodsID="940809" Name="Ánh Hư ẢoVII" Type="Blue" Level="7" Blue="60" Red="0" Green="0" PayNum="80000" SendNum="64000" />
+  <FuWen ID="810" GoodsID="940810" Name="Ánh Mộng Cảnh VII" Type="Blue" Level="7" Blue="60" Red="0" Green="0" PayNum="80000" SendNum="64000" />
+  <FuWen ID="900" GoodsID="940900" Name="Ảnh Tinh Hoa I" Type="Green" Level="1" Blue="0" Red="0" Green="5" PayNum="15" SendNum="15" />
+  <FuWen ID="901" GoodsID="940901" Name="Ảnh Tinh Hoa II" Type="Green" Level="2" Blue="0" Red="0" Green="10" PayNum="60" SendNum="55" />
+  <FuWen ID="902" GoodsID="940902" Name="Ảnh Tinh Hoa III" Type="Green" Level="3" Blue="0" Red="0" Green="15" PayNum="240" SendNum="215" />
+  <FuWen ID="903" GoodsID="940903" Name="Ảnh Bào Hao IV" Type="Green" Level="4" Blue="0" Red="0" Green="20" PayNum="1000" SendNum="850" />
+  <FuWen ID="904" GoodsID="940904" Name="Ảnh Bào Hao V" Type="Green" Level="5" Blue="0" Red="0" Green="30" PayNum="4500" SendNum="3600" />
+  <FuWen ID="905" GoodsID="940905" Name="Ảnh Bào Hao VI" Type="Green" Level="6" Blue="0" Red="0" Green="40" PayNum="20000" SendNum="16000" />
+  <FuWen ID="906" GoodsID="940906" Name="Ảnh Từ Dưỡng IV" Type="Green" Level="4" Blue="0" Red="0" Green="20" PayNum="1000" SendNum="850" />
+  <FuWen ID="907" GoodsID="940907" Name="Ảnh Từ Dưỡng V" Type="Green" Level="5" Blue="0" Red="0" Green="30" PayNum="4500" SendNum="3600" />
+  <FuWen ID="908" GoodsID="940908" Name="Ảnh Từ Dưỡng VI" Type="Green" Level="6" Blue="0" Red="0" Green="40" PayNum="20000" SendNum="16000" />
+  <FuWen ID="909" GoodsID="940909" Name="Ảnh Phẫn Nộ VII" Type="Green" Level="7" Blue="0" Red="0" Green="50" PayNum="80000" SendNum="64000" />
+  <FuWen ID="910" GoodsID="940910" Name="Ảnh Bồi Dưỡng VII" Type="Green" Level="7" Blue="0" Red="0" Green="50" PayNum="80000" SendNum="64000" />
+  <FuWen ID="1000" GoodsID="941000" Name="Ảnh Ẩn Nhược I" Type="Green" Level="1" Blue="0" Red="0" Green="5" PayNum="15" SendNum="15" />
+  <FuWen ID="1001" GoodsID="941001" Name="Ảnh Ẩn Nhược II" Type="Green" Level="2" Blue="0" Red="0" Green="10" PayNum="60" SendNum="55" />
+  <FuWen ID="1002" GoodsID="941002" Name="Ảnh Ẩn Nhược III" Type="Green" Level="3" Blue="0" Red="0" Green="15" PayNum="240" SendNum="215" />
+  <FuWen ID="1003" GoodsID="941003" Name="Ảnh Nghịch Tập IV" Type="Green" Level="4" Blue="0" Red="0" Green="20" PayNum="1000" SendNum="850" />
+  <FuWen ID="1004" GoodsID="941004" Name="Ảnh Nghịch Tập V" Type="Green" Level="5" Blue="0" Red="0" Green="30" PayNum="4500" SendNum="3600" />
+  <FuWen ID="1005" GoodsID="941005" Name="Ảnh Nghịch Tập VI" Type="Green" Level="6" Blue="0" Red="0" Green="40" PayNum="20000" SendNum="16000" />
+  <FuWen ID="1006" GoodsID="941006" Name="Ảnh Ảo Ảnh IV" Type="Green" Level="4" Blue="0" Red="0" Green="20" PayNum="1000" SendNum="850" />
+  <FuWen ID="1007" GoodsID="941007" Name="Ảnh Ảo Ảnh V" Type="Green" Level="5" Blue="0" Red="0" Green="30" PayNum="4500" SendNum="3600" />
+  <FuWen ID="1008" GoodsID="941008" Name="Ảnh Ảo Ảnh VI" Type="Green" Level="6" Blue="0" Red="0" Green="40" PayNum="20000" SendNum="16000" />
+  <FuWen ID="1009" GoodsID="941009" Name="Ảnh Nghịch Tập VII" Type="Green" Level="7" Blue="0" Red="0" Green="50" PayNum="80000" SendNum="64000" />
+  <FuWen ID="1010" GoodsID="941010" Name="Ảnh Ảo Ảnh VII" Type="Green" Level="7" Blue="0" Red="0" Green="50" PayNum="80000" SendNum="64000" />
+  <FuWen ID="1100" GoodsID="941100" Name="Quang Tinh Hoa I" Type="Green" Level="1" Blue="0" Red="0" Green="10" PayNum="15" SendNum="15" />
+  <FuWen ID="1101" GoodsID="941101" Name="Quang Tinh Hoa II" Type="Green" Level="2" Blue="0" Red="0" Green="15" PayNum="60" SendNum="55" />
+  <FuWen ID="1102" GoodsID="941102" Name="Quang Tinh Hoa III" Type="Green" Level="3" Blue="0" Red="0" Green="20" PayNum="240" SendNum="215" />
+  <FuWen ID="1103" GoodsID="941103" Name="Quang Bào Hao IV" Type="Green" Level="4" Blue="0" Red="0" Green="30" PayNum="1000" SendNum="850" />
+  <FuWen ID="1104" GoodsID="941104" Name="Quang Bào Hao V" Type="Green" Level="5" Blue="0" Red="0" Green="40" PayNum="4500" SendNum="3600" />
+  <FuWen ID="1105" GoodsID="941105" Name="Quang Bào Hao VI" Type="Green" Level="6" Blue="0" Red="0" Green="50" PayNum="20000" SendNum="16000" />
+  <FuWen ID="1106" GoodsID="941106" Name="Quang Từ Dưỡng IV" Type="Green" Level="4" Blue="0" Red="0" Green="30" PayNum="1000" SendNum="850" />
+  <FuWen ID="1107" GoodsID="941107" Name="Quang Từ Dưỡng V" Type="Green" Level="5" Blue="0" Red="0" Green="40" PayNum="4500" SendNum="3600" />
+  <FuWen ID="1108" GoodsID="941108" Name="Quang Từ Dưỡng VI" Type="Green" Level="6" Blue="0" Red="0" Green="50" PayNum="20000" SendNum="16000" />
+  <FuWen ID="1109" GoodsID="941109" Name="Ánh Phẫn Nộ VII" Type="Green" Level="7" Blue="0" Red="0" Green="60" PayNum="80000" SendNum="64000" />
+  <FuWen ID="1110" GoodsID="941110" Name="Ánh Bồi Dưỡng VII" Type="Green" Level="7" Blue="0" Red="0" Green="60" PayNum="80000" SendNum="64000" />
+  <FuWen ID="1200" GoodsID="941200" Name="Quang Ẩn Nhược I" Type="Green" Level="1" Blue="0" Red="0" Green="10" PayNum="15" SendNum="15" />
+  <FuWen ID="1201" GoodsID="941201" Name="Quang Ẩn Nhược II" Type="Green" Level="2" Blue="0" Red="0" Green="15" PayNum="60" SendNum="55" />
+  <FuWen ID="1202" GoodsID="941202" Name="Quang Ẩn Nhược III" Type="Green" Level="3" Blue="0" Red="0" Green="20" PayNum="240" SendNum="215" />
+  <FuWen ID="1203" GoodsID="941203" Name="Quang Nghịch Tập IV" Type="Green" Level="4" Blue="0" Red="0" Green="30" PayNum="1000" SendNum="850" />
+  <FuWen ID="1204" GoodsID="941204" Name="Quang Nghịch Tập V" Type="Green" Level="5" Blue="0" Red="0" Green="40" PayNum="4500" SendNum="3600" />
+  <FuWen ID="1205" GoodsID="941205" Name="Quang Nghịch Tập VI" Type="Green" Level="6" Blue="0" Red="0" Green="50" PayNum="20000" SendNum="16000" />
+  <FuWen ID="1206" GoodsID="941206" Name="Quang Ảo Ảnh IV" Type="Green" Level="4" Blue="0" Red="0" Green="30" PayNum="1000" SendNum="850" />
+  <FuWen ID="1207" GoodsID="941207" Name="Quang Ảo Ảnh V" Type="Green" Level="5" Blue="0" Red="0" Green="40" PayNum="4500" SendNum="3600" />
+  <FuWen ID="1208" GoodsID="941208" Name="Quang Ảo Ảnh VI" Type="Green" Level="6" Blue="0" Red="0" Green="50" PayNum="20000" SendNum="16000" />
+  <FuWen ID="1209" GoodsID="941209" Name="Ánh Nghịch Tập VII" Type="Green" Level="7" Blue="0" Red="0" Green="60" PayNum="80000" SendNum="64000" />
+  <FuWen ID="1210" GoodsID="941210" Name="Ánh Ảo Ảnh VII" Type="Green" Level="7" Blue="0" Red="0" Green="60" PayNum="80000" SendNum="64000" />
+</Config>"

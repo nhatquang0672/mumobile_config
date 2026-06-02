@@ -1,0 +1,20 @@
+TextAsset Base
+	string m_Name = "ThroughServiceBattleAward"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Award MapCode="1" Name="Chiến Trường Dũng Sĩ" MinZhuanSheng="5" MinLevel="0" MaxZhuanSheng="5" MaxLevel="100" Exp="442368000" BandJinBi="500000" WinGoods="7050,40,1,0,0,0,0" LoseGoods="7050,20,1,0,0,0,0" />
+  <Award MapCode="2" Name="Chiến Trường Dũng Sĩ" MinZhuanSheng="6" MinLevel="0" MaxZhuanSheng="6" MaxLevel="100" Exp="608256000" BandJinBi="600000" WinGoods="7050,60,1,0,0,0,0|5171,3,1,0,0,0,0" LoseGoods="7050,32,1,0,0,0,0|5170,8,1,0,0,0,0" />
+  <Award MapCode="3" Name="Chiến Trường Dũng Sĩ" MinZhuanSheng="7" MinLevel="0" MaxZhuanSheng="7" MaxLevel="100" Exp="801792000" BandJinBi="700000" WinGoods="7050,80,1,0,0,0,0|5171,4,1,0,0,0,0" LoseGoods="7050,48,1,0,0,0,0|5170,12,1,0,0,0,0" />
+  <Award MapCode="4" Name="Chiến Trường Dũng Sĩ" MinZhuanSheng="8" MinLevel="0" MaxZhuanSheng="8" MaxLevel="100" Exp="1022976000" BandJinBi="800000" WinGoods="7050,100,1,0,0,0,0|5171,5,1,0,0,0,0" LoseGoods="7050,64,1,0,0,0,0|5170,16,1,0,0,0,0" />
+  <Award MapCode="5" Name="Chiến Trường Dũng Sĩ" MinZhuanSheng="9" MinLevel="0" MaxZhuanSheng="9" MaxLevel="100" Exp="1271808000" BandJinBi="900000" WinGoods="7050,120,1,0,0,0,0|5171,6,1,0,0,0,0" LoseGoods="7050,80,1,0,0,0,0|5170,20,1,0,0,0,0" />
+  <Award MapCode="6" Name="Chiến Trường Dũng Sĩ" MinZhuanSheng="10" MinLevel="0" MaxZhuanSheng="10" MaxLevel="100" Exp="1548288000" BandJinBi="1000000" WinGoods="7050,120,1,0,0,0,0|5171,6,1,0,0,0,0" LoseGoods="7050,80,1,0,0,0,0|5170,20,1,0,0,0,0" />
+  <Award MapCode="7" Name="Chiến Trường Dũng Sĩ" MinZhuanSheng="11" MinLevel="0" MaxZhuanSheng="11" MaxLevel="100" Exp="1852416000" BandJinBi="1100000" WinGoods="7050,120,1,0,0,0,0|5171,6,1,0,0,0,0" LoseGoods="7050,80,1,0,0,0,0|5170,20,1,0,0,0,0" />
+  <Award MapCode="8" Name="Chiến Trường Dũng Sĩ" MinZhuanSheng="12" MinLevel="0" MaxZhuanSheng="12" MaxLevel="100" Exp="2000000000" BandJinBi="1200000" WinGoods="7050,120,1,0,0,0,0|5171,6,1,0,0,0,0" LoseGoods="7050,80,1,0,0,0,0|5170,20,1,0,0,0,0" />
+  <Award MapCode="9" Name="Chiến Trường Dũng Sĩ" MinZhuanSheng="13" MinLevel="0" MaxZhuanSheng="13" MaxLevel="100" Exp="2000000000" BandJinBi="1300000" WinGoods="7050,120,1,0,0,0,0|5171,6,1,0,0,0,0" LoseGoods="7050,80,1,0,0,0,0|5170,20,1,0,0,0,0" />
+  <Award MapCode="10" Name="Chiến Trường Dũng Sĩ" MinZhuanSheng="14" MinLevel="0" MaxZhuanSheng="14" MaxLevel="100" Exp="2000000000" BandJinBi="1400000" WinGoods="7050,120,1,0,0,0,0|5171,6,1,0,0,0,0" LoseGoods="7050,80,1,0,0,0,0|5170,20,1,0,0,0,0" />
+  <Award MapCode="11" Name="Chiến Trường Dũng Sĩ" MinZhuanSheng="15" MinLevel="0" MaxZhuanSheng="15" MaxLevel="100" Exp="2000000000" BandJinBi="1500000" WinGoods="7050,120,1,0,0,0,0|5171,6,1,0,0,0,0" LoseGoods="7050,80,1,0,0,0,0|5170,20,1,0,0,0,0" />
+  <Award MapCode="12" Name="Chiến Trường Dũng Sĩ" MinZhuanSheng="16" MinLevel="0" MaxZhuanSheng="16" MaxLevel="100" Exp="2000000000" BandJinBi="1600000" WinGoods="7050,120,1,0,0,0,0|5171,6,1,0,0,0,0" LoseGoods="7050,80,1,0,0,0,0|5170,20,1,0,0,0,0" />
+  <Award MapCode="13" Name="Chiến Trường Dũng Sĩ" MinZhuanSheng="17" MinLevel="0" MaxZhuanSheng="17" MaxLevel="100" Exp="2000000000" BandJinBi="1600000" WinGoods="7050,120,1,0,0,0,0|5171,6,1,0,0,0,0" LoseGoods="7050,80,1,0,0,0,0|5170,20,1,0,0,0,0" />
+  <Award MapCode="14" Name="Chiến Trường Dũng Sĩ" MinZhuanSheng="18" MinLevel="0" MaxZhuanSheng="18" MaxLevel="100" Exp="2000000000" BandJinBi="1600000" WinGoods="7050,120,1,0,0,0,0|5171,6,1,0,0,0,0" LoseGoods="7050,80,1,0,0,0,0|5170,20,1,0,0,0,0" />
+  <Award MapCode="15" Name="Chiến Trường Dũng Sĩ" MinZhuanSheng="19" MinLevel="0" MaxZhuanSheng="19" MaxLevel="100" Exp="2000000000" BandJinBi="1600000" WinGoods="7050,120,1,0,0,0,0|5171,6,1,0,0,0,0" LoseGoods="7050,80,1,0,0,0,0|5170,20,1,0,0,0,0" />
+</Config>"

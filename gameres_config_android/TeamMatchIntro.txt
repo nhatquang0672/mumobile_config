@@ -1,0 +1,14 @@
+TextAsset Base
+	string m_Name = "TeamMatchIntro"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Chi tiết Tranh Bá Đội{-}" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Trong BXH Thi Đấu Đội, top {17e43e}64{-} đội sẽ có thể tham gia Tranh Bá Đội tháng đó{-}." Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, Ngày {17e43e}9{-} mỗi tháng lúc {fac60d}2-5{-} giờ sẽ tiến hành sự kiện Tranh Bá Đội." Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, 2:00 đấu top 32; 2:20 đấu top 16; 2:40 đấu top 8; 3:00 đấu top 4; 3:20 đấu bán kết; 3:40 đấu chung kết{-}." Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, Trong sự kiện sẽ không thể thay đổi thành viên{-}." Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5, Tranh Bá Đội tiến hành theo thể thức một trận phân thắng bại{-}." Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae}6, Đội không có mặt đúng giờ sẽ xem như bỏ cuộc{-}." Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae}7, Ngày 1 đến ngày 9 mỗi tháng có thể cược kết quả Tranh Bá Đội{-}." Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae}8, Thưởng Tranh Bá Đội sẽ phát dựa vào thứ hạng{-}." Bold="0" />
+</Config>"

@@ -1,0 +1,478 @@
+TextAsset Base
+	string m_Name = "EraDrop"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <EraDrop ID="5001" EraID="1" EraStage="1" Name="Đầu Tượng Thần" Fixedaward="" MaxList="-1" GoodsID="960000,0.001,0,0,0,0,0" />
+  <EraDrop ID="6001" EraID="1" EraStage="1" Name="Thân Tượng Thần" Fixedaward="" MaxList="-1" GoodsID="960001,0.001,0,0,0,0,0" />
+  <EraDrop ID="7001" EraID="1" EraStage="1" Name="Tay Tượng Thần" Fixedaward="" MaxList="-1" GoodsID="960002,0.001,0,0,0,0,0" />
+  <EraDrop ID="6002" EraID="1" EraStage="1" Name="Cọc Gỗ Cổ" Fixedaward="" MaxList="-1" GoodsID="960003,0.001,0,0,0,0,0" />
+  <EraDrop ID="7002" EraID="1" EraStage="1" Name="Trang Sức Đồ Đằng" Fixedaward="" MaxList="-1" GoodsID="960004,0.001,0,0,0,0,0" />
+  <EraDrop ID="5002" EraID="1" EraStage="1" Name="Thuốc Màu Tươi" Fixedaward="" MaxList="-1" GoodsID="960005,0.001,0,0,0,0,0" />
+  <EraDrop ID="7003" EraID="1" EraStage="1" Name="Đá Ánh Trăng" Fixedaward="" MaxList="-1" GoodsID="960006,0.001,0,0,0,0,0" />
+  <EraDrop ID="5003" EraID="1" EraStage="1" Name="Đầu Gậy Vàng" Fixedaward="" MaxList="-1" GoodsID="960007,0.001,0,0,0,0,0" />
+  <EraDrop ID="6003" EraID="1" EraStage="1" Name="Trượng Vàng" Fixedaward="" MaxList="-1" GoodsID="960008,0.001,0,0,0,0,0" />
+  <EraDrop ID="5004" EraID="1" EraStage="1" Name="Đá Ánh Trăng" Fixedaward="" MaxList="-1" GoodsID="960006,0.001,0,0,0,0,0" />
+  <EraDrop ID="6004" EraID="1" EraStage="1" Name="Cung Đàn Bền" Fixedaward="" MaxList="-1" GoodsID="960009,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000040" EraID="1" EraStage="1" Name="Đàn Kiên Cố" Fixedaward="" MaxList="-1" GoodsID="960010,1,0,0,0,0,0|960010,0.5,0,0,0,0,0|960010,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000043" EraID="1" EraStage="1" Name="Đàn Kiên Cố" Fixedaward="" MaxList="-1" GoodsID="960010,1,0,0,0,0,0|960010,0.5,0,0,0,0,0|960010,0.5,0,0,0,0,0" />
+  <EraDrop ID="7001" EraID="1" EraStage="1" Name="Đàn Kiên Cố" Fixedaward="" MaxList="-1" GoodsID="960010,0.0001,0,0,0,0,0" />
+  <EraDrop ID="6005" EraID="1" EraStage="1" Name="Đá Ánh Trăng" Fixedaward="" MaxList="-1" GoodsID="960006,0.001,0,0,0,0,0" />
+  <EraDrop ID="7004" EraID="1" EraStage="1" Name="Da Bền" Fixedaward="" MaxList="-1" GoodsID="960011,0.001,0,0,0,0,0" />
+  <EraDrop ID="5090" EraID="1" EraStage="1" Name="Gỗ Tượng" Fixedaward="" MaxList="-1" GoodsID="960012,1,0,0,0,0,0|960012,0.5,0,0,0,0,0|960012,0.5,0,0,0,0,0|960012,0.5,0,0,0,0,0" />
+  <EraDrop ID="6090" EraID="1" EraStage="1" Name="Gỗ Tượng" Fixedaward="" MaxList="-1" GoodsID="960012,1,0,0,0,0,0|960012,0.5,0,0,0,0,0|960012,0.5,0,0,0,0,0|960012,0.5,0,0,0,0,0" />
+  <EraDrop ID="7002" EraID="1" EraStage="1" Name="Gỗ Tượng" Fixedaward="" MaxList="-1" GoodsID="960012,0.0001,0,0,0,0,0" />
+  <EraDrop ID="6006" EraID="1" EraStage="2" Name="Thịt Khô Thơm" Fixedaward="" MaxList="-1" GoodsID="960013,0.001,0,0,0,0,0" />
+  <EraDrop ID="5005" EraID="1" EraStage="2" Name="Trái Cây Xanh" Fixedaward="" MaxList="-1" GoodsID="960014,0.001,0,0,0,0,0" />
+  <EraDrop ID="7005" EraID="1" EraStage="2" Name="Nước Suối Mát" Fixedaward="" MaxList="-1" GoodsID="960015,0.001,0,0,0,0,0" />
+  <EraDrop ID="7006" EraID="1" EraStage="2" Name="Nón Sắt" Fixedaward="" MaxList="-1" GoodsID="960016,0.001,0,0,0,0,0" />
+  <EraDrop ID="6007" EraID="1" EraStage="2" Name="Giáp Sắt" Fixedaward="" MaxList="-1" GoodsID="960017,0.001,0,0,0,0,0" />
+  <EraDrop ID="5006" EraID="1" EraStage="2" Name="Giáp Chân Sắt" Fixedaward="" MaxList="-1" GoodsID="960018,0.001,0,0,0,0,0" />
+  <EraDrop ID="5007" EraID="1" EraStage="2" Name="Đá Mặt Trời" Fixedaward="" MaxList="-1" GoodsID="960019,0.001,0,0,0,0,0" />
+  <EraDrop ID="7001" EraID="1" EraStage="2" Name="Dao Bén" Fixedaward="" MaxList="-1" GoodsID="960020,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000046" EraID="1" EraStage="2" Name="Cán Dao Bền" Fixedaward="" MaxList="-1" GoodsID="960021,1,0,0,0,0,0|960021,0.5,0,0,0,0,0|960021,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000044" EraID="1" EraStage="2" Name="Cán Dao Bền" Fixedaward="" MaxList="-1" GoodsID="960021,1,0,0,0,0,0|960021,0.5,0,0,0,0,0|960021,0.5,0,0,0,0,0" />
+  <EraDrop ID="6008" EraID="1" EraStage="2" Name="Đá Mặt Trời" Fixedaward="" MaxList="-1" GoodsID="960019,0.001,0,0,0,0,0" />
+  <EraDrop ID="5008" EraID="1" EraStage="2" Name="Dây Cung Bền" Fixedaward="" MaxList="-1" GoodsID="960022,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000047" EraID="1" EraStage="2" Name="Thân Cung Bền" Fixedaward="" MaxList="-1" GoodsID="960023,1,0,0,0,0,0|960023,0.5,0,0,0,0,0|960023,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000041" EraID="1" EraStage="2" Name="Thân Cung Bền" Fixedaward="" MaxList="-1" GoodsID="960023,1,0,0,0,0,0|960023,0.5,0,0,0,0,0|960023,0.5,0,0,0,0,0" />
+  <EraDrop ID="6001" EraID="1" EraStage="2" Name="Thân Cung Bền" Fixedaward="" MaxList="-1" GoodsID="960023,0.0001,0,0,0,0,0" />
+  <EraDrop ID="7002" EraID="1" EraStage="2" Name="Đá Mặt Trời" Fixedaward="" MaxList="-1" GoodsID="960019,0.001,0,0,0,0,0" />
+  <EraDrop ID="6001" EraID="1" EraStage="2" Name="Mũi Tên Thép" Fixedaward="" MaxList="-1" GoodsID="960024,0.001,0,0,0,0,0" />
+  <EraDrop ID="7090" EraID="1" EraStage="2" Name="Lông Vũ Đen" Fixedaward="" MaxList="-1" GoodsID="960025,1,0,0,0,0,0|960025,0.5,0,0,0,0,0|960025,0.5,0,0,0,0,0|960025,0.5,0,0,0,0,0" />
+  <EraDrop ID="6090" EraID="1" EraStage="2" Name="Lông Vũ Đen" Fixedaward="" MaxList="-1" GoodsID="960025,1,0,0,0,0,0|960025,0.5,0,0,0,0,0|960025,0.5,0,0,0,0,0|960025,0.5,0,0,0,0,0" />
+  <EraDrop ID="5001" EraID="1" EraStage="2" Name="Lông Vũ Đen" Fixedaward="" MaxList="-1" GoodsID="960025,0.0001,0,0,0,0,0" />
+  <EraDrop ID="7003" EraID="1" EraStage="3" Name="Nấm Đỏ" Fixedaward="" MaxList="-1" GoodsID="960026,0.001,0,0,0,0,0" />
+  <EraDrop ID="5001" EraID="1" EraStage="3" Name="Nấm Vàng" Fixedaward="" MaxList="-1" GoodsID="960027,0.001,0,0,0,0,0" />
+  <EraDrop ID="6002" EraID="1" EraStage="3" Name="Nấm Lục" Fixedaward="" MaxList="-1" GoodsID="960028,0.001,0,0,0,0,0" />
+  <EraDrop ID="5002" EraID="1" EraStage="3" Name="Hạt Giống Vi Khuẩn" Fixedaward="" MaxList="-1" GoodsID="960029,0.001,0,0,0,0,0" />
+  <EraDrop ID="6003" EraID="1" EraStage="3" Name="Độc Đầm Lầy" Fixedaward="" MaxList="-1" GoodsID="960030,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000042" EraID="1" EraStage="3" Name="Công Cụ Trồng" Fixedaward="" MaxList="-1" GoodsID="960031,1,0,0,0,0,0|960031,0.5,0,0,0,0,0|960031,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000045" EraID="1" EraStage="3" Name="Công Cụ Trồng" Fixedaward="" MaxList="-1" GoodsID="960031,1,0,0,0,0,0|960031,0.5,0,0,0,0,0|960031,0.5,0,0,0,0,0" />
+  <EraDrop ID="7003" EraID="1" EraStage="3" Name="Công Cụ Trồng" Fixedaward="" MaxList="-1" GoodsID="960031,0.0001,0,0,0,0,0" />
+  <EraDrop ID="6004" EraID="1" EraStage="3" Name="Bản Trích Nước Giếng" Fixedaward="" MaxList="-1" GoodsID="960032,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000048" EraID="1" EraStage="3" Name="Bản Trích Nước Sông" Fixedaward="" MaxList="-1" GoodsID="960033,1,0,0,0,0,0|960033,0.5,0,0,0,0,0|960033,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000043" EraID="1" EraStage="3" Name="Bản Trích Nước Sông" Fixedaward="" MaxList="-1" GoodsID="960033,1,0,0,0,0,0|960033,0.5,0,0,0,0,0|960033,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000046" EraID="1" EraStage="3" Name="Bản Trích Nước Mưa" Fixedaward="" MaxList="-1" GoodsID="960034,1,0,0,0,0,0|960034,0.5,0,0,0,0,0|960034,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000040" EraID="1" EraStage="3" Name="Bản Trích Nước Mưa" Fixedaward="" MaxList="-1" GoodsID="960034,1,0,0,0,0,0|960034,0.5,0,0,0,0,0|960034,0.5,0,0,0,0,0" />
+  <EraDrop ID="6002" EraID="1" EraStage="3" Name="Bản Trích Nước Mưa" Fixedaward="" MaxList="-1" GoodsID="960034,0.0001,0,0,0,0,0" />
+  <EraDrop ID="7004" EraID="1" EraStage="3" Name="Bản Trích Đất" Fixedaward="" MaxList="-1" GoodsID="960035,0.001,0,0,0,0,0" />
+  <EraDrop ID="6005" EraID="1" EraStage="3" Name="Bản Trích Đá" Fixedaward="" MaxList="-1" GoodsID="960036,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000041" EraID="1" EraStage="3" Name="Bản Trích Mỏ Đá" Fixedaward="" MaxList="-1" GoodsID="960037,1,0,0,0,0,0|960037,0.5,0,0,0,0,0|960037,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000044" EraID="1" EraStage="3" Name="Bản Trích Mỏ Đá" Fixedaward="" MaxList="-1" GoodsID="960037,1,0,0,0,0,0|960037,0.5,0,0,0,0,0|960037,0.5,0,0,0,0,0" />
+  <EraDrop ID="7004" EraID="1" EraStage="3" Name="Bản Trích Mỏ Đá" Fixedaward="" MaxList="-1" GoodsID="960037,0.0001,0,0,0,0,0" />
+  <EraDrop ID="5003" EraID="1" EraStage="3" Name="Bản Trích Hoa Cỏ" Fixedaward="" MaxList="-1" GoodsID="960038,0.001,0,0,0,0,0" />
+  <EraDrop ID="6006" EraID="1" EraStage="3" Name="Bản Trích Lá Cây" Fixedaward="" MaxList="-1" GoodsID="960039,0.001,0,0,0,0,0" />
+  <EraDrop ID="5090" EraID="1" EraStage="3" Name="Bản Trích Trái Cây" Fixedaward="" MaxList="-1" GoodsID="960040,1,0,0,0,0,0|960040,0.5,0,0,0,0,0|960040,0.5,0,0,0,0,0|960040,0.5,0,0,0,0,0" />
+  <EraDrop ID="7090" EraID="1" EraStage="3" Name="Bản Trích Trái Cây" Fixedaward="" MaxList="-1" GoodsID="960040,1,0,0,0,0,0|960040,0.5,0,0,0,0,0|960040,0.5,0,0,0,0,0|960040,0.5,0,0,0,0,0" />
+  <EraDrop ID="6007" EraID="1" EraStage="4" Name="Khiên Nhuốm Máu" Fixedaward="" MaxList="-1" GoodsID="960044,0.001,0,0,0,0,0" />
+  <EraDrop ID="5004" EraID="1" EraStage="4" Name="Kiếm Hỏng" Fixedaward="" MaxList="-1" GoodsID="960045,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000047" EraID="1" EraStage="4" Name="Rìu Hỏng" Fixedaward="" MaxList="-1" GoodsID="960046,1,0,0,0,0,0|960046,0.5,0,0,0,0,0|960046,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000045" EraID="1" EraStage="4" Name="Rìu Hỏng" Fixedaward="" MaxList="-1" GoodsID="960046,1,0,0,0,0,0|960046,0.5,0,0,0,0,0|960046,0.5,0,0,0,0,0" />
+  <EraDrop ID="5002" EraID="1" EraStage="4" Name="Rìu Hỏng" Fixedaward="" MaxList="-1" GoodsID="960046,0.0001,0,0,0,0,0" />
+  <EraDrop ID="7005" EraID="1" EraStage="4" Name="Nguồn Tự Nhiên" Fixedaward="" MaxList="-1" GoodsID="960047,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000042" EraID="1" EraStage="4" Name="Nước Sạch" Fixedaward="" MaxList="-1" GoodsID="960048,1,0,0,0,0,0|960048,0.5,0,0,0,0,0|960048,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000048" EraID="1" EraStage="4" Name="Nước Sạch" Fixedaward="" MaxList="-1" GoodsID="960048,1,0,0,0,0,0|960048,0.5,0,0,0,0,0|960048,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000040" EraID="1" EraStage="4" Name="Đồ Đằng Nước" Fixedaward="" MaxList="-1" GoodsID="960049,1,0,0,0,0,0|960049,0.5,0,0,0,0,0|960049,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000043" EraID="1" EraStage="4" Name="Đồ Đằng Nước" Fixedaward="" MaxList="-1" GoodsID="960049,1,0,0,0,0,0|960049,0.5,0,0,0,0,0|960049,0.5,0,0,0,0,0" />
+  <EraDrop ID="7005" EraID="1" EraStage="4" Name="Đồ Đằng Nước" Fixedaward="" MaxList="-1" GoodsID="960049,0.0001,0,0,0,0,0" />
+  <EraDrop ID="5005" EraID="1" EraStage="4" Name="Nguồn Tự Nhiên" Fixedaward="" MaxList="-1" GoodsID="960047,0.001,0,0,0,0,0" />
+  <EraDrop ID="7006" EraID="1" EraStage="4" Name="Thổ Nhưỡng Sạch" Fixedaward="" MaxList="-1" GoodsID="960050,0.001,0,0,0,0,0" />
+  <EraDrop ID="5090" EraID="1" EraStage="4" Name="Đồ Đằng Đất" Fixedaward="" MaxList="-1" GoodsID="960051,1,0,0,0,0,0|960051,0.5,0,0,0,0,0|960051,0.5,0,0,0,0,0|960051,0.5,0,0,0,0,0" />
+  <EraDrop ID="6090" EraID="1" EraStage="4" Name="Đồ Đằng Đất" Fixedaward="" MaxList="-1" GoodsID="960051,1,0,0,0,0,0|960051,0.5,0,0,0,0,0|960051,0.5,0,0,0,0,0|960051,0.5,0,0,0,0,0" />
+  <EraDrop ID="6008" EraID="1" EraStage="4" Name="Nguồn Tự Nhiên" Fixedaward="" MaxList="-1" GoodsID="960047,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000046" EraID="1" EraStage="4" Name="Hạt Giống Sạch" Fixedaward="" MaxList="-1" GoodsID="960052,1,0,0,0,0,0|960052,0.5,0,0,0,0,0|960052,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000044" EraID="1" EraStage="4" Name="Hạt Giống Sạch" Fixedaward="" MaxList="-1" GoodsID="960052,1,0,0,0,0,0|960052,0.5,0,0,0,0,0|960052,0.5,0,0,0,0,0" />
+  <EraDrop ID="7090" EraID="1" EraStage="4" Name="Đồ Đằng Sinh Mệnh" Fixedaward="" MaxList="-1" GoodsID="960053,1,0,0,0,0,0|960053,0.5,0,0,0,0,0|960053,0.5,0,0,0,0,0|960053,0.5,0,0,0,0,0" />
+  <EraDrop ID="5001" EraID="2" EraStage="1" Name="Dung Nham Nguội" Fixedaward="" MaxList="-1" GoodsID="960054,0.001,0,0,0,0,0" />
+  <EraDrop ID="6001" EraID="2" EraStage="1" Name="Tung Tích Dị Biến" Fixedaward="" MaxList="-1" GoodsID="960055,0.001,0,0,0,0,0" />
+  <EraDrop ID="7001" EraID="2" EraStage="1" Name="Ấn Ký Ác Ma" Fixedaward="" MaxList="-1" GoodsID="960056,0.001,0,0,0,0,0" />
+  <EraDrop ID="6002" EraID="2" EraStage="1" Name="Kim Nam Châm" Fixedaward="" MaxList="-1" GoodsID="960057,0.001,0,0,0,0,0" />
+  <EraDrop ID="7002" EraID="2" EraStage="1" Name="Thảo Dược Quý" Fixedaward="" MaxList="-1" GoodsID="960058,0.001,0,0,0,0,0" />
+  <EraDrop ID="5002" EraID="2" EraStage="1" Name="Lộ Trình Di Chuyển" Fixedaward="" MaxList="-1" GoodsID="960059,0.001,0,0,0,0,0" />
+  <EraDrop ID="7003" EraID="2" EraStage="1" Name="Đất Ngày Trước" Fixedaward="" MaxList="-1" GoodsID="960060,0.001,0,0,0,0,0" />
+  <EraDrop ID="5003" EraID="2" EraStage="1" Name="Đầu Đạo Tặc" Fixedaward="" MaxList="-1" GoodsID="960061,0.001,0,0,0,0,0" />
+  <EraDrop ID="6003" EraID="2" EraStage="1" Name="Dao Đạo Tặc" Fixedaward="" MaxList="-1" GoodsID="960062,0.001,0,0,0,0,0" />
+  <EraDrop ID="5004" EraID="2" EraStage="1" Name="Đất Ngày Trước" Fixedaward="" MaxList="-1" GoodsID="960060,0.001,0,0,0,0,0" />
+  <EraDrop ID="6004" EraID="2" EraStage="1" Name="Tim Ác Ma" Fixedaward="" MaxList="-1" GoodsID="960063,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000040" EraID="2" EraStage="1" Name="Sừng Ác Ma" Fixedaward="" MaxList="-1" GoodsID="960064,1,0,0,0,0,0|960064,0.5,0,0,0,0,0|960064,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000043" EraID="2" EraStage="1" Name="Sừng Ác Ma" Fixedaward="" MaxList="-1" GoodsID="960064,1,0,0,0,0,0|960064,0.5,0,0,0,0,0|960064,0.5,0,0,0,0,0" />
+  <EraDrop ID="6005" EraID="2" EraStage="1" Name="Đất Ngày Trước" Fixedaward="" MaxList="-1" GoodsID="960060,0.001,0,0,0,0,0" />
+  <EraDrop ID="7004" EraID="2" EraStage="1" Name="Vũ Khí Hoang" Fixedaward="" MaxList="-1" GoodsID="960065,0.001,0,0,0,0,0" />
+  <EraDrop ID="5090" EraID="2" EraStage="1" Name="Giáp Hoang" Fixedaward="" MaxList="-1" GoodsID="960066,1,0,0,0,0,0|960066,0.5,0,0,0,0,0|960066,0.5,0,0,0,0,0|960066,0.5,0,0,0,0,0" />
+  <EraDrop ID="6090" EraID="2" EraStage="1" Name="Giáp Hoang" Fixedaward="" MaxList="-1" GoodsID="960066,1,0,0,0,0,0|960066,0.5,0,0,0,0,0|960066,0.5,0,0,0,0,0|960066,0.5,0,0,0,0,0" />
+  <EraDrop ID="6006" EraID="2" EraStage="2" Name="Râu Thần Rồng" Fixedaward="" MaxList="-1" GoodsID="960067,0.001,0,0,0,0,0" />
+  <EraDrop ID="5005" EraID="2" EraStage="2" Name="Giáp Thần Rồng" Fixedaward="" MaxList="-1" GoodsID="960068,0.001,0,0,0,0,0" />
+  <EraDrop ID="7005" EraID="2" EraStage="2" Name="Sừng Thần Rồng" Fixedaward="" MaxList="-1" GoodsID="960069,0.001,0,0,0,0,0" />
+  <EraDrop ID="7006" EraID="2" EraStage="2" Name="Mũi Tên" Fixedaward="" MaxList="-1" GoodsID="960070,0.001,0,0,0,0,0" />
+  <EraDrop ID="6007" EraID="2" EraStage="2" Name="Cung Bỏ Hoang" Fixedaward="" MaxList="-1" GoodsID="960071,0.001,0,0,0,0,0" />
+  <EraDrop ID="5006" EraID="2" EraStage="2" Name="Dao Thất Lạc" Fixedaward="" MaxList="-1" GoodsID="960072,0.001,0,0,0,0,0" />
+  <EraDrop ID="5007" EraID="2" EraStage="2" Name="Sổ Tay Thế Tập" Fixedaward="" MaxList="-1" GoodsID="960073,0.001,0,0,0,0,0" />
+  <EraDrop ID="7001" EraID="2" EraStage="2" Name="Lệnh Thu Thập" Fixedaward="" MaxList="-1" GoodsID="960074,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000046" EraID="2" EraStage="2" Name="Sách Sử Cổ" Fixedaward="" MaxList="-1" GoodsID="960075,1,0,0,0,0,0|960075,0.5,0,0,0,0,0|960075,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000044" EraID="2" EraStage="2" Name="Sách Sử Cổ" Fixedaward="" MaxList="-1" GoodsID="960075,1,0,0,0,0,0|960075,0.5,0,0,0,0,0|960075,0.5,0,0,0,0,0" />
+  <EraDrop ID="6008" EraID="2" EraStage="2" Name="Sổ Tay Thế Tập" Fixedaward="" MaxList="-1" GoodsID="960073,0.001,0,0,0,0,0" />
+  <EraDrop ID="5008" EraID="2" EraStage="2" Name="Lệnh Gọi Tinh Anh" Fixedaward="" MaxList="-1" GoodsID="960076,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000047" EraID="2" EraStage="2" Name="Thuốc Hồi Phục" Fixedaward="" MaxList="-1" GoodsID="960077,1,0,0,0,0,0|960077,0.5,0,0,0,0,0|960077,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000041" EraID="2" EraStage="2" Name="Thuốc Hồi Phục" Fixedaward="" MaxList="-1" GoodsID="960077,1,0,0,0,0,0|960077,0.5,0,0,0,0,0|960077,0.5,0,0,0,0,0" />
+  <EraDrop ID="7002" EraID="2" EraStage="2" Name="Sổ Tay Thế Tập" Fixedaward="" MaxList="-1" GoodsID="960073,0.001,0,0,0,0,0" />
+  <EraDrop ID="6001" EraID="2" EraStage="2" Name="Kiếm Sắc Bén" Fixedaward="" MaxList="-1" GoodsID="960078,0.001,0,0,0,0,0" />
+  <EraDrop ID="7090" EraID="2" EraStage="2" Name="Giáp Bền Vững" Fixedaward="" MaxList="-1" GoodsID="960079,1,0,0,0,0,0|960079,0.5,0,0,0,0,0|960079,0.5,0,0,0,0,0|960079,0.5,0,0,0,0,0" />
+  <EraDrop ID="6090" EraID="2" EraStage="2" Name="Giáp Bền Vững" Fixedaward="" MaxList="-1" GoodsID="960079,1,0,0,0,0,0|960079,0.5,0,0,0,0,0|960079,0.5,0,0,0,0,0|960079,0.5,0,0,0,0,0" />
+  <EraDrop ID="7003" EraID="2" EraStage="3" Name="Xương Ác Ma" Fixedaward="" MaxList="-1" GoodsID="960080,0.001,0,0,0,0,0" />
+  <EraDrop ID="5001" EraID="2" EraStage="3" Name="Hồn Ác Ma" Fixedaward="" MaxList="-1" GoodsID="960081,0.001,0,0,0,0,0" />
+  <EraDrop ID="6002" EraID="2" EraStage="3" Name="Đuôi Ác Ma" Fixedaward="" MaxList="-1" GoodsID="960082,0.001,0,0,0,0,0" />
+  <EraDrop ID="5002" EraID="2" EraStage="3" Name="Lông Ác Ma" Fixedaward="" MaxList="-1" GoodsID="960083,0.001,0,0,0,0,0" />
+  <EraDrop ID="6003" EraID="2" EraStage="3" Name="Vuốt Ác Ma" Fixedaward="" MaxList="-1" GoodsID="960084,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000042" EraID="2" EraStage="3" Name="Máu Ác Ma" Fixedaward="" MaxList="-1" GoodsID="960085,1,0,0,0,0,0|960085,0.5,0,0,0,0,0|960085,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000045" EraID="2" EraStage="3" Name="Máu Ác Ma" Fixedaward="" MaxList="-1" GoodsID="960085,1,0,0,0,0,0|960085,0.5,0,0,0,0,0|960085,0.5,0,0,0,0,0" />
+  <EraDrop ID="6004" EraID="2" EraStage="3" Name="Quả Kim Cang" Fixedaward="" MaxList="-1" GoodsID="960086,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000048" EraID="2" EraStage="3" Name="Cỏ Lưỡi Liềm" Fixedaward="" MaxList="-1" GoodsID="960087,1,0,0,0,0,0|960087,0.5,0,0,0,0,0|960087,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000043" EraID="2" EraStage="3" Name="Cỏ Lưỡi Liềm" Fixedaward="" MaxList="-1" GoodsID="960087,1,0,0,0,0,0|960087,0.5,0,0,0,0,0|960087,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000046" EraID="2" EraStage="3" Name="Hồn Đại Địa" Fixedaward="" MaxList="-1" GoodsID="960088,1,0,0,0,0,0|960088,0.5,0,0,0,0,0|960088,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000040" EraID="2" EraStage="3" Name="Hồn Đại Địa" Fixedaward="" MaxList="-1" GoodsID="960088,1,0,0,0,0,0|960088,0.5,0,0,0,0,0|960088,0.5,0,0,0,0,0" />
+  <EraDrop ID="7004" EraID="2" EraStage="3" Name="Bình Nước Đồng" Fixedaward="" MaxList="-1" GoodsID="960089,0.001,0,0,0,0,0" />
+  <EraDrop ID="6005" EraID="2" EraStage="3" Name="Bình Nước Vàng" Fixedaward="" MaxList="-1" GoodsID="960090,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000041" EraID="2" EraStage="3" Name="Bình Nước Bạc" Fixedaward="" MaxList="-1" GoodsID="960091,1,0,0,0,0,0|960091,0.5,0,0,0,0,0|960091,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000044" EraID="2" EraStage="3" Name="Bình Nước Bạc" Fixedaward="" MaxList="-1" GoodsID="960091,1,0,0,0,0,0|960091,0.5,0,0,0,0,0|960091,0.5,0,0,0,0,0" />
+  <EraDrop ID="5003" EraID="2" EraStage="3" Name="Cây Ngàn Năm" Fixedaward="" MaxList="-1" GoodsID="960092,0.001,0,0,0,0,0" />
+  <EraDrop ID="6006" EraID="2" EraStage="3" Name="Dao Cực Phẩm" Fixedaward="" MaxList="-1" GoodsID="960093,0.001,0,0,0,0,0" />
+  <EraDrop ID="5090" EraID="2" EraStage="3" Name="Đồ Giám Chế Tạo" Fixedaward="" MaxList="-1" GoodsID="960094,1,0,0,0,0,0|960094,0.5,0,0,0,0,0|960094,0.5,0,0,0,0,0|960094,0.5,0,0,0,0,0" />
+  <EraDrop ID="7090" EraID="2" EraStage="3" Name="Đồ Giám Chế Tạo" Fixedaward="" MaxList="-1" GoodsID="960094,1,0,0,0,0,0|960094,0.5,0,0,0,0,0|960094,0.5,0,0,0,0,0|960094,0.5,0,0,0,0,0" />
+  <EraDrop ID="6007" EraID="2" EraStage="4" Name="Nón Phản Đồ" Fixedaward="" MaxList="-1" GoodsID="960098,0.001,0,0,0,0,0" />
+  <EraDrop ID="5004" EraID="2" EraStage="4" Name="Giáp Phản Đồ" Fixedaward="" MaxList="-1" GoodsID="960099,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000047" EraID="2" EraStage="4" Name="Kiếm Phản Đồ" Fixedaward="" MaxList="-1" GoodsID="960100,1,0,0,0,0,0|960100,0.5,0,0,0,0,0|960100,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000045" EraID="2" EraStage="4" Name="Kiếm Phản Đồ" Fixedaward="" MaxList="-1" GoodsID="960100,1,0,0,0,0,0|960100,0.5,0,0,0,0,0|960100,0.5,0,0,0,0,0" />
+  <EraDrop ID="7005" EraID="2" EraStage="4" Name="Nguồn Đại Địa" Fixedaward="" MaxList="-1" GoodsID="960101,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000042" EraID="2" EraStage="4" Name="Nón Cỏ Ngụy Trang" Fixedaward="" MaxList="-1" GoodsID="960102,1,0,0,0,0,0|960102,0.5,0,0,0,0,0|960102,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000048" EraID="2" EraStage="4" Name="Nón Cỏ Ngụy Trang" Fixedaward="" MaxList="-1" GoodsID="960102,1,0,0,0,0,0|960102,0.5,0,0,0,0,0|960102,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000040" EraID="2" EraStage="4" Name="Áo Da Ngụy Trang" Fixedaward="" MaxList="-1" GoodsID="960103,1,0,0,0,0,0|960103,0.5,0,0,0,0,0|960103,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000043" EraID="2" EraStage="4" Name="Áo Da Ngụy Trang" Fixedaward="" MaxList="-1" GoodsID="960103,1,0,0,0,0,0|960103,0.5,0,0,0,0,0|960103,0.5,0,0,0,0,0" />
+  <EraDrop ID="5005" EraID="2" EraStage="4" Name="Nguồn Đại Địa" Fixedaward="" MaxList="-1" GoodsID="960101,0.001,0,0,0,0,0" />
+  <EraDrop ID="7006" EraID="2" EraStage="4" Name="Hơi Thở Thần Long" Fixedaward="" MaxList="-1" GoodsID="960104,0.001,0,0,0,0,0" />
+  <EraDrop ID="5090" EraID="2" EraStage="4" Name="Nộ Hống Thần Long" Fixedaward="" MaxList="-1" GoodsID="960105,1,0,0,0,0,0|960105,0.5,0,0,0,0,0|960105,0.5,0,0,0,0,0|960105,0.5,0,0,0,0,0" />
+  <EraDrop ID="6090" EraID="2" EraStage="4" Name="Nộ Hống Thần Long" Fixedaward="" MaxList="-1" GoodsID="960105,1,0,0,0,0,0|960105,0.5,0,0,0,0,0|960105,0.5,0,0,0,0,0|960105,0.5,0,0,0,0,0" />
+  <EraDrop ID="6008" EraID="2" EraStage="4" Name="Nguồn Đại Địa" Fixedaward="" MaxList="-1" GoodsID="960101,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000046" EraID="2" EraStage="4" Name="Tượng Thần Long" Fixedaward="" MaxList="-1" GoodsID="960106,1,0,0,0,0,0|960106,0.5,0,0,0,0,0|960106,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000044" EraID="2" EraStage="4" Name="Tượng Thần Long" Fixedaward="" MaxList="-1" GoodsID="960106,1,0,0,0,0,0|960106,0.5,0,0,0,0,0|960106,0.5,0,0,0,0,0" />
+  <EraDrop ID="7090" EraID="2" EraStage="4" Name="Bia Đá Kỷ Niệm" Fixedaward="" MaxList="-1" GoodsID="960107,1,0,0,0,0,0|960107,0.5,0,0,0,0,0|960107,0.5,0,0,0,0,0|960107,0.5,0,0,0,0,0" />
+  <EraDrop ID="5001" EraID="3" EraStage="1" Name="Mặt Nạ Giáo Đồ" Fixedaward="" MaxList="-1" GoodsID="960159,0.001,0,0,0,0,0" />
+  <EraDrop ID="6001" EraID="3" EraStage="1" Name="Giáp Giáo Đồ" Fixedaward="" MaxList="-1" GoodsID="960160,0.001,0,0,0,0,0" />
+  <EraDrop ID="7001" EraID="3" EraStage="1" Name="Quần Giáo Đồ" Fixedaward="" MaxList="-1" GoodsID="960161,0.001,0,0,0,0,0" />
+  <EraDrop ID="6002" EraID="3" EraStage="1" Name="Map Rừng" Fixedaward="" MaxList="-1" GoodsID="960162,0.001,0,0,0,0,0" />
+  <EraDrop ID="7002" EraID="3" EraStage="1" Name="Mật Hàm Giáo Hội" Fixedaward="" MaxList="-1" GoodsID="960163,0.001,0,0,0,0,0" />
+  <EraDrop ID="5002" EraID="3" EraStage="1" Name="La Bàn Cơ Xảo" Fixedaward="" MaxList="-1" GoodsID="960164,0.001,0,0,0,0,0" />
+  <EraDrop ID="7003" EraID="3" EraStage="1" Name="Vòng Vỡ " Fixedaward="" MaxList="-1" GoodsID="960165,0.001,0,0,0,0,0" />
+  <EraDrop ID="5003" EraID="3" EraStage="1" Name="Rừng Thổ Nhưỡng" Fixedaward="" MaxList="-1" GoodsID="960166,0.001,0,0,0,0,0" />
+  <EraDrop ID="6003" EraID="3" EraStage="1" Name="Trang Sức Cốt Lâu" Fixedaward="" MaxList="-1" GoodsID="960167,0.001,0,0,0,0,0" />
+  <EraDrop ID="5004" EraID="3" EraStage="1" Name="Vòng Vỡ " Fixedaward="" MaxList="-1" GoodsID="960165,0.001,0,0,0,0,0" />
+  <EraDrop ID="6004" EraID="3" EraStage="1" Name="Ấn Ký Tà Thần" Fixedaward="" MaxList="-1" GoodsID="960168,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000040" EraID="3" EraStage="1" Name="Tế Tự Đoản Trượng" Fixedaward="" MaxList="-1" GoodsID="960169,1,0,0,0,0,0|960169,0.5,0,0,0,0,0|960169,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000043" EraID="3" EraStage="1" Name="Tế Tự Đoản Trượng" Fixedaward="" MaxList="-1" GoodsID="960169,1,0,0,0,0,0|960169,0.5,0,0,0,0,0|960169,0.5,0,0,0,0,0" />
+  <EraDrop ID="7001" EraID="3" EraStage="1" Name="Tế Tự Đoản Trượng" Fixedaward="" MaxList="-1" GoodsID="960169,0.0001,0,0,0,0,0" />
+  <EraDrop ID="6005" EraID="3" EraStage="1" Name="Vòng Vỡ " Fixedaward="" MaxList="-1" GoodsID="960165,0.001,0,0,0,0,0" />
+  <EraDrop ID="7004" EraID="3" EraStage="1" Name="Yên Nại Lực" Fixedaward="" MaxList="-1" GoodsID="960170,0.001,0,0,0,0,0" />
+  <EraDrop ID="5090" EraID="3" EraStage="1" Name="Roi Kiên Nhẫn" Fixedaward="" MaxList="-1" GoodsID="960171,1,0,0,0,0,0|960171,0.5,0,0,0,0,0|960171,0.5,0,0,0,0,0|960171,0.5,0,0,0,0,0" />
+  <EraDrop ID="6090" EraID="3" EraStage="1" Name="Roi Kiên Nhẫn" Fixedaward="" MaxList="-1" GoodsID="960171,1,0,0,0,0,0|960171,0.5,0,0,0,0,0|960171,0.5,0,0,0,0,0|960171,0.5,0,0,0,0,0" />
+  <EraDrop ID="7002" EraID="3" EraStage="1" Name="Roi Kiên Nhẫn" Fixedaward="" MaxList="-1" GoodsID="960171,0.0001,0,0,0,0,0" />
+  <EraDrop ID="6006" EraID="3" EraStage="2" Name="Cung Dài Tinh Linh" Fixedaward="" MaxList="-1" GoodsID="960172,0.001,0,0,0,0,0" />
+  <EraDrop ID="5005" EraID="3" EraStage="2" Name="Tiễn Phong Lợi" Fixedaward="" MaxList="-1" GoodsID="960173,0.001,0,0,0,0,0" />
+  <EraDrop ID="7005" EraID="3" EraStage="2" Name="Cung Ngắn Liên Xạ" Fixedaward="" MaxList="-1" GoodsID="960174,0.001,0,0,0,0,0" />
+  <EraDrop ID="7006" EraID="3" EraStage="2" Name="Rìu Tinh Cương" Fixedaward="" MaxList="-1" GoodsID="960175,0.001,0,0,0,0,0" />
+  <EraDrop ID="6007" EraID="3" EraStage="2" Name="Rìu Minh Binh" Fixedaward="" MaxList="-1" GoodsID="960176,0.001,0,0,0,0,0" />
+  <EraDrop ID="5006" EraID="3" EraStage="2" Name="Rìu Song Nhẫn" Fixedaward="" MaxList="-1" GoodsID="960177,0.001,0,0,0,0,0" />
+  <EraDrop ID="5007" EraID="3" EraStage="2" Name="Ly Thánh Quang Minh" Fixedaward="" MaxList="-1" GoodsID="960178,0.001,0,0,0,0,0" />
+  <EraDrop ID="7001" EraID="3" EraStage="2" Name="Kiếm Thương Lam" Fixedaward="" MaxList="-1" GoodsID="960179,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000046" EraID="3" EraStage="2" Name="Kiếm Hoàng Kim" Fixedaward="" MaxList="-1" GoodsID="960180,1,0,0,0,0,0|960180,0.5,0,0,0,0,0|960180,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000044" EraID="3" EraStage="2" Name="Kiếm Hoàng Kim" Fixedaward="" MaxList="-1" GoodsID="960180,1,0,0,0,0,0|960180,0.5,0,0,0,0,0|960180,0.5,0,0,0,0,0" />
+  <EraDrop ID="6008" EraID="3" EraStage="2" Name="Ly Thánh Quang Minh" Fixedaward="" MaxList="-1" GoodsID="960178,0.001,0,0,0,0,0" />
+  <EraDrop ID="5008" EraID="3" EraStage="2" Name="Máu Cống Hiến" Fixedaward="" MaxList="-1" GoodsID="960181,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000047" EraID="3" EraStage="2" Name="Tinh Thạch Vàng" Fixedaward="" MaxList="-1" GoodsID="960182,1,0,0,0,0,0|960182,0.5,0,0,0,0,0|960182,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000041" EraID="3" EraStage="2" Name="Tinh Thạch Vàng" Fixedaward="" MaxList="-1" GoodsID="960182,1,0,0,0,0,0|960182,0.5,0,0,0,0,0|960182,0.5,0,0,0,0,0" />
+  <EraDrop ID="7002" EraID="3" EraStage="2" Name="Ly Thánh Quang Minh" Fixedaward="" MaxList="-1" GoodsID="960178,0.001,0,0,0,0,0" />
+  <EraDrop ID="6001" EraID="3" EraStage="2" Name="Kế Ước Vương Giả" Fixedaward="" MaxList="-1" GoodsID="960183,0.001,0,0,0,0,0" />
+  <EraDrop ID="7090" EraID="3" EraStage="2" Name="Thánh Kim Thuốc " Fixedaward="" MaxList="-1" GoodsID="960184,1,0,0,0,0,0|960184,0.5,0,0,0,0,0|960184,0.5,0,0,0,0,0|960184,0.5,0,0,0,0,0" />
+  <EraDrop ID="6090" EraID="3" EraStage="2" Name="Thánh Kim Thuốc " Fixedaward="" MaxList="-1" GoodsID="960184,1,0,0,0,0,0|960184,0.5,0,0,0,0,0|960184,0.5,0,0,0,0,0|960184,0.5,0,0,0,0,0" />
+  <EraDrop ID="5001" EraID="3" EraStage="2" Name="Thánh Kim Thuốc " Fixedaward="" MaxList="-1" GoodsID="960184,0.0001,0,0,0,0,0" />
+  <EraDrop ID="7003" EraID="3" EraStage="3" Name="Áo Giáo Đồ" Fixedaward="" MaxList="-1" GoodsID="960185,0.001,0,0,0,0,0" />
+  <EraDrop ID="5001" EraID="3" EraStage="3" Name="Mũ Hắc Ám" Fixedaward="" MaxList="-1" GoodsID="960186,0.001,0,0,0,0,0" />
+  <EraDrop ID="6002" EraID="3" EraStage="3" Name="Tượng Đê Ngữ" Fixedaward="" MaxList="-1" GoodsID="960187,0.001,0,0,0,0,0" />
+  <EraDrop ID="5002" EraID="3" EraStage="3" Name="Pháp Khí Bán Nguyệt" Fixedaward="" MaxList="-1" GoodsID="960188,0.001,0,0,0,0,0" />
+  <EraDrop ID="6003" EraID="3" EraStage="3" Name="Tế Kỷ Hồng Bảo Thạch" Fixedaward="" MaxList="-1" GoodsID="960189,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000042" EraID="3" EraStage="3" Name="Trượng Ma Lực" Fixedaward="" MaxList="-1" GoodsID="960190,1,0,0,0,0,0|960190,0.5,0,0,0,0,0|960190,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000045" EraID="3" EraStage="3" Name="Trượng Ma Lực" Fixedaward="" MaxList="-1" GoodsID="960190,1,0,0,0,0,0|960190,0.5,0,0,0,0,0|960190,0.5,0,0,0,0,0" />
+  <EraDrop ID="7003" EraID="3" EraStage="3" Name="Trượng Ma Lực" Fixedaward="" MaxList="-1" GoodsID="960190,0.0001,0,0,0,0,0" />
+  <EraDrop ID="6004" EraID="3" EraStage="3" Name="Khôi Ác Ngữ" Fixedaward="" MaxList="-1" GoodsID="960191,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000048" EraID="3" EraStage="3" Name="Giáp Ác Ngữ" Fixedaward="" MaxList="-1" GoodsID="960192,1,0,0,0,0,0|960192,0.5,0,0,0,0,0|960192,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000043" EraID="3" EraStage="3" Name="Giáp Ác Ngữ" Fixedaward="" MaxList="-1" GoodsID="960192,1,0,0,0,0,0|960192,0.5,0,0,0,0,0|960192,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000046" EraID="3" EraStage="3" Name="Giác Tà Linh" Fixedaward="" MaxList="-1" GoodsID="960193,1,0,0,0,0,0|960193,0.5,0,0,0,0,0|960193,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000040" EraID="3" EraStage="3" Name="Giác Tà Linh" Fixedaward="" MaxList="-1" GoodsID="960193,1,0,0,0,0,0|960193,0.5,0,0,0,0,0|960193,0.5,0,0,0,0,0" />
+  <EraDrop ID="6002" EraID="3" EraStage="3" Name="Giác Tà Linh" Fixedaward="" MaxList="-1" GoodsID="960193,0.0001,0,0,0,0,0" />
+  <EraDrop ID="7004" EraID="3" EraStage="3" Name="Thuốc Tà Linh" Fixedaward="" MaxList="-1" GoodsID="960194,0.001,0,0,0,0,0" />
+  <EraDrop ID="6005" EraID="3" EraStage="3" Name="Cốt Pháp Trận" Fixedaward="" MaxList="-1" GoodsID="960195,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000041" EraID="3" EraStage="3" Name="Tế Phẩm Tinh Linh" Fixedaward="" MaxList="-1" GoodsID="960196,1,0,0,0,0,0|960196,0.5,0,0,0,0,0|960196,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000044" EraID="3" EraStage="3" Name="Tế Phẩm Tinh Linh" Fixedaward="" MaxList="-1" GoodsID="960196,1,0,0,0,0,0|960196,0.5,0,0,0,0,0|960196,0.5,0,0,0,0,0" />
+  <EraDrop ID="7004" EraID="3" EraStage="3" Name="Tế Phẩm Tinh Linh" Fixedaward="" MaxList="-1" GoodsID="960196,0.0001,0,0,0,0,0" />
+  <EraDrop ID="5003" EraID="3" EraStage="3" Name="Ma Thạch Dung Nham" Fixedaward="" MaxList="-1" GoodsID="960197,0.001,0,0,0,0,0" />
+  <EraDrop ID="6006" EraID="3" EraStage="3" Name="Đá Tế Đàn" Fixedaward="" MaxList="-1" GoodsID="960198,0.001,0,0,0,0,0" />
+  <EraDrop ID="5090" EraID="3" EraStage="3" Name="Đạn Thuốc Liệt Diễm" Fixedaward="" MaxList="-1" GoodsID="960199,1,0,0,0,0,0|960199,0.5,0,0,0,0,0|960199,0.5,0,0,0,0,0|960199,0.5,0,0,0,0,0" />
+  <EraDrop ID="7090" EraID="3" EraStage="3" Name="Đạn Thuốc Liệt Diễm" Fixedaward="" MaxList="-1" GoodsID="960199,1,0,0,0,0,0|960199,0.5,0,0,0,0,0|960199,0.5,0,0,0,0,0|960199,0.5,0,0,0,0,0" />
+  <EraDrop ID="6007" EraID="3" EraStage="4" Name="Mắt Tà Linh" Fixedaward="" MaxList="-1" GoodsID="960200,0.001,0,0,0,0,0" />
+  <EraDrop ID="5004" EraID="3" EraStage="4" Name="Gai Tà Thượng Cổ" Fixedaward="" MaxList="-1" GoodsID="960201,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000047" EraID="3" EraStage="4" Name="Căn Tu Tà Ác" Fixedaward="" MaxList="-1" GoodsID="960202,1,0,0,0,0,0|960202,0.5,0,0,0,0,0|960202,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000045" EraID="3" EraStage="4" Name="Căn Tu Tà Ác" Fixedaward="" MaxList="-1" GoodsID="960202,1,0,0,0,0,0|960202,0.5,0,0,0,0,0|960202,0.5,0,0,0,0,0" />
+  <EraDrop ID="5002" EraID="3" EraStage="4" Name="Căn Tu Tà Ác" Fixedaward="" MaxList="-1" GoodsID="960202,0.0001,0,0,0,0,0" />
+  <EraDrop ID="7005" EraID="3" EraStage="4" Name="Nguồn Sợ Hãi" Fixedaward="" MaxList="-1" GoodsID="960203,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000042" EraID="3" EraStage="4" Name="Khôi Hắc Vương" Fixedaward="" MaxList="-1" GoodsID="960204,1,0,0,0,0,0|960204,0.5,0,0,0,0,0|960204,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000048" EraID="3" EraStage="4" Name="Khôi Hắc Vương" Fixedaward="" MaxList="-1" GoodsID="960204,1,0,0,0,0,0|960204,0.5,0,0,0,0,0|960204,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000040" EraID="3" EraStage="4" Name="Cờ Hắc Vương" Fixedaward="" MaxList="-1" GoodsID="960205,1,0,0,0,0,0|960205,0.5,0,0,0,0,0|960205,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000043" EraID="3" EraStage="4" Name="Cờ Hắc Vương" Fixedaward="" MaxList="-1" GoodsID="960205,1,0,0,0,0,0|960205,0.5,0,0,0,0,0|960205,0.5,0,0,0,0,0" />
+  <EraDrop ID="7005" EraID="3" EraStage="4" Name="Cờ Hắc Vương" Fixedaward="" MaxList="-1" GoodsID="960205,0.0001,0,0,0,0,0" />
+  <EraDrop ID="5005" EraID="3" EraStage="4" Name="Nguồn Sợ Hãi" Fixedaward="" MaxList="-1" GoodsID="960203,0.001,0,0,0,0,0" />
+  <EraDrop ID="7006" EraID="3" EraStage="4" Name="Lông Vũ Icarus" Fixedaward="" MaxList="-1" GoodsID="960206,0.001,0,0,0,0,0" />
+  <EraDrop ID="5090" EraID="3" EraStage="4" Name="Mầm Hy Vọng" Fixedaward="" MaxList="-1" GoodsID="960207,1,0,0,0,0,0|960207,0.5,0,0,0,0,0|960207,0.5,0,0,0,0,0|960207,0.5,0,0,0,0,0" />
+  <EraDrop ID="6090" EraID="3" EraStage="4" Name="Mầm Hy Vọng" Fixedaward="" MaxList="-1" GoodsID="960207,1,0,0,0,0,0|960207,0.5,0,0,0,0,0|960207,0.5,0,0,0,0,0|960207,0.5,0,0,0,0,0" />
+  <EraDrop ID="6008" EraID="3" EraStage="4" Name="Nguồn Sợ Hãi" Fixedaward="" MaxList="-1" GoodsID="960203,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000046" EraID="3" EraStage="4" Name="Cách Tà Linh" Fixedaward="" MaxList="-1" GoodsID="960208,1,0,0,0,0,0|960208,0.5,0,0,0,0,0|960208,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000044" EraID="3" EraStage="4" Name="Cách Tà Linh" Fixedaward="" MaxList="-1" GoodsID="960208,1,0,0,0,0,0|960208,0.5,0,0,0,0,0|960208,0.5,0,0,0,0,0" />
+  <EraDrop ID="7090" EraID="3" EraStage="4" Name="Tim Tà Sát" Fixedaward="" MaxList="-1" GoodsID="960209,1,0,0,0,0,0|960209,0.5,0,0,0,0,0|960209,0.5,0,0,0,0,0|960209,0.5,0,0,0,0,0" />
+  <EraDrop ID="5001" EraID="4" EraStage="1" Name="Nước Lợ" Fixedaward="" MaxList="-1" GoodsID="960108,0.001,0,0,0,0,0" />
+  <EraDrop ID="6001" EraID="4" EraStage="1" Name="Bánh Mì" Fixedaward="" MaxList="-1" GoodsID="960109,0.001,0,0,0,0,0" />
+  <EraDrop ID="7001" EraID="4" EraStage="1" Name="Xúc Xích" Fixedaward="" MaxList="-1" GoodsID="960110,0.001,0,0,0,0,0" />
+  <EraDrop ID="6002" EraID="4" EraStage="1" Name="Gỗ" Fixedaward="" MaxList="-1" GoodsID="960111,0.001,0,0,0,0,0" />
+  <EraDrop ID="7002" EraID="4" EraStage="1" Name="Vải Bố" Fixedaward="" MaxList="-1" GoodsID="960112,0.001,0,0,0,0,0" />
+  <EraDrop ID="5002" EraID="4" EraStage="1" Name="Thiết Khí" Fixedaward="" MaxList="-1" GoodsID="960113,0.001,0,0,0,0,0" />
+  <EraDrop ID="7003" EraID="4" EraStage="1" Name="Kim Nam Châm" Fixedaward="" MaxList="-1" GoodsID="960114,0.001,0,0,0,0,0" />
+  <EraDrop ID="5003" EraID="4" EraStage="1" Name="Dây thừng" Fixedaward="" MaxList="-1" GoodsID="960115,0.001,0,0,0,0,0" />
+  <EraDrop ID="6003" EraID="4" EraStage="1" Name="Xích Quy Hàng Hải" Fixedaward="" MaxList="-1" GoodsID="960116,0.001,0,0,0,0,0" />
+  <EraDrop ID="5004" EraID="4" EraStage="1" Name="Kim Nam Châm" Fixedaward="" MaxList="-1" GoodsID="960114,0.001,0,0,0,0,0" />
+  <EraDrop ID="6004" EraID="4" EraStage="1" Name="Map Biển" Fixedaward="" MaxList="-1" GoodsID="960117,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000040" EraID="4" EraStage="1" Name="Tinh Bàn" Fixedaward="" MaxList="-1" GoodsID="960118,1,0,0,0,0,0|960118,0.5,0,0,0,0,0|960118,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000043" EraID="4" EraStage="1" Name="Tinh Bàn" Fixedaward="" MaxList="-1" GoodsID="960118,1,0,0,0,0,0|960118,0.5,0,0,0,0,0|960118,0.5,0,0,0,0,0" />
+  <EraDrop ID="7001" EraID="4" EraStage="1" Name="Tinh Bàn" Fixedaward="" MaxList="-1" GoodsID="960118,0.0001,0,0,0,0,0" />
+  <EraDrop ID="6005" EraID="4" EraStage="1" Name="Kim Nam Châm" Fixedaward="" MaxList="-1" GoodsID="960114,0.001,0,0,0,0,0" />
+  <EraDrop ID="7004" EraID="4" EraStage="1" Name="Kính Viễn Vọng" Fixedaward="" MaxList="-1" GoodsID="960119,0.001,0,0,0,0,0" />
+  <EraDrop ID="5090" EraID="4" EraStage="1" Name="Nhật Ký Hàng Hải" Fixedaward="" MaxList="-1" GoodsID="960120,1,0,0,0,0,0|960120,0.5,0,0,0,0,0|960120,0.5,0,0,0,0,0|960120,0.5,0,0,0,0,0" />
+  <EraDrop ID="6090" EraID="4" EraStage="1" Name="Nhật Ký Hàng Hải" Fixedaward="" MaxList="-1" GoodsID="960120,1,0,0,0,0,0|960120,0.5,0,0,0,0,0|960120,0.5,0,0,0,0,0|960120,0.5,0,0,0,0,0" />
+  <EraDrop ID="7002" EraID="4" EraStage="1" Name="Nhật Ký Hàng Hải" Fixedaward="" MaxList="-1" GoodsID="960120,0.0001,0,0,0,0,0" />
+  <EraDrop ID="6006" EraID="4" EraStage="2" Name="Cá Nhỏ" Fixedaward="" MaxList="-1" GoodsID="960121,0.001,0,0,0,0,0" />
+  <EraDrop ID="5005" EraID="4" EraStage="2" Name="Cá Liêm" Fixedaward="" MaxList="-1" GoodsID="960122,0.001,0,0,0,0,0" />
+  <EraDrop ID="7005" EraID="4" EraStage="2" Name="Cá Kỳ Lân" Fixedaward="" MaxList="-1" GoodsID="960123,0.001,0,0,0,0,0" />
+  <EraDrop ID="7006" EraID="4" EraStage="2" Name="Hàu" Fixedaward="" MaxList="-1" GoodsID="960124,0.001,0,0,0,0,0" />
+  <EraDrop ID="6007" EraID="4" EraStage="2" Name="Sò" Fixedaward="" MaxList="-1" GoodsID="960125,0.001,0,0,0,0,0" />
+  <EraDrop ID="5006" EraID="4" EraStage="2" Name="Ốc Biển" Fixedaward="" MaxList="-1" GoodsID="960126,0.001,0,0,0,0,0" />
+  <EraDrop ID="5007" EraID="4" EraStage="2" Name="Sứa Biển" Fixedaward="" MaxList="-1" GoodsID="960127,0.001,0,0,0,0,0" />
+  <EraDrop ID="7001" EraID="4" EraStage="2" Name="Dừa Cua" Fixedaward="" MaxList="-1" GoodsID="960128,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000046" EraID="4" EraStage="2" Name="Hải Sâm" Fixedaward="" MaxList="-1" GoodsID="960129,1,0,0,0,0,0|960129,0.5,0,0,0,0,0|960129,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000044" EraID="4" EraStage="2" Name="Hải Sâm" Fixedaward="" MaxList="-1" GoodsID="960129,1,0,0,0,0,0|960129,0.5,0,0,0,0,0|960129,0.5,0,0,0,0,0" />
+  <EraDrop ID="6008" EraID="4" EraStage="2" Name="Sứa Biển" Fixedaward="" MaxList="-1" GoodsID="960127,0.001,0,0,0,0,0" />
+  <EraDrop ID="5008" EraID="4" EraStage="2" Name="San Hô" Fixedaward="" MaxList="-1" GoodsID="960130,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000047" EraID="4" EraStage="2" Name="Tảo" Fixedaward="" MaxList="-1" GoodsID="960131,1,0,0,0,0,0|960131,0.5,0,0,0,0,0|960131,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000041" EraID="4" EraStage="2" Name="Tảo" Fixedaward="" MaxList="-1" GoodsID="960131,1,0,0,0,0,0|960131,0.5,0,0,0,0,0|960131,0.5,0,0,0,0,0" />
+  <EraDrop ID="7002" EraID="4" EraStage="2" Name="Sứa Biển" Fixedaward="" MaxList="-1" GoodsID="960127,0.001,0,0,0,0,0" />
+  <EraDrop ID="6001" EraID="4" EraStage="2" Name="Con Sứa" Fixedaward="" MaxList="-1" GoodsID="960132,0.001,0,0,0,0,0" />
+  <EraDrop ID="7090" EraID="4" EraStage="2" Name="Tôm" Fixedaward="" MaxList="-1" GoodsID="960133,1,0,0,0,0,0|960133,0.5,0,0,0,0,0|960133,0.5,0,0,0,0,0|960133,0.5,0,0,0,0,0" />
+  <EraDrop ID="6090" EraID="4" EraStage="2" Name="Tôm" Fixedaward="" MaxList="-1" GoodsID="960133,1,0,0,0,0,0|960133,0.5,0,0,0,0,0|960133,0.5,0,0,0,0,0|960133,0.5,0,0,0,0,0" />
+  <EraDrop ID="5001" EraID="4" EraStage="2" Name="Tôm" Fixedaward="" MaxList="-1" GoodsID="960133,0.0001,0,0,0,0,0" />
+  <EraDrop ID="7003" EraID="4" EraStage="3" Name="Vảy Cá Lớn" Fixedaward="" MaxList="-1" GoodsID="960134,0.001,0,0,0,0,0" />
+  <EraDrop ID="5001" EraID="4" EraStage="3" Name="Đuôi Cá Tách Rời" Fixedaward="" MaxList="-1" GoodsID="960135,0.001,0,0,0,0,0" />
+  <EraDrop ID="6002" EraID="4" EraStage="3" Name="Thụ Cầm" Fixedaward="" MaxList="-1" GoodsID="960136,0.001,0,0,0,0,0" />
+  <EraDrop ID="5002" EraID="4" EraStage="3" Name="Lao Cá Đầy Máu" Fixedaward="" MaxList="-1" GoodsID="960137,0.001,0,0,0,0,0" />
+  <EraDrop ID="6003" EraID="4" EraStage="3" Name="Xào Sắc Nhọn" Fixedaward="" MaxList="-1" GoodsID="960138,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000042" EraID="4" EraStage="3" Name="Vảy Giáp Bền" Fixedaward="" MaxList="-1" GoodsID="960139,1,0,0,0,0,0|960139,0.5,0,0,0,0,0|960139,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000045" EraID="4" EraStage="3" Name="Vảy Giáp Bền" Fixedaward="" MaxList="-1" GoodsID="960139,1,0,0,0,0,0|960139,0.5,0,0,0,0,0|960139,0.5,0,0,0,0,0" />
+  <EraDrop ID="7003" EraID="4" EraStage="3" Name="Vảy Giáp Bền" Fixedaward="" MaxList="-1" GoodsID="960139,0.0001,0,0,0,0,0" />
+  <EraDrop ID="6004" EraID="4" EraStage="3" Name="Cá Mập Hổ" Fixedaward="" MaxList="-1" GoodsID="960140,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000048" EraID="4" EraStage="3" Name="Rắn Biển" Fixedaward="" MaxList="-1" GoodsID="960141,1,0,0,0,0,0|960141,0.5,0,0,0,0,0|960141,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000043" EraID="4" EraStage="3" Name="Rắn Biển" Fixedaward="" MaxList="-1" GoodsID="960141,1,0,0,0,0,0|960141,0.5,0,0,0,0,0|960141,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000046" EraID="4" EraStage="3" Name="Cá Chim" Fixedaward="" MaxList="-1" GoodsID="960142,1,0,0,0,0,0|960142,0.5,0,0,0,0,0|960142,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000040" EraID="4" EraStage="3" Name="Cá Chim" Fixedaward="" MaxList="-1" GoodsID="960142,1,0,0,0,0,0|960142,0.5,0,0,0,0,0|960142,0.5,0,0,0,0,0" />
+  <EraDrop ID="6002" EraID="4" EraStage="3" Name="Cá Chim" Fixedaward="" MaxList="-1" GoodsID="960142,0.0001,0,0,0,0,0" />
+  <EraDrop ID="7004" EraID="4" EraStage="3" Name="Cá Răng Nhọn" Fixedaward="" MaxList="-1" GoodsID="960143,0.001,0,0,0,0,0" />
+  <EraDrop ID="6005" EraID="4" EraStage="3" Name="Cá Nhà Táng" Fixedaward="" MaxList="-1" GoodsID="960144,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000041" EraID="4" EraStage="3" Name="Mực Khổng Lồ" Fixedaward="" MaxList="-1" GoodsID="960145,1,0,0,0,0,0|960145,0.5,0,0,0,0,0|960145,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000044" EraID="4" EraStage="3" Name="Mực Khổng Lồ" Fixedaward="" MaxList="-1" GoodsID="960145,1,0,0,0,0,0|960145,0.5,0,0,0,0,0|960145,0.5,0,0,0,0,0" />
+  <EraDrop ID="7004" EraID="4" EraStage="3" Name="Mực Khổng Lồ" Fixedaward="" MaxList="-1" GoodsID="960145,0.0001,0,0,0,0,0" />
+  <EraDrop ID="5003" EraID="4" EraStage="3" Name="Trang Sử Cổ" Fixedaward="" MaxList="-1" GoodsID="960146,0.001,0,0,0,0,0" />
+  <EraDrop ID="6006" EraID="4" EraStage="3" Name="Map Cũ Nát" Fixedaward="" MaxList="-1" GoodsID="960147,0.001,0,0,0,0,0" />
+  <EraDrop ID="5090" EraID="4" EraStage="3" Name="Huy Hiệu Cũ" Fixedaward="" MaxList="-1" GoodsID="960148,1,0,0,0,0,0|960148,0.5,0,0,0,0,0|960148,0.5,0,0,0,0,0|960148,0.5,0,0,0,0,0" />
+  <EraDrop ID="7090" EraID="4" EraStage="3" Name="Huy Hiệu Cũ" Fixedaward="" MaxList="-1" GoodsID="960148,1,0,0,0,0,0|960148,0.5,0,0,0,0,0|960148,0.5,0,0,0,0,0|960148,0.5,0,0,0,0,0" />
+  <EraDrop ID="6007" EraID="4" EraStage="4" Name="Map Sử Cổ (Trái)" Fixedaward="" MaxList="-1" GoodsID="960149,0.001,0,0,0,0,0" />
+  <EraDrop ID="5004" EraID="4" EraStage="4" Name="Map Sử Cổ (Giữa)" Fixedaward="" MaxList="-1" GoodsID="960150,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000047" EraID="4" EraStage="4" Name="Map Sử Cổ (Phải)" Fixedaward="" MaxList="-1" GoodsID="960151,1,0,0,0,0,0|960151,0.5,0,0,0,0,0|960151,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000045" EraID="4" EraStage="4" Name="Map Sử Cổ (Phải)" Fixedaward="" MaxList="-1" GoodsID="960151,1,0,0,0,0,0|960151,0.5,0,0,0,0,0|960151,0.5,0,0,0,0,0" />
+  <EraDrop ID="5002" EraID="4" EraStage="4" Name="Map Sử Cổ (Phải)" Fixedaward="" MaxList="-1" GoodsID="960151,0.0001,0,0,0,0,0" />
+  <EraDrop ID="7005" EraID="4" EraStage="4" Name="Map Cổ Thành" Fixedaward="" MaxList="-1" GoodsID="960152,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000042" EraID="4" EraStage="4" Name="Ngọc Người Cá" Fixedaward="" MaxList="-1" GoodsID="960153,1,0,0,0,0,0|960153,0.5,0,0,0,0,0|960153,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000048" EraID="4" EraStage="4" Name="Ngọc Người Cá" Fixedaward="" MaxList="-1" GoodsID="960153,1,0,0,0,0,0|960153,0.5,0,0,0,0,0|960153,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000040" EraID="4" EraStage="4" Name="Cổ Thành Từ Thạch" Fixedaward="" MaxList="-1" GoodsID="960154,1,0,0,0,0,0|960154,0.5,0,0,0,0,0|960154,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000043" EraID="4" EraStage="4" Name="Cổ Thành Từ Thạch" Fixedaward="" MaxList="-1" GoodsID="960154,1,0,0,0,0,0|960154,0.5,0,0,0,0,0|960154,0.5,0,0,0,0,0" />
+  <EraDrop ID="7005" EraID="4" EraStage="4" Name="Cổ Thành Từ Thạch" Fixedaward="" MaxList="-1" GoodsID="960154,0.0001,0,0,0,0,0" />
+  <EraDrop ID="5005" EraID="4" EraStage="4" Name="Map Cổ Thành" Fixedaward="" MaxList="-1" GoodsID="960152,0.001,0,0,0,0,0" />
+  <EraDrop ID="7006" EraID="4" EraStage="4" Name="Khí Mảnh Cổ" Fixedaward="" MaxList="-1" GoodsID="960155,0.001,0,0,0,0,0" />
+  <EraDrop ID="5090" EraID="4" EraStage="4" Name="Sách Tịch Hư" Fixedaward="" MaxList="-1" GoodsID="960156,1,0,0,0,0,0|960156,0.5,0,0,0,0,0|960156,0.5,0,0,0,0,0|960156,0.5,0,0,0,0,0" />
+  <EraDrop ID="6090" EraID="4" EraStage="4" Name="Sách Tịch Hư" Fixedaward="" MaxList="-1" GoodsID="960156,1,0,0,0,0,0|960156,0.5,0,0,0,0,0|960156,0.5,0,0,0,0,0|960156,0.5,0,0,0,0,0" />
+  <EraDrop ID="6008" EraID="4" EraStage="4" Name="Map Cổ Thành" Fixedaward="" MaxList="-1" GoodsID="960152,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000046" EraID="4" EraStage="4" Name="Di Huấn Chủ Thành" Fixedaward="" MaxList="-1" GoodsID="960157,1,0,0,0,0,0|960157,0.5,0,0,0,0,0|960157,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000044" EraID="4" EraStage="4" Name="Di Huấn Chủ Thành" Fixedaward="" MaxList="-1" GoodsID="960157,1,0,0,0,0,0|960157,0.5,0,0,0,0,0|960157,0.5,0,0,0,0,0" />
+  <EraDrop ID="7090" EraID="4" EraStage="4" Name="空空的宝箱" Fixedaward="" MaxList="-1" GoodsID="960158,1,0,0,0,0,0|960158,0.5,0,0,0,0,0|960158,0.5,0,0,0,0,0|960158,0.5,0,0,0,0,0" />
+  <EraDrop ID="5001" EraID="5" EraStage="1" Name="Phá hư công cụ" Fixedaward="" MaxList="-1" GoodsID="960210,0.001,0,0,0,0,0" />
+  <EraDrop ID="6001" EraID="5" EraStage="1" Name="Tàn phá khí mãnh" Fixedaward="" MaxList="-1" GoodsID="960211,0.001,0,0,0,0,0" />
+  <EraDrop ID="7001" EraID="5" EraStage="1" Name="Phá hư y phục" Fixedaward="" MaxList="-1" GoodsID="960212,0.001,0,0,0,0,0" />
+  <EraDrop ID="6002" EraID="5" EraStage="1" Name="Tàn phá đá vụn" Fixedaward="" MaxList="-1" GoodsID="960213,0.001,0,0,0,0,0" />
+  <EraDrop ID="7002" EraID="5" EraStage="1" Name="Rải rác mảnh gỗ" Fixedaward="" MaxList="-1" GoodsID="960214,0.001,0,0,0,0,0" />
+  <EraDrop ID="5002" EraID="5" EraStage="1" Name="Mảnh thiết bị rỉ" Fixedaward="" MaxList="-1" GoodsID="960215,0.001,0,0,0,0,0" />
+  <EraDrop ID="7003" EraID="5" EraStage="1" Name="Truyền thuyết dung nham" Fixedaward="" MaxList="-1" GoodsID="960216,0.001,0,0,0,0,0" />
+  <EraDrop ID="5003" EraID="5" EraStage="1" Name="Trang sức phỉ đồ" Fixedaward="" MaxList="-1" GoodsID="960217,0.001,0,0,0,0,0" />
+  <EraDrop ID="6003" EraID="5" EraStage="1" Name="Phá bại tượng" Fixedaward="" MaxList="-1" GoodsID="960218,0.001,0,0,0,0,0" />
+  <EraDrop ID="5004" EraID="5" EraStage="1" Name="Truyền thuyết dung nham" Fixedaward="" MaxList="-1" GoodsID="960216,0.001,0,0,0,0,0" />
+  <EraDrop ID="6004" EraID="5" EraStage="1" Name="Mật vấn dung nham" Fixedaward="" MaxList="-1" GoodsID="960219,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000040" EraID="5" EraStage="1" Name="Truyền thuyết thị tỉnh" Fixedaward="" MaxList="-1" GoodsID="960220,1,0,0,0,0,0|960220,0.5,0,0,0,0,0|960220,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000043" EraID="5" EraStage="1" Name="Truyền thuyết thị tỉnh" Fixedaward="" MaxList="-1" GoodsID="960220,1,0,0,0,0,0|960220,0.5,0,0,0,0,0|960220,0.5,0,0,0,0,0" />
+  <EraDrop ID="7001" EraID="5" EraStage="1" Name="Truyền thuyết thị tỉnh" Fixedaward="" MaxList="-1" GoodsID="960220,0.0001,0,0,0,0,0" />
+  <EraDrop ID="6005" EraID="5" EraStage="1" Name="Truyền thuyết dung nham" Fixedaward="" MaxList="-1" GoodsID="960216,0.001,0,0,0,0,0" />
+  <EraDrop ID="7004" EraID="5" EraStage="1" Name="Huỳnh thạch dung nham" Fixedaward="" MaxList="-1" GoodsID="960221,0.001,0,0,0,0,0" />
+  <EraDrop ID="5090" EraID="5" EraStage="1" Name="Thạch phù dung nham" Fixedaward="" MaxList="-1" GoodsID="960222,1,0,0,0,0,0|960222,0.5,0,0,0,0,0|960222,0.5,0,0,0,0,0|960222,0.5,0,0,0,0,0" />
+  <EraDrop ID="6090" EraID="5" EraStage="1" Name="Thạch phù dung nham" Fixedaward="" MaxList="-1" GoodsID="960222,1,0,0,0,0,0|960222,0.5,0,0,0,0,0|960222,0.5,0,0,0,0,0|960222,0.5,0,0,0,0,0" />
+  <EraDrop ID="7002" EraID="5" EraStage="1" Name="Thạch phù dung nham" Fixedaward="" MaxList="-1" GoodsID="960222,0.0001,0,0,0,0,0" />
+  <EraDrop ID="6006" EraID="5" EraStage="2" Name="Cự rìu tranh đấu" Fixedaward="" MaxList="-1" GoodsID="960223,0.001,0,0,0,0,0" />
+  <EraDrop ID="5005" EraID="5" EraStage="2" Name="Trường kiếm tranh đấu" Fixedaward="" MaxList="-1" GoodsID="960224,0.001,0,0,0,0,0" />
+  <EraDrop ID="7005" EraID="5" EraStage="2" Name="Nỏ tranh đấu" Fixedaward="" MaxList="-1" GoodsID="960225,0.001,0,0,0,0,0" />
+  <EraDrop ID="7006" EraID="5" EraStage="2" Name="Mặt nạ phỉ đồ" Fixedaward="" MaxList="-1" GoodsID="960226,0.001,0,0,0,0,0" />
+  <EraDrop ID="6007" EraID="5" EraStage="2" Name="Giáp đầu phỉ đồ" Fixedaward="" MaxList="-1" GoodsID="960227,0.001,0,0,0,0,0" />
+  <EraDrop ID="5006" EraID="5" EraStage="2" Name="Quần dài phỉ đồ" Fixedaward="" MaxList="-1" GoodsID="960228,0.001,0,0,0,0,0" />
+  <EraDrop ID="5007" EraID="5" EraStage="2" Name="Súng thị đội" Fixedaward="" MaxList="-1" GoodsID="960229,0.001,0,0,0,0,0" />
+  <EraDrop ID="7001" EraID="5" EraStage="2" Name="Lễ kim cầu hòa" Fixedaward="" MaxList="-1" GoodsID="960230,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000046" EraID="5" EraStage="2" Name="Khế ước hòa đàm" Fixedaward="" MaxList="-1" GoodsID="960231,1,0,0,0,0,0|960231,0.5,0,0,0,0,0|960231,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000044" EraID="5" EraStage="2" Name="Khế ước hòa đàm" Fixedaward="" MaxList="-1" GoodsID="960231,1,0,0,0,0,0|960231,0.5,0,0,0,0,0|960231,0.5,0,0,0,0,0" />
+  <EraDrop ID="6008" EraID="5" EraStage="2" Name="Súng thị đội" Fixedaward="" MaxList="-1" GoodsID="960229,0.001,0,0,0,0,0" />
+  <EraDrop ID="5008" EraID="5" EraStage="2" Name="Lệnh bài cuồng đồ" Fixedaward="" MaxList="-1" GoodsID="960232,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000047" EraID="5" EraStage="2" Name="Ấn ký cuồng đồ" Fixedaward="" MaxList="-1" GoodsID="960233,1,0,0,0,0,0|960233,0.5,0,0,0,0,0|960233,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000041" EraID="5" EraStage="2" Name="Ấn ký cuồng đồ" Fixedaward="" MaxList="-1" GoodsID="960233,1,0,0,0,0,0|960233,0.5,0,0,0,0,0|960233,0.5,0,0,0,0,0" />
+  <EraDrop ID="7002" EraID="5" EraStage="2" Name="Súng thị đội" Fixedaward="" MaxList="-1" GoodsID="960229,0.001,0,0,0,0,0" />
+  <EraDrop ID="6001" EraID="5" EraStage="2" Name="Khiên thị đội" Fixedaward="" MaxList="-1" GoodsID="960234,0.001,0,0,0,0,0" />
+  <EraDrop ID="7090" EraID="5" EraStage="2" Name="Trượng công chúa" Fixedaward="" MaxList="-1" GoodsID="960235,1,0,0,0,0,0|960235,0.5,0,0,0,0,0|960235,0.5,0,0,0,0,0|960235,0.5,0,0,0,0,0" />
+  <EraDrop ID="6090" EraID="5" EraStage="2" Name="Trượng công chúa" Fixedaward="" MaxList="-1" GoodsID="960235,1,0,0,0,0,0|960235,0.5,0,0,0,0,0|960235,0.5,0,0,0,0,0|960235,0.5,0,0,0,0,0" />
+  <EraDrop ID="5001" EraID="5" EraStage="2" Name="Trượng công chúa" Fixedaward="" MaxList="-1" GoodsID="960235,0.0001,0,0,0,0,0" />
+  <EraDrop ID="7003" EraID="5" EraStage="3" Name="Map dung nham" Fixedaward="" MaxList="-1" GoodsID="960236,0.001,0,0,0,0,0" />
+  <EraDrop ID="5001" EraID="5" EraStage="3" Name="Tìm kim dưới đất" Fixedaward="" MaxList="-1" GoodsID="960237,0.001,0,0,0,0,0" />
+  <EraDrop ID="6002" EraID="5" EraStage="3" Name="Ánh sáng minh đăng" Fixedaward="" MaxList="-1" GoodsID="960238,0.001,0,0,0,0,0" />
+  <EraDrop ID="5002" EraID="5" EraStage="3" Name="Danh sách cuồng đồ" Fixedaward="" MaxList="-1" GoodsID="960239,0.001,0,0,0,0,0" />
+  <EraDrop ID="6003" EraID="5" EraStage="3" Name="Map cương tiêu" Fixedaward="" MaxList="-1" GoodsID="960240,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000042" EraID="5" EraStage="3" Name="Danh sách trị tiêu" Fixedaward="" MaxList="-1" GoodsID="960241,1,0,0,0,0,0|960241,0.5,0,0,0,0,0|960241,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000045" EraID="5" EraStage="3" Name="Danh sách trị tiêu" Fixedaward="" MaxList="-1" GoodsID="960241,1,0,0,0,0,0|960241,0.5,0,0,0,0,0|960241,0.5,0,0,0,0,0" />
+  <EraDrop ID="7003" EraID="5" EraStage="3" Name="Danh sách trị tiêu" Fixedaward="" MaxList="-1" GoodsID="960241,0.0001,0,0,0,0,0" />
+  <EraDrop ID="6004" EraID="5" EraStage="3" Name="Giáp đầu cuồng đồ" Fixedaward="" MaxList="-1" GoodsID="960242,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000048" EraID="5" EraStage="3" Name="Máu cuồng đồ" Fixedaward="" MaxList="-1" GoodsID="960243,1,0,0,0,0,0|960243,0.5,0,0,0,0,0|960243,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000043" EraID="5" EraStage="3" Name="Máu cuồng đồ" Fixedaward="" MaxList="-1" GoodsID="960243,1,0,0,0,0,0|960243,0.5,0,0,0,0,0|960243,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000046" EraID="5" EraStage="3" Name="Giáp cuồng đồ" Fixedaward="" MaxList="-1" GoodsID="960244,1,0,0,0,0,0|960244,0.5,0,0,0,0,0|960244,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000040" EraID="5" EraStage="3" Name="Giáp cuồng đồ" Fixedaward="" MaxList="-1" GoodsID="960244,1,0,0,0,0,0|960244,0.5,0,0,0,0,0|960244,0.5,0,0,0,0,0" />
+  <EraDrop ID="6002" EraID="5" EraStage="3" Name="Giáp cuồng đồ" Fixedaward="" MaxList="-1" GoodsID="960244,0.0001,0,0,0,0,0" />
+  <EraDrop ID="7004" EraID="5" EraStage="3" Name="Nước tinh khiết" Fixedaward="" MaxList="-1" GoodsID="960245,0.001,0,0,0,0,0" />
+  <EraDrop ID="6005" EraID="5" EraStage="3" Name="Thuốc trị máu" Fixedaward="" MaxList="-1" GoodsID="960246,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000041" EraID="5" EraStage="3" Name="Băng cứu thương" Fixedaward="" MaxList="-1" GoodsID="960247,1,0,0,0,0,0|960247,0.5,0,0,0,0,0|960247,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000044" EraID="5" EraStage="3" Name="Băng cứu thương" Fixedaward="" MaxList="-1" GoodsID="960247,1,0,0,0,0,0|960247,0.5,0,0,0,0,0|960247,0.5,0,0,0,0,0" />
+  <EraDrop ID="7004" EraID="5" EraStage="3" Name="Băng cứu thương" Fixedaward="" MaxList="-1" GoodsID="960247,0.0001,0,0,0,0,0" />
+  <EraDrop ID="5003" EraID="5" EraStage="3" Name="Vật chất cuồng đồ" Fixedaward="" MaxList="-1" GoodsID="960248,0.001,0,0,0,0,0" />
+  <EraDrop ID="6006" EraID="5" EraStage="3" Name="Rương thủ lĩnh" Fixedaward="" MaxList="-1" GoodsID="960249,0.001,0,0,0,0,0" />
+  <EraDrop ID="5090" EraID="5" EraStage="3" Name="Mật thư hoàng tử" Fixedaward="" MaxList="-1" GoodsID="960250,1,0,0,0,0,0|960250,0.5,0,0,0,0,0|960250,0.5,0,0,0,0,0|960250,0.5,0,0,0,0,0" />
+  <EraDrop ID="7090" EraID="5" EraStage="3" Name="Mật thư hoàng tử" Fixedaward="" MaxList="-1" GoodsID="960250,1,0,0,0,0,0|960250,0.5,0,0,0,0,0|960250,0.5,0,0,0,0,0|960250,0.5,0,0,0,0,0" />
+  <EraDrop ID="6007" EraID="5" EraStage="4" Name="Mật hàm cuồng đồ" Fixedaward="" MaxList="-1" GoodsID="960251,0.001,0,0,0,0,0" />
+  <EraDrop ID="5004" EraID="5" EraStage="4" Name="Ấn hoàng tử" Fixedaward="" MaxList="-1" GoodsID="960252,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000047" EraID="5" EraStage="4" Name="Tín vật liên lạc" Fixedaward="" MaxList="-1" GoodsID="960253,1,0,0,0,0,0|960253,0.5,0,0,0,0,0|960253,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000045" EraID="5" EraStage="4" Name="Tín vật liên lạc" Fixedaward="" MaxList="-1" GoodsID="960253,1,0,0,0,0,0|960253,0.5,0,0,0,0,0|960253,0.5,0,0,0,0,0" />
+  <EraDrop ID="5002" EraID="5" EraStage="4" Name="Tín vật liên lạc" Fixedaward="" MaxList="-1" GoodsID="960253,0.0001,0,0,0,0,0" />
+  <EraDrop ID="7005" EraID="5" EraStage="4" Name="Sách chân tướng" Fixedaward="" MaxList="-1" GoodsID="960254,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000042" EraID="5" EraStage="4" Name="Thu thập tài bảo" Fixedaward="" MaxList="-1" GoodsID="960255,1,0,0,0,0,0|960255,0.5,0,0,0,0,0|960255,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000048" EraID="5" EraStage="4" Name="Thu thập tài bảo" Fixedaward="" MaxList="-1" GoodsID="960255,1,0,0,0,0,0|960255,0.5,0,0,0,0,0|960255,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000040" EraID="5" EraStage="4" Name="Pháp khí cuồng đồ" Fixedaward="" MaxList="-1" GoodsID="960256,1,0,0,0,0,0|960256,0.5,0,0,0,0,0|960256,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000043" EraID="5" EraStage="4" Name="Pháp khí cuồng đồ" Fixedaward="" MaxList="-1" GoodsID="960256,1,0,0,0,0,0|960256,0.5,0,0,0,0,0|960256,0.5,0,0,0,0,0" />
+  <EraDrop ID="7005" EraID="5" EraStage="4" Name="Pháp khí cuồng đồ" Fixedaward="" MaxList="-1" GoodsID="960256,0.0001,0,0,0,0,0" />
+  <EraDrop ID="5005" EraID="5" EraStage="4" Name="Sách chân tướng" Fixedaward="" MaxList="-1" GoodsID="960254,0.001,0,0,0,0,0" />
+  <EraDrop ID="7006" EraID="5" EraStage="4" Name="Thuốc tà thần" Fixedaward="" MaxList="-1" GoodsID="960257,0.001,0,0,0,0,0" />
+  <EraDrop ID="5090" EraID="5" EraStage="4" Name="Nguồn tà ác" Fixedaward="" MaxList="-1" GoodsID="960258,1,0,0,0,0,0|960258,0.5,0,0,0,0,0|960258,0.5,0,0,0,0,0|960258,0.5,0,0,0,0,0" />
+  <EraDrop ID="6090" EraID="5" EraStage="4" Name="Nguồn tà ác" Fixedaward="" MaxList="-1" GoodsID="960258,1,0,0,0,0,0|960258,0.5,0,0,0,0,0|960258,0.5,0,0,0,0,0|960258,0.5,0,0,0,0,0" />
+  <EraDrop ID="6008" EraID="5" EraStage="4" Name="Sách chân tướng" Fixedaward="" MaxList="-1" GoodsID="960254,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000046" EraID="5" EraStage="4" Name="Giáp hoàng tử" Fixedaward="" MaxList="-1" GoodsID="960259,1,0,0,0,0,0|960259,0.5,0,0,0,0,0|960259,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000044" EraID="5" EraStage="4" Name="Giáp hoàng tử" Fixedaward="" MaxList="-1" GoodsID="960259,1,0,0,0,0,0|960259,0.5,0,0,0,0,0|960259,0.5,0,0,0,0,0" />
+  <EraDrop ID="7090" EraID="5" EraStage="4" Name="Cờ hoàng tử" Fixedaward="" MaxList="-1" GoodsID="960260,1,0,0,0,0,0|960260,0.5,0,0,0,0,0|960260,0.5,0,0,0,0,0|960260,0.5,0,0,0,0,0" />
+  <EraDrop ID="5001" EraID="6" EraStage="1" Name="Cỏ Xanh" Fixedaward="" MaxList="-1" GoodsID="960261,0.001,0,0,0,0,0" />
+  <EraDrop ID="6001" EraID="6" EraStage="1" Name="Hoa Tươi" Fixedaward="" MaxList="-1" GoodsID="960262,0.001,0,0,0,0,0" />
+  <EraDrop ID="7001" EraID="6" EraStage="1" Name="Cây Dâu" Fixedaward="" MaxList="-1" GoodsID="960263,0.001,0,0,0,0,0" />
+  <EraDrop ID="6002" EraID="6" EraStage="1" Name="Khiên Phản Quân" Fixedaward="" MaxList="-1" GoodsID="960264,0.001,0,0,0,0,0" />
+  <EraDrop ID="7002" EraID="6" EraStage="1" Name="Giáp Phản Quân" Fixedaward="" MaxList="-1" GoodsID="960265,0.001,0,0,0,0,0" />
+  <EraDrop ID="5002" EraID="6" EraStage="1" Name="Nón Phản Quân" Fixedaward="" MaxList="-1" GoodsID="960266,0.001,0,0,0,0,0" />
+  <EraDrop ID="7003" EraID="6" EraStage="1" Name="Đá Bay" Fixedaward="" MaxList="-1" GoodsID="960267,0.001,0,0,0,0,0" />
+  <EraDrop ID="5003" EraID="6" EraStage="1" Name="Yên Linh Động" Fixedaward="" MaxList="-1" GoodsID="960268,0.001,0,0,0,0,0" />
+  <EraDrop ID="6003" EraID="6" EraStage="1" Name="Roi Thiểm Điện" Fixedaward="" MaxList="-1" GoodsID="960269,0.001,0,0,0,0,0" />
+  <EraDrop ID="5004" EraID="6" EraStage="1" Name="Đá Bay" Fixedaward="" MaxList="-1" GoodsID="960267,0.001,0,0,0,0,0" />
+  <EraDrop ID="6004" EraID="6" EraStage="1" Name="Mũi Tên Nhọn" Fixedaward="" MaxList="-1" GoodsID="960270,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000040" EraID="6" EraStage="1" Name="Kiếm Phản Quân" Fixedaward="" MaxList="-1" GoodsID="960271,1,0,0,0,0,0|960271,0.5,0,0,0,0,0|960271,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000043" EraID="6" EraStage="1" Name="Kiếm Phản Quân" Fixedaward="" MaxList="-1" GoodsID="960271,1,0,0,0,0,0|960271,0.5,0,0,0,0,0|960271,0.5,0,0,0,0,0" />
+  <EraDrop ID="7001" EraID="6" EraStage="1" Name="Kiếm Phản Quân" Fixedaward="" MaxList="-1" GoodsID="960271,0.0001,0,0,0,0,0" />
+  <EraDrop ID="6005" EraID="6" EraStage="1" Name="Đá Bay" Fixedaward="" MaxList="-1" GoodsID="960267,0.001,0,0,0,0,0" />
+  <EraDrop ID="7004" EraID="6" EraStage="1" Name="Dây Tổ Tiên" Fixedaward="" MaxList="-1" GoodsID="960272,0.001,0,0,0,0,0" />
+  <EraDrop ID="5090" EraID="6" EraStage="1" Name="Sừng Ma Lực" Fixedaward="" MaxList="-1" GoodsID="960273,1,0,0,0,0,0|960273,0.5,0,0,0,0,0|960273,0.5,0,0,0,0,0|960273,0.5,0,0,0,0,0" />
+  <EraDrop ID="6090" EraID="6" EraStage="1" Name="Sừng Ma Lực" Fixedaward="" MaxList="-1" GoodsID="960273,1,0,0,0,0,0|960273,0.5,0,0,0,0,0|960273,0.5,0,0,0,0,0|960273,0.5,0,0,0,0,0" />
+  <EraDrop ID="7002" EraID="6" EraStage="1" Name="Sừng Ma Lực" Fixedaward="" MaxList="-1" GoodsID="960273,0.0001,0,0,0,0,0" />
+  <EraDrop ID="6006" EraID="6" EraStage="2" Name="Cuốc Đào Mỏ" Fixedaward="" MaxList="-1" GoodsID="960274,0.001,0,0,0,0,0" />
+  <EraDrop ID="5005" EraID="6" EraStage="2" Name="Giỏ Tre" Fixedaward="" MaxList="-1" GoodsID="960275,0.001,0,0,0,0,0" />
+  <EraDrop ID="7005" EraID="6" EraStage="2" Name="Kim Dò Khoáng" Fixedaward="" MaxList="-1" GoodsID="960276,0.001,0,0,0,0,0" />
+  <EraDrop ID="7006" EraID="6" EraStage="2" Name="Bản Đồ Khoáng" Fixedaward="" MaxList="-1" GoodsID="960277,0.001,0,0,0,0,0" />
+  <EraDrop ID="6007" EraID="6" EraStage="2" Name="La Bàn" Fixedaward="" MaxList="-1" GoodsID="960278,0.001,0,0,0,0,0" />
+  <EraDrop ID="5006" EraID="6" EraStage="2" Name="Đá Huỳnh Quang" Fixedaward="" MaxList="-1" GoodsID="960279,0.001,0,0,0,0,0" />
+  <EraDrop ID="5007" EraID="6" EraStage="2" Name="Mỏ Thần Bí" Fixedaward="" MaxList="-1" GoodsID="960280,0.001,0,0,0,0,0" />
+  <EraDrop ID="7001" EraID="6" EraStage="2" Name="Gậy Phản Quân" Fixedaward="" MaxList="-1" GoodsID="960281,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000046" EraID="6" EraStage="2" Name="Tượng Phản Quân" Fixedaward="" MaxList="-1" GoodsID="960282,1,0,0,0,0,0|960282,0.5,0,0,0,0,0|960282,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000044" EraID="6" EraStage="2" Name="Tượng Phản Quân" Fixedaward="" MaxList="-1" GoodsID="960282,1,0,0,0,0,0|960282,0.5,0,0,0,0,0|960282,0.5,0,0,0,0,0" />
+  <EraDrop ID="6008" EraID="6" EraStage="2" Name="Mỏ Thần Bí" Fixedaward="" MaxList="-1" GoodsID="960280,0.001,0,0,0,0,0" />
+  <EraDrop ID="5008" EraID="6" EraStage="2" Name="Hạt Nhân" Fixedaward="" MaxList="-1" GoodsID="960283,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000047" EraID="6" EraStage="2" Name="Linh Kiện Máy" Fixedaward="" MaxList="-1" GoodsID="960284,1,0,0,0,0,0|960284,0.5,0,0,0,0,0|960284,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000041" EraID="6" EraStage="2" Name="Linh Kiện Máy" Fixedaward="" MaxList="-1" GoodsID="960284,1,0,0,0,0,0|960284,0.5,0,0,0,0,0|960284,0.5,0,0,0,0,0" />
+  <EraDrop ID="7002" EraID="6" EraStage="2" Name="Mỏ Thần Bí" Fixedaward="" MaxList="-1" GoodsID="960280,0.001,0,0,0,0,0" />
+  <EraDrop ID="6001" EraID="6" EraStage="2" Name="Gỗ Cứng" Fixedaward="" MaxList="-1" GoodsID="960285,0.001,0,0,0,0,0" />
+  <EraDrop ID="7090" EraID="6" EraStage="2" Name="Dây Thừng" Fixedaward="" MaxList="-1" GoodsID="960286,1,0,0,0,0,0|960286,0.5,0,0,0,0,0|960286,0.5,0,0,0,0,0|960286,0.5,0,0,0,0,0" />
+  <EraDrop ID="6090" EraID="6" EraStage="2" Name="Dây Thừng" Fixedaward="" MaxList="-1" GoodsID="960286,1,0,0,0,0,0|960286,0.5,0,0,0,0,0|960286,0.5,0,0,0,0,0|960286,0.5,0,0,0,0,0" />
+  <EraDrop ID="5001" EraID="6" EraStage="2" Name="Dây Thừng" Fixedaward="" MaxList="-1" GoodsID="960286,0.0001,0,0,0,0,0" />
+  <EraDrop ID="7003" EraID="6" EraStage="3" Name="Sách Chỉ Đường" Fixedaward="" MaxList="-1" GoodsID="960287,0.001,0,0,0,0,0" />
+  <EraDrop ID="5001" EraID="6" EraStage="3" Name="Đồng Hồ" Fixedaward="" MaxList="-1" GoodsID="960288,0.001,0,0,0,0,0" />
+  <EraDrop ID="6002" EraID="6" EraStage="3" Name="Nhiên Liệu" Fixedaward="" MaxList="-1" GoodsID="960289,0.001,0,0,0,0,0" />
+  <EraDrop ID="5002" EraID="6" EraStage="3" Name="Bộ Hải Tặc" Fixedaward="" MaxList="-1" GoodsID="960290,0.001,0,0,0,0,0" />
+  <EraDrop ID="6003" EraID="6" EraStage="3" Name="Ấn Ký Hải Tặc" Fixedaward="" MaxList="-1" GoodsID="960291,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000042" EraID="6" EraStage="3" Name="Thuyền Hải Tặc" Fixedaward="" MaxList="-1" GoodsID="960292,1,0,0,0,0,0|960292,0.5,0,0,0,0,0|960292,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000045" EraID="6" EraStage="3" Name="Thuyền Hải Tặc" Fixedaward="" MaxList="-1" GoodsID="960292,1,0,0,0,0,0|960292,0.5,0,0,0,0,0|960292,0.5,0,0,0,0,0" />
+  <EraDrop ID="7003" EraID="6" EraStage="3" Name="Thuyền Hải Tặc" Fixedaward="" MaxList="-1" GoodsID="960292,0.0001,0,0,0,0,0" />
+  <EraDrop ID="6004" EraID="6" EraStage="3" Name="Cờ Hải Tặc" Fixedaward="" MaxList="-1" GoodsID="960293,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000048" EraID="6" EraStage="3" Name="Dao Hải Tặc" Fixedaward="" MaxList="-1" GoodsID="960294,1,0,0,0,0,0|960294,0.5,0,0,0,0,0|960294,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000043" EraID="6" EraStage="3" Name="Dao Hải Tặc" Fixedaward="" MaxList="-1" GoodsID="960294,1,0,0,0,0,0|960294,0.5,0,0,0,0,0|960294,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000046" EraID="6" EraStage="3" Name="Quần Hải Tặc" Fixedaward="" MaxList="-1" GoodsID="960295,1,0,0,0,0,0|960295,0.5,0,0,0,0,0|960295,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000040" EraID="6" EraStage="3" Name="Quần Hải Tặc" Fixedaward="" MaxList="-1" GoodsID="960295,1,0,0,0,0,0|960295,0.5,0,0,0,0,0|960295,0.5,0,0,0,0,0" />
+  <EraDrop ID="6002" EraID="6" EraStage="3" Name="Quần Hải Tặc" Fixedaward="" MaxList="-1" GoodsID="960295,0.0001,0,0,0,0,0" />
+  <EraDrop ID="7004" EraID="6" EraStage="3" Name="Sách Tổ Tiên" Fixedaward="" MaxList="-1" GoodsID="960296,0.001,0,0,0,0,0" />
+  <EraDrop ID="6005" EraID="6" EraStage="3" Name="Đền Tổ Tiên" Fixedaward="" MaxList="-1" GoodsID="960297,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000041" EraID="6" EraStage="3" Name="Đá Tổ Tiên" Fixedaward="" MaxList="-1" GoodsID="960298,1,0,0,0,0,0|960298,0.5,0,0,0,0,0|960298,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000044" EraID="6" EraStage="3" Name="Đá Tổ Tiên" Fixedaward="" MaxList="-1" GoodsID="960298,1,0,0,0,0,0|960298,0.5,0,0,0,0,0|960298,0.5,0,0,0,0,0" />
+  <EraDrop ID="7004" EraID="6" EraStage="3" Name="Đá Tổ Tiên" Fixedaward="" MaxList="-1" GoodsID="960298,0.0001,0,0,0,0,0" />
+  <EraDrop ID="5003" EraID="6" EraStage="3" Name="Pháp Khí Thánh" Fixedaward="" MaxList="-1" GoodsID="960299,0.001,0,0,0,0,0" />
+  <EraDrop ID="6006" EraID="6" EraStage="3" Name="Kế Ước Thánh" Fixedaward="" MaxList="-1" GoodsID="960300,0.001,0,0,0,0,0" />
+  <EraDrop ID="5090" EraID="6" EraStage="3" Name="Đá Ma Thánh" Fixedaward="" MaxList="-1" GoodsID="960301,1,0,0,0,0,0|960301,0.5,0,0,0,0,0|960301,0.5,0,0,0,0,0|960301,0.5,0,0,0,0,0" />
+  <EraDrop ID="7090" EraID="6" EraStage="3" Name="Đá Ma Thánh" Fixedaward="" MaxList="-1" GoodsID="960301,1,0,0,0,0,0|960301,0.5,0,0,0,0,0|960301,0.5,0,0,0,0,0|960301,0.5,0,0,0,0,0" />
+  <EraDrop ID="6007" EraID="6" EraStage="4" Name="Đá Viễn Cổ" Fixedaward="" MaxList="-1" GoodsID="960302,0.001,0,0,0,0,0" />
+  <EraDrop ID="5004" EraID="6" EraStage="4" Name="Cây Viễn Cổ" Fixedaward="" MaxList="-1" GoodsID="960303,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000047" EraID="6" EraStage="4" Name="Robot Thủ Vệ" Fixedaward="" MaxList="-1" GoodsID="960304,1,0,0,0,0,0|960304,0.5,0,0,0,0,0|960304,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000045" EraID="6" EraStage="4" Name="Robot Thủ Vệ" Fixedaward="" MaxList="-1" GoodsID="960304,1,0,0,0,0,0|960304,0.5,0,0,0,0,0|960304,0.5,0,0,0,0,0" />
+  <EraDrop ID="5002" EraID="6" EraStage="4" Name="Robot Thủ Vệ" Fixedaward="" MaxList="-1" GoodsID="960304,0.0001,0,0,0,0,0" />
+  <EraDrop ID="7005" EraID="6" EraStage="4" Name="Chú Ấn Thần" Fixedaward="" MaxList="-1" GoodsID="960305,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000042" EraID="6" EraStage="4" Name="Giáo Phản Quân" Fixedaward="" MaxList="-1" GoodsID="960306,1,0,0,0,0,0|960306,0.5,0,0,0,0,0|960306,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000048" EraID="6" EraStage="4" Name="Giáo Phản Quân" Fixedaward="" MaxList="-1" GoodsID="960306,1,0,0,0,0,0|960306,0.5,0,0,0,0,0|960306,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000040" EraID="6" EraStage="4" Name="Tín Vật Phản Quân" Fixedaward="" MaxList="-1" GoodsID="960307,1,0,0,0,0,0|960307,0.5,0,0,0,0,0|960307,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000043" EraID="6" EraStage="4" Name="Tín Vật Phản Quân" Fixedaward="" MaxList="-1" GoodsID="960307,1,0,0,0,0,0|960307,0.5,0,0,0,0,0|960307,0.5,0,0,0,0,0" />
+  <EraDrop ID="7005" EraID="6" EraStage="4" Name="Tín Vật Phản Quân" Fixedaward="" MaxList="-1" GoodsID="960307,0.0001,0,0,0,0,0" />
+  <EraDrop ID="5005" EraID="6" EraStage="4" Name="Chú Ấn Thần" Fixedaward="" MaxList="-1" GoodsID="960305,0.001,0,0,0,0,0" />
+  <EraDrop ID="7006" EraID="6" EraStage="4" Name="Gậy Công Chúa" Fixedaward="" MaxList="-1" GoodsID="960308,0.001,0,0,0,0,0" />
+  <EraDrop ID="5090" EraID="6" EraStage="4" Name="Bia Đá Đen" Fixedaward="" MaxList="-1" GoodsID="960309,1,0,0,0,0,0|960309,0.5,0,0,0,0,0|960309,0.5,0,0,0,0,0|960309,0.5,0,0,0,0,0" />
+  <EraDrop ID="6090" EraID="6" EraStage="4" Name="Bia Đá Đen" Fixedaward="" MaxList="-1" GoodsID="960309,1,0,0,0,0,0|960309,0.5,0,0,0,0,0|960309,0.5,0,0,0,0,0|960309,0.5,0,0,0,0,0" />
+  <EraDrop ID="6008" EraID="6" EraStage="4" Name="Chú Ấn Thần" Fixedaward="" MaxList="-1" GoodsID="960305,0.001,0,0,0,0,0" />
+  <EraDrop ID="3000046" EraID="6" EraStage="4" Name="Kết Tinh Thánh" Fixedaward="" MaxList="-1" GoodsID="960310,1,0,0,0,0,0|960310,0.5,0,0,0,0,0|960310,0.5,0,0,0,0,0" />
+  <EraDrop ID="3000044" EraID="6" EraStage="4" Name="Kết Tinh Thánh" Fixedaward="" MaxList="-1" GoodsID="960310,1,0,0,0,0,0|960310,0.5,0,0,0,0,0|960310,0.5,0,0,0,0,0" />
+  <EraDrop ID="7090" EraID="6" EraStage="4" Name="Cây Sinh Mệnh" Fixedaward="" MaxList="-1" GoodsID="960311,1,0,0,0,0,0|960311,0.5,0,0,0,0,0|960311,0.5,0,0,0,0,0|960311,0.5,0,0,0,0,0" />
+</Config>"

@@ -1,0 +1,54 @@
+TextAsset Base
+	string m_Name = "ZhuShenBaoKuGoods"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ZhuShenBaoKuGoods ID="1" Goods="30001,1,1,0,0,0,0" Type="0" GoodsRefreshWeight="" GoodsNum="1" GetWeight="100" Pretect="200" />
+  <ZhuShenBaoKuGoods ID="2" Goods="30002,1,1,0,0,0,0" Type="0" GoodsRefreshWeight="" GoodsNum="5" GetWeight="100" Pretect="120" />
+  <ZhuShenBaoKuGoods ID="3" Goods="30003,1,1,0,0,0,0" Type="0" GoodsRefreshWeight="" GoodsNum="10" GetWeight="200" Pretect="" />
+  <ZhuShenBaoKuGoods ID="4" Goods="30004,1,1,0,0,0,0" Type="0" GoodsRefreshWeight="" GoodsNum="50" GetWeight="700" Pretect="" />
+  <ZhuShenBaoKuGoods ID="5" Goods="30005,1,1,0,0,0,0" Type="0" GoodsRefreshWeight="" GoodsNum="25" GetWeight="100" Pretect="" />
+  <ZhuShenBaoKuGoods ID="6" Goods="30015,1,1,0,0,0,0" Type="1" GoodsRefreshWeight="100" GoodsNum="100" GetWeight="3000" Pretect="200" />
+  <ZhuShenBaoKuGoods ID="7" Goods="38000,1,1,0,0,0,0" Type="1" GoodsRefreshWeight="200" GoodsNum="100" GetWeight="3000" Pretect="200" />
+  <ZhuShenBaoKuGoods ID="8" Goods="38001,1,1,0,0,0,0" Type="1" GoodsRefreshWeight="300" GoodsNum="100" GetWeight="16000" Pretect="200" />
+  <ZhuShenBaoKuGoods ID="9" Goods="38002,1,1,0,0,0,0" Type="1" GoodsRefreshWeight="400" GoodsNum="100" GetWeight="13000" Pretect="200" />
+  <ZhuShenBaoKuGoods ID="10" Goods="38003,1,1,0,0,0,0" Type="1" GoodsRefreshWeight="500" GoodsNum="100" GetWeight="16000" Pretect="200" />
+  <ZhuShenBaoKuGoods ID="11" Goods="38004,1,1,0,0,0,0" Type="1" GoodsRefreshWeight="600" GoodsNum="100" GetWeight="16000" Pretect="200" />
+  <ZhuShenBaoKuGoods ID="12" Goods="400001,1,1,0,0,0,0" Type="1" GoodsRefreshWeight="700" GoodsNum="100" GetWeight="100" Pretect="200" />
+  <ZhuShenBaoKuGoods ID="13" Goods="400002,1,1,0,0,0,0" Type="1" GoodsRefreshWeight="800" GoodsNum="100" GetWeight="100" Pretect="200" />
+  <ZhuShenBaoKuGoods ID="14" Goods="400003,1,1,0,0,0,0" Type="1" GoodsRefreshWeight="900" GoodsNum="100" GetWeight="200" Pretect="200" />
+  <ZhuShenBaoKuGoods ID="15" Goods="400004,1,1,0,0,0,0" Type="1" GoodsRefreshWeight="1000" GoodsNum="100" GetWeight="700" Pretect="200" />
+  <ZhuShenBaoKuGoods ID="16" Goods="400005,1,1,0,0,0,0" Type="1" GoodsRefreshWeight="1100" GoodsNum="100" GetWeight="100" Pretect="200" />
+  <ZhuShenBaoKuGoods ID="17" Goods="400006,1,1,0,0,0,0" Type="1" GoodsRefreshWeight="1200" GoodsNum="100" GetWeight="150" Pretect="200" />
+  <ZhuShenBaoKuGoods ID="18" Goods="23001,1,1,0,0,0,0" Type="1" GoodsRefreshWeight="1300" GoodsNum="100" GetWeight="200" Pretect="200" />
+  <ZhuShenBaoKuGoods ID="19" Goods="23002,1,1,0,0,0,0" Type="1" GoodsRefreshWeight="1400" GoodsNum="100" GetWeight="500" Pretect="200" />
+  <ZhuShenBaoKuGoods ID="20" Goods="23003,1,1,0,0,0,0" Type="1" GoodsRefreshWeight="1500" GoodsNum="100" GetWeight="8000" Pretect="200" />
+  <ZhuShenBaoKuGoods ID="21" Goods="23004,1,1,0,0,0,0" Type="1" GoodsRefreshWeight="1600" GoodsNum="100" GetWeight="5000" Pretect="200" />
+  <ZhuShenBaoKuGoods ID="22" Goods="23005,1,1,0,0,0,0" Type="2" GoodsRefreshWeight="100" GoodsNum="100" GetWeight="2000" Pretect="" />
+  <ZhuShenBaoKuGoods ID="23" Goods="23006,1,1,0,0,0,0" Type="2" GoodsRefreshWeight="200" GoodsNum="100" GetWeight="3000" Pretect="" />
+  <ZhuShenBaoKuGoods ID="24" Goods="23007,1,1,0,0,0,0" Type="2" GoodsRefreshWeight="300" GoodsNum="100" GetWeight="3500" Pretect="" />
+  <ZhuShenBaoKuGoods ID="25" Goods="23008,1,1,0,0,0,0" Type="2" GoodsRefreshWeight="400" GoodsNum="100" GetWeight="2000" Pretect="" />
+  <ZhuShenBaoKuGoods ID="26" Goods="23009,1,1,0,0,0,0" Type="2" GoodsRefreshWeight="500" GoodsNum="100" GetWeight="3000" Pretect="" />
+  <ZhuShenBaoKuGoods ID="27" Goods="23010,1,1,0,0,0,0" Type="2" GoodsRefreshWeight="600" GoodsNum="100" GetWeight="3000" Pretect="" />
+  <ZhuShenBaoKuGoods ID="28" Goods="23011,1,1,0,0,0,0" Type="2" GoodsRefreshWeight="700" GoodsNum="100" GetWeight="16000" Pretect="" />
+  <ZhuShenBaoKuGoods ID="29" Goods="23012,1,1,0,0,0,0" Type="2" GoodsRefreshWeight="800" GoodsNum="100" GetWeight="13000" Pretect="" />
+  <ZhuShenBaoKuGoods ID="30" Goods="23013,1,1,0,0,0,0" Type="2" GoodsRefreshWeight="900" GoodsNum="100" GetWeight="16000" Pretect="" />
+  <ZhuShenBaoKuGoods ID="31" Goods="23014,1,1,0,0,0,0" Type="2" GoodsRefreshWeight="1000" GoodsNum="100" GetWeight="16000" Pretect="" />
+  <ZhuShenBaoKuGoods ID="32" Goods="23015,1,1,0,0,0,0" Type="2" GoodsRefreshWeight="1100" GoodsNum="100" GetWeight="100" Pretect="" />
+  <ZhuShenBaoKuGoods ID="33" Goods="23016,1,1,0,0,0,0" Type="2" GoodsRefreshWeight="1200" GoodsNum="100" GetWeight="100" Pretect="" />
+  <ZhuShenBaoKuGoods ID="34" Goods="24001,1,1,0,0,0,0" Type="2" GoodsRefreshWeight="1300" GoodsNum="100" GetWeight="200" Pretect="" />
+  <ZhuShenBaoKuGoods ID="35" Goods="24002,1,1,0,0,0,0" Type="2" GoodsRefreshWeight="1400" GoodsNum="100" GetWeight="700" Pretect="" />
+  <ZhuShenBaoKuGoods ID="36" Goods="24003,1,1,0,0,0,0" Type="3" GoodsRefreshWeight="100" GoodsNum="100" GetWeight="100" Pretect="" />
+  <ZhuShenBaoKuGoods ID="37" Goods="24004,1,1,0,0,0,0" Type="3" GoodsRefreshWeight="200" GoodsNum="100" GetWeight="150" Pretect="" />
+  <ZhuShenBaoKuGoods ID="38" Goods="24005,1,1,0,0,0,0" Type="3" GoodsRefreshWeight="300" GoodsNum="100" GetWeight="200" Pretect="" />
+  <ZhuShenBaoKuGoods ID="39" Goods="24006,1,1,0,0,0,0" Type="3" GoodsRefreshWeight="400" GoodsNum="100" GetWeight="500" Pretect="" />
+  <ZhuShenBaoKuGoods ID="40" Goods="24007,1,1,0,0,0,0" Type="3" GoodsRefreshWeight="500" GoodsNum="100" GetWeight="8000" Pretect="" />
+  <ZhuShenBaoKuGoods ID="41" Goods="24008,1,1,0,0,0,0" Type="3" GoodsRefreshWeight="600" GoodsNum="100" GetWeight="5000" Pretect="" />
+  <ZhuShenBaoKuGoods ID="42" Goods="24009,1,1,0,0,0,0" Type="3" GoodsRefreshWeight="700" GoodsNum="100" GetWeight="2000" Pretect="" />
+  <ZhuShenBaoKuGoods ID="43" Goods="24010,1,1,0,0,0,0" Type="3" GoodsRefreshWeight="800" GoodsNum="100" GetWeight="3000" Pretect="" />
+  <ZhuShenBaoKuGoods ID="44" Goods="24011,1,1,0,0,0,0" Type="3" GoodsRefreshWeight="900" GoodsNum="100" GetWeight="3500" Pretect="" />
+  <ZhuShenBaoKuGoods ID="45" Goods="24012,1,1,0,0,0,0" Type="3" GoodsRefreshWeight="1000" GoodsNum="100" GetWeight="2000" Pretect="" />
+  <ZhuShenBaoKuGoods ID="46" Goods="24013,1,1,0,0,0,0" Type="3" GoodsRefreshWeight="1100" GoodsNum="100" GetWeight="3000" Pretect="" />
+  <ZhuShenBaoKuGoods ID="47" Goods="24014,1,1,0,0,0,0" Type="3" GoodsRefreshWeight="1200" GoodsNum="100" GetWeight="3000" Pretect="" />
+  <ZhuShenBaoKuGoods ID="48" Goods="24015,1,1,0,0,0,0" Type="3" GoodsRefreshWeight="1300" GoodsNum="100" GetWeight="16000" Pretect="" />
+  <ZhuShenBaoKuGoods ID="49" Goods="24016,1,1,0,0,0,0" Type="3" GoodsRefreshWeight="1400" GoodsNum="100" GetWeight="13000" Pretect="" />
+</Config>"

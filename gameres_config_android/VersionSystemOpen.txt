@@ -1,0 +1,160 @@
+TextAsset Base
+	string m_Name = "VersionSystemOpen"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <!--magic swordsman-->
+  <Version ID="1" SystemName="MagicSword" IsOpen="1" />
+  <!--marry-->
+  <Version ID="2" SystemName="Marriage" IsOpen="1" />
+  <!--Phantom Temple-->
+  <Version ID="3" SystemName="HuanYingSiYuan" IsOpen="1" />
+  <!--Ladder-->
+  <Version ID="4" SystemName="TianTi" IsOpen="1" />
+  <!--Merlin Spellbook-->
+  <Version ID="5" SystemName="MerlinMagicBook" IsOpen="1" />
+  <!--free name change-->
+  <Version ID="6" SystemName="FreeModName" IsOpen="1" />
+  <!--diamond name change-->
+  <Version ID="7" SystemName="ZuanShiModName" IsOpen="1" />
+  <!--Battlefield-->
+  <Version ID="8" SystemName="YongZheZhanChang" IsOpen="1" />
+  <!--Doomsday-->
+  <Version ID="9" SystemName="MoRiShenPan" IsOpen="1" />
+  <!--Relic system-->
+  <Version ID="10" SystemName="HolyItem" IsOpen="1" />
+  <!--fluorescent gemstone-->
+  <Version ID="11" SystemName="FluorescentGem" IsOpen="1" />
+  <!--Element Trial-->
+  <Version ID="12" SystemName="ElementWar" IsOpen="1" />
+  <!--unknown function-->
+  <Version ID="13" SystemName="RandomCmdBaseId" IsOpen="1" />
+  <!--unknown function-->
+  <Version ID="14" SystemName="GetInterestingData" IsOpen="1" />
+  <!--must do every day-->
+  <Version ID="15" SystemName="Today" IsOpen="1" />
+  <!--App Treasure Package-->
+  <Version ID="16" SystemName="Ten" IsOpen="1" />
+  <!--Cross-server Boss (Land of Magic)-->
+  <Version ID="17" SystemName="KuaFuBoss" IsOpen="1" />
+  <!--Cross server main line-->
+  <Version ID="18" SystemName="KuaFuMap" IsOpen="1" />
+  <!--promotion system-->
+  <Version ID="19" SystemName="Spread" IsOpen="0" />
+  <!--fund-->
+  <Version ID="20" SystemName="Fund" IsOpen="1" />
+  <!--Sanctuary-->
+  <Version ID="21" SystemName="LangHunLingYu" IsOpen="1" />
+  <!--unknown function-->
+  <Version ID="22" SystemName="EncryptStreamKey" IsOpen="1" />
+  <!--unknown function-->
+  <Version ID="23" SystemName="CrashUnityForce" IsOpen="1" />
+  <!--Temple of War League-->
+  <Version ID="24" SystemName="UnionPalace" IsOpen="1" />
+  <!--Spirit skills-->
+  <Version ID="25" SystemName="PetSkill" IsOpen="1" />
+  <!--King's Battlefield-->
+  <Version ID="26" SystemName="KingOfBattle" IsOpen="1" />
+  <!--Summoner class-->
+  <Version ID="27" SystemName="Summoner" IsOpen="1" />
+  <!--Starting from version 5.0.0, the main system of each version is set to switch, and the following functions of version 5.0.0 are clearly marked in SystemName-->
+  <!--System ID Description-->
+  <!--If the function is configured in SystemOpen.xml, the ID = 100000 + system ID-->
+  <Version ID="100097" SystemName="Mount System" IsOpen="1" />
+  <Version ID="100098" SystemName="Power Struggle" IsOpen="1" />
+  <Version ID="100093" SystemName="Awakening System" IsOpen="1" />
+  <Version ID="100094" SystemName="Cross Server Looting Bidding" IsOpen="1" />
+  <Version ID="100095" SystemName="Cross Server Plunder To Participate In Activities" IsOpen="1" />
+  <Version ID="100100" SystemName="5.0.0 Holy Armor" IsOpen="1" />
+  <Version ID="100101" SystemName="5.0.0 Elf Awakening" IsOpen="1" />
+  <Version ID="100104" SystemName="6.0.0 Equipment Enchanting" IsOpen="1" />
+  <Version ID="100103" SystemName="6.0.0 Soul Possession" IsOpen="1" />
+  <Version ID="100105" SystemName="7.0.0 Respawn System" IsOpen="1" />
+  <Version ID="100108" SystemName="7.0.0 Team Competition" IsOpen="0" />
+  <Version ID="100112" SystemName="8.0.0 Team Management" IsOpen="0" />
+  <Version ID="100113" SystemName="8.0.0 Team Battle" IsOpen="0" />
+  <Version ID="100114" SystemName="8.0.0 Moyu Treasure Hunting" IsOpen="0" />
+  <Version ID="100115" SystemName="8.0.0 Magic Royale" IsOpen="0" />
+  <Version ID="100116" SystemName="8.0.0 Equipment Refining" IsOpen="0" />
+  <Version ID="100117" SystemName="8.0.0 Mount Seal" IsOpen="0" />
+  <Version ID="100118" SystemName="8.0.0 Magic Mysterious Treasure" IsOpen="0" />
+  <Version ID="100119" SystemName="9.0.0 Hunting Escape" IsOpen="0" />
+  <Version ID="100121" SystemName="9.0.0 Magic Broom" IsOpen="0" />
+  <Version ID="100122" SystemName="10.0.0 God’S Punishment Realm" IsOpen="0" />
+  <Version ID="100123" SystemName="10.0.0 Gods Of War" IsOpen="0" />
+  <Version ID="100125" SystemName="10.0.0 Awakening Of Wings" IsOpen="0" />
+  <Version ID="100124" SystemName="11.0.0 Gods And Demons Continent" IsOpen="0" />
+  <Version ID="100126" SystemName="11.0.0 Holy Light Feather" IsOpen="0" />
+  <Version ID="100127" SystemName="11.0.0 Mercenary System" IsOpen="0" />
+  <Version ID="100128" SystemName="11.0.0 Dark Caves" IsOpen="0" />
+  <Version ID="100129" SystemName="12.0.0 Dragon Trials" IsOpen="0" />
+  <Version ID="100130" SystemName="12.0.0 Island Of The Imprisoned God" IsOpen="0" />
+  <Version ID="100131" SystemName="13.0.0 Mount Inscription" IsOpen="0" />
+  <Version ID="100132" SystemName="13.0.0 Creation Conflict" IsOpen="0" />
+  <Version ID="100133" SystemName="Battle For The Relics" IsOpen="0" />
+  <Version ID="100134" SystemName="Mercenary Runes" IsOpen="0" />
+  <Version ID="100135" SystemName="Title System" IsOpen="0" />
+  <Version ID="100136" SystemName="Knight Equipment" IsOpen="0" />
+  <Version ID="100137" SystemName="Knighthood Map" IsOpen="0" />
+  <Version ID="100138" SystemName="Title Monster" IsOpen="0" />
+  <Version ID="100139" SystemName="Natural Disasters" IsOpen="0" />
+  <Version ID="100140" SystemName="Rebirth Turntable" IsOpen="0" />
+  <Version ID="100142" SystemName="16.0.0 Mercenary Battlefield" IsOpen="0" />
+  <Version ID="100143" SystemName="16.0.0 Shen Bing" IsOpen="0" />
+  <Version ID="100144" SystemName="16.0.0 Horcruxes" IsOpen="0" />
+  <Version ID="100145" SystemName="16.0.0 Limited Time Mall" IsOpen="0" />
+  <Version ID="100147" SystemName="16.1.0 Armbands" IsOpen="0" />
+  <Version ID="100148" SystemName="16.1.0 Armband Treasure" IsOpen="0" />
+  <Version ID="100150" SystemName="16.1.0 Armband Awakening" IsOpen="0" />
+  <Version ID="100151" SystemName="17.0.0 Dark Lord" IsOpen="1" />
+  <Version ID="100152" SystemName="17.0.0 Horcrux Awakening" IsOpen="0" />
+  <Version ID="100153" SystemName="17.0.0 All Souls Altar" IsOpen="0" />
+  <Version ID="100154" SystemName="17.0.0 Smelting Furnace-God Forge" IsOpen="0" />
+  <Version ID="100155" SystemName="17.0.0 Miracle Magic Armor" IsOpen="0" />
+  <Version ID="100156" SystemName="17.0.0 Elven Mythology" IsOpen="0" />
+  <Version ID="100157" SystemName="17.0.0 King Of Hegemony" IsOpen="0" />
+  <Version ID="100158" SystemName="17.0.0 Mount Ascension" IsOpen="0" />
+  <Version ID="100159" SystemName="17.0.0 Master Breakthrough" IsOpen="0" />
+  <Version ID="100160" SystemName="17.1.0 Elemental Altars" IsOpen="0" />
+  <Version ID="100162" SystemName="17.1.0 Divine Shield" IsOpen="0" />
+  <Version ID="100163" SystemName="17.1.0 Holy Sigil Relics" IsOpen="0" />
+  <Version ID="100164" SystemName="17.1.0 Holy Emblems Holy Seals" IsOpen="0" />
+  <Version ID="100165" SystemName="17.1.0 Holy Emblem Relic Awakening" IsOpen="0" />
+  <Version ID="100161" SystemName="17.1.0 Angel Blessing" IsOpen="0" />
+  <Version ID="100166" SystemName="17.1.0 Ancient Treasures" IsOpen="0" />
+  <Version ID="100168" SystemName="17.2.0 Return To The Mall" IsOpen="0" />
+  <Version ID="100169" SystemName="17.2.0 Regression Tasks" IsOpen="0" />
+  <Version ID="100170" SystemName="17.2.0 Return Activity" IsOpen="0" />
+  <Version ID="100171" SystemName="18.0.0 Glow Lancer" IsOpen="1" />
+  <Version ID="100172" SystemName="18.0.0 Magic Card" IsOpen="0" />
+  <Version ID="100174" SystemName="18.0.0 Saint Battlefield" IsOpen="0" />
+  <Version ID="100175" SystemName="18.0.0 Crystal Of The Divine Shield" IsOpen="0" />
+  <Version ID="100173" SystemName="18.0.0 Fashion Recycling" IsOpen="0" />
+  <Version ID="100178" SystemName="18.0.0 Armband Fashion" IsOpen="0" />
+  <Version ID="100179" SystemName="18.0.0 Stigmata Engraving" IsOpen="0" />
+  <Version ID="100177" SystemName="18.0.0 Join Group Activities" IsOpen="0" />
+  <Version ID="100181" SystemName="19.0.0 War Alliance Holy Decree" IsOpen="0" />
+  <Version ID="100182" SystemName="19.0.0 Magic Armor Extension" IsOpen="0" />
+  <Version ID="100185" SystemName="19.0.0 Journey Memories" IsOpen="0" />
+  <Version ID="100186" SystemName="19.0.0 Npc Bubbles" IsOpen="0" />
+  <Version ID="100187" SystemName="19.0.0 Stellar" IsOpen="0" />
+  <Version ID="100188" SystemName="19.0.0 Gods Vs. Gods" IsOpen="0" />
+  <Version ID="100190" SystemName="19.0.0 Star Store" IsOpen="0" />
+  <Version ID="100191" SystemName="19.0.0 Stellar Copy" IsOpen="0" />
+  <Version ID="100189" SystemName="19.0.0 King Suit" IsOpen="0" />
+  <Version ID="100195" SystemName="20.0.0 Arathi Battlefield" IsOpen="0" />
+  <Version ID="100194" SystemName="20.0.0 Vault Of The Gods" IsOpen="0" />
+  <!--If the function is not configured in the function-enabled SystemOpen.xml, the ID will be extended backwards from 120000-->
+  <Version ID="120000" SystemName="Age Of Legion" IsOpen="1" />
+  <Version ID="120120" SystemName="9.0.0 Clan Pets" IsOpen="0" />
+  <Version ID="120401" SystemName="Zhanmeng League Guess" IsOpen="1" />
+  <Version ID="120402" SystemName="5.0.0 Fight For Power" IsOpen="1" />
+  <Version ID="120403" SystemName="6.0.0 Faction Mine" IsOpen="1" />
+  <Version ID="120404" SystemName="15.0.0 Warriors Assemble" IsOpen="0" />
+  <Version ID="120100" SystemName="8.0.0 Gold Syndicate Auction House" IsOpen="0" />
+  <Version ID="120200" SystemName="10.0.0 Friendship And Circle Of Friendship" IsOpen="0" />
+  <Version ID="120300" SystemName="10.0.0 Tarot King Privileges" IsOpen="0" />
+  <Version ID="120400" SystemName="10.0.0 Rebirth Personal BOSS" IsOpen="0" />
+  <Version ID="120500" SystemName="12.0.0 Respawn Gear Set" IsOpen="0" />
+  <Version ID="120600" SystemName="16.0.0 Upcoming Events" IsOpen="0" />
+  <Version ID="120405" SystemName="16.1.0 Mount Awakening" IsOpen="0" />
+</Config>"

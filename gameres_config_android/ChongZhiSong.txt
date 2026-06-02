@@ -1,0 +1,9 @@
+TextAsset Base
+	string m_Name = "ChongZhiSong"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Activities ActivityType="21" />
+  <GiftList Title="Tri Ân Lớn" Description="Trong thời gian event chỉ cần nạp đạt 18888 KC sẽ miễn phí nhận túi quà Tri Ân Lớn trị giá 18888 KC. Hãy nắm bắt cơ hội!">
+  <Award GoodsIDs="31031,1,0,0,1,0|36002,1,0,0,1,0|50005,1,0,0,1,0|31017,1,0,0,1,0|30063,1,0,0,0,0" MinYuanBao="18888"/>
+  </GiftList>
+</Config>"

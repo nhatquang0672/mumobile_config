@@ -1,0 +1,6 @@
+TextAsset Base
+	string m_Name = "ExtPropThreshold"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ExtPropThreshold ExtPropID1="24" ExtPropName1="Hút Dame" ExtPropID2="26" ExtPropName2="Dame" Min="0" Max="0.9" />
+</Config>"

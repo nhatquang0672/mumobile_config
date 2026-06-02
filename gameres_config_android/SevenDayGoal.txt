@@ -1,0 +1,196 @@
+TextAsset Base
+	string m_Name = "SevenDayGoal"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <Goal ID="1000" Day="1" GoalType="1" FunctionType="1" Describe="Cấp đạt 0 Chuyển Lv40" TypeGoal="0,40" Award="2016,5,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1001" Day="1" GoalType="1" FunctionType="1" Describe="Cấp đạt 0 Chuyển Lv80" TypeGoal="0,80" Award="2016,5,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1002" Day="1" GoalType="1" FunctionType="1" Describe="Cấp đạt 0 Chuyển Lv90" TypeGoal="0,90" Award="2016,5,1,0,0,0,0|2001,3,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1003" Day="1" GoalType="1" FunctionType="1" Describe="Cấp đạt 1 Chuyển Lv1" TypeGoal="1,1" Award="2017,2,1,0,0,0,0|2001,3,1,0,0,0,0|5088,2,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1004" Day="1" GoalType="1" FunctionType="1" Describe="Cấp đạt 1 Chuyển Lv60" TypeGoal="1,60" Award="2017,2,1,0,0,0,0|2001,3,1,0,0,0,0|5088,2,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1005" Day="1" GoalType="1" FunctionType="1" Describe="Cấp đạt 1 Chuyển Lv70" TypeGoal="1,70" Award="2017,2,1,0,0,0,0|2003,5,1,0,0,0,0|5088,2,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1006" Day="1" GoalType="1" FunctionType="1" Describe="Cấp đạt 1 Chuyển Lv80" TypeGoal="1,80" Award="2017,2,1,0,0,0,0|2003,5,1,0,0,0,0|5088,2,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1007" Day="1" GoalType="1" FunctionType="1" Describe="Cấp đạt 1 Chuyển Lv90" TypeGoal="1,90" Award="2017,2,1,0,0,0,0|2000,2,1,0,0,0,0|5030,1,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1008" Day="1" GoalType="1" FunctionType="1" Describe="Cấp đạt 2 Chuyển Lv1" TypeGoal="2,1" Award="2017,2,1,0,0,0,0|2000,2,1,0,0,0,0|5088,2,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1009" Day="1" GoalType="1" FunctionType="1" Describe="Cấp đạt 2 Chuyển Lv60" TypeGoal="2,60" Award="2017,3,1,0,0,0,0|2003,5,1,0,0,0,0|5088,2,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1010" Day="1" GoalType="1" FunctionType="1" Describe="Cấp đạt 2 Chuyển Lv70" TypeGoal="2,70" Award="2017,4,1,0,0,0,0|2003,5,1,0,0,0,0|5088,2,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1011" Day="1" GoalType="1" FunctionType="1" Describe="Cấp đạt 2 Chuyển Lv80" TypeGoal="2,80" Award="2017,4,1,0,0,0,0|2003,8,1,0,0,0,0|5088,2,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1012" Day="1" GoalType="1" FunctionType="1" Describe="Cấp đạt 2 Chuyển Lv90" TypeGoal="2,90" Award="2017,4,1,0,0,0,0|2003,8,1,0,0,0,0|5088,3,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1013" Day="1" GoalType="1" FunctionType="1" Describe="Cấp đạt 3 Chuyển Lv1" TypeGoal="3,1" Award="2017,5,1,0,0,0,0|2003,8,1,0,0,0,0|5088,3,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1014" Day="1" GoalType="1" FunctionType="1" Describe="Cấp đạt 3 Chuyển Lv60" TypeGoal="3,60" Award="2017,5,1,0,0,0,0|2003,8,1,0,0,0,0|5088,4,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1015" Day="1" GoalType="1" FunctionType="1" Describe="Cấp đạt 3 Chuyển Lv80" TypeGoal="3,80" Award="2017,5,1,0,0,0,0|2003,10,1,0,0,0,0|5088,4,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="1016" Day="1" GoalType="1" FunctionType="1" Describe="Cấp đạt 4 Chuyển Lv1" TypeGoal="4,1" Award="2017,5,1,0,0,0,0|2003,10,1,0,0,0,0|5088,5,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="2000" Day="1" GoalType="2" FunctionType="2" Describe="Đem 3 kỹ năng nâng đến Lv10" TypeGoal="3,10" Award="50151,2,1,0,0,0,0|5066,5,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="2001" Day="1" GoalType="2" FunctionType="2" Describe="Đem 4 kỹ năng nâng đến Lv20" TypeGoal="4,20" Award="50151,2,1,0,0,0,0|5050,1,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="2002" Day="1" GoalType="2" FunctionType="2" Describe="Đem 5 kỹ năng nâng đến Lv30" TypeGoal="5,30" Award="50151,5,1,0,0,0,0|5050,2,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="2003" Day="1" GoalType="2" FunctionType="2" Describe="Đem 6 kỹ năng nâng đến Lv40" TypeGoal="6,40" Award="50151,8,1,0,0,0,0|5050,3,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="3000" Day="1" GoalType="2" FunctionType="3" Describe="Có Ma Băng đạt 100000" TypeGoal="100000" Award="50151,6,1,0,0,0,0|5050,3,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="3001" Day="1" GoalType="2" FunctionType="3" Describe="Có Ma Băng đạt 500000" TypeGoal="500000" Award="50151,12,1,0,0,0,0|5050,5,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="4000" Day="1" GoalType="2" FunctionType="4" Describe="Thanh lý nhận Ma Băng 50000" TypeGoal="50000" Award="50151,6,1,0,0,0,0|5050,3,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="4001" Day="1" GoalType="2" FunctionType="4" Describe="Thanh lý nhận Ma Băng 200000" TypeGoal="200000" Award="50151,12,1,0,0,0,0|5050,5,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="5000" Day="1" GoalType="2" FunctionType="5" Describe="Dùng Ma Băng đổi Ng.Tiến Hóa 5 cái" TypeGoal="2030,5" Award="50151,3,1,0,0,0,0|5050,2,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="5001" Day="1" GoalType="2" FunctionType="5" Describe="Dùng Ma Băng đổi Ng.Tiến Hóa 10 cái" TypeGoal="2030,10" Award="50151,5,1,0,0,0,0|5050,3,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="5002" Day="1" GoalType="2" FunctionType="5" Describe="Dùng Ma Băng đổi Ng.Tiến Hóa 20 cái" TypeGoal="2030,20" Award="50151,8,1,0,0,0,0|5050,4,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="5003" Day="1" GoalType="2" FunctionType="5" Describe="Dùng Ma Băng đổi Ng.Tiến Hóa 30 cái" TypeGoal="2030,30" Award="50151,12,1,0,0,0,0|5050,5,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="6000" Day="2" GoalType="3" FunctionType="6" Describe="Tham gia đấu trường 5 trận" TypeGoal="5" Award="5040,1,1,0,0,0,0|50015,2,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="6001" Day="2" GoalType="3" FunctionType="6" Describe="Tham gia đấu trường 15 trận" TypeGoal="15" Award="5040,2,1,0,0,0,0|50015,4,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="6002" Day="2" GoalType="3" FunctionType="6" Describe="Tham gia đấu trường 30 trận" TypeGoal="30" Award="5040,4,1,0,0,0,0|5041,1,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="6003" Day="2" GoalType="3" FunctionType="6" Describe="Tham gia đấu trường 50 trận" TypeGoal="50" Award="5040,4,1,0,0,0,0|5041,2,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="7000" Day="2" GoalType="3" FunctionType="7" Describe="Thắng đấu trường 5 trận" TypeGoal="5" Award="5040,2,1,0,0,0,0|50015,2,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="7001" Day="2" GoalType="3" FunctionType="7" Describe="Thắng đấu trường 10 trận" TypeGoal="10" Award="5040,3,1,0,0,0,0|50015,4,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="7002" Day="2" GoalType="3" FunctionType="7" Describe="Thắng đấu trường 20 trận" TypeGoal="20" Award="5040,5,1,0,0,0,0|5041,1,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="7003" Day="2" GoalType="3" FunctionType="7" Describe="Thắng đấu trường 30 trận" TypeGoal="30" Award="5040,8,1,0,0,0,0|5041,2,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="8000" Day="2" GoalType="3" FunctionType="8" Describe="Trong đấu trường đạt hạng 400" TypeGoal="400" Award="5040,1,1,0,0,0,0|50015,2,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="8001" Day="2" GoalType="3" FunctionType="8" Describe="Trong đấu trường đạt hạng 200" TypeGoal="200" Award="5040,2,1,0,0,0,0|50015,2,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="8002" Day="2" GoalType="3" FunctionType="8" Describe="Trong đấu trường đạt hạng 100" TypeGoal="100" Award="5040,3,1,0,0,0,0|50015,2,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="8003" Day="2" GoalType="3" FunctionType="8" Describe="Trong đấu trường đạt hạng 50" TypeGoal="50" Award="5040,4,1,0,0,0,0|50015,4,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="8004" Day="2" GoalType="3" FunctionType="8" Describe="Trong đấu trường đạt hạng 20" TypeGoal="20" Award="5040,5,1,0,0,0,0|5041,1,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="8005" Day="2" GoalType="3" FunctionType="8" Describe="Trong đấu trường đạt hạng 10" TypeGoal="10" Award="5040,5,1,0,0,0,0|5041,2,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="8006" Day="2" GoalType="3" FunctionType="8" Describe="Trong đấu trường đạt hạng 1" TypeGoal="1" Award="5040,5,1,0,0,0,0|5041,3,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="9000" Day="2" GoalType="4" FunctionType="9" Describe="Mang 3 món trang bị lam hoặc cao hơn" TypeGoal="3" Award="50151,2,1,0,0,0,0|2016,5,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="10000" Day="2" GoalType="4" FunctionType="10" Describe="Mang 3 món trang bị tím hoặc cao hơn" TypeGoal="3" Award="50151,2,1,0,0,0,0|2016,8,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="10001" Day="2" GoalType="4" FunctionType="10" Describe="Mang 4 món trang bị tím hoặc cao hơn" TypeGoal="4" Award="50151,3,1,0,0,0,0|2016,12,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="10002" Day="2" GoalType="4" FunctionType="10" Describe="Mang 6 món trang bị tím hoặc cao hơn" TypeGoal="6" Award="50151,5,1,0,0,0,0|2016,20,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="10003" Day="2" GoalType="4" FunctionType="10" Describe="Mang 8 món trang bị tím hoặc cao hơn" TypeGoal="8" Award="50151,10,1,0,0,0,0|2016,30,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="12000" Day="2" GoalType="4" FunctionType="12" Describe="Thanh lý 5 món tr.bị lam hoặc cao hơn" TypeGoal="5" Award="50151,3,1,0,0,0,0|2016,12,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="12001" Day="2" GoalType="4" FunctionType="12" Describe="Thanh lý 20 món tr.bị lam hoặc cao hơn" TypeGoal="20" Award="50151,10,1,0,0,0,0|2016,30,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="13000" Day="2" GoalType="4" FunctionType="13" Describe="Bán 1 trang bị trong giao dịch" TypeGoal="1" Award="50151,2,1,0,0,0,0|2016,8,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="14000" Day="2" GoalType="4" FunctionType="14" Describe="Thông qua Cầu Phúc nhận 1 trang bị" TypeGoal="1" Award="50151,5,1,0,0,0,0|2016,20,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="14001" Day="2" GoalType="4" FunctionType="14" Describe="Thông qua Cầu Phúc nhận 3 trang bị" TypeGoal="3" Award="50151,10,1,0,0,0,0|2016,30,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="14002" Day="2" GoalType="4" FunctionType="14" Describe="Thông qua Cầu Phúc nhận 5 trang bị" TypeGoal="5" Award="50151,20,1,0,0,0,0|2016,50,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="15000" Day="2" GoalType="4" FunctionType="15" Describe="Nhặt 50 trang bị" TypeGoal="50" Award="50151,5,1,0,0,0,0|2016,20,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="15001" Day="2" GoalType="4" FunctionType="15" Describe="Nhặt 200 trang bị" TypeGoal="200" Award="50151,10,1,0,0,0,0|2016,30,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="16000" Day="2" GoalType="4" FunctionType="16" Describe="Tiến hành 1 lần thừa kế trang bị" TypeGoal="1" Award="50151,5,1,0,0,0,0|2016,20,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="16001" Day="2" GoalType="4" FunctionType="16" Describe="Tiến hành 5 lần thừa kế trang bị" TypeGoal="5" Award="50151,10,1,0,0,0,0|2016,30,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="17000" Day="3" GoalType="5" FunctionType="17" Describe="Diệt Phó bản vàng 2 lần" TypeGoal="5100,2" Award="5030,1,1,0,0,0,0|50015,2,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="17001" Day="3" GoalType="5" FunctionType="17" Describe="Diệt Cung Điện Gorgon-Địa Ngục 1 lần" TypeGoal="33,1" Award="5030,3,1,0,0,0,0|50015,4,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="17002" Day="3" GoalType="5" FunctionType="17" Describe="Diệt Cung Điện Balrog-Địa ngục 2 lần" TypeGoal="43,2" Award="5030,1,1,0,0,0,0|5031,1,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="17003" Day="3" GoalType="5" FunctionType="17" Describe="Diệt Vùng Biển Quỷ-Địa ngục 2 lần" TypeGoal="53,2" Award="5030,3,1,0,0,0,0|5031,1,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="18000" Day="3" GoalType="5" FunctionType="18" Describe="Diệt Dungeon 30 con Nhện Địa Ngục" TypeGoal="4,406,30" Award="5030,1,1,0,0,0,0|50015,2,1,0,0,0,0" ShowNum="3" />
+  <Goal ID="18001" Day="3" GoalType="5" FunctionType="18" Describe="Diệt Lost Tower 30 Kiếm Sĩ Tử Thần" TypeGoal="5,505,30" Award="5030,2,1,0,0,0,0|50015,3,1,0,0,0,0" ShowNum="3" />
+  <Goal ID="18002" Day="3" GoalType="5" FunctionType="18" Describe="Diệt Atlans tiêu diệt 30 Vua Phù Thủy" TypeGoal="6,605,30" Award="5030,3,1,0,0,0,0|50015,4,1,0,0,0,0" ShowNum="3" />
+  <Goal ID="18003" Day="3" GoalType="5" FunctionType="18" Describe="Diệt Tarkan tiêu diệt 30 Sói Nanh Máu" TypeGoal="7,701,30" Award="5030,4,1,0,0,0,0|50015,5,1,0,0,0,0" ShowNum="3" />
+  <Goal ID="19000" Day="3" GoalType="5" FunctionType="19" Describe="Tham gia Đấu Trường Quỷ 3 lần" TypeGoal="6,3" Award="5030,2,1,0,0,0,0|50015,4,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="19001" Day="3" GoalType="5" FunctionType="19" Describe="Tham gia Đấu Trường Quỷ 10 lần" TypeGoal="6,10" Award="5030,3,1,0,0,0,0|5031,1,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="19002" Day="3" GoalType="5" FunctionType="19" Describe="Tham gia Huyết Lâu 3 lần" TypeGoal="5,3" Award="5030,4,1,0,0,0,0|50015,4,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="19003" Day="3" GoalType="5" FunctionType="19" Describe="Tham gia Huyết Lâu 10 lần" TypeGoal="5,10" Award="5030,5,1,0,0,0,0|5031,1,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="20000" Day="3" GoalType="6" FunctionType="20" Describe="Ghép Chứng Nhận Quỷ 5 cái" TypeGoal="6000,5" Award="50151,3,1,0,0,0,0|2000,2,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="20001" Day="3" GoalType="6" FunctionType="20" Describe="Ghép Chứng Nhận Quỷ 15 cái" TypeGoal="6000,15" Award="50151,8,1,0,0,0,0|2000,8,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="20002" Day="3" GoalType="6" FunctionType="20" Describe="Ghép Áo Tàng Hình 5 cái" TypeGoal="6003,5" Award="50151,3,1,0,0,0,0|2000,2,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="20003" Day="3" GoalType="6" FunctionType="20" Describe="Ghép Áo Tàng Hình 15 cái" TypeGoal="6003,15" Award="50151,8,1,0,0,0,0|2000,8,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="21000" Day="3" GoalType="6" FunctionType="21" Describe="Dùng quả thể lực 3 cái" TypeGoal="5104,3" Award="50151,3,1,0,0,0,0|2000,2,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="21001" Day="3" GoalType="6" FunctionType="21" Describe="Dùng quả thể lực 8 cái" TypeGoal="5104,8" Award="50151,8,1,0,0,0,0|2004,8,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="21002" Day="3" GoalType="6" FunctionType="21" Describe="Dùng quả nhanh nhẹn 5 cái" TypeGoal="5102,5" Award="50151,5,1,0,0,0,0|2000,5,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="22000" Day="3" GoalType="6" FunctionType="22" Describe="Tiến hành đổi vàng 10 lần" TypeGoal="10" Award="50151,8,1,0,0,0,0|2004,8,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="22001" Day="3" GoalType="6" FunctionType="22" Describe="Tiến hành đổi vàng 50 lần" TypeGoal="50" Award="50151,15,1,0,0,0,0|2004,15,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="23000" Day="3" GoalType="6" FunctionType="23" Describe="Tiến hành đổi KC khóa 10 lần" TypeGoal="10" Award="50151,8,1,0,0,0,0|2004,8,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="23001" Day="3" GoalType="6" FunctionType="23" Describe="Tiến hành đổi KC khóa 50 lần" TypeGoal="50" Award="50151,15,1,0,0,0,0|2004,15,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="24000" Day="3" GoalType="6" FunctionType="24" Describe="Tiến hành đổi KC 10 lần" TypeGoal="10" Award="50151,8,1,0,0,0,0|2004,8,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="24001" Day="3" GoalType="6" FunctionType="24" Describe="Tiến hành đổi KC 50 lần" TypeGoal="50" Award="50151,15,1,0,0,0,0|2004,15,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="25000" Day="3" GoalType="6" FunctionType="25" Describe="Dùng điểm cầu phúc đổi Ngọc T.Hóa 1 lần" TypeGoal="2030,1" Award="50151,3,1,0,0,0,0|2004,3,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="25001" Day="3" GoalType="6" FunctionType="25" Describe="Dùng điểm cầu phúc đổi Ngọc T.Hóa 5 lần" TypeGoal="2030,5" Award="50151,15,1,0,0,0,0|2004,15,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="25100" Day="4" GoalType="7" FunctionType="18" Describe="Diệt Lost Tower T.A Địa Ngục Tông Đồ x1" TypeGoal="5,507,1" Award="2001,5,1,0,0,0,0|2002,3,1,0,0,0,0" ShowNum="3" />
+  <Goal ID="25101" Day="4" GoalType="7" FunctionType="18" Describe="Diệt Lost Tower diệt T.A·Mephisto x1" TypeGoal="5,508,1" Award="2001,5,1,0,0,0,0|2002,3,1,0,0,0,0" ShowNum="3" />
+  <Goal ID="25102" Day="4" GoalType="7" FunctionType="18" Describe="Diệt Atlans T.A Công Chúa N.Ngư x1" TypeGoal="6,606,1" Award="2001,5,1,0,0,0,0|2002,3,1,0,0,0,0" ShowNum="3" />
+  <Goal ID="25103" Day="4" GoalType="7" FunctionType="18" Describe="Diệt Atlans diệt T.A·Kẻ Thôn Tính x1" TypeGoal="6,607,1" Award="2001,5,1,0,0,0,0|2002,3,1,0,0,0,0" ShowNum="3" />
+  <Goal ID="25104" Day="4" GoalType="7" FunctionType="18" Describe="Diệt Tarkan diệt T.A·Crazy Tusk x1" TypeGoal="7,705,1" Award="2001,5,1,0,0,0,0|2002,3,1,0,0,0,0" ShowNum="3" />
+  <Goal ID="25105" Day="4" GoalType="7" FunctionType="18" Describe="Diệt Tarkan diệt T.A·Kẻ Kết Liễu x1" TypeGoal="7,706,1" Award="2001,5,1,0,0,0,0|2002,3,1,0,0,0,0" ShowNum="3" />
+  <Goal ID="26000" Day="4" GoalType="7" FunctionType="26" Describe="Lực chiến đạt 100000" TypeGoal="100000" Award="2001,3,1,0,0,0,0|2002,1,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="26001" Day="4" GoalType="7" FunctionType="26" Describe="Lực chiến đạt 150000" TypeGoal="150000" Award="2001,4,1,0,0,0,0|2002,2,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="26002" Day="4" GoalType="7" FunctionType="26" Describe="Lực chiến đạt 200000" TypeGoal="200000" Award="2001,5,1,0,0,0,0|2002,3,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="26003" Day="4" GoalType="7" FunctionType="26" Describe="Lực chiến đạt 250000" TypeGoal="250000" Award="2001,8,1,0,0,0,0|2002,5,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="26004" Day="4" GoalType="7" FunctionType="26" Describe="Lực chiến đạt 300000" TypeGoal="300000" Award="2001,10,1,0,0,0,0|2002,8,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="26005" Day="4" GoalType="7" FunctionType="26" Describe="Lực chiến đạt 350000" TypeGoal="350000" Award="2001,12,1,0,0,0,0|2002,10,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="26006" Day="4" GoalType="7" FunctionType="26" Describe="Lực chiến đạt 400000" TypeGoal="400000" Award="2001,16,1,0,0,0,0|2002,12,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="26007" Day="4" GoalType="7" FunctionType="26" Describe="Lực chiến đạt 450000" TypeGoal="450000" Award="2001,20,1,0,0,0,0|2002,16,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="26008" Day="4" GoalType="7" FunctionType="26" Describe="Lực chiến đạt 500000" TypeGoal="500000" Award="2001,20,1,0,0,0,0|2002,16,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="27000" Day="4" GoalType="8" FunctionType="27" Describe="Mang 2 trang bị cường hóa +4 " TypeGoal="4,2" Award="50151,3,1,0,0,0,0|4000,3,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="27001" Day="4" GoalType="8" FunctionType="27" Describe="Mang 4 trang bị cường hóa +5 " TypeGoal="5,4" Award="50151,8,1,0,0,0,0|2002,3,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="27002" Day="4" GoalType="8" FunctionType="27" Describe="Mang 6 trang bị cường hóa +6 " TypeGoal="6,6" Award="50151,12,1,0,0,0,0|2002,5,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="27003" Day="4" GoalType="8" FunctionType="27" Describe="Mang 8 trang bị cường hóa +7 " TypeGoal="7,8" Award="50151,20,1,0,0,0,0|7004,1,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="27004" Day="4" GoalType="8" FunctionType="27" Describe="Mang 10 trang bị cường hóa +8 " TypeGoal="8,10" Award="50151,30,1,0,0,0,0|7005,1,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="28000" Day="4" GoalType="8" FunctionType="28" Describe="Cường hóa trang bị cao nhất đạt +7" TypeGoal="7" Award="50151,3,1,0,0,0,0|4000,3,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="28001" Day="4" GoalType="8" FunctionType="28" Describe="Cường hóa trang bị cao nhất đạt +8" TypeGoal="8" Award="50151,5,1,0,0,0,0|2002,3,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="28002" Day="4" GoalType="8" FunctionType="28" Describe="Cường hóa trang bị cao nhất đạt +9" TypeGoal="9" Award="50151,8,1,0,0,0,0|2002,5,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="28003" Day="4" GoalType="8" FunctionType="28" Describe="Cường hóa trang bị cao nhất đạt +10" TypeGoal="10" Award="50151,10,1,0,0,0,0|7004,1,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="28004" Day="4" GoalType="8" FunctionType="28" Describe="Cường hóa trang bị cao nhất đạt +11" TypeGoal="11" Award="50151,15,1,0,0,0,0|7005,1,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="29000" Day="4" GoalType="8" FunctionType="29" Describe="Tiến hành 10 lần cường hóa" TypeGoal="10" Award="2001,5,1,0,0,0,0|2002,3,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="29001" Day="4" GoalType="8" FunctionType="29" Describe="Tiến hành 50 lần cường hóa" TypeGoal="50" Award="2001,10,1,0,0,0,0|2002,5,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="30000" Day="5" GoalType="9" FunctionType="30" Describe="Hoàn thành thành tựu Tiền Tài Dư Dả" TypeGoal="601" Award="50015,3,1,0,0,0,0|2003,5,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="30001" Day="5" GoalType="9" FunctionType="30" Describe="Hoàn thành thành tựu Triệu Phú" TypeGoal="602" Award="50015,5,1,0,0,0,0|2003,10,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="30002" Day="5" GoalType="9" FunctionType="30" Describe="Hoàn thành thành tựu Tiền Bạc Để Dành" TypeGoal="603" Award="50015,8,1,0,0,0,0|2003,15,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="30003" Day="5" GoalType="9" FunctionType="30" Describe="Hoàn thành thành tựu Diệt Quái [Thống Lĩnh]" TypeGoal="702" Award="50015,12,1,0,0,0,0|2003,20,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="30004" Day="5" GoalType="9" FunctionType="30" Describe="Hoàn thành thành tựu PB Thường [Kẻ Trấn Áp]" TypeGoal="902" Award="50015,12,1,0,0,0,0|2003,20,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="30005" Day="5" GoalType="9" FunctionType="30" Describe="Hoàn thành thành tựu BOSS [Lần Đầu]" TypeGoal="800" Award="50015,12,1,0,0,0,0|2003,20,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="30006" Day="5" GoalType="9" FunctionType="30" Describe="Hoàn thành thành tựu Cường Hóa [9 Sao]" TypeGoal="1204" Award="50015,12,1,0,0,0,0|2003,20,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="30007" Day="5" GoalType="9" FunctionType="30" Describe="Hoàn thành thành tựu Gia cố [Lv30]" TypeGoal="1302" Award="50015,12,1,0,0,0,0|2003,20,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="30008" Day="5" GoalType="9" FunctionType="30" Describe="Hoàn thành thành tựu Guild [Dũng Sĩ]" TypeGoal="2003" Award="50015,12,1,0,0,0,0|2003,20,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="31000" Day="5" GoalType="9" FunctionType="31" Describe="Thành tựu hộ thể đạt 3 Lv" TypeGoal="3" Award="50015,8,1,0,0,0,0|2003,15,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="31001" Day="5" GoalType="9" FunctionType="31" Describe="Thành tựu hộ thể đạt 4 Lv" TypeGoal="4" Award="50015,12,1,0,0,0,0|2003,20,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="31002" Day="5" GoalType="9" FunctionType="31" Describe="Thành tựu hộ thể đạt 5 Lv" TypeGoal="5" Award="50015,15,1,0,0,0,0|2003,30,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="32000" Day="5" GoalType="9" FunctionType="32" Describe="Quân hàm hộ thể đạt 6 Lv" TypeGoal="3" Award="50015,8,1,0,0,0,0|2003,15,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="32001" Day="5" GoalType="9" FunctionType="32" Describe="Quân hàm hộ thể đạt 7 Lv" TypeGoal="4" Award="50015,12,1,0,0,0,0|2003,20,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="32002" Day="5" GoalType="9" FunctionType="32" Describe="Quân hàm hộ thể đạt 8 Lv" TypeGoal="5" Award="50015,15,1,0,0,0,0|2003,30,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="33000" Day="5" GoalType="10" FunctionType="33" Describe="Mang 2 trang bị gia cố 5 " TypeGoal="5,2" Award="50151,2,1,0,0,0,0|2030,2,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="33001" Day="5" GoalType="10" FunctionType="33" Describe="Mang 4 trang bị gia cố 10 " TypeGoal="10,4" Award="50151,4,1,0,0,0,0|2030,4,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="33002" Day="5" GoalType="10" FunctionType="33" Describe="Mang 6 trang bị gia cố 15 " TypeGoal="15,6" Award="50151,6,1,0,0,0,0|2030,6,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="33003" Day="5" GoalType="10" FunctionType="33" Describe="Mang 8 trang bị gia cố 20 " TypeGoal="20,8" Award="50151,8,1,0,0,0,0|2030,8,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="33004" Day="5" GoalType="10" FunctionType="33" Describe="Mang 10 trang bị gia cố 25 " TypeGoal="25,10" Award="50151,10,1,0,0,0,0|2030,10,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="34000" Day="5" GoalType="10" FunctionType="34" Describe="Cấp gia cố lớn nhất đạt 20" TypeGoal="20" Award="50151,4,1,0,0,0,0|2030,4,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="34001" Day="5" GoalType="10" FunctionType="34" Describe="Cấp gia cố lớn nhất đạt 25" TypeGoal="25" Award="50151,6,1,0,0,0,0|2030,6,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="34002" Day="5" GoalType="10" FunctionType="34" Describe="Cấp gia cố lớn nhất đạt 30" TypeGoal="30" Award="50151,8,1,0,0,0,0|2030,8,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="34003" Day="5" GoalType="10" FunctionType="34" Describe="Cấp gia cố lớn nhất đạt 35" TypeGoal="35" Award="50151,10,1,0,0,0,0|2030,10,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="34004" Day="5" GoalType="10" FunctionType="34" Describe="Cấp gia cố lớn nhất đạt 40" TypeGoal="40" Award="50151,15,1,0,0,0,0|2030,15,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="35000" Day="5" GoalType="10" FunctionType="35" Describe="Tiến hành 20 lần gia cố" TypeGoal="20" Award="50151,6,1,0,0,0,0|2030,6,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="35001" Day="5" GoalType="10" FunctionType="35" Describe="Tiến hành 100 lần gia cố" TypeGoal="100" Award="50151,10,1,0,0,0,0|2030,10,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="36000" Day="6" GoalType="11" FunctionType="36" Describe="K.Hoạt Bạch Dương 3 ngôi sao" TypeGoal="1,3" Award="50015,5,1,0,0,0,0|2017,3,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="36001" Day="6" GoalType="11" FunctionType="36" Describe="K.Hoạt Bạch Dương 8 ngôi sao" TypeGoal="1,8" Award="50015,12,1,0,0,0,0|2017,8,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="36002" Day="6" GoalType="11" FunctionType="36" Describe="K.Hoạt Kim Ngưu 3 ngôi sao" TypeGoal="2,3" Award="50015,5,1,0,0,0,0|2017,3,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="36003" Day="6" GoalType="11" FunctionType="36" Describe="K.Hoạt Kim Ngưu 8 ngôi sao" TypeGoal="2,8" Award="50015,12,1,0,0,0,0|2017,8,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="36004" Day="6" GoalType="11" FunctionType="36" Describe="K.Hoạt Song Tử 3 ngôi sao" TypeGoal="3,3" Award="50015,5,1,0,0,0,0|2017,3,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="36005" Day="6" GoalType="11" FunctionType="36" Describe="K.Hoạt Song Tử 8 ngôi sao" TypeGoal="3,8" Award="50015,12,1,0,0,0,0|2017,8,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="36006" Day="6" GoalType="11" FunctionType="36" Describe="K.Hoạt Cự Giải 3 ngôi sao" TypeGoal="4,3" Award="50015,5,1,0,0,0,0|2017,3,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="36007" Day="6" GoalType="11" FunctionType="36" Describe="K.Hoạt Cự Giải 8 ngôi sao" TypeGoal="4,8" Award="50015,12,1,0,0,0,0|2017,8,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="36008" Day="6" GoalType="11" FunctionType="36" Describe="K.Hoạt Sư Tử 3 ngôi sao" TypeGoal="5,3" Award="50015,5,1,0,0,0,0|2017,3,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="36009" Day="6" GoalType="11" FunctionType="36" Describe="K.Hoạt Sư Tử 8 ngôi sao" TypeGoal="5,8" Award="50015,12,1,0,0,0,0|2017,8,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="37000" Day="6" GoalType="11" FunctionType="37" Describe="Nhập kho 1 Tinh Linh tím trở lên" TypeGoal="1" Award="50015,5,1,0,0,0,0|2017,3,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="38000" Day="6" GoalType="11" FunctionType="38" Describe="Nhập kho 1 Tinh Linh tím trở lên" TypeGoal="1" Award="50015,9,1,0,0,0,0|2017,6,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="38001" Day="6" GoalType="11" FunctionType="38" Describe="Nhập kho 2 Tinh Linh tím trở lên" TypeGoal="2" Award="50015,15,1,0,0,0,0|2017,10,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="38002" Day="6" GoalType="11" FunctionType="38" Describe="Nhập kho 3 Tinh Linh tím trở lên" TypeGoal="3" Award="50015,21,1,0,0,0,0|2017,15,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="38003" Day="6" GoalType="11" FunctionType="38" Describe="Nhập kho 4 Tinh Linh tím trở lên" TypeGoal="4" Award="50015,30,1,0,0,0,0|2017,20,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="39000" Day="6" GoalType="12" FunctionType="39" Describe="Cấp cánh đạt 2 cấp " TypeGoal="2,0" Award="5030,1,1,0,0,0,0|5040,2,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="39001" Day="6" GoalType="12" FunctionType="39" Describe="Cấp cánh đạt 2 cấp 5 sao" TypeGoal="2,5" Award="5030,2,1,0,0,0,0|5040,2,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="39002" Day="6" GoalType="12" FunctionType="39" Describe="Cấp cánh đạt 3 cấp " TypeGoal="3,0" Award="5030,3,1,0,0,0,0|5040,3,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="39003" Day="6" GoalType="12" FunctionType="39" Describe="Cấp cánh đạt 3 cấp 5 sao" TypeGoal="3,5" Award="5031,1,1,0,0,0,0|5041,1,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="39004" Day="6" GoalType="12" FunctionType="39" Describe="Cấp cánh đạt 4 cấp " TypeGoal="4,0" Award="5031,2,1,0,0,0,0|5041,2,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="39005" Day="6" GoalType="12" FunctionType="39" Describe="Cấp cánh đạt 4 cấp 5 sao" TypeGoal="4,5" Award="5031,2,1,0,0,0,0|5041,2,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="39006" Day="6" GoalType="12" FunctionType="39" Describe="Cấp cánh đạt 5 cấp " TypeGoal="5,0" Award="5031,3,1,0,0,0,0|5041,3,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="39007" Day="6" GoalType="12" FunctionType="39" Describe="Cấp cánh đạt 5 cấp 5 sao" TypeGoal="5,5" Award="5031,3,1,0,0,0,0|5041,3,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="40000" Day="6" GoalType="12" FunctionType="40" Describe="Tăng sao hoặc tăng cánh 50 lần" TypeGoal="50" Award="5030,2,1,0,0,0,0|5040,2,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="40001" Day="6" GoalType="12" FunctionType="40" Describe="Tăng sao hoặc tăng cánh 100 lần" TypeGoal="100" Award="5031,1,1,0,0,0,0|5041,1,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="40002" Day="6" GoalType="12" FunctionType="40" Describe="Tăng sao hoặc tăng cánh 300 lần" TypeGoal="300" Award="5031,2,1,0,0,0,0|5041,2,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="40003" Day="6" GoalType="12" FunctionType="40" Describe="Tăng sao hoặc tăng cánh 500 lần" TypeGoal="500" Award="5031,3,1,0,0,0,0|5041,3,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="41000" Day="7" GoalType="13" FunctionType="41" Describe="Hoàn tất ĐG Lorencia - Bò Chiến" TypeGoal="102" Award="50015,3,1,0,0,0,0|5088,3,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="41001" Day="7" GoalType="13" FunctionType="41" Describe="Hoàn tất ĐG Lorencia - Cốt Tinh Vương" TypeGoal="108" Award="50015,8,1,0,0,0,0|5088,8,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="41002" Day="7" GoalType="13" FunctionType="41" Describe="Hoàn tất ĐG Noria - Đại Yêu Tinh" TypeGoal="202" Award="50015,3,1,0,0,0,0|5088,3,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="41003" Day="7" GoalType="13" FunctionType="41" Describe="Hoàn tất ĐG Noria Yakun Pháp Vương" TypeGoal="208" Award="50015,8,1,0,0,0,0|5088,8,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="41004" Day="7" GoalType="13" FunctionType="41" Describe="Hoàn tất ĐG Devias - Quỷ Xanh" TypeGoal="302" Award="50015,3,1,0,0,0,0|5088,3,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="41005" Day="7" GoalType="13" FunctionType="41" Describe="Hoàn tất ĐG Devias - Nữ Hoàng Băng" TypeGoal="306" Award="50015,8,1,0,0,0,0|5088,8,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="41006" Day="7" GoalType="13" FunctionType="41" Describe="Hoàn tất ĐG Dungeon - Khổng Lồ Một Mắt" TypeGoal="401" Award="50015,3,1,0,0,0,0|5088,3,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="41007" Day="7" GoalType="13" FunctionType="41" Describe="Hoàn tất ĐG Dungeon - Quỷ Gorgon" TypeGoal="410" Award="50015,8,1,0,0,0,0|5088,8,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="41008" Day="7" GoalType="13" FunctionType="41" Describe="Hoàn tất ĐG Lost Tower Pháp Sư Bị Nguyền" TypeGoal="502" Award="50015,3,1,0,0,0,0|5088,3,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="41009" Day="7" GoalType="13" FunctionType="41" Describe="Hoàn tất ĐG Lost Tower Quỷ Vương Balrog" TypeGoal="506" Award="50015,8,1,0,0,0,0|5088,8,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="41010" Day="7" GoalType="13" FunctionType="41" Describe="Hoàn tất ĐG Atlans Hải Quái" TypeGoal="602" Award="50015,3,1,0,0,0,0|5088,3,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="41011" Day="7" GoalType="13" FunctionType="41" Describe="Hoàn tất ĐG Atlans Quỷ Biển Hydra" TypeGoal="606" Award="50015,8,1,0,0,0,0|5088,8,1,0,0,0,0" ShowNum="-1" />
+  <Goal ID="42000" Day="7" GoalType="14" FunctionType="42" Describe="Mang 3 trang bị cấp 4 " TypeGoal="4,3" Award="50151,3,1,0,0,0,0|5120,3,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="42001" Day="7" GoalType="14" FunctionType="42" Describe="Mang 5 trang bị cấp 4 " TypeGoal="4,5" Award="50151,5,1,0,0,0,0|5120,5,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="42002" Day="7" GoalType="14" FunctionType="42" Describe="Mang 6 trang bị cấp 5 " TypeGoal="5,6" Award="50151,10,1,0,0,0,0|5120,10,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="42003" Day="7" GoalType="14" FunctionType="42" Describe="Mang 7 trang bị cấp 5 " TypeGoal="5,7" Award="50151,10,1,0,0,0,0|5120,10,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="42004" Day="7" GoalType="14" FunctionType="42" Describe="Mang 8 trang bị cấp 6 " TypeGoal="6,8" Award="50151,10,1,0,0,0,0|5120,10,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="42005" Day="7" GoalType="14" FunctionType="42" Describe="Mang 8 trang bị cấp 6 " TypeGoal="6,8" Award="50151,20,1,0,0,0,0|5120,20,1,0,0,0,0" ShowNum="2" />
+  <Goal ID="43000" Day="7" GoalType="14" FunctionType="43" Describe="Mang trang bị cao nhất đạt cấp 4 " TypeGoal="4" Award="4003,2,1,0,0,0,0|4002,2,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="43001" Day="7" GoalType="14" FunctionType="43" Describe="Mang trang bị cao nhất đạt cấp 5 " TypeGoal="5" Award="50151,10,1,0,0,0,0|5120,10,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="43002" Day="7" GoalType="14" FunctionType="43" Describe="Mang trang bị cao nhất đạt cấp 6 " TypeGoal="6" Award="50151,20,1,0,0,0,0|5120,20,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="44000" Day="7" GoalType="14" FunctionType="44" Describe="Tiến hành 1 lần tiến cấp trang bị" TypeGoal="1" Award="4001,2,1,0,0,0,0|4004,2,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="44001" Day="7" GoalType="14" FunctionType="44" Describe="Tiến hành 2 lần tiến cấp trang bị" TypeGoal="2" Award="50151,10,1,0,0,0,0|5120,10,1,0,0,0,0" ShowNum="1" />
+  <Goal ID="44002" Day="7" GoalType="14" FunctionType="44" Describe="Tiến hành 3 lần tiến cấp trang bị" TypeGoal="3" Award="50151,20,1,0,0,0,0|5120,20,1,0,0,0,0" ShowNum="1" />
+</config>"

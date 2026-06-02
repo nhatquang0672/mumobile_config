@@ -1,0 +1,9 @@
+TextAsset Base
+	string m_Name = "MengZhanJiFenAward"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <MengZhanJiFenAward ID="1" JiFenNum="1000" Awards="2090376,1,1,0,0,0,0|731555,1,1,0,0,0,0" />
+  <MengZhanJiFenAward ID="2" JiFenNum="500" Awards="731555,1,1,0,0,0,0" />
+  <MengZhanJiFenAward ID="3" JiFenNum="300" Awards="52174,10,1,0,0,0,0" />
+  <MengZhanJiFenAward ID="4" JiFenNum="100" Awards="52175,5,1,0,0,0,0" />
+</Config>"

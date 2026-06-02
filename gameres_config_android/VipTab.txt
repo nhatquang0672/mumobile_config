@@ -1,0 +1,7 @@
+TextAsset Base
+	string m_Name = "VipTab"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<VipHuoDongList>
+  <VipHuoDong ID="1" Name="BOSS House" Preview="30001" RewardExplain="4,5|5,3" KaiQiVipLevel="3" GLXml="BossZhiJia.xml" />
+  <VipHuoDong ID="2" Name="Rồng Lửa" Preview="35001" RewardExplain="5,5|2,5" KaiQiVipLevel="6" GLXml="HuangJinShengDian.xml" />
+</VipHuoDongList>"

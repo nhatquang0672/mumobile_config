@@ -1,0 +1,170 @@
+TextAsset Base
+	string m_Name = "NewHuiGuiStore"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <NewHuiGuiStore ID="1" HuiGuiLev="1" GoodsID="8035,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="10" Description="Đạo cụ thần bí dùng để tạo Triệu Hồi Sư [Sở hữu nhân vật 3 chuyển trở lên có thể tạo trực tiếp]" />
+  <NewHuiGuiStore ID="2" HuiGuiLev="1" GoodsID="1033060,1,1,0,0,0,0" TabID="1" Price="212,100" SinglePurchase="-1" Description="Sau khi sử dụng trong 60 phút, giết quái trong map Tái Sinh sẽ nhận Exp Tái Sinh x3" />
+  <NewHuiGuiStore ID="3" HuiGuiLev="1" GoodsID="5430,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="-1" Description="Sử dụng có thể đục lỗ trang bị Tái Sinh" />
+  <NewHuiGuiStore ID="4" HuiGuiLev="1" GoodsID="710945,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="-1" Description="Hoa tươi hiếm để tặng Couple, tăng độ hảo cảm cực nhiều" />
+  <NewHuiGuiStore ID="5" HuiGuiLev="1" GoodsID="7037,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="8" Description="Sử dụng nhận 20 vạn Vàng Khóa [Không VIP mỗi ngày sử dụng 10 lần, VIP càng cao số lần sử dụng càng nhiều]" />
+  <NewHuiGuiStore ID="6" HuiGuiLev="1" GoodsID="2100040,1,1,0,0,0,0" TabID="1" Price="212,100" SinglePurchase="-1" Description="Sử dụng nhận 3000 Điểm Thành Tựu [Mỗi ngày hạn sử dụng 30 lần]" />
+  <NewHuiGuiStore ID="7" HuiGuiLev="1" GoodsID="5040,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="5" Description="Sử dụng nhận 6000 Điểm Danh Vọng [Mỗi ngày hạn sử dụng 30 lần]" />
+  <NewHuiGuiStore ID="8" HuiGuiLev="1" GoodsID="5132,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="3" Description="Sử dụng nhận 500 Điểm Tái Tạo" />
+  <NewHuiGuiStore ID="9" HuiGuiLev="1" GoodsID="2003,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="-1" Description="Có thể kích hoạt/tăng thuộc tính Gia Cố cho trang bị" />
+  <NewHuiGuiStore ID="10" HuiGuiLev="1" GoodsID="1035287,1,1,0,0,0,0" TabID="1" Price="212,100" SinglePurchase="-1" Description="Đạo cụ cần khi Tái Tạo trang bị" />
+  <NewHuiGuiStore ID="11" HuiGuiLev="1" GoodsID="970014,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="5" Description="Đạo cụ thần bí để tăng sao Cánh" />
+  <NewHuiGuiStore ID="12" HuiGuiLev="1" GoodsID="2017,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="3" Description="Đạo cụ thần bí để tăng bậc Cánh" />
+  <NewHuiGuiStore ID="13" HuiGuiLev="1" GoodsID="4030,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="-1" Description="Sau khi sử dụng trong 60 phút, giết quái sẽ nhận Exp x3 [Sử dụng huy chương exp cùng loại thời gian sẽ tự động cộng dồn]" />
+  <NewHuiGuiStore ID="14" HuiGuiLev="1" GoodsID="4022,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="-1" Description="Sau khi sử dụng sẽ giảm 200 điểm PK [Mỗi ngày hạn sử dụng 10 lần]" />
+  <NewHuiGuiStore ID="15" HuiGuiLev="1" GoodsID="4023,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="9" Description="Sau khi sử dụng sẽ giảm 500 điểm PK" />
+  <NewHuiGuiStore ID="16" HuiGuiLev="1" GoodsID="6003,1,1,0,0,0,0" TabID="1" Price="212,100" SinglePurchase="-1" Description="Đồ giám cần để vào Huyết Lâu" />
+  <NewHuiGuiStore ID="17" HuiGuiLev="1" GoodsID="6000,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="-1" Description="Chứng nhận cần để vào Cổng Ác Ma" />
+  <NewHuiGuiStore ID="18" HuiGuiLev="1" GoodsID="8061,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="-1" Description="Đạo cụ cần để vào Đảo Tù Thần" />
+  <NewHuiGuiStore ID="19" HuiGuiLev="1" GoodsID="2301,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="5" Description="Đạo cụ cần khi Thần Hồn Hộ Thể" />
+  <NewHuiGuiStore ID="20" HuiGuiLev="1" GoodsID="1000,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="3" Description="Mỗi 3s khôi phục 1000 điểm HP, tích lũy có thể khôi phục 100000 điểm HP" />
+  <NewHuiGuiStore ID="21" HuiGuiLev="1" GoodsID="1001,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Mỗi 3s khôi phục 2000 điểm HP, tích lũy có thể khôi phục 300000 điểm HP" />
+  <NewHuiGuiStore ID="22" HuiGuiLev="1" GoodsID="1002,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="5" Description="Mỗi 3s khôi phục 4000 điểm HP, tích lũy có thể khôi phục 1000000 điểm HP" />
+  <NewHuiGuiStore ID="23" HuiGuiLev="1" GoodsID="1010,1,1,0,0,0,0" TabID="2" Price="212,100" SinglePurchase="3" Description="Lập tức khôi phục 5000 điểm HP" />
+  <NewHuiGuiStore ID="24" HuiGuiLev="1" GoodsID="1110,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Lập tức khôi phục 500 điểm Ma Pháp" />
+  <NewHuiGuiStore ID="25" HuiGuiLev="1" GoodsID="4000,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Khi nhân vật chết, sử dụng Linh Thạch có thể phục hồi đầy máu tại chỗ" />
+  <NewHuiGuiStore ID="26" HuiGuiLev="1" GoodsID="4030,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Sau khi sử dụng trong 60 phút, giết quái sẽ nhận Exp x3 [Sử dụng huy chương exp cùng loại thời gian sẽ tự động cộng dồn]" />
+  <NewHuiGuiStore ID="27" HuiGuiLev="1" GoodsID="4001,1,1,0,0,0,0" TabID="2" Price="212,100" SinglePurchase="-1" Description="Sau khi sử dụng tăng 500 điểm thuộc tính năng lượng, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="28" HuiGuiLev="1" GoodsID="4002,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="8" Description="Sau khi sử dụng tăng 500 điểm thuộc tính nhạy bén, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="29" HuiGuiLev="1" GoodsID="4003,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Sau khi sử dụng tăng 500 điểm thuộc tính thể lực, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="30" HuiGuiLev="1" GoodsID="4004,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Sau khi sử dụng tăng 500 điểm thuộc tính trí lực, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="31" HuiGuiLev="1" GoodsID="4005,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Sau khi sử dụng tăng 20% hiệu quả nhất kích hoàn mỹ, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="32" HuiGuiLev="1" GoodsID="4006,1,1,0,0,0,0" TabID="2" Price="212,100" SinglePurchase="-1" Description="Sau khi sử dụng tăng 20% hiệu quả nhất kích may mắn, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="33" HuiGuiLev="1" GoodsID="63082,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Sau khi sử dụng nhận 100 Bụi Nguyên Tố, [Mỗi ngày hạn dùng 10 cái]" />
+  <NewHuiGuiStore ID="34" HuiGuiLev="1" GoodsID="7004,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Tốn phiếu này có thể thay thế KC tiến hành thao tác cầu phúc" />
+  <NewHuiGuiStore ID="35" HuiGuiLev="1" GoodsID="5030,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="5" Description="Sử dụng nhận 3000 Điểm Thành Tựu [Mỗi ngày hạn sử dụng 30 lần]" />
+  <NewHuiGuiStore ID="36" HuiGuiLev="1" GoodsID="5040,1,1,0,0,0,0" TabID="2" Price="212,100" SinglePurchase="3" Description="Sử dụng nhận 6000 Điểm Danh Vọng [Mỗi ngày hạn sử dụng 30 lần]" />
+  <NewHuiGuiStore ID="37" HuiGuiLev="1" GoodsID="2003,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Có thể kích hoạt/tăng thuộc tính Gia Cố cho trang bị" />
+  <NewHuiGuiStore ID="38" HuiGuiLev="1" GoodsID="2031,1,1,0,0,0,0" TabID="2" Price="212,100" SinglePurchase="4" Description="Đạo cụ cần khi Tái Tạo trang bị" />
+  <NewHuiGuiStore ID="39" HuiGuiLev="1" GoodsID="2016,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Đạo cụ thần bí để tăng sao Cánh" />
+  <NewHuiGuiStore ID="40" HuiGuiLev="1" GoodsID="2017,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="8" Description="Đạo cụ thần bí để tăng bậc Cánh" />
+  <NewHuiGuiStore ID="41" HuiGuiLev="1" GoodsID="4030,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="5" Description="Sau khi sử dụng trong 60 phút, giết quái sẽ nhận Exp x3 [Sử dụng huy chương exp cùng loại thời gian sẽ tự động cộng dồn]" />
+  <NewHuiGuiStore ID="42" HuiGuiLev="1" GoodsID="6003,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="3" Description="Đồ giám cần để vào Huyết Lâu" />
+  <NewHuiGuiStore ID="43" HuiGuiLev="1" GoodsID="6000,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Chứng nhận cần để vào Cổng Ác Ma" />
+  <NewHuiGuiStore ID="44" HuiGuiLev="1" GoodsID="1000,1,1,0,0,0,0" TabID="2" Price="212,100" SinglePurchase="-1" Description="Mỗi 3s khôi phục 1000 điểm HP, tích lũy có thể khôi phục 100000 điểm HP" />
+  <NewHuiGuiStore ID="45" HuiGuiLev="1" GoodsID="1001,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="5" Description="Mỗi 3s khôi phục 2000 điểm HP, tích lũy có thể khôi phục 300000 điểm HP" />
+  <NewHuiGuiStore ID="46" HuiGuiLev="1" GoodsID="1002,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="3" Description="Mỗi 3s khôi phục 4000 điểm HP, tích lũy có thể khôi phục 1000000 điểm HP" />
+  <NewHuiGuiStore ID="47" HuiGuiLev="1" GoodsID="1010,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Lập tức khôi phục 5000 điểm HP" />
+  <NewHuiGuiStore ID="48" HuiGuiLev="1" GoodsID="1110,1,1,0,0,0,0" TabID="2" Price="212,100" SinglePurchase="-1" Description="Lập tức khôi phục 500 điểm Ma Pháp" />
+  <NewHuiGuiStore ID="49" HuiGuiLev="1" GoodsID="4000,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Khi nhân vật chết, sử dụng Linh Thạch có thể phục hồi đầy máu tại chỗ" />
+  <NewHuiGuiStore ID="50" HuiGuiLev="1" GoodsID="4001,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Sau khi sử dụng tăng 500 điểm thuộc tính năng lượng, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="51" HuiGuiLev="1" GoodsID="4002,1,1,0,0,0,0" TabID="2" Price="212,100" SinglePurchase="5" Description="Sau khi sử dụng tăng 500 điểm thuộc tính nhạy bén, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="52" HuiGuiLev="1" GoodsID="4003,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="3" Description="Sau khi sử dụng tăng 500 điểm thuộc tính thể lực, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="53" HuiGuiLev="1" GoodsID="4004,1,1,0,0,0,0" TabID="3" Price="212,100" SinglePurchase="-1" Description="Sau khi sử dụng tăng 500 điểm thuộc tính trí lực, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="54" HuiGuiLev="1" GoodsID="4005,1,1,0,0,0,0" TabID="4" Price="40,100" SinglePurchase="5" Description="Sau khi sử dụng tăng 20% hiệu quả nhất kích hoàn mỹ, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="55" HuiGuiLev="1" GoodsID="4006,1,1,0,0,0,0" TabID="5" Price="212,100" SinglePurchase="3" Description="Sau khi sử dụng tăng 20% hiệu quả nhất kích may mắn, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="56" HuiGuiLev="2" GoodsID="8035,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="10" Description="Đạo cụ thần bí dùng để tạo Triệu Hồi Sư [Sở hữu nhân vật 3 chuyển trở lên có thể tạo trực tiếp]" />
+  <NewHuiGuiStore ID="57" HuiGuiLev="2" GoodsID="4300,1,1,0,0,0,0" TabID="1" Price="212,100" SinglePurchase="-1" Description="Sau khi sử dụng trong 60 phút, giết quái trong map Tái Sinh sẽ nhận Exp Tái Sinh x3" />
+  <NewHuiGuiStore ID="58" HuiGuiLev="2" GoodsID="5430,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="-1" Description="Sử dụng có thể đục lỗ trang bị Tái Sinh" />
+  <NewHuiGuiStore ID="59" HuiGuiLev="2" GoodsID="6055,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="-1" Description="Hoa tươi hiếm để tặng Couple, tăng độ hảo cảm cực nhiều" />
+  <NewHuiGuiStore ID="60" HuiGuiLev="2" GoodsID="7037,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="8" Description="Sử dụng nhận 20 vạn Vàng Khóa [Không VIP mỗi ngày sử dụng 10 lần, VIP càng cao số lần sử dụng càng nhiều]" />
+  <NewHuiGuiStore ID="61" HuiGuiLev="2" GoodsID="5030,1,1,0,0,0,0" TabID="1" Price="212,100" SinglePurchase="-1" Description="Sử dụng nhận 3000 Điểm Thành Tựu [Mỗi ngày hạn sử dụng 30 lần]" />
+  <NewHuiGuiStore ID="62" HuiGuiLev="2" GoodsID="5040,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="5" Description="Sử dụng nhận 6000 Điểm Danh Vọng [Mỗi ngày hạn sử dụng 30 lần]" />
+  <NewHuiGuiStore ID="63" HuiGuiLev="2" GoodsID="5132,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="3" Description="Sử dụng nhận 500 Điểm Tái Tạo" />
+  <NewHuiGuiStore ID="64" HuiGuiLev="2" GoodsID="2003,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="-1" Description="Có thể kích hoạt/tăng thuộc tính Gia Cố cho trang bị" />
+  <NewHuiGuiStore ID="65" HuiGuiLev="2" GoodsID="2031,1,1,0,0,0,0" TabID="1" Price="212,100" SinglePurchase="-1" Description="Đạo cụ cần khi Tái Tạo trang bị" />
+  <NewHuiGuiStore ID="66" HuiGuiLev="2" GoodsID="2016,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="5" Description="Đạo cụ thần bí để tăng sao Cánh" />
+  <NewHuiGuiStore ID="67" HuiGuiLev="2" GoodsID="2017,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="3" Description="Đạo cụ thần bí để tăng bậc Cánh" />
+  <NewHuiGuiStore ID="68" HuiGuiLev="2" GoodsID="4030,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="-1" Description="Sau khi sử dụng trong 60 phút, giết quái sẽ nhận Exp x3 [Sử dụng huy chương exp cùng loại thời gian sẽ tự động cộng dồn]" />
+  <NewHuiGuiStore ID="69" HuiGuiLev="2" GoodsID="4022,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="-1" Description="Sau khi sử dụng sẽ giảm 200 điểm PK [Mỗi ngày hạn sử dụng 10 lần]" />
+  <NewHuiGuiStore ID="70" HuiGuiLev="2" GoodsID="4023,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="9" Description="Sau khi sử dụng sẽ giảm 500 điểm PK" />
+  <NewHuiGuiStore ID="71" HuiGuiLev="2" GoodsID="6003,1,1,0,0,0,0" TabID="1" Price="212,100" SinglePurchase="-1" Description="Đồ giám cần để vào Huyết Lâu" />
+  <NewHuiGuiStore ID="72" HuiGuiLev="2" GoodsID="6000,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="-1" Description="Chứng nhận cần để vào Cổng Ác Ma" />
+  <NewHuiGuiStore ID="73" HuiGuiLev="2" GoodsID="8061,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="-1" Description="Đạo cụ cần để vào Đảo Tù Thần" />
+  <NewHuiGuiStore ID="74" HuiGuiLev="2" GoodsID="2301,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="5" Description="Đạo cụ cần khi Thần Hồn Hộ Thể" />
+  <NewHuiGuiStore ID="75" HuiGuiLev="2" GoodsID="1000,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="3" Description="Mỗi 3s khôi phục 1000 điểm HP, tích lũy có thể khôi phục 100000 điểm HP" />
+  <NewHuiGuiStore ID="76" HuiGuiLev="2" GoodsID="1001,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Mỗi 3s khôi phục 2000 điểm HP, tích lũy có thể khôi phục 300000 điểm HP" />
+  <NewHuiGuiStore ID="77" HuiGuiLev="2" GoodsID="1002,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="5" Description="Mỗi 3s khôi phục 4000 điểm HP, tích lũy có thể khôi phục 1000000 điểm HP" />
+  <NewHuiGuiStore ID="78" HuiGuiLev="2" GoodsID="1010,1,1,0,0,0,0" TabID="2" Price="212,100" SinglePurchase="3" Description="Lập tức khôi phục 5000 điểm HP" />
+  <NewHuiGuiStore ID="79" HuiGuiLev="2" GoodsID="1110,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Lập tức khôi phục 500 điểm Ma Pháp" />
+  <NewHuiGuiStore ID="80" HuiGuiLev="2" GoodsID="4000,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Khi nhân vật chết, sử dụng Linh Thạch có thể phục hồi đầy máu tại chỗ" />
+  <NewHuiGuiStore ID="81" HuiGuiLev="2" GoodsID="4030,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Sau khi sử dụng trong 60 phút, giết quái sẽ nhận Exp x3 [Sử dụng huy chương exp cùng loại thời gian sẽ tự động cộng dồn]" />
+  <NewHuiGuiStore ID="82" HuiGuiLev="2" GoodsID="4001,1,1,0,0,0,0" TabID="2" Price="212,100" SinglePurchase="-1" Description="Sau khi sử dụng tăng 500 điểm thuộc tính năng lượng, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="83" HuiGuiLev="2" GoodsID="4002,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="8" Description="Sau khi sử dụng tăng 500 điểm thuộc tính nhạy bén, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="84" HuiGuiLev="2" GoodsID="4003,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Sau khi sử dụng tăng 500 điểm thuộc tính thể lực, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="85" HuiGuiLev="2" GoodsID="4004,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Sau khi sử dụng tăng 500 điểm thuộc tính trí lực, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="86" HuiGuiLev="2" GoodsID="4005,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Sau khi sử dụng tăng 20% hiệu quả nhất kích hoàn mỹ, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="87" HuiGuiLev="2" GoodsID="4006,1,1,0,0,0,0" TabID="2" Price="212,100" SinglePurchase="-1" Description="Sau khi sử dụng tăng 20% hiệu quả nhất kích may mắn, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="88" HuiGuiLev="2" GoodsID="63082,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Sau khi sử dụng nhận 100 Bụi Nguyên Tố, [Mỗi ngày hạn dùng 10 cái]" />
+  <NewHuiGuiStore ID="89" HuiGuiLev="2" GoodsID="7004,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Tốn phiếu này có thể thay thế KC tiến hành thao tác cầu phúc" />
+  <NewHuiGuiStore ID="90" HuiGuiLev="2" GoodsID="5030,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="5" Description="Sử dụng nhận 3000 Điểm Thành Tựu [Mỗi ngày hạn sử dụng 30 lần]" />
+  <NewHuiGuiStore ID="91" HuiGuiLev="2" GoodsID="5040,1,1,0,0,0,0" TabID="2" Price="212,100" SinglePurchase="3" Description="Sử dụng nhận 6000 Điểm Danh Vọng [Mỗi ngày hạn sử dụng 30 lần]" />
+  <NewHuiGuiStore ID="92" HuiGuiLev="2" GoodsID="2003,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Có thể kích hoạt/tăng thuộc tính Gia Cố cho trang bị" />
+  <NewHuiGuiStore ID="93" HuiGuiLev="2" GoodsID="2031,1,1,0,0,0,0" TabID="2" Price="212,100" SinglePurchase="4" Description="Đạo cụ cần khi Tái Tạo trang bị" />
+  <NewHuiGuiStore ID="94" HuiGuiLev="2" GoodsID="2016,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Đạo cụ thần bí để tăng sao Cánh" />
+  <NewHuiGuiStore ID="95" HuiGuiLev="2" GoodsID="2017,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="8" Description="Đạo cụ thần bí để tăng bậc Cánh" />
+  <NewHuiGuiStore ID="96" HuiGuiLev="2" GoodsID="4030,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="5" Description="Sau khi sử dụng trong 60 phút, giết quái sẽ nhận Exp x3 [Sử dụng huy chương exp cùng loại thời gian sẽ tự động cộng dồn]" />
+  <NewHuiGuiStore ID="97" HuiGuiLev="2" GoodsID="6003,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="3" Description="Đồ giám cần để vào Huyết Lâu" />
+  <NewHuiGuiStore ID="98" HuiGuiLev="2" GoodsID="6000,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Chứng nhận cần để vào Cổng Ác Ma" />
+  <NewHuiGuiStore ID="99" HuiGuiLev="2" GoodsID="1000,1,1,0,0,0,0" TabID="2" Price="212,100" SinglePurchase="-1" Description="Mỗi 3s khôi phục 1000 điểm HP, tích lũy có thể khôi phục 100000 điểm HP" />
+  <NewHuiGuiStore ID="100" HuiGuiLev="2" GoodsID="1001,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="5" Description="Mỗi 3s khôi phục 2000 điểm HP, tích lũy có thể khôi phục 300000 điểm HP" />
+  <NewHuiGuiStore ID="101" HuiGuiLev="2" GoodsID="1002,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="3" Description="Mỗi 3s khôi phục 4000 điểm HP, tích lũy có thể khôi phục 1000000 điểm HP" />
+  <NewHuiGuiStore ID="102" HuiGuiLev="2" GoodsID="1010,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Lập tức khôi phục 5000 điểm HP" />
+  <NewHuiGuiStore ID="103" HuiGuiLev="2" GoodsID="1110,1,1,0,0,0,0" TabID="2" Price="212,100" SinglePurchase="-1" Description="Lập tức khôi phục 500 điểm Ma Pháp" />
+  <NewHuiGuiStore ID="104" HuiGuiLev="2" GoodsID="4000,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Khi nhân vật chết, sử dụng Linh Thạch có thể phục hồi đầy máu tại chỗ" />
+  <NewHuiGuiStore ID="105" HuiGuiLev="2" GoodsID="4001,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Sau khi sử dụng tăng 500 điểm thuộc tính năng lượng, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="106" HuiGuiLev="2" GoodsID="4002,1,1,0,0,0,0" TabID="2" Price="212,100" SinglePurchase="5" Description="Sau khi sử dụng tăng 500 điểm thuộc tính nhạy bén, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="107" HuiGuiLev="2" GoodsID="4003,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="3" Description="Sau khi sử dụng tăng 500 điểm thuộc tính thể lực, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="108" HuiGuiLev="2" GoodsID="4004,1,1,0,0,0,0" TabID="3" Price="212,100" SinglePurchase="-1" Description="Sau khi sử dụng tăng 500 điểm thuộc tính trí lực, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="109" HuiGuiLev="2" GoodsID="4005,1,1,0,0,0,0" TabID="4" Price="40,100" SinglePurchase="5" Description="Sau khi sử dụng tăng 20% hiệu quả nhất kích hoàn mỹ, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="110" HuiGuiLev="2" GoodsID="4006,1,1,0,0,0,0" TabID="5" Price="212,100" SinglePurchase="3" Description="Sau khi sử dụng tăng 20% hiệu quả nhất kích may mắn, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="111" HuiGuiLev="3" GoodsID="8035,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="10" Description="Đạo cụ thần bí dùng để tạo Triệu Hồi Sư [Sở hữu nhân vật 3 chuyển trở lên có thể tạo trực tiếp]" />
+  <NewHuiGuiStore ID="112" HuiGuiLev="3" GoodsID="4300,1,1,0,0,0,0" TabID="1" Price="212,100" SinglePurchase="-1" Description="Sau khi sử dụng trong 60 phút, giết quái trong map Tái Sinh sẽ nhận Exp Tái Sinh x3" />
+  <NewHuiGuiStore ID="113" HuiGuiLev="3" GoodsID="5430,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="-1" Description="Sử dụng có thể đục lỗ trang bị Tái Sinh" />
+  <NewHuiGuiStore ID="114" HuiGuiLev="3" GoodsID="6055,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="-1" Description="Hoa tươi hiếm để tặng Couple, tăng độ hảo cảm cực nhiều" />
+  <NewHuiGuiStore ID="115" HuiGuiLev="3" GoodsID="7037,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="8" Description="Sử dụng nhận 20 vạn Vàng Khóa [Không VIP mỗi ngày sử dụng 10 lần, VIP càng cao số lần sử dụng càng nhiều]" />
+  <NewHuiGuiStore ID="116" HuiGuiLev="3" GoodsID="5030,1,1,0,0,0,0" TabID="1" Price="212,100" SinglePurchase="-1" Description="Sử dụng nhận 3000 Điểm Thành Tựu [Mỗi ngày hạn sử dụng 30 lần]" />
+  <NewHuiGuiStore ID="117" HuiGuiLev="3" GoodsID="5040,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="5" Description="Sử dụng nhận 6000 Điểm Danh Vọng [Mỗi ngày hạn sử dụng 30 lần]" />
+  <NewHuiGuiStore ID="118" HuiGuiLev="3" GoodsID="5132,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="3" Description="Sử dụng nhận 500 Điểm Tái Tạo" />
+  <NewHuiGuiStore ID="119" HuiGuiLev="3" GoodsID="2003,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="-1" Description="Có thể kích hoạt/tăng thuộc tính Gia Cố cho trang bị" />
+  <NewHuiGuiStore ID="120" HuiGuiLev="3" GoodsID="2031,1,1,0,0,0,0" TabID="1" Price="212,100" SinglePurchase="-1" Description="Đạo cụ cần khi Tái Tạo trang bị" />
+  <NewHuiGuiStore ID="121" HuiGuiLev="3" GoodsID="2016,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="5" Description="Đạo cụ thần bí để tăng sao Cánh" />
+  <NewHuiGuiStore ID="122" HuiGuiLev="3" GoodsID="2017,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="3" Description="Đạo cụ thần bí để tăng bậc Cánh" />
+  <NewHuiGuiStore ID="123" HuiGuiLev="3" GoodsID="4030,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="-1" Description="Sau khi sử dụng trong 60 phút, giết quái sẽ nhận Exp x3 [Sử dụng huy chương exp cùng loại thời gian sẽ tự động cộng dồn]" />
+  <NewHuiGuiStore ID="124" HuiGuiLev="3" GoodsID="4022,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="-1" Description="Sau khi sử dụng sẽ giảm 200 điểm PK [Mỗi ngày hạn sử dụng 10 lần]" />
+  <NewHuiGuiStore ID="125" HuiGuiLev="3" GoodsID="4023,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="9" Description="Sau khi sử dụng sẽ giảm 500 điểm PK" />
+  <NewHuiGuiStore ID="126" HuiGuiLev="3" GoodsID="6003,1,1,0,0,0,0" TabID="1" Price="212,100" SinglePurchase="-1" Description="Đồ giám cần để vào Huyết Lâu" />
+  <NewHuiGuiStore ID="127" HuiGuiLev="3" GoodsID="6000,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="-1" Description="Chứng nhận cần để vào Cổng Ác Ma" />
+  <NewHuiGuiStore ID="128" HuiGuiLev="3" GoodsID="8061,1,1,0,0,0,0" TabID="1" Price="40,100" SinglePurchase="-1" Description="Đạo cụ cần để vào Đảo Tù Thần" />
+  <NewHuiGuiStore ID="129" HuiGuiLev="3" GoodsID="2301,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="5" Description="Đạo cụ cần khi Thần Hồn Hộ Thể" />
+  <NewHuiGuiStore ID="130" HuiGuiLev="3" GoodsID="1000,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="3" Description="Mỗi 3s khôi phục 1000 điểm HP, tích lũy có thể khôi phục 100000 điểm HP" />
+  <NewHuiGuiStore ID="131" HuiGuiLev="3" GoodsID="1001,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Mỗi 3s khôi phục 2000 điểm HP, tích lũy có thể khôi phục 300000 điểm HP" />
+  <NewHuiGuiStore ID="132" HuiGuiLev="3" GoodsID="1002,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="5" Description="Mỗi 3s khôi phục 4000 điểm HP, tích lũy có thể khôi phục 1000000 điểm HP" />
+  <NewHuiGuiStore ID="133" HuiGuiLev="3" GoodsID="1010,1,1,0,0,0,0" TabID="2" Price="212,100" SinglePurchase="3" Description="Lập tức khôi phục 5000 điểm HP" />
+  <NewHuiGuiStore ID="134" HuiGuiLev="3" GoodsID="1110,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Lập tức khôi phục 500 điểm Ma Pháp" />
+  <NewHuiGuiStore ID="135" HuiGuiLev="3" GoodsID="4000,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Khi nhân vật chết, sử dụng Linh Thạch có thể phục hồi đầy máu tại chỗ" />
+  <NewHuiGuiStore ID="136" HuiGuiLev="3" GoodsID="4030,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Sau khi sử dụng trong 60 phút, giết quái sẽ nhận Exp x3 [Sử dụng huy chương exp cùng loại thời gian sẽ tự động cộng dồn]" />
+  <NewHuiGuiStore ID="137" HuiGuiLev="3" GoodsID="4001,1,1,0,0,0,0" TabID="2" Price="212,100" SinglePurchase="-1" Description="Sau khi sử dụng tăng 500 điểm thuộc tính năng lượng, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="138" HuiGuiLev="3" GoodsID="4002,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="8" Description="Sau khi sử dụng tăng 500 điểm thuộc tính nhạy bén, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="139" HuiGuiLev="3" GoodsID="4003,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Sau khi sử dụng tăng 500 điểm thuộc tính thể lực, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="140" HuiGuiLev="3" GoodsID="4004,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Sau khi sử dụng tăng 500 điểm thuộc tính trí lực, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="141" HuiGuiLev="3" GoodsID="4005,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Sau khi sử dụng tăng 20% hiệu quả nhất kích hoàn mỹ, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="142" HuiGuiLev="3" GoodsID="4006,1,1,0,0,0,0" TabID="2" Price="212,100" SinglePurchase="-1" Description="Sau khi sử dụng tăng 20% hiệu quả nhất kích may mắn, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="143" HuiGuiLev="3" GoodsID="63082,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Sau khi sử dụng nhận 100 Bụi Nguyên Tố, [Mỗi ngày hạn dùng 10 cái]" />
+  <NewHuiGuiStore ID="144" HuiGuiLev="3" GoodsID="7004,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Tốn phiếu này có thể thay thế KC tiến hành thao tác cầu phúc" />
+  <NewHuiGuiStore ID="145" HuiGuiLev="3" GoodsID="5030,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="5" Description="Sử dụng nhận 3000 Điểm Thành Tựu [Mỗi ngày hạn sử dụng 30 lần]" />
+  <NewHuiGuiStore ID="146" HuiGuiLev="3" GoodsID="5040,1,1,0,0,0,0" TabID="2" Price="212,100" SinglePurchase="3" Description="Sử dụng nhận 6000 Điểm Danh Vọng [Mỗi ngày hạn sử dụng 30 lần]" />
+  <NewHuiGuiStore ID="147" HuiGuiLev="3" GoodsID="2003,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Có thể kích hoạt/tăng thuộc tính Gia Cố cho trang bị" />
+  <NewHuiGuiStore ID="148" HuiGuiLev="3" GoodsID="2031,1,1,0,0,0,0" TabID="2" Price="212,100" SinglePurchase="4" Description="Đạo cụ cần khi Tái Tạo trang bị" />
+  <NewHuiGuiStore ID="149" HuiGuiLev="3" GoodsID="2016,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Đạo cụ thần bí để tăng sao Cánh" />
+  <NewHuiGuiStore ID="150" HuiGuiLev="3" GoodsID="2017,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="8" Description="Đạo cụ thần bí để tăng bậc Cánh" />
+  <NewHuiGuiStore ID="151" HuiGuiLev="3" GoodsID="4030,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="5" Description="Sau khi sử dụng trong 60 phút, giết quái sẽ nhận Exp x3 [Sử dụng huy chương exp cùng loại thời gian sẽ tự động cộng dồn]" />
+  <NewHuiGuiStore ID="152" HuiGuiLev="3" GoodsID="6003,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="3" Description="Đồ giám cần để vào Huyết Lâu" />
+  <NewHuiGuiStore ID="153" HuiGuiLev="3" GoodsID="6000,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Chứng nhận cần để vào Cổng Ác Ma" />
+  <NewHuiGuiStore ID="154" HuiGuiLev="3" GoodsID="1000,1,1,0,0,0,0" TabID="2" Price="212,100" SinglePurchase="-1" Description="Mỗi 3s khôi phục 1000 điểm HP, tích lũy có thể khôi phục 100000 điểm HP" />
+  <NewHuiGuiStore ID="155" HuiGuiLev="3" GoodsID="1001,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="5" Description="Mỗi 3s khôi phục 2000 điểm HP, tích lũy có thể khôi phục 300000 điểm HP" />
+  <NewHuiGuiStore ID="156" HuiGuiLev="3" GoodsID="1002,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="3" Description="Mỗi 3s khôi phục 4000 điểm HP, tích lũy có thể khôi phục 1000000 điểm HP" />
+  <NewHuiGuiStore ID="157" HuiGuiLev="3" GoodsID="1010,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Lập tức khôi phục 5000 điểm HP" />
+  <NewHuiGuiStore ID="158" HuiGuiLev="3" GoodsID="1110,1,1,0,0,0,0" TabID="2" Price="212,100" SinglePurchase="-1" Description="Lập tức khôi phục 500 điểm Ma Pháp" />
+  <NewHuiGuiStore ID="159" HuiGuiLev="3" GoodsID="4000,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Khi nhân vật chết, sử dụng Linh Thạch có thể phục hồi đầy máu tại chỗ" />
+  <NewHuiGuiStore ID="160" HuiGuiLev="3" GoodsID="4001,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="-1" Description="Sau khi sử dụng tăng 500 điểm thuộc tính năng lượng, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="161" HuiGuiLev="3" GoodsID="4002,1,1,0,0,0,0" TabID="2" Price="212,100" SinglePurchase="5" Description="Sau khi sử dụng tăng 500 điểm thuộc tính nhạy bén, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="162" HuiGuiLev="3" GoodsID="4003,1,1,0,0,0,0" TabID="2" Price="40,100" SinglePurchase="3" Description="Sau khi sử dụng tăng 500 điểm thuộc tính thể lực, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="163" HuiGuiLev="3" GoodsID="4004,1,1,0,0,0,0" TabID="3" Price="212,100" SinglePurchase="-1" Description="Sau khi sử dụng tăng 500 điểm thuộc tính trí lực, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="164" HuiGuiLev="3" GoodsID="4005,1,1,0,0,0,0" TabID="4" Price="40,100" SinglePurchase="5" Description="Sau khi sử dụng tăng 20% hiệu quả nhất kích hoàn mỹ, duy trì 1 giờ" />
+  <NewHuiGuiStore ID="165" HuiGuiLev="3" GoodsID="4006,1,1,0,0,0,0" TabID="5" Price="212,100" SinglePurchase="3" Description="Sau khi sử dụng tăng 20% hiệu quả nhất kích may mắn, duy trì 1 giờ" />
+</Config>"

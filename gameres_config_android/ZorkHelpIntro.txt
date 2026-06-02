@@ -1,0 +1,18 @@
+TextAsset Base
+	string m_Name = "ZorkHelpIntro"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <HelpIntro ID="1" Intro="{fac60d}Chi tiết Đoạt Bảo Ma Vực" Bold="1" />
+  <HelpIntro ID="2" Intro="{dac7ae}1, Do đội trưởng báo danh, cấp Tái Sinh đội trưởng cần đạt Lv{17e43e}3{-},trong đội có ít nhất{17e43e}1{-} thành viên có cấp Tái Sinh đạt Lv{17e43e}2{-}mới có thể tham gia sự kiện{dac7ae}." Bold="0" />
+  <HelpIntro ID="3" Intro="{dac7ae}2, {17e43e}21:30-22:00{-} thứ 2, 5 sẽ mở sự kiện{dac7ae}." Bold="0" />
+  <HelpIntro ID="4" Intro="{dac7ae}3, DMG gây ra cho thủ lĩnh càng cao, điểm sẽ càng nhiều{dac7ae}." Bold="0" />
+  <HelpIntro ID="5" Intro="{dac7ae}4, Một thời gian cố định khi không gây DMG cho BOSS thì DMG sẽ bị {ff0000}xóa" Bold="0" />
+  <HelpIntro ID="6" Intro="{dac7ae}5, Đội chiến thắng sẽ tăng điểm, đội thua sẽ giảm điểm{dac7ae}." Bold="0" />
+  <HelpIntro ID="7" Intro="{dac7ae}6, Bậc Đoạt Bảo Ma Vực: {dac7ae}" Bold="0" />
+  <HelpIntro ID="8" Intro="{dac7ae}         Bậc vua: Điểm đội đạt {17e43e}800{dac7ae}" Bold="0" />
+  <HelpIntro ID="9" Intro="{dac7ae}         Bậc kim cương: Điểm đội đạt {17e43e}600{dac7ae}" Bold="0" />
+  <HelpIntro ID="10" Intro="{dac7ae}         Bậc hoàng kim: Điểm đội đạt {17e43e}400{dac7ae}" Bold="0" />
+  <HelpIntro ID="11" Intro="{dac7ae}         Bậc bạc: Điểm đội đạt {17e43e}200{dac7ae}" Bold="0" />
+  <HelpIntro ID="12" Intro="{dac7ae}7, Bậc Ma Vực Đoạt Bảo càng cao, thưởng sẽ càng cao{dac7ae}." Bold="0" />
+  <HelpIntro ID="13" Intro="{dac7ae}8, Đội hạng {17e43e}1{dac7ae} sẽ nhận danh hiệu Đội Mạnh Nhất, cá nhân tiêu diệt hạng {17e43e}1{-} sẽ nhận danh hiệu Vua Ma Vực{dac7ae}." Bold="0" />
+</Config>"

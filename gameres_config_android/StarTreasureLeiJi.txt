@@ -1,0 +1,10 @@
+TextAsset Base
+	string m_Name = "StarTreasureLeiJi"
+	string m_Script = "<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <StarTreasureLeiJi ID="1" Level="20" Reward="195,10" ShowGoods="34002,10" />
+  <StarTreasureLeiJi ID="2" Level="40" Reward="195,10" ShowGoods="34002,10" />
+  <StarTreasureLeiJi ID="3" Level="60" Reward="195,20" ShowGoods="34002,20" />
+  <StarTreasureLeiJi ID="4" Level="120" Reward="195,30" ShowGoods="34002,30" />
+  <StarTreasureLeiJi ID="5" Level="200" Reward="195,40" ShowGoods="34002,40" />
+</Config>"
