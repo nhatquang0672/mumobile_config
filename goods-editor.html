@@ -18,6 +18,7 @@
     .btn-bulk   { background: #f59e0b; color: #1a1a2e; }
     .btn-export { background: #10b981; color: white; }
     .btn-reset  { background: #6b7280; color: white; }
+    .btn-sql    { background: #8b5cf6; color: white; }
     .btn-sm     { padding: 3px 8px; font-size: 11px; }
     .btn-edit   { background: #3b82f6; color: white; }
     .btn-save   { background: #10b981; color: white; }
@@ -91,6 +92,18 @@
 
     .empty { text-align: center; padding: 70px 20px; color: #94a3b8; }
     .empty p { font-size: 14px; margin-top: 8px; }
+
+    .sql-modal { background: white; border-radius: 10px; padding: 22px; width: 680px; max-width: 100%; box-shadow: 0 20px 60px rgba(0,0,0,0.3); }
+    .sql-options { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-bottom: 12px; }
+    .sql-options label { font-size: 11px; color: #64748b; font-weight: 500; white-space: nowrap; }
+    .sql-options input { padding: 4px 8px; border: 1px solid #d1d5db; border-radius: 4px; font-size: 12px; height: 28px; }
+    .sql-options input:focus { outline: none; border-color: #8b5cf6; }
+    .sql-count { font-size: 11px; color: #64748b; margin-bottom: 6px; }
+    .sql-count b { color: #8b5cf6; }
+    #sqlOutput { width: 100%; height: 320px; font-family: 'Menlo', 'Monaco', 'Courier New', monospace; font-size: 12px; padding: 10px; border: 1px solid #e2e8f0; border-radius: 6px; resize: vertical; background: #0f172a; color: #e2e8f0; line-height: 1.6; }
+    .sql-ftr { margin-top: 12px; display: flex; gap: 8px; justify-content: flex-end; }
+    .btn-copy { background: #8b5cf6; color: white; }
+    .btn-dl   { background: #10b981; color: white; }
   </style>
 </head>
 <body>
@@ -102,6 +115,7 @@
   <button class="btn-bulk" onclick="toggleBulk()">Bulk Edit</button>
   <button class="btn-export" id="btnExport" onclick="exportXML()" disabled>Export XML</button>
   <button class="btn-reset"  id="btnReset"  onclick="resetAll()"  disabled>Reset All</button>
+  <button class="btn-sql"   id="btnSQL"   onclick="openSQL()"   disabled>SQL Updates</button>
   <span id="modBadge" class="badge" style="display:none"></span>
 </div>
 
@@ -177,6 +191,34 @@
   <button class="btn-sm" onclick="gotoPage()">Go</button>
 </div>
 
+<!-- SQL Modal -->
+<div class="overlay" id="sqlOverlay">
+  <div class="sql-modal" onclick="event.stopPropagation()">
+    <div class="modal-hdr">
+      <h2>SQL Update Queries</h2>
+      <button class="modal-close" onclick="closeSQL()">&times;</button>
+    </div>
+    <div class="sql-options">
+      <label>Table:</label>
+      <input id="sqlTable" type="text" value="goods" style="width:120px" oninput="refreshSQL()">
+      <label>ID column:</label>
+      <input id="sqlIdCol" type="text" value="id" style="width:80px" oninput="refreshSQL()">
+      <label>Column case:</label>
+      <select id="sqlCase" onchange="refreshSQL()" style="height:28px;padding:4px 8px;border:1px solid #d1d5db;border-radius:4px;font-size:12px">
+        <option value="lower">lowercase</option>
+        <option value="original">original</option>
+      </select>
+    </div>
+    <div class="sql-count" id="sqlCount"></div>
+    <textarea id="sqlOutput" readonly spellcheck="false"></textarea>
+    <div class="sql-ftr">
+      <button class="btn-sm" onclick="closeSQL()">Close</button>
+      <button class="btn-sm btn-dl"   onclick="downloadSQL()">Download .sql</button>
+      <button class="btn-sm btn-copy" onclick="copySQL()">Copy</button>
+    </div>
+  </div>
+</div>
+
 <div class="overlay" id="editOverlay">
   <div class="modal" onclick="event.stopPropagation()">
     <div class="modal-hdr">
@@ -208,6 +250,7 @@ let sortAsc      = true;
 let editIdx      = null;
 let xmlDoc       = null;
 let fileName     = 'modified.xml';
+let sqlTableName = 'goods';
 
 const VIRTUAL    = ['_type', '_parent'];
 const DEFAULT_COLS = ['ID', 'Title', 'Name', 'Categoriy', 'IconCode', 'ItemQuality', 'PriceOne'];
@@ -282,6 +325,8 @@ function parse(raw) {
 
   document.getElementById('btnExport').disabled = false;
   document.getElementById('btnReset').disabled  = false;
+  document.getElementById('btnSQL').disabled    = false;
+  sqlTableName = fileName.replace(/\.[^.]+$/, '').toLowerCase();
   document.getElementById('mainTable').style.display = '';
   document.getElementById('emptyState').style.display = 'none';
   document.getElementById('pager').style.display = '';
@@ -434,12 +479,12 @@ function render() {
 
   const totalPages = Math.ceil(filtered.length / pageSize) || 1;
   document.getElementById('pageInfo').textContent =
-    `Page ${page} / ${totalPages} — ${filtered.length} items`;
+    `Page ${page} / ${totalPages} — ${filtered.length} items (${pageSize}/page)`;
 }
 
 function sortBy(c) { if (sortKey===c) sortAsc=!sortAsc; else { sortKey=c; sortAsc=true; } applyFilter(); }
 function changePage(d) { const t=Math.ceil(filtered.length/pageSize)||1; page=Math.max(1,Math.min(t,page+d)); render(); }
-function setPageSize(n) { pageSize=n; page=1; render(); }
+function setPageSize(n) { pageSize=n; applyFilter(); }
 function gotoPage() { const p=+document.getElementById('gotoIn').value; if(p){ const t=Math.ceil(filtered.length/pageSize)||1; page=Math.max(1,Math.min(t,p)); render(); } }
 
 // ─── Single edit ──────────────────────────────────────────────────────────────
@@ -555,6 +600,70 @@ function resetAll() {
   });
   applyFilter(); updateStatus();
 }
+
+// ─── SQL Generation ──────────────────────────────────────────────────────────
+function openSQL() {
+  document.getElementById('sqlTable').value = sqlTableName;
+  refreshSQL();
+  document.getElementById('sqlOverlay').classList.add('open');
+}
+
+function closeSQL() { document.getElementById('sqlOverlay').classList.remove('open'); }
+
+function buildSQL() {
+  sqlTableName = document.getElementById('sqlTable').value.trim() || sqlTableName;
+  const table  = sqlTableName;
+  const idCol  = document.getElementById('sqlIdCol').value.trim()  || 'id';
+  const casing = document.getElementById('sqlCase').value;
+  const colName = c => casing === 'lower' ? c.toLowerCase() : c;
+
+  const modified = items.filter(i => i.modified);
+  return modified.map(it => {
+    const changedCols = cols.filter(c => it.attrs[c] !== it._orig[c]);
+    if (!changedCols.length) return null;
+    const setParts = changedCols.map(c => `${colName(c)}=${sqlVal(it.attrs[c])}`).join(', ');
+    const id = it.attrs.ID ?? it.attrs.id ?? '?';
+    return `UPDATE ${table} SET ${setParts} WHERE ${idCol}=${sqlVal(id)};`;
+  }).filter(Boolean);
+}
+
+function sqlVal(v) {
+  // Numeric (integer or decimal) → no quotes; everything else → single-quoted
+  return /^-?\d+(\.\d+)?$/.test(String(v).trim()) ? v : `'${String(v).replace(/'/g, "''")}'`;
+}
+
+function refreshSQL() {
+  const lines = buildSQL();
+  document.getElementById('sqlOutput').value = lines.join('\n');
+  document.getElementById('sqlCount').innerHTML =
+    lines.length ? `<b>${lines.length}</b> UPDATE statement${lines.length > 1 ? 's' : ''} for modified items` :
+    'No modified items — make changes first.';
+}
+
+function copySQL() {
+  const ta = document.getElementById('sqlOutput');
+  if (!ta.value) return;
+  navigator.clipboard.writeText(ta.value).then(() => {
+    const btn = event.target;
+    const orig = btn.textContent;
+    btn.textContent = 'Copied!';
+    setTimeout(() => { btn.textContent = orig; }, 1500);
+  });
+}
+
+function downloadSQL() {
+  const sql = document.getElementById('sqlOutput').value;
+  if (!sql) return;
+  const table = document.getElementById('sqlTable').value.trim() || 'goods';
+  const blob  = new Blob([sql], { type: 'text/plain;charset=utf-8' });
+  const a     = document.createElement('a');
+  a.href      = URL.createObjectURL(blob);
+  a.download  = `${table}_updates.sql`;
+  a.click();
+  URL.revokeObjectURL(a.href);
+}
+
+document.getElementById('sqlOverlay').addEventListener('click', closeSQL);
 
 // ─── Export ───────────────────────────────────────────────────────────────────
 function exportXML() {
