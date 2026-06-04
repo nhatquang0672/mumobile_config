@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>XML Config Editor</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; background: #f0f2f5; color: #1a1a2e; }
+
+    .toolbar { background: #16213e; color: #e2e8f0; padding: 10px 16px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; box-shadow: 0 2px 6px rgba(0,0,0,0.4); }
+    .toolbar h1 { font-size: 15px; font-weight: 700; letter-spacing: 0.5px; margin-right: 4px; }
+    .badge { background: #f59e0b; color: #1a1a2e; padding: 2px 8px; border-radius: 12px; font-size: 11px; font-weight: 700; }
+    button { padding: 6px 14px; border: none; border-radius: 5px; cursor: pointer; font-size: 12px; font-weight: 500; transition: opacity 0.15s; white-space: nowrap; }
+    button:hover:not(:disabled) { opacity: 0.82; }
+    button:disabled { opacity: 0.4; cursor: not-allowed; }
+    .btn-load   { background: #3b82f6; color: white; }
+    .btn-bulk   { background: #f59e0b; color: #1a1a2e; }
+    .btn-export { background: #10b981; color: white; }
+    .btn-reset  { background: #6b7280; color: white; }
+    .btn-sm     { padding: 3px 8px; font-size: 11px; }
+    .btn-edit   { background: #3b82f6; color: white; }
+    .btn-save   { background: #10b981; color: white; }
+    .btn-apply  { background: #ef4444; color: white; }
+    .btn-prev   { background: #f59e0b; color: #1a1a2e; }
+    .btn-cols   { background: #6366f1; color: white; }
+    .btn-clear  { background: #6b7280; color: white; }
+    input[type="file"] { display: none; }
+
+    .status-bar { background: #1e293b; color: #94a3b8; padding: 5px 16px; font-size: 11px; display: flex; gap: 16px; align-items: center; }
+    .status-bar .warn { color: #fbbf24; font-weight: 600; }
+    .status-bar .file { color: #60a5fa; }
+
+    .filter-bar { background: white; padding: 8px 16px; border-bottom: 1px solid #e2e8f0; display: flex; gap: 8px; align-items: center; flex-wrap: wrap; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
+    .filter-bar label { font-size: 11px; color: #64748b; font-weight: 500; white-space: nowrap; }
+    .filter-bar input, .filter-bar select { padding: 4px 8px; border: 1px solid #d1d5db; border-radius: 4px; font-size: 12px; height: 28px; }
+    .filter-bar input:focus, .filter-bar select:focus { outline: none; border-color: #3b82f6; }
+
+    .col-wrap { position: relative; margin-left: auto; }
+    .col-panel { position: absolute; right: 0; top: calc(100% + 4px); background: white; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.12); padding: 8px; min-width: 150px; max-height: 320px; overflow-y: auto; z-index: 100; display: none; }
+    .col-panel.open { display: block; }
+    .col-panel label { display: flex; align-items: center; gap: 6px; padding: 3px 4px; font-size: 12px; cursor: pointer; border-radius: 3px; white-space: nowrap; }
+    .col-panel label:hover { background: #f1f5f9; }
+    .col-panel .col-sep { font-size: 10px; font-weight: 700; color: #94a3b8; text-transform: uppercase; padding: 6px 4px 2px; letter-spacing: 0.5px; }
+
+    .bulk-panel { background: #fffbeb; border-bottom: 2px solid #f59e0b; padding: 10px 16px; display: none; }
+    .bulk-panel.open { display: block; }
+    .bulk-panel h3 { font-size: 11px; font-weight: 700; color: #92400e; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px; }
+    .bulk-row { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+    .bulk-row input, .bulk-row select { padding: 4px 8px; border: 1px solid #d1d5db; border-radius: 4px; font-size: 12px; height: 28px; }
+    .bulk-row label { font-size: 11px; color: #92400e; white-space: nowrap; }
+    .bulk-hint { font-size: 11px; color: #9ca3af; margin-top: 5px; }
+    #bulkPreview { margin-top: 8px; font-size: 11px; color: #374151; padding: 6px 10px; background: #fef3c7; border-radius: 4px; display: none; line-height: 1.8; }
+
+    .table-wrap { overflow: auto; height: calc(100vh - 228px); }
+    table { border-collapse: collapse; width: 100%; background: white; }
+    thead { position: sticky; top: 0; z-index: 10; }
+    th { background: #1e293b; color: #cbd5e1; padding: 7px 10px; text-align: left; white-space: nowrap; font-weight: 500; font-size: 11px; cursor: pointer; user-select: none; text-transform: uppercase; letter-spacing: 0.3px; border-right: 1px solid #334155; }
+    th:hover { background: #334155; }
+    th.active { color: #60a5fa; }
+    td { padding: 5px 10px; border-bottom: 1px solid #f1f5f9; white-space: nowrap; font-size: 12px; max-width: 200px; overflow: hidden; text-overflow: ellipsis; cursor: pointer; border-right: 1px solid #f8fafc; }
+    td.type-cell { color: #6366f1; font-weight: 600; font-size: 11px; }
+    td.parent-cell { color: #94a3b8; font-size: 11px; font-style: italic; }
+    tr:nth-child(even) td { background: #f8fafc; }
+    tr:hover td { background: #eff6ff !important; }
+    tr.modified td { background: #fffbeb !important; }
+    tr.modified td:first-child { border-left: 3px solid #f59e0b; padding-left: 7px; }
+    td.changed { background: #fef9c3 !important; font-weight: 600; }
+    td.actions-cell { cursor: default; }
+
+    .pager { background: white; border-top: 1px solid #e2e8f0; padding: 7px 16px; display: flex; align-items: center; gap: 10px; font-size: 12px; color: #64748b; }
+    .pager button { background: #f1f5f9; color: #374151; border: 1px solid #d1d5db; }
+    .pager button:hover:not(:disabled) { background: #e2e8f0; }
+    .page-info { color: #374151; font-weight: 500; }
+
+    .overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.55); z-index: 200; align-items: flex-start; justify-content: center; padding: 40px 16px; overflow-y: auto; }
+    .overlay.open { display: flex; }
+    .modal { background: white; border-radius: 10px; padding: 22px; width: 820px; max-width: 100%; box-shadow: 0 20px 60px rgba(0,0,0,0.3); }
+    .modal-hdr { display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px; }
+    .modal-hdr h2 { font-size: 14px; color: #1e293b; }
+    .modal-close { background: #f1f5f9; color: #374151; font-size: 18px; width: 28px; height: 28px; padding: 0; line-height: 1; text-align: center; border-radius: 50%; }
+    .modal-meta { background: #f8fafc; padding: 6px 10px; border-radius: 5px; font-size: 11px; color: #64748b; margin-bottom: 12px; }
+    .modal-meta b { color: #374151; }
+    .modal-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; max-height: 58vh; overflow-y: auto; padding-right: 4px; }
+    .fg { display: flex; flex-direction: column; gap: 2px; }
+    .fg label { font-size: 10px; color: #64748b; font-weight: 600; text-transform: uppercase; letter-spacing: 0.3px; }
+    .fg input { padding: 5px 8px; border: 1px solid #d1d5db; border-radius: 4px; font-size: 12px; }
+    .fg input:focus { outline: none; border-color: #3b82f6; }
+    .fg.changed input { border-color: #f59e0b; background: #fffbeb; }
+    .modal-ftr { margin-top: 14px; display: flex; gap: 8px; justify-content: flex-end; border-top: 1px solid #f1f5f9; padding-top: 14px; }
+
+    .empty { text-align: center; padding: 70px 20px; color: #94a3b8; }
+    .empty p { font-size: 14px; margin-top: 8px; }
+  </style>
+</head>
+<body>
+
+<div class="toolbar">
+  <h1>XML Config Editor</h1>
+  <button class="btn-load" onclick="document.getElementById('fileIn').click()">Load XML</button>
+  <input type="file" id="fileIn" accept=".xml" onchange="loadFile(event)">
+  <button class="btn-bulk" onclick="toggleBulk()">Bulk Edit</button>
+  <button class="btn-export" id="btnExport" onclick="exportXML()" disabled>Export XML</button>
+  <button class="btn-reset"  id="btnReset"  onclick="resetAll()"  disabled>Reset All</button>
+  <span id="modBadge" class="badge" style="display:none"></span>
+</div>
+
+<div class="status-bar">
+  <span id="stTotal">No file loaded</span>
+  <span id="stFile"  class="file"></span>
+  <span id="stFiltered"></span>
+  <span id="stMod"   class="warn"></span>
+</div>
+
+<div class="filter-bar">
+  <label>Search:</label>
+  <input id="fSearch" type="text" placeholder="Any field..." oninput="applyFilter()" style="width:180px">
+  <span id="typeFilterWrap" style="display:none;contents:display">
+    <label>Type:</label>
+    <select id="fType" onchange="applyFilter()" style="width:130px"></select>
+  </span>
+  <label>ID:</label>
+  <input id="fIdMin" type="number" placeholder="from" oninput="applyFilter()" style="width:80px">
+  <span style="color:#94a3b8">&#8211;</span>
+  <input id="fIdMax" type="number" placeholder="to"   oninput="applyFilter()" style="width:80px">
+  <label>Field:</label>
+  <select id="fField" onchange="applyFilter()" style="width:130px"><option value="">&#8212; any &#8212;</option></select>
+  <input id="fVal" type="text" placeholder="value..." oninput="applyFilter()" style="width:120px">
+  <button class="btn-sm btn-clear" onclick="clearFilter()">Clear</button>
+  <div class="col-wrap">
+    <button class="btn-sm btn-cols" onclick="toggleColPanel(event)">Columns &#9660;</button>
+    <div class="col-panel" id="colPanel"></div>
+  </div>
+</div>
+
+<div class="bulk-panel" id="bulkPanel">
+  <h3>Bulk Edit</h3>
+  <div class="bulk-row">
+    <label>Type:</label>
+    <select id="bType" style="width:130px"><option value="">all types</option></select>
+    <label>ID range:</label>
+    <input id="bIdMin" type="number" placeholder="from" style="width:80px">
+    <span style="color:#9ca3af">&#8211;</span>
+    <input id="bIdMax" type="number" placeholder="to" style="width:80px">
+    <label>Field:</label>
+    <select id="bField" style="width:140px"></select>
+    <label>=</label>
+    <input id="bFormula" type="text" placeholder='value or formula, e.g. ID + 1831' style="width:220px">
+    <button class="btn-sm btn-prev"  onclick="previewBulk()">Preview</button>
+    <button class="btn-sm btn-apply" onclick="applyBulk()">Apply</button>
+  </div>
+  <p class="bulk-hint">Formula supports: ID, +, -, *, /. Example: <code>ID + 1831</code> sets field = ItemID + 1831</p>
+  <div id="bulkPreview"></div>
+</div>
+
+<div class="table-wrap">
+  <div class="empty" id="emptyState"><p>Load an XML file to begin</p></div>
+  <table id="mainTable" style="display:none">
+    <thead id="tHead"></thead>
+    <tbody id="tBody"></tbody>
+  </table>
+</div>
+
+<div class="pager" id="pager" style="display:none">
+  <button onclick="changePage(-1)">&#8249; Prev</button>
+  <span class="page-info" id="pageInfo"></span>
+  <button onclick="changePage(1)">Next &#8250;</button>
+  <label>Per page:</label>
+  <select onchange="setPageSize(+this.value)">
+    <option value="50">50</option>
+    <option value="100">100</option>
+    <option value="200">200</option>
+    <option value="500">500</option>
+  </select>
+  <label style="margin-left:8px">Jump to:</label>
+  <input id="gotoIn" type="number" min="1" style="width:55px;padding:3px 6px;border:1px solid #d1d5db;border-radius:4px;font-size:12px">
+  <button class="btn-sm" onclick="gotoPage()">Go</button>
+</div>
+
+<div class="overlay" id="editOverlay">
+  <div class="modal" onclick="event.stopPropagation()">
+    <div class="modal-hdr">
+      <h2 id="modalTitle">Edit Element</h2>
+      <button class="modal-close" onclick="closeEdit()">&times;</button>
+    </div>
+    <div class="modal-meta" id="modalMeta"></div>
+    <div class="modal-grid" id="modalFields"></div>
+    <div class="modal-ftr">
+      <button class="btn-sm" onclick="closeEdit()">Cancel</button>
+      <button class="btn-sm btn-save" onclick="saveEdit()">Save Changes</button>
+    </div>
+  </div>
+</div>
+
+<script>
+'use strict';
+
+// ─── State ───────────────────────────────────────────────────────────────────
+let items        = [];   // {attrs, _orig, _type, _parent, _depth, _el, modified}
+let filtered     = [];
+let cols         = [];   // attribute names (no virtual _type/_parent)
+let visCols      = [];   // what's shown in table (may include '_type', '_parent')
+let allTypes     = [];   // unique element type names in current file
+let page         = 1;
+let pageSize     = 50;
+let sortKey      = 'ID';
+let sortAsc      = true;
+let editIdx      = null;
+let xmlDoc       = null;
+let fileName     = 'modified.xml';
+
+const VIRTUAL    = ['_type', '_parent'];
+const DEFAULT_COLS = ['ID', 'Title', 'Name', 'Categoriy', 'IconCode', 'ItemQuality', 'PriceOne'];
+
+// ─── Load ─────────────────────────────────────────────────────────────────────
+function loadFile(e) {
+  const f = e.target.files[0]; if (!f) return;
+  fileName = f.name;
+  const r  = new FileReader();
+  r.onload = ev => { try { parse(ev.target.result); } catch (err) { alert('Parse error: ' + err); } };
+  r.readAsText(f, 'UTF-8');
+  e.target.value = ''; // allow reloading same file
+}
+
+function parse(raw) {
+  items = []; cols = []; allTypes = [];
+  const text = raw.replace(/\r\n/g, '\n');
+
+  const parser = new DOMParser();
+  xmlDoc = parser.parseFromString(text, 'text/xml');
+
+  const parseErr = xmlDoc.querySelector('parsererror');
+  if (parseErr) { alert('XML parse error:\n' + parseErr.textContent.slice(0, 300)); return; }
+
+  // Walk every element, skip root
+  function walk(el, parentLabel, depth) {
+    for (const child of el.children) {
+      // Skip elements that have no attributes and no children with attributes
+      if (!child.hasAttributes() && !child.children.length) continue;
+
+      const attrs = {};
+      for (const a of child.attributes) attrs[a.name] = a.value;
+
+      items.push({
+        attrs,
+        _type:   child.tagName,
+        _parent: parentLabel,
+        _depth:  depth,
+        _orig:   Object.assign({}, attrs),
+        _el:     child,
+        modified: false,
+      });
+
+      if (child.children.length > 0) {
+        const id    = attrs.ID || attrs.Name || attrs.Title || '';
+        const label = child.tagName + (id ? `[${id}]` : '');
+        walk(child, label, depth + 1);
+      }
+    }
+  }
+
+  walk(xmlDoc.documentElement, xmlDoc.documentElement.tagName, 0);
+
+  if (!items.length) { alert('No elements with attributes found'); return; }
+
+  // Collect all attribute names (ordered by first appearance)
+  const colSet = new LinkedSet();
+  items.forEach(it => Object.keys(it.attrs).forEach(c => colSet.add(c)));
+  cols = colSet.values();
+
+  allTypes = [...new Set(items.map(i => i._type))].sort();
+  const isMulti = allTypes.length > 1;
+
+  // Default visible columns
+  visCols = DEFAULT_COLS.filter(c => cols.includes(c));
+  if (visCols.length < 2) visCols = cols.slice(0, 5);
+  if (isMulti) visCols = ['_type', '_parent', ...visCols];
+
+  buildTypeFilter(isMulti);
+  buildColPanel(isMulti);
+  populateSelects();
+
+  document.getElementById('btnExport').disabled = false;
+  document.getElementById('btnReset').disabled  = false;
+  document.getElementById('mainTable').style.display = '';
+  document.getElementById('emptyState').style.display = 'none';
+  document.getElementById('pager').style.display = '';
+  document.getElementById('stFile').textContent  = fileName;
+
+  applyFilter();
+}
+
+// Insertion-order set
+function LinkedSet() {
+  const map = new Map();
+  this.add = k => { if (!map.has(k)) map.set(k, true); };
+  this.values = () => [...map.keys()];
+}
+
+// ─── Get value (handles virtual cols) ────────────────────────────────────────
+function getVal(it, col) {
+  if (col === '_type')   return it._type;
+  if (col === '_parent') return it._parent || '';
+  return it.attrs[col] ?? '';
+}
+
+// ─── Type filter ──────────────────────────────────────────────────────────────
+function buildTypeFilter(isMulti) {
+  const wrap = document.getElementById('typeFilterWrap');
+  const sel  = document.getElementById('fType');
+  if (isMulti) {
+    sel.innerHTML = '<option value="">&#8212; all &#8212;</option>' +
+      allTypes.map(t => `<option value="${t}">${t}</option>`).join('');
+    wrap.style.display = 'contents';
+  } else {
+    wrap.style.display = 'none';
+  }
+}
+
+// ─── Column panel ─────────────────────────────────────────────────────────────
+function buildColPanel(isMulti) {
+  let html = '';
+  if (isMulti) {
+    html += '<div class="col-sep">Virtual</div>';
+    html += VIRTUAL.map(c => colCheck(c, c.slice(1))).join('');
+    html += '<div class="col-sep">Attributes</div>';
+  }
+  html += cols.map(c => colCheck(c, c)).join('');
+  document.getElementById('colPanel').innerHTML = html;
+}
+
+function colCheck(c, label) {
+  return `<label><input type="checkbox" ${visCols.includes(c)?'checked':''} onchange="toggleCol('${c}',this.checked)"> ${label}</label>`;
+}
+
+function toggleCol(c, on) {
+  if (on) { if (!visCols.includes(c)) visCols.push(c); }
+  else    { visCols = visCols.filter(x => x !== c); }
+  render();
+}
+
+function toggleColPanel(e) { e.stopPropagation(); document.getElementById('colPanel').classList.toggle('open'); }
+document.addEventListener('click', () => document.getElementById('colPanel')?.classList.remove('open'));
+
+// ─── Field selects ────────────────────────────────────────────────────────────
+function populateSelects() {
+  const allCols  = [...VIRTUAL, ...cols];
+  const attrOpts = cols.map(c => `<option value="${c}">${c}</option>`).join('');
+  const allOpts  = allCols.map(c => `<option value="${c}">${c.startsWith('_') ? c.slice(1) : c}</option>`).join('');
+
+  document.getElementById('fField').innerHTML =
+    '<option value="">&#8212; any &#8212;</option>' + allOpts;
+
+  // bType
+  document.getElementById('bType').innerHTML =
+    '<option value="">all types</option>' +
+    allTypes.map(t => `<option value="${t}">${t}</option>`).join('');
+
+  // bField — only real attributes
+  document.getElementById('bField').innerHTML = attrOpts;
+  const iconOpt = [...document.getElementById('bField').options].find(o => o.value === 'IconCode');
+  if (iconOpt) iconOpt.selected = true;
+}
+
+// ─── Filter ───────────────────────────────────────────────────────────────────
+function applyFilter() {
+  const search = document.getElementById('fSearch').value.trim().toLowerCase();
+  const typeF  = document.getElementById('fType').value;
+  const idMin  = +document.getElementById('fIdMin').value || null;
+  const idMax  = +document.getElementById('fIdMax').value || null;
+  const field  = document.getElementById('fField').value;
+  const fval   = document.getElementById('fVal').value.trim().toLowerCase();
+
+  filtered = items.filter(it => {
+    if (typeF && it._type !== typeF) return false;
+    const id = +it.attrs.ID;
+    if (idMin && id < idMin) return false;
+    if (idMax && id > idMax) return false;
+    if (field && fval && !getVal(it, field).toLowerCase().includes(fval)) return false;
+    if (search) {
+      const hay = it._type + '\0' + (it._parent || '') + '\0' +
+                  Object.values(it.attrs).join('\0');
+      if (!hay.toLowerCase().includes(search)) return false;
+    }
+    return true;
+  });
+
+  filtered.sort((a, b) => {
+    const av = getVal(a, sortKey), bv = getVal(b, sortKey);
+    const na = parseFloat(av), nb = parseFloat(bv);
+    const cmp = (!isNaN(na) && !isNaN(nb)) ? na - nb : av.localeCompare(bv);
+    return sortAsc ? cmp : -cmp;
+  });
+
+  page = 1; render(); updateStatus();
+}
+
+function clearFilter() {
+  ['fSearch','fIdMin','fIdMax','fVal'].forEach(id => { document.getElementById(id).value = ''; });
+  document.getElementById('fField').value = '';
+  document.getElementById('fType').value  = '';
+  applyFilter();
+}
+
+// ─── Render ───────────────────────────────────────────────────────────────────
+function render() {
+  const start = (page - 1) * pageSize;
+  const slice = filtered.slice(start, start + pageSize);
+
+  document.getElementById('tHead').innerHTML = '<tr>' +
+    visCols.map(c => {
+      const label = c.startsWith('_') ? c.slice(1) : c;
+      return `<th class="${sortKey===c?'active':''}" onclick="sortBy('${c}')">${label}${sortKey===c?(sortAsc?'&#8593;':'&#8595;'):''}</th>`;
+    }).join('') +
+    '<th style="width:52px;cursor:default">Edit</th></tr>';
+
+  document.getElementById('tBody').innerHTML = slice.map(it => {
+    const idx = items.indexOf(it);
+    const cells = visCols.map((c, ci) => {
+      const v   = esc(getVal(it, c));
+      const chg = !c.startsWith('_') && it.modified && it.attrs[c] !== it._orig[c];
+      let cls   = chg ? 'changed' : '';
+      if (c === '_type')   cls += ' type-cell';
+      if (c === '_parent') cls += ' parent-cell';
+      // Indent first visible cell for nested depth
+      const style = ci === 0 && it._depth > 0 ? ` style="padding-left:${it._depth * 14 + 10}px"` : '';
+      return `<td class="${cls.trim()}"${style} title="${v}">${v}</td>`;
+    }).join('');
+    return `<tr class="${it.modified?'modified':''}" ondblclick="openEdit(${idx})">
+      ${cells}
+      <td class="actions-cell"><button class="btn-sm btn-edit" onclick="openEdit(${idx})">Edit</button></td>
+    </tr>`;
+  }).join('');
+
+  const totalPages = Math.ceil(filtered.length / pageSize) || 1;
+  document.getElementById('pageInfo').textContent =
+    `Page ${page} / ${totalPages} — ${filtered.length} items`;
+}
+
+function sortBy(c) { if (sortKey===c) sortAsc=!sortAsc; else { sortKey=c; sortAsc=true; } applyFilter(); }
+function changePage(d) { const t=Math.ceil(filtered.length/pageSize)||1; page=Math.max(1,Math.min(t,page+d)); render(); }
+function setPageSize(n) { pageSize=n; page=1; render(); }
+function gotoPage() { const p=+document.getElementById('gotoIn').value; if(p){ const t=Math.ceil(filtered.length/pageSize)||1; page=Math.max(1,Math.min(t,p)); render(); } }
+
+// ─── Single edit ──────────────────────────────────────────────────────────────
+function openEdit(idx) {
+  editIdx = idx;
+  const it = items[idx];
+  document.getElementById('modalTitle').textContent =
+    `<${it._type}>${it.attrs.ID ? '  ID = ' + it.attrs.ID : ''}`;
+  document.getElementById('modalMeta').innerHTML =
+    `Type: <b>${it._type}</b>${it._parent ? '&nbsp;&nbsp;|&nbsp;&nbsp;Parent: <b>' + esc(it._parent) + '</b>' : ''}`;
+
+  document.getElementById('modalFields').innerHTML = cols.map(c => {
+    const v   = esc(it.attrs[c] ?? '');
+    const chg = it.modified && it.attrs[c] !== it._orig[c];
+    return `<div class="fg ${chg?'changed':''}">
+      <label>${c}</label>
+      <input id="mf_${CSS.escape(c)}" value="${v}" title="${c}">
+    </div>`;
+  }).join('');
+
+  document.getElementById('editOverlay').classList.add('open');
+}
+
+function closeEdit() {
+  document.getElementById('editOverlay').classList.remove('open');
+  editIdx = null;
+}
+
+function saveEdit() {
+  if (editIdx === null) return;
+  const it = items[editIdx];
+  cols.forEach(c => {
+    const el = document.getElementById('mf_' + CSS.escape(c));
+    if (el) {
+      it.attrs[c] = el.value;
+      it._el.setAttribute(c, el.value);
+    }
+  });
+  it.modified = cols.some(c => it.attrs[c] !== it._orig[c]);
+  closeEdit(); applyFilter(); updateStatus();
+}
+
+document.getElementById('editOverlay').addEventListener('click', closeEdit);
+
+// ─── Bulk edit ────────────────────────────────────────────────────────────────
+function toggleBulk() { document.getElementById('bulkPanel').classList.toggle('open'); }
+
+function evalFormula(formula, attrs) {
+  const id   = +(attrs.ID ?? 0);
+  const expr = formula.trim().replace(/\bID\b/g, id);
+  if (/^[\d\s+\-*/().]+$/.test(expr)) {
+    try { return String(Math.trunc(Function('"use strict";return(' + expr + ')')())); }
+    catch (_) { /* fall through */ }
+  }
+  return formula.trim();
+}
+
+function getBulkItems() {
+  const typeF = document.getElementById('bType').value;
+  const min   = +document.getElementById('bIdMin').value || null;
+  const max   = +document.getElementById('bIdMax').value || null;
+  return items.filter(it => {
+    if (typeF && it._type !== typeF) return false;
+    const id = +(it.attrs.ID ?? NaN);
+    return (!min || id >= min) && (!max || id <= max);
+  });
+}
+
+function previewBulk() {
+  const field   = document.getElementById('bField').value;
+  const formula = document.getElementById('bFormula').value;
+  if (!field || !formula) { alert('Set field and value/formula'); return; }
+  const matches = getBulkItems();
+  const prev    = document.getElementById('bulkPreview');
+  if (!matches.length) {
+    prev.innerHTML = '<span style="color:#ef4444">No items match</span>';
+    prev.style.display = 'block'; return;
+  }
+  const rows = matches.slice(0, 10).map(it =>
+    `[${it._type}] ID=${it.attrs.ID ?? '?'}: <b>${esc(it.attrs[field] ?? '')}</b> &#8594; <b style="color:#059669">${evalFormula(formula, it.attrs)}</b>`
+  ).join('<br>');
+  prev.innerHTML = `<b>Preview — ${matches.length} item(s):</b><br>${rows}${matches.length > 10 ? '<br>&#8230;' : ''}`;
+  prev.style.display = 'block';
+}
+
+function applyBulk() {
+  const field   = document.getElementById('bField').value;
+  const formula = document.getElementById('bFormula').value;
+  if (!field || !formula) { alert('Set field and value/formula'); return; }
+  const matches = getBulkItems();
+  if (!matches.length) { alert('No items match'); return; }
+  if (!confirm(`Apply "${field} = ${formula}" to ${matches.length} item(s)?`)) return;
+  matches.forEach(it => {
+    it.attrs[field] = evalFormula(formula, it.attrs);
+    it._el.setAttribute(field, it.attrs[field]);
+    it.modified = cols.some(c => it.attrs[c] !== it._orig[c]);
+  });
+  const prev = document.getElementById('bulkPreview');
+  prev.innerHTML = `<b style="color:#059669">&#10003; Applied to ${matches.length} item(s)</b>`;
+  prev.style.display = 'block';
+  applyFilter(); updateStatus();
+}
+
+// ─── Reset ────────────────────────────────────────────────────────────────────
+function resetAll() {
+  if (!confirm('Revert ALL changes to original values?')) return;
+  items.forEach(it => {
+    it.attrs    = Object.assign({}, it._orig);
+    it.modified = false;
+    Object.entries(it._orig).forEach(([k, v]) => it._el.setAttribute(k, v));
+    // Remove any attrs that weren't in original
+    [...it._el.attributes].forEach(a => { if (!(a.name in it._orig)) it._el.removeAttribute(a.name); });
+  });
+  applyFilter(); updateStatus();
+}
+
+// ─── Export ───────────────────────────────────────────────────────────────────
+function exportXML() {
+  // xmlDoc is already mutated via _el.setAttribute calls
+  const xml = '<?xml version="1.0" encoding="utf-8"?>\n' + serializeEl(xmlDoc.documentElement, '');
+  const blob = new Blob([xml], { type: 'text/xml;charset=utf-8' });
+  const a    = document.createElement('a');
+  a.href     = URL.createObjectURL(blob);
+  a.download = 'modified_' + fileName;
+  a.click();
+  URL.revokeObjectURL(a.href);
+}
+
+function serializeEl(el, indent) {
+  const tag      = el.tagName;
+  const attrs    = [...el.attributes].map(a => `${a.name}="${escXML(a.value)}"`).join(' ');
+  const attrStr  = attrs ? ' ' + attrs : '';
+  const children = [...el.childNodes].filter(n => n.nodeType === 1 || n.nodeType === 8);
+
+  if (!children.length) {
+    // Preserve text content (e.g. <Tag>value</Tag> style)
+    const txt = el.textContent.trim();
+    if (txt) return `${indent}<${tag}${attrStr}>${escXML(txt)}</${tag}>\n`;
+    return `${indent}<${tag}${attrStr} />\n`;
+  }
+
+  const inner = children.map(n => {
+    if (n.nodeType === 8) return `${indent}  <!--${n.textContent}-->\n`; // comment
+    return serializeEl(n, indent + '  ');
+  }).join('');
+  return `${indent}<${tag}${attrStr}>\n${inner}${indent}</${tag}>\n`;
+}
+
+// ─── Status ───────────────────────────────────────────────────────────────────
+function updateStatus() {
+  const mod = items.filter(i => i.modified).length;
+  document.getElementById('stTotal').textContent = `Total: ${items.length} items`;
+  document.getElementById('stFiltered').textContent =
+    filtered.length !== items.length ? `Filtered: ${filtered.length}` : '';
+  document.getElementById('stMod').textContent = mod ? `${mod} modified` : '';
+  const badge = document.getElementById('modBadge');
+  badge.textContent   = mod ? `${mod} changes` : '';
+  badge.style.display = mod ? '' : 'none';
+}
+
+// ─── Escape helpers ───────────────────────────────────────────────────────────
+function esc(s) {
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function escXML(s) {
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+</script>
+</body>
+</html>
